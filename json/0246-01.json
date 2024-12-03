@@ -1,0 +1,128 @@
+{
+  "id": 8504935,
+  "name": "BUTLER v. GOOD ENOUGH MIN. CO.; WEBSTER v. GOOD ENOUGH MIN. CO.",
+  "name_abbreviation": "Butler v. Good Enough Min. Co.",
+  "decision_date": "1901-10-14",
+  "docket_number": "Nos. 452, 453",
+  "first_page": "246",
+  "last_page": "254",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 246"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 321",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Cush. 420",
+      "category": "reporters:state",
+      "reporter": "Cush.",
+      "case_ids": [
+        1986171
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/58/0420-01"
+      ]
+    },
+    {
+      "cite": "119 Mass. 179",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        737078
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/119/0179-01"
+      ]
+    },
+    {
+      "cite": "32 Mo. App. 189",
+      "category": "reporters:state",
+      "reporter": "Mo. App.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 327",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "130 U. S. 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3537191
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/130/0291-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 321",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 720,
+    "char_count": 16920,
+    "ocr_confidence": 0.641,
+    "pagerank": {
+      "raw": 6.380125665320789e-08,
+      "percentile": 0.3917635738608699
+    },
+    "sha256": "02809ba3e546c034227452c0190f0021d6fdc268f5ac83dd8371193bd1db8c24",
+    "simhash": "1:3c07f9cb79dcf6c2",
+    "word_count": 2980
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BUTLER v. GOOD ENOUGH MIN. CO. WEBSTER v. GOOD ENOUGH MIN. CO."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe first point urged against Marple\u2019s location is that his notice is insufficient because it does not contain such reference to natural objects or permanent monuments as to certainly identify the claim. Section 2324 of the revised statutes [U. S. Comp. St. 1901, p. 1426] lays down this mandatory requirement in relation to marking and the notice:\n\u201cThe location must be distinctly marked on the ground so that its boundaries can be readily traced. All records of mining-claims hereafter made shall contain the name or names of the locators, the date of the location, and such a description of the claim or claims located, by reference to some natural object or permanent monument, as will identify the claim.\u201d\nIt is claimed on the part of the defendant that Marple\u2019s notice of location and his staking did not comply with these provisions, and are therefore insufficient to base a valid location upon.\nIt must be conceded that the notice is not a model one, yet it is in nearly the same form as that first made by Martin. It does contain the name of the locator, the date of the location, and attempts to describe the claim. If it does so with sufficient accuracy, it is sufficient to form a basis for the miner\u2019s title.\nThis court will take judicial notice of those general methods and rules of locating and marking mines upon the public \u25a0domain in Alaska that are so widespread and well known and fixed in- the mining system as to be familiar to all miners and in all the mining districts. Of these familiar and general rules, one is that the first discovery is generally called^ and \"known as the \u201cdiscovery\u201d claim, and that, when the same is within a gulch or on a stream, the claims are marked or numbered from discovery claim up or down the gulch or stream.\nAnother is that claims are frequently numbered or marked by reference to one which is so definitely established as to be used by all the miners along the same course as the initial claim, and is so used by other locators as a permanent monument. These matters are so widely known to miners and accepted by them, and are so commonly used and depended upon in making locations, that, if the court failed to recognize them and follow them, it would disorganize the entire mining system in this territory, and render titles void and insecure which have been acquired in good faith in full reliance upon this system. So well known and fixed are these methods of locating mining claims that it may be fairly said that on placer mining gulches and streams there exists a well recognized and established system of surveys having the discovery or first claim as the base line. To destroy that system by refusing to recognize it as a permanent monument, when in fact it is used as such, would be a calamity. In all proper cases this court will feel bound to so recognize such system, and support claims fairly described in accordance therewith.\nThe description in question is based upon that system of locating and describing the boundaries of mines. It is-described as claim \u201cnumber three located on stream known as Lulu creek (a tributary of Iron creek) in the Golden Gate mining district, territory of Alaska, and particularly described as follows: Beginning at initial stake, at east end of claim No. 2; thence\u201d following a plain line of permanent stakes around the premises to the point of beginning. It is apparent from this tie to the initial stake on the east end of No. 2 that the claim was a part of a general system of locating claims on Lulu creek, either above \u201cdiscovery\u201d or No. i. The initial stake is situated on the east end of claim No. 2, and there is no evidence to show that claim No. 2 is-not a well-known natural object or permanent monument. There is no evidence to inform the court that the system beginning with \u201cdiscovery\u201d or No. 1 is not such a well-known system of surveys and locations that the mine in question cannot be easily and certainly located thereby. Nor is there any evidence to show that, with the notice before him, a miner could not, by beginning at the initial stake at the east end of No. 2, readily trace the boundaries from stake to stake along the courses from the point of beginning back to that point. Martin, who came upon the ground 31 days later than the senior locator, seems to have been able to find all of Marple\u2019s stakes, for he set his own side by side with them.'\nIn the leading cases decided by the Supreme Court of the United States, Judge Field has laid down this broad rule r\n\u201cTliese provisions, as appears on their face, are designed to secure a definite description \u2014 one so plain that the claim can he readily ascertained. A reference to some natural object or permanent monument is named for that purpose. Of course, the section means, when such reference can he made. Mining lode claims are frequently found where there are no permanent monuments or natural objects other than rocks or neighboring hills. Stakes driven into the-ground are in such cases the most certain means of identification. Such stakes were placed here, with a description of the premises by metes; and, to comply with the requirements of the statute as fal-as possible, the location of the lode is also indicated by stating its distance south of \u2018Vaughan\u2019s Little Jennie Mine,\u2019 probably the best known and most easily defined object in the vicinity. We agree with the court below that the Little Jennie mine will be presumed to be a well-known natural object or permanent monument, until the contrary appears, where a location is described as in this notice, and is further described \u2018as being 1,500 feet south from a well known quartz location, and there is nothing in the evidence to contradict such a description, distance, and direction.\u2019 Hammer v. Garfield Min. Co., 130 U. S. 291, 9 Sup. Ct. 548, 32 L. Ed. 964.\u201d\nA careful comparison of the notice of location contained in the reported decision of Hammer v. Garfield Min. Co. with that given by Marple discloses no difference, except that Marple ties his boundary directly to the east end of claim No. 2, instead of \u201cabout 1,500 feet south of Vaughan\u2019s Ifit-tle Jennie mine.\u201d It is more certain and definite, and under the rule laid down by the Supreme Court it is sufficient. The staking is also a sufficient marking of the boundaries, and the original location of Marple valid and effectual to reserve the property as & mine.\nThe conclusions reached as to the Marple notice of location are applicable to that by Cooper. His notice contains the name of the locator, the date of the location, and the \u2022claim is described -as \u201cnumber four (4) on Lulu creek, tributary of Iron creek.\u201d The finding is that he set his stakes, .and that they were sufficient to mark the boundaries of the claim so that they could be readily traced. His stakes and his location, according to the well-recognized system by' numbering above the base line, are sufficient, and his notice \u2022of location and marking of boundaries is sustained.\nIt is also urged with much force that Marple\u2019s location became void and the ground open for relocation on August 3d, through the failure of Marple to record his notice within 30 days. The rule adopted prior to June 6, 1900, by the miners in the Golden Gate mining district provided:\n\u201cAll locators must file for record notices of location on or before 30 days from the. date of location. Failure to comply with this rule forfeits all rights to the claims located and such claims are open for relocation.\u201d\nTwenty-seven days before Marple made his' location, however, the Alaska Code came into effect. Section 15 of the Political Code (Act June 6, 1900, c. 786, 31 Stat. 327) contains this provision:\n\u201cNotices of location of mining claims shall he filed for record within ninety days from the date of the discovery of the claim described in the notice, and all instruments shall he recorded in the recording district in which the property or subject-matter affected by the instrument is situated, and, where the property or subject-matter is not situated in any established recording district, the instrument affecting the same shall be recorded in the office of the-clerk of the division of the court having'supervision over the recording division in which the property or subject-matter is situated.\u201d\nSection 16 of the Political Code reiterates the general provisions of law that the miners in district meeting cannot enact and enforce a rule in conflict with the laws of the United States, and the provision in section 15, providing that the-notices of location shall be filed for record within 90 days,, if in conflict with the miners\u2019 rules depended on by the defendants, must be held to repeal it. \u201cWithin ninety days\u201dmeans that it shall be done \u201cnot beyond ninety days\u201d from the date of discovery. Chicago Ry. Co. v. Eubanks, 32 Mo. App. 189; 29 Am. & Eng. Ency. of Law, p. 521; Young v. The Orpheus, 119 Mass. 179; Adams v. Cummiskey, 4 Cush. 420. And a compliance with the act at any time before the last day has expired is within the .statute. It is answered by the defendants that while it is true that Congress has given 90 days within which to do the recording, yet a miners\u2019 rule may limit the time; it may shorten the period, though it cannot extend it beyond the 90 days. It is a sound principle of equity and good conscience that forfeitures are deemed odious, and courts will not resolve a doubt, either of law or fact, in favor of a forfeiture of property rights once fully and fairly vested. The intention of the law to forfeit the estate must be so clear as to leave the court no' room for other action, before it will enter the decree. Equity often interferes to relieve against forfeitures, but never to divest estates by enforcing them.\nBut I think a fair construction of the act of June 6, 1900,, \u2022c. 786 (31 Stat. 321), places this class of cases upon even a firmer basis. This act was in effect when Marple made his location, and it gave him the' right to file his notice for record at any time within 90 days, or, as was said, he might file it safely at any time \u201cnot beyond\u201d 90 days from his date of discovery. The provision in the act of June 6th is in direct conflict with the Golden Gate miners\u2019 rule. It is upon the same subject-matter, and is the expression of the; supreme legislative will. There are no exceptions, reservations, or saving clauses in the act. It is quite clear to my mind, too, that the provision giving 90 days within which, to record such notices is reasonable and necessary in this country of great distances, bad trails, and rigorous climate, and that .any miners\u2019 rule or regulation, even if permissible under any canon of construction, would be unreasonable and destructive \u25a0of the very right which the act of Congress sought to protect, and would for that reason, if for none other, be void and of no effect.\nIt follows that this court is of the opinion that the original location of Marple was valid, that the record of his notice within 90 days in the Kougarok recording district was a compliance with the act of June 6th, and that the location of his claim by Martin on August 3d was an invasion of his rights, void, and of no effect. This conclusion disposes of all the locations in both suits, and a decree may be entered for the plaintiffs, quieting their titles against the claims of the defendants.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "O. P. Hubbard and T. J. Geary, for plaintiffs.",
+      "Thompson, Murane & Thompson, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "BUTLER v. GOOD ENOUGH MIN. CO. WEBSTER v. GOOD ENOUGH MIN. CO.\n(Second Division. Nome.\nOctober 14, 1901.)\nNos. 452, 453.\n1. Mutes and Minerals \u2014 Customs\u2014Judicial Notice.\nCourts will take judicial notice of those general methods which are common to all districts of locating and designating mines by serial number above and below a common base known as \u201cdiscovery\u201d or \u201cNo. 1.\u201d\n2. Same \u2014 Stakes\u2014Monuments.\nWhere a mining claim is located by number above or below \u201cdiscovery\u201d or \u201cNo. 1,\u201d the court will presume, in the absence of proof to the contrary, that the adjoining claims of the system of which the one in question is part and described by serial number are well-known natural objects or permanent monuments.\n8. Same \u2014 Notice of Location \u2014 Recording.\nAfter June 6, 1900, the date of the approval of the Alaska Code, a miner had \u201cninety days within\u201d which to record his notice of location. This meant that he might safely record at any time \u201cnot beyond ninety days\u201d from discovery and staking.\n4. Same \u2014 Miners\u2019 Rules.\nSince the passage of the act of June 6, 1900, c. 786 (31 Stat. 321), a miners\u2019 rule, regulation, or custom cannot limit the time within which a miner may file his notice of location to less than 90 days.\n5. Same \u2014 Forfeitures.\nIt is a sound principle of equity and good conscience that forfeitures are odious in the law, and courts will not resolve a doubt, either of law or fact, in favor of a forfeiture of property rights.\nThese causes are submitted together upon a stipulation that the decision in one case shall control in the other. The findings of fact in the first case have now been made by the court, and submitted to the attorneys for the respective parties, and have been examined and agreed to by each as a true statement of the facts in the case. Only such reference will, therefore, be made to the facts in this opinion as is necessary to explain the court\u2019s application of the law.\nThe facts necessary to state are: That on July 3, 1900, one H. E. Marple discovered gold upon, and staked and located, a placer mining claim called by him No. 3, on Lulu creek, a tributary of Iron creek, in the Golden Gate mining district, near Nome, Alaska. That he set stakes at the corners thereof, as described in the following notice of location. That upon the initial stake he posted the following location notice:\n\u201cNotice of Placer Location.\n\u201cI, H. M. Marple, the undersigned, a citizen of the United States, having complied with the statutes of the United States and the local regulations of the Golden Gate mining district, do hereby give notice that I have this day located and do claim twenty acres of placer mining ground for placer mining purposes; said claim shall be known as number three located on stream known as Lulu creek (a tributary of Iron creek), in the Golden Gate mining district, territory of Alaska, and particularly described as follows: Beginning at initial stake at east end of claim No. 2; thence running 330 feet in a northerly direction to corner stake No. 1; thence 1320 feet in an easterly direction to stake No. 2; thence 660 feet in a southerly direction to stake No. 3; thence 1320 feet in a westerly direction to stake no 4; thence 330 feet in a northerly direction to initial stake or place of beginning.\n\u201cLocated this 3rd day of July, 1900, by H. M. Marple.\n\u201cWitness: H. Webster.\n\u201c[10 c. U. S. Rev. stamp affixed and canceled.]\u201d\nThe agreed findings of fact contain this finding in relation to Marple\u2019s stakes: \u201cThat the stakes were sufficient to mark the location of the claim.\u201d On July 27, 1900, Marple offered to file his notice of location with the clerk of the district court at Nome. At that time the Golden Gate mining district was yet in existence under its organization by the miners prior to June 6, 1900. The clerk refused to receive or record his location, and informed him that he had 90 days, under the recently enacted Alaska Code, to record the notice. He did not record it, nor offer it for record with the recorder of the Golden Gate mining district, but waited until the court had created the Port Clarence and Kougarok commissioners\u2019 districts and appointed recorders therein. On the 24th day of August, 1900, he recorded the notice in the Port Clarence commissioner\u2019s district with the recorder appointed by the court. Having doubt about the boundaries of the commissioners\u2019 districts, the notice was again recorded on the 28th of September, 1900, in the Kougarok district, which last district seems to have actually embraced the old Golden Gate mining district and the mining ground in question.\nOn August 3, 1900, one W. B. Martin also entered upon the same ground, discovered gold, set similar stakes by the side of those of Marple, and, on a similar initial stake, posted a similar notice of location to that posted on July 3d by Marple. He also described his claim as No. 3 on Lulu creek, a tributary of Iron creek, and gave the same courses and distances. Martin filed his notice with the recorder of the Golden Gate mining district on August 3d, and the same was duly recorded in the records of that district. Martin after-wards sold his claims to the defendant, the Good Enough Mining Company, which on August 7th filed and recorded an amended notice of location, giving a more particular description of the location by reference to natural objects. The claims of Marple were Conveyed to the plaintiff, who, being in possession, brought this suit to quiet his title to the claim.\nO. P. Hubbard and T. J. Geary, for plaintiffs.\nThompson, Murane & Thompson, for defendants."
+  },
+  "file_name": "0246-01",
+  "first_page_order": 270,
+  "last_page_order": 278
+}

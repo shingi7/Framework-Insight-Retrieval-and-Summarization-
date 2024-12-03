@@ -1,0 +1,166 @@
+{
+  "id": 8504842,
+  "name": "PRICE v. BROCKWAY",
+  "name_abbreviation": "Price v. Brockway",
+  "decision_date": "1901-10",
+  "docket_number": "No. 1,132",
+  "first_page": "233",
+  "last_page": "238",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 233"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "39 L. Ed. 1046",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1220442
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/158/0441-01"
+      ]
+    },
+    {
+      "cite": "15 Sup. Ct. 863",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1250809,
+        1220442
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0400-01",
+        "/us/158/0441-01"
+      ]
+    },
+    {
+      "cite": "158 U. S. 447",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Wall. 418",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        1134218
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/80/0418-01"
+      ]
+    },
+    {
+      "cite": "26 Stat. 1100",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 L. Ed. 163",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1239493
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0281-01"
+      ]
+    },
+    {
+      "cite": "175 U. S. 281",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1239493,
+        1250823
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0281-01",
+        "/alaska-fed/1/0574-01"
+      ]
+    },
+    {
+      "cite": "23 Stat. 26",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "81 Fed. 137",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        1250801,
+        3841637
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0445-01",
+        "/f/81/0137-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 546,
+    "char_count": 10678,
+    "ocr_confidence": 0.617,
+    "pagerank": {
+      "raw": 4.7492960360752035e-08,
+      "percentile": 0.29871606414119123
+    },
+    "sha256": "d8f6c701fd5c534db3dc438612afe44a2f6c18ae8eef23f04411e6accdf59914",
+    "simhash": "1:e3ecad429f68f74a",
+    "word_count": 1873
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PRICE v. BROCKWAY."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nIt is clear from these facts that the defendant, Mrs. Broclcway, had no right or interest in the 'cabin, and no right whatsoever to take and occupy the same over the objection of the owner thereof, Mr. Price. Indeed, no contention is made on behalf of Mrs. Brockway that she had a right to the cabin, the only contention of counsel for the defendant being practically this: that a suit in ejectment cannot be maintained under the facts and circumstances of this case, and that the plaintiff has mistaken his remedy, if he has a remedy.\nIn this connection it may be said that the contention of plaintiff\u2019s attorney is sustained by many authorities. However, the court of last resort for Alaska having passed upon the question at issue here, this court is bound by that decision. In the case of Carroll v. Price (D. C.) 81 Fed. 137 (decided by my learned predecessor, Judge Delaney), it is held:\n\u201cThe possessory right in and to government lands, when once acquired, may he conveyed from one person to another, and instruments in writing making such conveyances are admissible in evidence, and may be considered * * * as tending to establish possession.\u201d\nThe court in that case said:\n\u201cWhile the paramount title to all lands in Alaska is in the United-States, Congress and the general government have recognized for a great many years the right of the American citizen to go onto public lands, occupy, possess, use, and improve the same, with the view of ultimately obtaining title thereto from the general government, whenever the same shall be opened to purchase; and in this district this right is expressly recognized by Congress in the first proviso of section 8 of the act of Hay 17, 1884 [23 Stat. 26, c. 53], providing a civil government for Alaska.\u201d\nAmong other instructions requested and given by the court in that case, I find the following:\n\u201cThis is an action in what is known as ejectment. The plaintiff, to recover in this action, must do so upon the strength of his own title, and not upon the weakness of the defendants\u2019 title.\u201d\nIt will be seen, therefore, that in the case referred to practically the same propositions presented in this case arose, to wit, the propositions, so earnestly contended for on behalf of defendant\u2019s counsel, that this is an action for ejectment, and that ejectment cannot be maintained for mere possessory right.\nIt is clear that this court, in the case referred to, held that an action in ejectment can be maintained under circumstances precisely the same as those involved in this case.\nIn the case of Malony v. Adsit, 175 U. S. 281, 20 Sup. Ct. 115, 44 L. Ed. 163, on appeal to the Supreme Court of the United States, Mr. Justice Shiras, speaking for the court, in discussing the same proposition involved here, says:\n\u201cIn the condition of things in Alaska under the act of May, 1884, providing a civil government for Alaska, and under the twelfth section of the act of March 3, 1891 (26 Stat. 1100 [U. S. Comp. St. 1901, p. 1467]), the only titles that could be held were those arising by reason of possession and continued possession, which might ultimately ripen into a fee-simple title under letters patent issued to-such prior claimant, when Congress might so provide by extending the general land laws or otherwise\u201d\n\u25a0 \u2014 Citing Davenport v. Lamb, 13 Wall. 418, 20 L. Ed. 655.\nAgain, this learned justice, quoting Mr. Justice Brewer in Bennett v. Harkrader, 158 U. S. 447, 15 Sup. Ct. 863, 39 L. Ed. 1046, says:\n\u201cWhere the complaint alleges that the plaintiff is entitled to the possession of certain described property, which is unlawfully detained by the defendant, and the possession of which the plaintiff prays to recover, a general verdict for the plaintiff is a finding that he is entitled to the possession of all the property described in the complaint. Again, in this action, brought under a special statute of the United States, in support of an adverse claim, but one estate is involved in the controversy. No title in fee is or can be established. That remains in the United States, and the only question presented is the priority of right to purchase the fee. Hence the inapplicability of a statute regulating generally actions for the recovery of real estate, in which actions different kinds of title may be sufficient to sustain the right of recovery. It would be purely surplusage to find in terms a priority of the right to purchase, when that is the only question that can be litigated in such statutory actions.\u201d\nJudge Shiras says:\n\u201cThis principle applies more strongly to the present case, in which the real nature of the plaintiff\u2019s estate in the property is truly alleged as ownership by right of prior occupancy and actual possession, and was so found to be by the trial court.\n\u201cThe same view of the nature of a title to a lot in a town site in Alaska, under these acts of Congress, was expressed by the District Court of the United States for the District of Alaska in the case of Carroll v. Price [D. C.] 81 Fed. 137. As, then, the only kind of estate that could be held was that of possession, it was sufficient for the plaintiff to allege that his was of that nature.\u201d\nIt will be seen that the Supreme Court of the United States quotes the case of Carroll v. Price approvingly, and settles, as it seems to me, the question so earnestly contended for by counsel for the defendant adversely to his claim.\nIt has always been held that a person who takes possession of any portion of the public domain may, as long as he continues to possess such tract, hold it against all persons whomsoever, except the United States, where the paramount title to the land is vested. This right of possession, as a legal right, is created and maintained by certain acts on the part of the person asserting it, and it is a legal right that can be maintained by this form of action.\nThe questions that frequently arise out of such cases present matters of uncertainty as to whether the possession has been actual and continuous, or whether said right of possession was a mere pretense. If a man goes out upon the public domain and causes to be surveyed a town site, laying out streets, lots, and blocks, and duly and properly numbering the same, he does not, by that act alone, acquire rights of possession, nor any right that would give him .control of the land so surveyed, or any part, thereof. If, in addition to the survey, application is properly and lawfully made to the United States for a grant of the land by letters patent, and all the proceedings are regular in that behalf, showing a bona fide purpose to acquire the title from the United States, and a man goes and settles upon a lot under such circumstances, claiming the same, and putting improvements .thereon, such as a cabin, etc., he would thereby evidence his purpose to acquire a title ultimately to said land, when a patent should be regularly granted by the United States; and he might, perhaps, under such circumstances, acquire such title of possession as to enable him to maintain this suit. Or,, if he marked the boundaries of his lot by substantial posts set in the ground at the corners, or fenced a lot of ground' upon the public domain, and thereby reduced it to possession,, and kept the fences or other evidence of description in repair, so that his possession remains continuous, he might maintain his right of possession of the ground so inclosed as against all save and except the United States, and might, if his possession were disturbed by another, bring suit in \u25a0ejectment to recover the same.\nIt is contended by the defendant in this case that the land was not fenced, and it further appears by her own testimony that she has placed no fence of her own upon the lot; that the only fence now there is one which was erected by an adjoining lot owner upon the line between this and another lot. There is no inclosure now. The defendant has occupied the cabin that does not belong to her, but does belong to the plaintiff. Whatever improvements there may be upon the lot belong to the plaintiff. The defendant\u2019s possession is in no respect different from that of the plaintiff -during the time that he and his grantors occupied the property. The \u25a0defendant has simply gone onto this property, dispossessed him, and maintained the possession of the cabin unlawfully.\nThe court will therefore order judgment for the plaintiff in this case. Judgment accordingly.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "J. G. Price, in propria persona.",
+      "I. N. Wilcoxen, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "PRICE v. BROCKWAY.\n(First Division. Skagway.\nOctober, 1901.)\nNo. 1,132.\n1. Ejectment \u2014 Public Land \u2014 Town Site.\nOne wlio erects a cabin upon a town lot in Alaska, and acquires tbe undisputed possession and occupancy thereof, may maintain ejectment against another, who ousts him of posses- \u25a0 sion by going into his cabin and claiming possession thereby.\n2. Public Lands \u2014 Town Site \u2014 Inpeovements\u2014Possession.\nOne who lays out a town site into lots, blocks, streets, and alleys acquires no rights thereby. Such lots can be held only by one in the actual use, occupation, or possession thereof, and such use, occupation, and possession may be evidenced by stakes, fencing, buildings, residence, and other improvements showing the fact.\nWithout referring in detail to the evidence in this case, the court is of the opinion that the evidence as a whole shows substantially the following facts:\nThat lot No.-in block-in the town of Skag-way, the property in question, had been occupied by Mr. Price\u2019s grantors for a year, or perhaps more, prior to the time Mrs. Brockway attempted to take possession of the same; that a cabin had been erected on the lot; that some timber had been cut and placed around the lot as a fence, to indicate the boundaries of the same; that the fence, though poorly constructed, and hardly worthy the name of a fence, was evidently sufficient to show the boundaries of the claim made to the lot, and to maintain in part the plaintiff\u2019s right \u2022of possession; that the cabin, though not a large structure, nor of palatial proportions, was sufficient in itself to enable a person to live therein; and that at the time the defendant went upon the lot this cabin was there, and some evidence of the fence.\nIt is not claimed by Mrs. Broclcway that she owned the cabin, or that she constructed the same; the most claimed by her being that she had made some repairs upon the cabin in the way of putting in a door and window, and cleaning the same out so as to make it habitable. She claims that after this was done her son went into the cabin, and was in possession at the time this suit was brought, and holding the possession of the same for the benefit of the defendant.\nJ. G. Price, in propria persona.\nI. N. Wilcoxen, for defendant."
+  },
+  "file_name": "0233-01",
+  "first_page_order": 257,
+  "last_page_order": 262
+}

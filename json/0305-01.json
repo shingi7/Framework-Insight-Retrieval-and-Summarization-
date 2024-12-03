@@ -1,0 +1,103 @@
+{
+  "id": 8505093,
+  "name": "YAGER et al. v. RING",
+  "name_abbreviation": "Yager v. Ring",
+  "decision_date": "1901-11-23",
+  "docket_number": "No. 329",
+  "first_page": "305",
+  "last_page": "308",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 305"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "15 Pac. 326",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 Or. 345",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        8661564
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/15/0345-01"
+      ]
+    },
+    {
+      "cite": "14 Morr. Min. R. 412",
+      "category": "reporters:specialty",
+      "reporter": "Morr. Min. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Pa. 398",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        413692
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/22/0398-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 320,
+    "char_count": 5676,
+    "ocr_confidence": 0.713,
+    "pagerank": {
+      "raw": 5.087745454324087e-08,
+      "percentile": 0.3203101802460298
+    },
+    "sha256": "91de8f4e8418726cc71bd9cec070e28eeb86953099746801be6462dc469f957f",
+    "simhash": "1:8723381d62801ff6",
+    "word_count": 993
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "YAGER et al. v. RING."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThis suit is brought by the plaintiffs to recover from the defendant the sum of $6o,-ooo damages for an alleged trespass in forcibly entering upon placer mining claim No. 7 on Gold Run, and extracting and appropriating gold dust therefrom of that value, belonging to plaintiffs. It is alleged in the complaint that Yager located the claim on or about July i, 1900, complied with the law in the matter of staking and recording, and \u201cafter the location of said placer claim\u201d by Yager conveyed certain interests therein to the other plaintiffs, no date being given. It is alleged that after these conveyances \u201cthe defendant, Herman A. Ring, unlawfully entered upon the above-described placer mining claim without the consent of said owners thereof, or any of them, and did trespass upon the said placer mining claim, and did unlawfully extract therefrom and from the limits thereof gold dust of the value of sixty thousand ($60,000) dollars, which said gold dust the defendant, Herman A. Ring, has appropriated to his own use and benefit.\u201d Judgment for $60,000 is asked against Ring, with costs. The complaint was filed in this court April 13, 1901, and the cause is No. 329. The defendant, Ring, answered by a special plea in abatement, alleging the pendency of another suit between the same parties for the same cause o-f action, being No. 287, now undetermined in this court. Plaintiff filed a reply of general denial. Upon hearing, the defendant in this action offered the complaint, answer, and reply in No.. 287, and no further testimony was offered by either party.\nThe sole question to be determined from the proofs so offered is whether No. 287 in this court is another action pending between the same parties for the same cause of action.\n. The complaint-in No. 287 was filed in this court on February 16, 1901. The parties are Herman A. Ring, plaintiff, and Charles C. Yager, James A. Ryan, H. M. Carpenter, William T: Hume, B.'O. Williams, Gordon Hall, and A. U. Halstead, defendants. No. 287 is an ejectment suit by Ring to recover possession of No. 7 on Gold Run, together with damages in the sum of $25,000 from the defendants for withholding the same from him. The answer in No. 287 is general for all the defendants named in the action. It first denies the material allegations of the complaint, and then sets up six separate defenses. The first four may be massed in one allegation that the defendant Yager located, marked, and recorded No. 7 on Gold Run prior to the time when Ring claims to have done so. The sixth is a plea of res judicata, while the fifth sets out a new cause of action for damages against Ring in favor of the defendants. This fifth separate answer alleges that \u201cwhile the said defendant was in the quiet, peaceful, and lawful possession and occupation of said placer mining claim described in this answer and in tlxe use and occupation thereof, and on or about the-day of August, 1900,\u201d the plaintiff Ring, together with Kron-quist and Nelson, forcibly took possession thereof, and \u201cdid extract large quantities of gold therefrom, and embezzle, steal, and convert the same to their own use,\u201d etc., \u201cto the damage of the defendants in the sum of forty thousand dollars.\u201d\nFrom the pleadings in the two causes it is clear that the principal ground of contention between the parties is placer claim No. 7 on Gold Run, claimed by Ring, as well as by Yager and his grantees. The first suit, No. 287, by Ring, is to recover it, together with $25,000 damages for withholding it. The answer in that cause asks judgment, and the complaint in No. 329 also asks judgment for $60,000 for extracting gold from the same claim. In No. 287 Ring is the sole plaintiff. He is sole defendant in No. 329. In No. 287, Yager, Ryan, Hall, and Halstead are defendants, as are also Carpenter, Hume, and Williams. It is nowhere shown, however, that these three have any special interest or ownership in No. 7 in cause No. 287, while in No. 329 it is affirmatively shown that only Yager, Ryan, Hall, and Halstead have such interest. Upon a fair construction of the pleadings it appears that the real parties in interest in both cases are Ring on the one side, and Yager, Ryan, Hall, and Halstead on the other.\nBoth suits are between the same real parties in interest, and for substantially the same cause of action, to wit, damages for extracting and appropriating the gold dust from claim No. 7 on Gold Run. The first case (No. 287) is ejectment; the second (No. 329) for damages in trespass. It is a question whether a suit for damages in trespass will lie while the title is in contest between the same parties in ejectment. Shoenberger v. Baker, 22 Pa. 398; 14 Morr. Min. R. 412.\nThe further proceedings in this cause must be governed by the rule applied by the Supreme Court of Oregon in a similar case. There must be a stay of proceedings in this suit until the ejectment suit is decided; or, upon motion of counsel for plaintiff in this action, the two may be consolidated, and tried as an ejectment suit. Crane v. Larsen, 15 Or. 345, 15 Pac. 326.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "W. T. Humes and Jackson, Pittman & Fink, for plaintiffs.",
+      "Keller & Fuller, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "YAGER et al. v. RING.\n(Second Division. Nome.\nNovember 23, 1901.)\nNo. 329.\n1. Ejectment \u2014 Abatement\u2014Trespass.\nWhere the defendants in a suit in ejectment bring a subsequent suit against the plaintiff in the ejectment suit for damages for trespass upon the same property,' the suit in trespass will be stayed until that in ejectment is tried, or the two may be consolidated and tried as an ejectment suit.\nPlea in Abatement. Another action pending for the same cause. Plea allowed; suit stayed.\nW. T. Humes and Jackson, Pittman & Fink, for plaintiffs.\nKeller & Fuller, for defendant."
+  },
+  "file_name": "0305-01",
+  "first_page_order": 329,
+  "last_page_order": 332
+}

@@ -1,0 +1,127 @@
+{
+  "id": 8505512,
+  "name": "EVERTON v. SMITH",
+  "name_abbreviation": "Everton v. Smith",
+  "decision_date": "1902-01",
+  "docket_number": "No. 615",
+  "first_page": "422",
+  "last_page": "426",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 422"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "33 Pac. 1012",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 483",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 443",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "41 Pac. 895",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Neb. 474",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        5380325
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/neb/7/0474-01"
+      ]
+    },
+    {
+      "cite": "41 Pac. 395",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Or. 439",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 487",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 489",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 430,
+    "char_count": 9383,
+    "ocr_confidence": 0.668,
+    "pagerank": {
+      "raw": 1.0471189698489555e-07,
+      "percentile": 0.5524609735934412
+    },
+    "sha256": "27c11dbbe4f1b1fe295f2b02d016b1c19217f7c41649b31474346cea488cdd2d",
+    "simhash": "1:ebd3eda9322425c3",
+    "word_count": 1687
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "EVERTON v. SMITH."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThis is an appeal from the justice\u2019s court in Nome precinct. The plaintiff there began a suit and had personal service upon the defendant on November 29, 1901. The summons commanded the defendant to appear before the justice of the peace at his office in Nome on the 4th day of December, 1901, at the hour of 2 o\u2019clock in the afternoon of said day, and answer the complaint of the plaintiff. The summons further commanded him: \u201cAnd unless you appear thereto and defend as herein you are required, judgment will be rendered accordingly.\u201d In pursuance to this notice the defendant appeared in the justice\u2019s court on the 3d day of December, and filed an answer and counterclaim in waiting. On the 4th day of December, however, the defendant failed to appear at the trial. At the hour of 2 o\u2019clock the plaintiff was present, and waited until the hour of 3 o\u2019clock, giving the defendant the hour fixed in section 1012 (Act June 6, 1900, c. 786, 31 Stat. 489) within which to make his appearance. After the expiration of the time the justice heard the plaintiff\u2019s testimony, and gave judgment accordingly. On the following day the defendant appeared by his attorney, and moved the justice to reopen the judgment granted the day before. Upon the hearing of this motion it was, on the 13th day of December, denied, whereupon, and on the 19th day of December, the defendant appealed from the judgment entered by the justice on the 5th day of December. The notice of appeal is defective in this: that it appeals from a judgment rendered on the 5th day of December, while the record shows that the first judgment was entered on the 4th day of December, and the judgment denying the motion to reopen, while made and argued on the 5th, was not decided until the 13th. It is not clear to the court whether the appeal is from the judgment entered for the plaintiff on the 4th or the proceedings begun to reopen it on the 5th. . Both matters are argued in the brief.\nSection 995 (Act June 6, 1900, c. 786, 31 Stat. 487) provides :\n\u201cEither party may appeal from a judgment given in the justice\u2019s court, in a civil action, when the sum in controversy is not less .than $50, or for the recovery of personal property of the value of not less than $50, inclusive of the costs in either case, except when the same is given by confession or for want of' an answer, as prescribed in this chapter, and not otherwise.\u201d\nThe respondent now urges, upon a motion to dismiss the appeal, that by reason of the defendant\u2019s failure to appear within the hour, and give evidence upon the merits of the case, his answer, although on file, was virtually abandoned, and that judgment went by default against him for want of an answer. It seems to be well settled that an appeal will not lie from a default judgment against the defendant granted in the justice\u2019s court. The defendant, however, urges that the mere presence of his answer was sufficient to save him from default, and that the rule does not apply. In the case of Long v. Sharp, 5 Or. 439, however, a very similar question was decided by that court. An answer was filed in that case, but was stricken out by the justice, and, the defendant declining to further answer or appear, judgment was rendered against him as for want of an answer, and the court held that such judgment, upon the question of the defendant\u2019s right to appeal, will be considered as a \u201cjudgment for want of an answer,\u201d and not appealable. The court held that the remedy in that case was by writ of review. In the case of State v. Superior Court (Wash.) 41 Pac. 395, a somewhat similar question was decided by the Supreme Court of Washington. The case of Clendenning v. Crawford, from Nebraska, is quoted in the Washington case as follows:\n\u201cIt seems clearly to be tlie legislative intent that actions in justices\u2019 courts must he tried upon the merits of both the claim of the one party and the defense of the other before an appeal shall be taken to the district court, and this rule seems to be reasonable and just, for, where the law establishes the court in which a party shall bring his action, the adverse party should not be allowed to disregard the process of such court, and then select the forum of his choice in which the ease shall be first tried upon the merits of the case. If such a practice were permitted, it would defeat the main object for which the justices\u2019 courts were established, namely, the trial gnd disposal of causes or controversies with the least possible expense to the parties, where the amount involved does not exceed one hundred dollars.\u201d Clendenning v. Crawford, 7 Neb. 474. State v. Superior Court (Wash.) 41 Pac. 895.\nOur Code has established justices\u2019 courts for the trial of all civil actions for the recovery of money or personal property involving less than $1,000. Section 702, Carter\u2019s Code (Act June 6, 1900, c. 786, 31 Stat. 443). Formal pleas are not required in that court, and it is only required of the defendant that he shall, \u201cbefore the trial is commenced, file the instrument, account, or statement of his set-off or counterclaim relied upon.\u201d Section 962, Carter\u2019s Code (Act June 6, 1900, c. 786, 31 Stat. 483).\nThis section does not require the defendant to file a formal answer; it expressly excuses him from so doing; but it does require that he file his proofs, and that he did not do in this case. His answer will not be permitted to take the place of the proofs imperatively required by statute. To give the answer of the defendant the force and effect that he now desires would be to degrade, if not destroy, the jurisdiction of the justices\u2019 courts. The failure of the defendant to appear at the time fixed in the summons, or within the hour given by section 1012 of the Code, was such a default upon his part as would justify the justice in hearing the evidence of the plaintiff upon his claim, and rendering judgment as he did. The defendant was in default for want of appearance and evidence, and, by his refusal and neglect to attend at the'time fixed by law, must be deemed to have abandoned his formal pleading, which would leave him without an answer. It will not do to say that, by the mere filing of the paper in the justice\u2019s court no judgment could be taken against him upon his nonappearance within the time limited by law. This court will not permit a defendant to file an answer in the justice\u2019s court, and then refuse to try his case in that court, and bring it to this court to try it for the first time upon the merits. It must be tried in the court provided by law for that purpose.\nThe court is unable to determine from the notice of appeal just which of the orders of the justice\u2019s court is appealed from, whether the judgment of the plaintiff of December 4th or the judgment rendered on the' motion to reopen, which motion was filed on December 5th and not decided until the 13th. The court has, however, determined the case as if the appeal was from the final judgment made on the 4th. If counsel seeks to procure a review of the error complained of upon the motion to reopen, it must be done under chapter 55 upon a writ of review, and not upon an appeal.The appellant has made no showing to justify this court in opening the default or judgment. There is no affidavit of merits. There is nothing to show the court that defendant has any excuse for his failure cr refusal to be present at the hearing fixed in the summons, and the court has no means of knowing whether, if the case was now heard upon the merits, the defendant would not again refuse to attend and give evidence. The court is justified in assuming, under such conditions, that the appellant has no excuse to offer for his failure to be present before the justice, but stands upon his bare right to have his case heard on the merits for the first time in this court. He has no such right under the law. He does not bring himself within the rule laid down in the case of Schwabe v. Lissner (Mont.) 33 Pac. 1012, even if that case can be considered applicable. The party in default there made a showing by filing affidavits as required by the statute to set aside the default, but no such showing was made here. The defendant stands upon his absolute right to a new trial. He does not concede that the lower court had any discretion in the matter. He has no such absolute right under the ride laid down in the Montana case.\nThe appeal will be denied. Judgment may be entered in conformity with the statute, and at the cost of the appellant. Respondent will prepare the judgment.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Francis McNulty, for plaintiff, respondent.",
+      "Bruner & McB.ride, for defendant, appellant."
+    ],
+    "corrections": "",
+    "head_matter": "EVERTON v. SMITH.\n(Second Division. Nome.\nJanuary Term, 1902.)\nNo. 615.\n1. Justice of the Peace \u2014 Appeal\u2014Default\u2014Judgment.\nThe defendant filed a formal answer in the justice\u2019s court, but did not appear or offer any evidence on the day of trial. Upon the testimony of plaintiff, and in the absence of the defendant, the justice rendered judgment for plaintiff. Defendant appealed, and upon a motion to dismiss the appeal in the District Court it was held that defendant\u2019s unexplained failure to appear at the trial was an abandonment of his answer, and that judgment was properly rendered against him, and that he had no absolute right of appeal to and trial in the District Court. Appeal dismissed.\nMotion to dismiss appeal from justice\u2019s court.\nFrancis McNulty, for plaintiff, respondent.\nBruner & McB.ride, for defendant, appellant."
+  },
+  "file_name": "0422-01",
+  "first_page_order": 446,
+  "last_page_order": 450
+}

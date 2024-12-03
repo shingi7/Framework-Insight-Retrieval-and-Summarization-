@@ -1,0 +1,108 @@
+{
+  "id": 8505720,
+  "name": "BINSWANGER et al. v. HENNINGER et al.",
+  "name_abbreviation": "Binswanger v. Henninger",
+  "decision_date": "1902-03-15",
+  "docket_number": "No. 409",
+  "first_page": "509",
+  "last_page": "516",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 509"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 501",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "2 Pac. 919",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "52 Cal. 263",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1937097
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/52/0263-01"
+      ]
+    },
+    {
+      "cite": "104 Fed. 178",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6720558
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/104/0178-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 646,
+    "char_count": 13994,
+    "ocr_confidence": 0.634,
+    "pagerank": {
+      "raw": 4.231167872616971e-08,
+      "percentile": 0.2686645051506864
+    },
+    "sha256": "9d9bd880d831d7ac5aa592bbbecf092409dabfa7403fe44bcf1043964ecbbcf2",
+    "simhash": "1:36c2e03aac8ca481",
+    "word_count": 2368
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BINSWANGER et al. v. HENNINGER et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nA mining claim is real property. By the provisions of section 62, Civ. Code, p. 367, Carter (a re-enactment of the Oregon Code in force at the time of the agreement in question), joint tenancy is abolished, and all persons having an undivided interest in real property are to be deemed and considered tenants in common. The parties to the agreement of April 26,1898, if at all interested in the Anny claim, were co-tenants, and not mining partners. Sections 788 and 796, 2 Findley on Mines. Real property descends directly to the heir upon the death of the ancestor '\u2018subject to his debts.\u201d Section 168, Civ. Code, p. 384, Carter. The heir obtains title by descent, and not through the process of the probate court. His title vests immediately upon the death of the ancestor, and the only jurisdiction through probate lies to enforce the lien of the ancestor\u2019s debts against the real property. If there are no debts, the heir becomes vested at once with a complete title. Lohmann v. Helmer (C. C.) 104 Fed. 178. If the ancestor was a co-tenant, the heir stands in his place. Speer\u2019s sale of an undivided half interest was valid, and Marcy became, a co-tenant in the mine. A tenant in common may maintain an action for the recovery of a mining claim without joining his co-tenant. Morenhaut v. Wilson, 52 Cal. 263; Weise v. Barker (Colo. Sup.) 2 Pac. 919. As to the right of the plaintiffs, as co-tenants, to enjoin the defendants from extracting and converting the gold to their exclusive use, Lindley says:\n\u201cIt may be generally conceded, particularly in the precious metal bearing states where the reformed procedure has been adopted, that Where a co-tenant in possession, who either works in so unskillful a manner as to amount to destructive waste, or, being in possession under an unequivocal hostile assertion of exclusive title, seeks to appropriate the entire product to his own use, an injunction will lie at the instigation of the injured co-tenant. The remedy at law by an action of trespass or trover for rents and profits, or one sounding in damages only, might he wholly inadequate.\u201d 2 Lindley, \u00a7 790.\nThe demurrer will be overruled.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      },
+      {
+        "text": "On the Merits.\nThis is an action by the plaintiffs, as partners with Samuel Henninger, one of the defendants, to recover their alleged partnership interests in a mining claim located by the defendant, and described in the complaint. It appears that the defendant Henninger, together with Binswanger and others of the plaintiffs, entered into a written agreement of partnership on the 26th day of April, 1898, for the purpose of-prospecting for mines, both placer and quartz, in Alaska, from that date until the 1st day of October, 1899. The complaint sets out the contract, and alleges that it was recorded on the 4th day of October, 1900, in the commissioner\u2019s office in Nome; that, in pursuance of the contract, the parties all came to Alaska, and engaged in the business described in their articles of copartnership; that on July 7, 1899, the defendant Henninger located the mine in question in his own name; that he remained in possession of it until about July 5, 1901, when he sold the same to the other defendants in this action, except the Alaska Banking & Safe Deposit Company, in whose hands the deed from Henninger to the other defendants was placed in escrow. The plaintiffs allege their interest in the property under their articles of copartnership, and the insolvency of the defendants, and then ask for a judgment that they be decreed to be the owners of the interests to which they would be entitled in their articles of copartnership.-\nThe defendants, answering, admit the making of the articles of copartnership set out in the complaint, and as a defense thereto allege that, prior to the time when Henninger located the mine in controversy, he and his other partners had a full and complete settlement of all their partnership affairs, and had divided their partnership property; that they had dissolved their partnership agreement, and that said agreement had no further binding force or effect upon either of-the parties thereto. The reply is a denial of all the material allegations of the answer.\nAn application was made by the defendants for a continuance, and the affidavit filed in support thereof alleged that Henninger and Collins, two of the partners, were without the District of Alaska, and sets out that, if they were present, they would testify to the facts alleged in the answer, to wit, to the dissolution and settlement of all partnership affairs prior to the location by Henninger on July 7, 1899. Rather than permit a continuance in the case, the plaintiffs admitted that those two partners would so testify if present, and the court denied the continuance, upon the agreement that the affidavit should stand as their evidence in the case. Upon the trial, Binswanger and Coburn, two of- the partners, testified and denied positively that there was any such settlement or dissolution of the partnership property in question. The testimony of Collins and Henninger, taken in the matter of the estate of Albert Speer and A. J. Lawrence, two of the partners, who were drowned off the Alaskan coast, was introduced in evidence by consent. The articles of copartnership in this case are particularly against the defendants. The first clause, after naming the parties, continues: \u201cAgree to and do hereby become partners in the business of prospecting for mines, both placer and quartz, in Alaska, from this date until the first day of October, 1899/'' The next clause in relation to this particular branch of inquiry reads as follows:\n\u201cNo member of this co-partnership can withdraw prior to the 1st day of October, 1899, and in the event either of the partners hereto should desire to sell his interest in said co-partnership, he shall give to the remaining partners, or whichever of the partners shall desire, the preference right to purchase his interest in said copartnership for the period of thirty days after notice has been given by him of his intention to withdraw and of his desire to sell his interest therein.\u201d\nThe agreement provides in detail for the death of members, and the manner of conducting the business in case of the death or retiring of any member, as provided in the section last quoted, and then the next'clause reads:\n\u201cThe copartnership hereby formed shall terminate on the 1st day of October, 1899, unless the copartnership is by the consent of all the parties hereto, then surviving, continued beyond the last-named date.\u201d\nIt then goes on to provide a method for continuing the \u25a0 partnership from year to year after the said 1st day of October, 1899. A method is provided for settling all their difficulties' and limiting the right of any partner to sign obligations 'without the consent of a majority. The agreement provides that:\n\u201cAll mining claims, whether placer or quartz, and all properties or property acquired in Alaska by either of the parties hereto, during the continuance of this contract, shall be and become the property of said copartnership; and all claims or other property located or acquired by either of the parties hereto, during the life of this contract, or any period of time which the same may be extended, shall be located and acquired in the name of all the members of the said copartnership,\u201d etc.; \u201cand in the event either of the parties hereto should acquire in his own name any such mining claims, the same are nevertheless to be and become the property of said copartnership; and such member shall, upon request so to do, duly transfer and convey the legal title thereto to said copartnership. Each member of this copartnership has an equal interest therein, and in the profits and property thereof, and shall' bear equally all the expenses thereof.\u201d\n\u2019 This contract is set up by Henninger\u2019s partners as che basis of their right to share with him in the location of the mining claim made prior to October i, 1899. It seems to the court to put the burden of' proof upon Henninger. He must convince the court, by a preponderance of the evidence, that the copartnership is dissolved, as alleged by him, for he admits the making and signing of the articles of copartnership. I am satisfied, from all the evidence in the case, that he has failed to do that. The plaintiffs made a prima facie case by alleging and proving the articles of copartnership and the location of the mine within the life of the agreement. Two of the partners, as witnesses, testified that the' agreement was dissolved; two other partners, as witnesses, deny the dissolution. I am satisfied, from all the evidence and from Hen-ninger\u2019s management of their boat and other property, and the fact that he sold the schooner and kept the proceeds, and that they held certain meetings at which he was present, that there was no agreed dissolution of this copartnership prior to the location of the claim by Henninger. It is probably true that there were dissensions among the partners, and I am inclined to believe that these difficulties arose very largely from Henninger\u2019s management, which evidently was not satisfactory to his copartners, for they afterwards removed him before the end of the copartnership.\nMy conclusion from the evidence in the case is that the co-partnership was not dissolved at the time Henninger made his location; that his location was made for the benefit of all\"; and that they are entitled to their share, as shown by the contract.\nIt is alleged that the other defendants who purchased their rights from Henninger are in possession, and threatening to extract the substance of the estate, in violation of the rights of the plaintiff partners, and an injunction is asked restraining them from' so doing, oh the ground of their insolvency. A decree may be entered in favor of the plaintiffs, and an injunction will be issued against the defendants working the claim, except in accordance with the opinion of the court, as co-tenants with the plaintiffs and as successors to the Hen-ninger interests.",
+        "type": "on-the-merits",
+        "author": null
+      }
+    ],
+    "attorneys": [
+      "P. J. Coston, for plaintiffs.",
+      "James E. Fenton and C. S. Hannum, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "BINSWANGER et al. v. HENNINGER et al.\n(Second Division. Nome.\nMarch 15, 1902.)\nNo. 409.\n1. Mines and Minerals \u2014 Tenancy in Common.\nA mining claim is real property. By section 62 of the CiviT Code of Alaska (Act June 6, 1900, c. 786, 31 Stat. 501) joint tenancy is abolished, and all persons having undivided interests in. real property, including mines, are tenants in common.\n2. Descent and Distribution \u2014 Estates.\nReal property descends directly to the heir upon the death of the ancestor, \u201csubject to his debts.\u201d The only jurisdiction of the probate court lies to enforce the lien of the ancestor's debts-against the real property. If there are no debts, the heir becomes vested at once with the title of the ancestor.\n3. Mines and Minerals \u2014 Injunction\u2014Tenancy in Common.\nOne tenant in common may maintain an action for the recovr ery of a mining claim without joining his co-tenants as parties.One co-tenant may enjoin another from waste or from appropriating the entire proceeds of the mine.\n4. Contracts \u2014 Partnership.\nWhere several parties sign a mutual contract to locate and! work mines in Alaska between two specified dates, one of the-parties who locates a mine in his own name and interest between the dates mentioned has the burden of proof to show that the contract had been mutually rescinded prior to his location!\nOn the 26th day of April, 1898, at Seattle, King county, Wash*., Albert Speer, Adolph Binswanger, A. J. Lawrence,. Samuel Henninger, Charles Coburn, and O. T. Collins made, signed, and acknowledged an agreement of copartnership, as-they called it, whereby they agreed to jointly locate and work mines in Alaska until October 1, 1899, and that all mines located by either party during that period in Alaska should become the property of the copartnership. On or about July 7,. 1899, one of these parties, Samuel Henninger, located the Anny placer mine, near Nome, in his own name, and in violation of the alleged rights of his copartners, and on July 5, 1901, he sold it to the defendants Carter, Boland, Mason, and Pearse, and placed the deed in escrow with the Alaska Banking & Safe Deposit Company as trustee.\nIt further appears that about September 25, 1899, A. J. Lawrence and Albert Speer, two of the partners, died; that prior to his death Speer sold a one undivided half interest in all of his Alaska mining interests to plaintiff Cassie S. Marcy. This suit is now brought by Binswanger and Coburn, two of the original partners, with W. N. Lawrence, Alden M. Lawrence, Elizabeth R. Stansberry, n\u00e9e Lawrence, Bede M. Lawrence, and M. S. Lawrence, as the heirs at law of A. J. Lawrence, deceased, and one of the copartners, and Cassie S. Marcy, representing a one-half interest in Albert Speer\u2019s share, against Samuel Henninger, a partner,'and his grantees, to determine and declare the title of the plaintiffs in the Anny mine, and to enjoin the delivery of the deed from Plenninger to his grantees. All of the original parties to the agreement of April 26, 1898, are made parties, or are represented, except Olaf T. Collins and an undivided one-half interest held by Albert Speer.\nTo the amended complaint alleging these facts a demurrer is filed upon the grounds: (1) That the heirs of A. J. Lawrence, merely as such, and without proper probate proceedings, cannot maintain the suit as plaintiffs; (2) that it can only be maintained, so far as the Lawrence interest is concerned, by his personal representatives, an administrator or executor; (3) that there is a defect of parties plaintiff, owing to the absence of the personal representatives of Albert Speer; and (4) that the complaint does not state facts sufficient to constitute a cause of action against the defendants. No objection is urged in the demurrer to the fact that Collins is neither a plaintiff nor a defendant, nor his interest put in litigation.\nP. J. Coston, for plaintiffs.\nJames E. Fenton and C. S. Hannum, for defendants."
+  },
+  "file_name": "0509-01",
+  "first_page_order": 533,
+  "last_page_order": 540
+}

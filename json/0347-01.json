@@ -1,0 +1,110 @@
+{
+  "id": 8505274,
+  "name": "KIMBALL v. MILLER et al.",
+  "name_abbreviation": "Kimball v. Miller",
+  "decision_date": "1901-12-07",
+  "docket_number": "No. 119",
+  "first_page": "347",
+  "last_page": "352",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 347"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 383",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Stat. 342",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Stat. 345",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "57 N. Y. 151",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        5139711
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/57/0151-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 383",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 342",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 482,
+    "char_count": 10325,
+    "ocr_confidence": 0.648,
+    "pagerank": {
+      "raw": 6.09760534012616e-08,
+      "percentile": 0.3806111862120147
+    },
+    "sha256": "53ef24205278b360bb50e867c05b0bc1b9e5ccd407b4ea7080250b954c5de151",
+    "simhash": "1:8ae2ec457be0b4f2",
+    "word_count": 1765
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "KIMBALL v. MILLER et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe principal argument upon the motion for a new trial is based upon the fourth ground that the court erred in permitting the plaintiff to offer or introduce any evidence of the rental value of the premises-in controversy, for the reason that the damages claimed in plaintiff\u2019s complaint is not separately stated as a distinct cause of action.\nIt is admitted by counsel for the motion that the complaint states a cause of action, and no objection is raised to-the jurisdiction of the court. But the whole argument is-based upon the fact that, while the complaint is sufficient to support the verdict for the recovery of possession, it is not sufficient to support the verdict for damages. There is no separate statement of these two alleged causes of action. They are both intermixed in one cause. It is the opinion of the court that the allegations thus intermixed are sufficient, if repeated and separately stated in the same words,, to constitute two separate causes \u2014 one for the recovery of possession, and the other for the recovery of the damages for withholding the property.\nTo the complaint, however, the defendants interposed neither demurrer nor answer upon these points. All objections, then, to the complaint, are waived under section 62 of the Code of Civil Procedure (Act June 6, 1900, c. 786, 31 Stat. 342), and objection to the introduction of evidence for want of a proper segregation and separate statement of the facts cannot now avail the defendants. See sections 57-62, 96, Code Civ. Proc.\nAs the question, however, is important for the reason that most of our actions are to recover real property, with damages for withholding, it may as well be said that in the judgment of the court this complaint is in proper form. Our statutory action to recover real property is very different from the old common-law action of ejectment. Probably no more correct or logical statement of its character can be made than that found in Pomeroy\u2019s Code Remedies in these words:\n\u201cAgain, let the plaintiff\u2019s primary right he the ownership and. right of possession of a certain tract of land, and let the facts from which it arises be properly alleged. Let the delict consist in the defendant\u2019s wrongful taking and retaining possession and use of such land for a specified period of time, and let the facts showing this wrong be properly averred in the same pleading. Evidently the plaintiff! will have stated one single and very simple cause of action. The remedial rights arising therefrom and the remedies themselves corresponding thereto will be threefold, and all of them legal, namely. <1) The right to be restored to possession, with the actual relief of restored possession; (2) the right to obtain compensation in damages for the wrongful withholding of the land, and the actual relief of pecuniary damages; and (3) the right to recover the rents and profits received by the defendant during the period of his possession, with the relief of an actual pecuniary sum in satisfaction thereof. Here, also, the single nature of the one cause of action plainly' appears, and its evident distinction from the various remedial rights and actual remedies which do or may arise from it.\u201d Pomeroy\u2019s Code Keni-\u25a0edies (3d Ed.) \u00a7 454, p. 514.\nThe author adds this footnote:\n\u201cThe fact that the codes generally seem to treat these different claims for relief as distinct causes of action does not affect the correctness of my analysis. They are plainly no more than separate reliefs or remedies based upon the same facts which constitute a single cause of action. See Larned v. Hudson, 57 N. Y. 151 which is based entirely upon the language of the statute.\u201d\nSection 301 of our Code (Act June 6, 1900, c. 786, 31 Stat. 383) provides that \u201cany person who has a legal estate in real property, and a present right to the possession thereof, may recover such possession, with damages for withholding the same, by an action.\u201d This last clause means \u201cin the same action.\u201d It will be noticed that this section only provides for two remedies to flow from this cause of action: (1) the recovery of the possession of the property, and (2) the recovery of damages for withholding the same. It makes no provision for the recovery of rents and profits received by the defendant while the plaintiff is out of possession, and it may be that, if it is sought to recover these in the same action, it must be in a separate cause.\nWhat are damages for withholding possession, and upon \u2022what measure are they to be fixed by the jury ? In the first place, it seems a limitation upon the recovery in the same action with the possession, and in the second they will embrace only such as necessarily flow from withholding possession. Special damages to the property by cutting trees or removing crops, or collecting rents or other profits, do not seem to be included, but clearly excluded. And upon what better, more reasonable, or proper basis could such damages be measured than the actual worth of the property to the plaintiff during the term of his ouster; in short, its rental value? No other mode of measuring such damages had been suggested by counsel, and the court is inclined to adhere to its original view on that question.\nIt must be admitted, \u25a0 of course, that plaintiff might state a good cause of action for the recovery of such damage for withholding, even though he was no longer entitled to recover the possession. Suppose the plaintiff were ousted, and brought no suit until his right to possession expired, and then brought suit for the damages only. In such case his action would not be based upon the provisions of section 301, Act June 6, 1900, c. 786 (31 Stat. 383) for the recovery of the possession of real property, but upon altogether a different cause.\nCounsel also maintains that section 84 (31 Stat. 345) supports his contention. It provides that:\n\u201cThe plaintiff may unite several causes of action in the same complaint when they all arise out of * * * Fifth: Claims to recover real property, with or without damages for the withholding thereof. * * * But the causes of action so united must all belong to one only of these classes, and must affect all the parties to the action and not require different places of trial, and must he separately stated.\u201d\nCounsel makes the point that the last clause, that they \u201cmust be separately stated,\u201d refers to the claims to recover real property, and the recovery of the damages for withholding thereof. But this is clearly not the true construction of the subdivision. The true construction is that different causes of action for the recovery of real estate may be joined, although some may seek to recover damages for withholding, while others do not, and requires only that these different causes be separately stated.\nUnder the provisions of section 301 it seems logical to allege ownership, ouster, and damage as one cause of action, and upon such a cause to recover possession and damages for withholding the same by the defendant; otherwise you drive the plaintiff to state his ownership and ouster for the purpose of recovering possession, then to a restatement of his ownership, ouster, and damages for the purpose of recovering his damage. Such a duplication of allegations seems illogical, and without a basis in reason, and is certainly opposed to the clear analytical statement of the elements of the action made in Pomeroy. The authorities are widely variant, and possibly based upon different statutes. No decision by the Supreme Court of Oregon is pointed out as laying down any different rule, and this court has a decided opinion that the complaint in this action states but one cause of action, and that, under that one cause, the court did not commit error in permitting a recovery of both possession and damages for withholding possession. No argument is made in support of any other ground, and the motion for a new' trial is denied.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "C. S. Johnson and A. J. Daly, for plaintiff.",
+      "James E. Fenton and H. E. Shields, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "KIMBALL v. MILLER et al.\n(Second Division. Nome.\nDecember 7, 1901.)\nNo. 119.\n1. Pleadtnos \u2014 Ejectment.\nWhere there is no separate statement of the allegations in support of recovery of possession in ejectment from those stating damages for withholding possession, and no demurrer or answer upon this objection is taken to the complaint, it is thereby waived, under section 62 of the Code of Civil Procedure (Act June 6, 1900, c. 786, 31 Stat. 342).\n2. Ejectment \u2014 Complaint\u2014Cause of Action.\nUnder the provisions of section SOI of the Code of Civil Procedure (Act June 6, 1900, e. 786, 31 Stat. 383) a complaint in ejectment may allege ownership, ouster, and damage for a wrongful withholding as one cause of action, and upon such cause of action may recover (1) possession and (2) damages for withholding.\n3. Same \u2014 Measure oe Damaoes.\nThe measure of damages for withholding lands from which the plaintiff was wrongfully ejected is the reasonable rental value of the property during the time withheld.\nThis is a motion for a new trial. The case is an action \u2022of ejectment, and was tried before a jury, who found in favor of the plaintiff, and gave him a verdict for $68o damages. The plaintiff, in his complaint, alleges, as the basis of his right to recover, \u2018'\u2018that he is the owner and entitled to the sole and exclusive possession\u201d of the property in question, particularly describing it as a town lot in Nome; \u201cthat said plaintiff has been such owner and entitled to the sole and exclusive possession of said parcel of land since the 8th day of July, 1899, when he entered upon and took possession \u25a0of the same under the laws of the United States, while the same was unoccupied and unappropriated public domain of the United States, and did thereupon occupy and improve the same\u201d; \u201cthat the said defendants wrongfully withheld said parcel of land from said plaintiff, and have wrongfully withheld the same from him since the 18th day of May, 1900, to the plaintiff\u2019s damage in the sum of $680.\u201d Then plaintiff prays for judgment against the defendants for the possession of the land, and \u201cfor the sum of $680 for damages for withholding the same from him.\u201d The defendants deny the allegations of the complaint, and allege their own pos-sessory title thereto through purchase from a prior locator.\nC. S. Johnson and A. J. Daly, for plaintiff.\nJames E. Fenton and H. E. Shields, for defendants."
+  },
+  "file_name": "0347-01",
+  "first_page_order": 371,
+  "last_page_order": 376
+}

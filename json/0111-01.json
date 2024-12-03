@@ -1,0 +1,82 @@
+{
+  "id": 8504448,
+  "name": "In re BURTON",
+  "name_abbreviation": "In re Burton",
+  "decision_date": "1900-11-03",
+  "docket_number": "",
+  "first_page": "111",
+  "last_page": "114",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 111"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "24 Stat. 388",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 330",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Stat. 1338",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 316,
+    "char_count": 5201,
+    "ocr_confidence": 0.687,
+    "pagerank": {
+      "raw": 6.791884011615086e-08,
+      "percentile": 0.4156261619885947
+    },
+    "sha256": "0b9042c04171750b08f743dcdd3bcbca9455a8b3c244b12b47d9206ae38767c4",
+    "simhash": "1:b2a37e0406086476",
+    "word_count": 898
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re BURTON."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nThe petition of Samuel Burton states that he is a native of British Columbia, now and for many years a resident of Alaska, and he prays to be admitted to citizenship in the United States.\nBurton is evidently not a \u201cfree white person or an alien of African nativity or African descent,\u201d- and is not, therefore, entitled to naturalization under the acts of Congress. Section 2169, Rev. St. U. S. [U. S. Comp. St. 1901, p. 1333].\nSection 8, art. 1, of the Constitution of the United States, provides that Congress shall have the power \u201cto establish an uniform rule of naturalization.\u201d In exercising this right, Congress has enacted that a free white person, or an alien of African nativity or of African descent, may be admitted to citizenship. This is the uniform rule established by Congress under the Constitution.\nIndians sustaining tribal relations have never, so far as this court is advised, been permitted to exercise the rights of citizenship. By the treaty of cession between the United States and Russia it is provided that \u201cthe uncivilized tribes will be subject to such laws and regulations as the United States may from time to time adopt in regard to aboriginal tribes of that country.\u201d In legislation by Congress we do not find any indication that Congress intends to deal differently with the Indians of Alaska than with any of the aboriginal tribes within the territorial limits of the United States.\nIn the late acts of Congress affecting Alaska, particularly the act of 1899 (Act March 3, 1899, c. 429, 30 Stat. 1338), giving Alaska a Criminal Code, and fixing a license fee to be paid by those engaging in various kinds of business in Alaska, and, among other things, providing for license to retail liquor dealers, a sale of liquor \u201cto any minor, Indian, or intoxicated person, or to a habitual drunkard\u201d is prohibited under heavy penalty. It will be observed that here the Indian is protected under the law the same as a minor or intoxicated person.\nAgain, the act providing for a license to retail liquor dealers, requires, as a condition precedent to the issue thereof, the consent of \u201ca majority of the white male and female residents over the age of eighteen years, other than Indians, within two miles of the place where the intoxicating liquor is to be sold,\u201d to the issue of such license.\nThe act of June 6, 1900, commonly known as the \u201cCarter Act,\u201d at section 27 (31 Stat. 330) thereof, refers to \u201cIndian lands,\u201d \u201cmissions,\u201d etc., thereby giving certain protection to. them as a race or peculiar people, and in no way treating them, or any of them, as persons having the rights of citizens of the United States.\nIt was at one time the practice of our government to enter into contract with certain Indian tribes by treaty, but in 1871 it was enacted that \u201cno Indian nation or tribe within the territory of the United States shall be acknowledged or recognized as an independent nation, tribe, or power, with whom the United States may contract by treaty.\u201d Rev. St. U. S. \u00a7 2079.\nSection 2103, Rev. St. U. S., seems to indicate that under some circumstances an Indian may acquire the rights of citizenship. By the act of February 8, 1887 (24 Stat. 388), it is provided that allotment of land may be made to Indians, and by section 6 of said act it is further provided that an Indian born within the United States, to whom land has been allotted, and who has severed his'tribal relations, and adopted the habits of civilized life, thereby becomes a citizen of the United States, and is entitled to all the rights, privileges, and immunities of such citizenship. This seems to be the only method provided by law whereby an Indian may become a citizen.\nIt will be seen, from an examination of the acts of Congress above referred to, and many others not cited, that prior to the act of Congress in 1871 it was the practice of our government to treat with Indian tribes much as we treat with foreign or independent nations, and quite generally as with peoples or tribes unfriendly to our government, living under conditions of barbarism.\nNo provision has been made by Congress for the naturalization of Indians or other peoples of color or their descendants, except Africans.\n. Burton is an Indian, and, if born within the territorial limits of the United States, and having severed his tribal relations, adopted the habits of civilized life, and otherwise complied'with the law above referred to, then he is a citizen of the United States by the declaration of the statute, and needs no papers from the court. If he was not born within the territorial limits of the United States, but in British Columbia, as asserted by him, having no rights of citizenship there, and treated under the law of that government as an Indian without civil rights, then there is no law of the United States, of which this court is advised, whereby he mav be admitted to citizenship by the court.\nThe application is therefore denied.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [],
+    "corrections": "",
+    "head_matter": "In re BURTON.\n(First Division. Juneau.\nNovember 3, 1900.)\n1. Aliex \u2014 Indian\u2014Naturalization.\nAn Indian born in British Columbia will not be admitted to citizenship by naturalization in the United States.\nApplication for Naturalization Papers."
+  },
+  "file_name": "0111-01",
+  "first_page_order": 135,
+  "last_page_order": 138
+}

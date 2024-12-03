@@ -1,0 +1,97 @@
+{
+  "id": 8504307,
+  "name": "THE ST. PAUL",
+  "name_abbreviation": "The St. Paul",
+  "decision_date": "1894-02-06",
+  "docket_number": "No. 379",
+  "first_page": "71",
+  "last_page": "73",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 71"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "75 Fed. 519",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3962401,
+        1250751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/75/0519-01",
+        "/alaska-fed/1/0474-01"
+      ]
+    },
+    {
+      "cite": "21 C. C. A. 441",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 Fed. 914",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        1250728,
+        6721031
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0368-01",
+        "/f/60/0914-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 247,
+    "char_count": 3269,
+    "ocr_confidence": 0.671,
+    "sha256": "f49334f35f87e7d0f3d6c0a32429d77ff9318b19ba37e7fed7194ea678dbf24c",
+    "simhash": "1:bf0cf6cf27b5cb67",
+    "word_count": 578
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THE ST. PAUL."
+    ],
+    "opinions": [
+      {
+        "text": "TRUITT, District Judge.\nThe libel herein was filed July 13, 1893, and the case argued and submitted September 27, 1893, with the case of the schooner Alexander. The seizure was made the same day the Alexander was seized, and took place at Chirikoff Island. The vessels belong to different parties, but they were both engaged in hunting fur-bearing animals in the same hunting grounds, and the facts are so nearly identical in the two cases that they were both argued together, and the decision filed in the Alexander Case applies to this case. The Alexander (D. C.) 60 Fed. 914, reversed 21 C. C. A. 441, 75 Fed. 519. I would not, therefore, file a separate decision for the St. Paul Case but for the fact that, after it was tried and submitted, certain affidavits were filed with the papers herein touching the ownership of some of the boats and part of the cargo found upon the schooner when seized. I do not see that these affidavits have any standing in the case, but, as they were put on the record, I will state my views in regard to them, so that the Court of Appeals may know they were not overlooked. There are two reasons why I cannot grant any relief to the parties claiming these boats and the portion of the cargo named in the affidavits: First. They were filed too late. If my decision and findings of fact and conclusions of law are correct, then the St. Paul, her boats, tackle, apparel, furniture, and cargo are forfeited to the United States, and the government should not lose any part of such property without being heard in relation thereto. As the issues were made up and the case tried upon the declaration and theory that all this property was owned by Harold Vane-lines, if, after the trial is over, and the case submitted, other parties can come in, and upon ex parte application obtain a portion of said property, substantial rights of the libelant would be affected without it being heard. But there is another reason why such relief cannot be granted, which I think is conclusive, and that is that, if the St. Paul was, at the time mentioned, engaged in violating section 1956 of the Revised Statutes, then the vessel, her boats, tackle, apparel, furniture, and cargo are all subject to ownership. I think, out upon such a voyage or cruise as this vessel was engaged in, it is so at their peril, and, if the vessel violates the law, their property becomes liable to forfeiture. There might be special circumstances which would perhaps make an exception to this rule, but they are not in this case. A decree must therefore be entered in accordance with my findings of fact and conclusions of law filed herewith.",
+        "type": "majority",
+        "author": "TRUITT, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Charles S. Johnson, U. S. Dist. Atty.",
+      "John S. Bugbee, for claimant."
+    ],
+    "corrections": "",
+    "head_matter": "THE ST. PAUL.\n(February 6, 1894.)\nNo. 379.\n1 Admiralty \u2014 Forfeiture\u2014Game.\nAn application by a third party claiming to he the owner of certain boats and parts of the cargo of a schooner forfeited to the United States for a violation of the acts of Congress prohibiting the tailing of the fur-bearing animals in Alaska, comes too late after decree and without notice to the United States. All such boats and property on board were subject to forfeiture.\nApplication by Third Parties to Reclaim Property on Vessel Forfeited for Violation of Section 1936, Rev. St.\nCharles S. Johnson, U. S. Dist. Atty.\nJohn S. Bugbee, for claimant."
+  },
+  "file_name": "0071-01",
+  "first_page_order": 95,
+  "last_page_order": 97
+}

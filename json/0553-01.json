@@ -1,0 +1,137 @@
+{
+  "id": 8505818,
+  "name": "UNITED STATES v. BINNS",
+  "name_abbreviation": "United States v. Binns",
+  "decision_date": "1902-04-05",
+  "docket_number": "No 154",
+  "first_page": "553",
+  "last_page": "555",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 553"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 321",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "86 Fed. 456",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6734618,
+        1250782
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/86/0456-01",
+        "/alaska-fed/1/0532-01"
+      ]
+    },
+    {
+      "cite": "30 C. C. A. 186",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "9 How. 235",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3353794
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/50/0235-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 321",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 Fed. 456",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6734618,
+        1250782
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/86/0456-01",
+        "/alaska-fed/1/0532-01"
+      ]
+    },
+    {
+      "cite": "30 C. C. A. 186",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 333,
+    "char_count": 5170,
+    "ocr_confidence": 0.643,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20524381923424878
+    },
+    "sha256": "37716d40a37cde7bbdec13f4ef0f196294cabf1ce5e15cc63f09727ed6df1881",
+    "simhash": "1:16c832183bd89dff",
+    "word_count": 865
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES v. BINNS."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe defendant was found guilty, and condemned to pay a fine and costs in the justice\u2019s court for violating section 29 of the act of Congress entitled \u201cAn act making further provisions for a civil government for Alaska and for other purposes,\u201d approved June 6, 1900 (31 Stat. 321, c. 786). The section mentioned provides that all persons or corporations prosecuting the lines of business therein mentioned shall apply to and obtain from this court a license so to do, and pay the license fee fixed therein. Defendant was arrested and fined for carrying on the business of a transfer company without applying for and obtaining the necessary license. Section 29, in specifying the classes of persons who shall pay license, and the amount, contains this clause, \u201cTransfer companies, fifty dollars per an-num.\u201d It is admitted by counsel for defendant that he was operating as such transfer company, and had not paid the license. The matter comes before the court upon an objection in the nature of a demurrer to the complaint as well as to the evidence.\nCounsel for the defendant urge that section 29 of the act of Congress of June 6, 1900, supra, is unconstitutional and void for the following reasons, viz.: (1) That Alaska is an organized territory; (2) that the Constitution and laws of the United States which are not locally inapplicable are extended to Alaska by section 1891, Rev. St. 1878; (3) that, having thus formally extended the Constitution to Alaska, Congress could not thereafter pass a law for Alaska in conflict with its provisions; (4) that the section in question is an excise law; and (5) therefore it is necessarily unconstitutional and void, as in conflict with the provisions of section 9 of article 1 of the Constitution, which requires all excise duties to be uniform throughout the United States.\nThis court will not undertake to answer in detail the many interesting and important questions propounded by counsel' for the defendant. The case involves little more than an abstract qu\u00e9stion of law, for the fine imposed is only nominal, and the evident purpose of the cause is to secure a final construction of the law by the courts of the highest resort. It is only fair, however, to say that I disagree with the conclusions of counsel for defendant upon the main question involved. The Supreme Court of the United States has not passed upon the points raised in this case in relation to the territory of Alaska. I cannot find authority even in Downs v. Bidwell to support the arguments of counsel for defendant, but the opposite. The Circuit Court of Appeals for the Ninth Circuit, however, to which appeals lie directly from this court, has practically decided every point in controversy in this case in its relation to Alaska, and that decision will be followed by this court until modified or overruled. In the case of Endleman v. United States, 30 C. C. A. 186, 86 Fed. 456, the unconstitutionality of the act of Congress forbidding the sale of liquor in Alaska was urged upon practically the same grounds urged in the act in question. In answer to-these objections that court said:\n\u201cThe answer to these and other like objections urged in the brief of counsel for defendant is found in the now well established doctrine that the territories of the United States are entirely subject to the legislative authority of Congress. They are not organized under the Constitution, nor subject to its complex distribution of the powers of government as the organic law, but are the creation, exclusively, of the legislative department, and subject to its supervision and control.\u201d Benner v. Porter, 9 How. 235, 242, 13 L. Ed. 119.\nIt follows, of course, that if the territory of Alaska is \u201cnot organized under the Constitution, nor subject to its complex distribution of powers of government as the organic law,\u2019r the provisions of section 8 of article 1 of that Constitution can have no such application to it as to render void the law in controversy. Certainly, this court will not declare such a result, without more support from the courts of higher authority in direct relation to the territory of Alaska. The objections of defendant are overruled, and judgment rendered accordingly.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "John R. McGinn, Dep. Dist. Atty., for plaintiff.",
+      "Ira D. Orton and Albert Fink, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES v. BINNS.\n(Second Division. Nome.\nApril 5, 1902.)\nNo 154.\n1. TERRITORIES \u2014 CONSTITUTIONAL LAW \u2014 AUTHORITY OP CONGRESS.\nCongress lias full legislative power over tlie territories, unrestricted by tbe limitations of tbe Constitution. Endleman v. U. S., 30 C. C. A. 186, 86 Fed. 456, followed.\n2. License Laws op Alaska \u2014 Territories\u2014Transfer Company.\nTbe act of June 6, 1900 (31 Stat. 321, c. 786), imposing a license upon transfer companies and other trades and businesses carried on in Alaska, is valid, being witbin tbe plenary legislative power possessed by Congress over tbe territories.\nThe defendant was fined for carrying on the business of a transfer company. He appealed, admitting the facts, but urged that the law under which the penalty was imposed was unconstitutional and void.\nDemurrer to the evidence overruled.\nJohn R. McGinn, Dep. Dist. Atty., for plaintiff.\nIra D. Orton and Albert Fink, for defendant."
+  },
+  "file_name": "0553-01",
+  "first_page_order": 577,
+  "last_page_order": 579
+}

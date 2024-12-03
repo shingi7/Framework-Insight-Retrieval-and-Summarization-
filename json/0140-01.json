@@ -1,0 +1,127 @@
+{
+  "id": 8504510,
+  "name": "CARSTENS BROS. v. FRYE-BRUHN & CO.",
+  "name_abbreviation": "Carstens Bros. v. Frye-Bruhn & Co.",
+  "decision_date": "1901-04",
+  "docket_number": "No. 957",
+  "first_page": "140",
+  "last_page": "146",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 140"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "3 Or. 212",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2292573
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/3/0212-01"
+      ]
+    },
+    {
+      "cite": "6 N. H. 518",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6757086
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/6/0518-01"
+      ]
+    },
+    {
+      "cite": "11 Pick. 44",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Pick. 124",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2010358
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/20/0124-01"
+      ]
+    },
+    {
+      "cite": "12 N. J. Law, 352",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        906966
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/12/0404-01"
+      ]
+    },
+    {
+      "cite": "4 Dana, 271",
+      "category": "reporters:state",
+      "reporter": "Dana",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 536,
+    "char_count": 12213,
+    "ocr_confidence": 0.631,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20521582532417912
+    },
+    "sha256": "4782a68a4673bc20f40e6b90da308633ee0a0dab3e374384d1d1e4a4a8c61f93",
+    "simhash": "1:2623b51ec5579789",
+    "word_count": 2151
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CARSTENS BROS. v. FRYE-BRUHN & CO."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nThis action was tried to a jury, and, after having retired to consider their verdict, they returned into court, and presented their verdict, which is in the following form:\n\u201cWe, the jury, duly impaneled and sworn in the above-entitled cause, find for the defendant, Frye-Bruhn and Company.\n\u201cFrank E. Burns, JForeman.\u201d\nA motion for a new trial was filed in due time, one of the grounds of which, among others, is as follows:\n\u201cThe verdict of the jury rendered herein is defective, and incapable of supporting a judgment, in that it does not dispose of the issues as to the Corporation Frye-Bruhn Company, or as to Herman Meyer, hut is a finding only in favor of the defendant, the copartnership, to wit, Frye-Bruhn & Co.\u201d\nThe third ground of the motion is:\n\u2018\u2018The verdict of the jury is contrary to, and not supported hy, the evidence in the case. According to the evidence \u00f3f the defendant Meyer, and which was not controverted by him or in his behalf, the plaintiffs were entitled to a verdict against him.\u201d\nThe other propositions presented by the motion for a new trial will not be seriously considered by the court at this time.\nWhile the verdict in this case is perhaps somewhat uncertain in its terms, and not all that could be desired, considering the issues submitted to the jury, still it seems to be sufficiently clear to indicate the intention of the jury in returning it in the form in which we find it. It is said:\n\u201cThough the verdict may not conclude formally or punctually to the words of the issue, yet, if the point in controversy can be concluded out of the findings, the court shall work it into form, and make it certain.\u201d 28 Eng. & Am. Encyc. of Law, p. 286\nAgain, it is said in Miller v. Shackleford, 4 Dana, 271:\n\u201cIn considering a verdict with a view to its sufficiency, the first object is to ascertain what the jury intended to find, and this is to be done by considering the verdict liberally, with the sole view of ascertaining the meaning of the jury, and not under the technical rules-of construction which are applicable to the pleadings. If the meaning of the jury can be ascertained, and the verdict on the point at issue can be made out, the court will mold it into form, and make it certain.\u201d\nAgain, it is said:\n\u201cThe utmost favor is always extended to verdicts. They are not to be construed as strictly, as pleadings are. Whenever the court can collect the clear meaning of the jury from the findings, it is-bound to mold it into form, and make it certain.\u201d\nAgain, it is said that:\n\u201cThe verdict must comprehend, the whole issue or issues submitted to the jury in the particular case, otherwise the judgment rendered on it may he reversed.\u201d\nTo comply with the requirements of this rule, however, it is generally held that, if the verdict is not expressed formally and technically in the words of the issue, yet, if the point in issue can be concluded from the finding of the jury, the court will work the verdict into form, and make it certain. Middleton v. Quigley, 12 N. J. Law, 352.\nThe converse of this proposition, it is said, is also true.\n\u201cHence it is declared that, if the point on which the verdict is given be so uncertain that it cannot be clearly ascertained whether the jury meant to find the issue or not, it cannot be helped by intendment.\u201d In support of this proposition are cited: Gerrish v. Train, 3 Pick. 124; Coffin v. Jones, 11 Pick. 44; Jewett v. Davis, 6 N. H. 518; Stearns v. Barrett, 1 Mason, 170, Fed. Cas. No. 13,337.\nThis action was brought against Frye-Bruhn Company and Flerman Meyer, doing business under the firm name and style of Frye-Bruhn & Co. The plaintiffs, among other things, allege that \u201cat all times hereinafter mentioned the defendant Frye-Bruhn Company was and is a corporation existing under and by virtue of the laws of the state of Washington,\u201d and that \u201csaid corporation and the defendant Herman Meyer were at all times hereinafter mentioned copart-ners doing business under the firm name and style of Frye-Bruhn & Co.\u201d\nIt is further alleged in the complaint that on a certain day thereafter mentioned a contract was entered into between the plaintiffs and the defendants, whereby the plaintiffs were to furnish to the defendants all meats used by them in their business in Alaska for a period extending from said date to April I, 1899, at the market rates, to be shipped by steamer from the city of Seattle to Skagway; that \u2022under said contract it is claimed there were meats shipped to the value of $5,232.09; that $2,000 was paid thereon; and that there was a balance of $3,232.09 due and unpaid, for which judgment is prayed.\nThe answer denies that at the times mentioned in the complaint the defendants were copartners, or were at that time or since then carrying on business under said copart-nership of Frye-Bruhn & Co.; denies making the contract of purchase by Frye-Bruhn Company, or by Frye-Bruhn & Co.; denies indebtedness of Frye-Bruhn Company or of Frye-Bruhn & Co., or any agreement to pay plaintiffs for meat in any manner.\nIn this case the evidence tended to show that a relation at one time existed between Frye-Bruhn Company and Herman Meyer, which probably constituted them a partnership at will; that, prior to the contract of purchase referred to in plaintiffs\u2019 complaint, the relation theretofore existing between said Frye-Bruhn Company and Herman Meyer had been terminated; that the partnership had been dissolved, and that the plaintiffs were fully notified of that fact before any shipments of meat, for the value of which suit was brought, had been shipped by the plaintiffs. The instructions to the jury in substance required that, if they found there was no partnership existing at the time that the purchase was claimed to have been made, or that Herman Meyer was no longer the agent of Frye-Bruhn Company, and therefore without authority to bind them in the purchase, they should find for the defendants.\nUnder the evidence and law as given to the jury by the court the jury may have well found that the defendant Frye-Bruhn Company and Herman Meyer were at one time co-partners, and doing business as such; that-at the time of the purchase such copartnership had ceased to exist, and that no purchase whatever was ever made by the copartnership. The verdict in this case would meet these issues, and could not well be construed in any other way than as meeting these issues as above indicated.\nBut it is said by counsel for the plaintiffs that Herman Meyer admits an indebtedness, and, if this is a verdict at all, it is a verdict in favor of all the defendants, and, as it is in language only for Frye-Bruhn & Co., it perhaps should not be regarded under the law as a verdict at all. While it is true that a copartnership cannot be sued in a partnership name without setting forth the names of the several copartners, and that a complaint that did not do that would be demurrable, and it is sometimes contended that a verdict' should be as complete in this respect as the pleadings in the case, or it is so uncertain in terms as to be practically valueless in determining the issues between the parties, and to be a void verdict, yet, under the liberal rules applied to the construction of verdicts, the court cannot so hold, and is of opinion that the verdict in this case can be construed to be, and was intended to be, a verdict in favor of all the defendants.\nIt is said, however, by counsel, that Herman Meyer admits his indebtedness, and for that reason the verdict would be bad as to him. It will be observed that Herman Meyer has not answered in this case; that is, no separate answer was filed by him. The general answer denies indebtedness of the copartnership. It will be remembered that the plaintiffs sued these several defendants under the claim that Frye-Bruhn Company and Herman Meyer are jointly indebted to the plaintiffs in the sum named in their complaint. Copart-ners, or the individual members of a copartnership, are not severally liable for the debts of a copartnership, unless made so by statute. Their liability is a joint, and not a several, one. The liability being joint, and not several, it is believed that no verdict could be permitted to stand in this case against either of the defendants as a several liability. Being sued on a joint contract, to allow a verdict against either of the partners would be to establish a several liability as against such particular partner. In Kamm v. Harker, 3 Or. 212, in passing upon this question, the court says:\n\u201cWe often speak of a partnership firm as being the party plaintiff or defendant; but in truth a partnership does not, like a corporation, possess the power to sue and he sued. It is the individuals that compose the firm that can sue, and they only are the persons sued. I have doubts whether it is permissible, where the plaintiff sets up a joint contract made by two or more, to allow the plaintiff to proceed as if upon an individual contract made by one only. In order to amend so as to include \"Welman and Peck, the plaintiff will be compelled to admit the truth of the plea as to Welman and Peck, in which ease there will be no question for the jury. If, however, the plaintiff deems it safe to amend by striking out the name of Asa Harker, he has permission to do so, and the defendant\u2019s objection can be considered a motion for a new trial. The plaintiff withdrew his motion, and submitted to a nonsuit.\u201d\n\u201cThe partnership contracts are to be considered during the lifetime of the partners as joint, and not joint and several.\u201d Eng. & Am. Encyc. of Eaw, p. 1062.\nOf course, each partner is liable for the debts of the partnership ; but bear in mind it is a partnership debt that each member of a partnership is bound to pay. It is not the individual debt of a single partner, or of one who was once a member of the partnership. This is no new doctrine of the law, and it seems unnecessary to cite authorities in support of a proposition of this kind, where they are so multitudinous. If it is true that there was and had been such a partnership as alleged in the complaint, that it is a partnership at will, that it had been dissolved by a single member of the partnership before the purchase of the meats in question, then the purchase, or a contract to purchase, entered into by Herman Meyer in the name of the copartnership of Frye-Bruhn & Co. could in no wise bind the company, and in a suit on such a joint contract no judgment could be entered as against either of the defendants, though there was a personal liability on the part of Herman Meyer to pay for the goods purchased. A judgment against Herman Meyer in this case would not .be permitted to stand.\nConstruing this verdict to be a verdict in favor of all the defendants, including Herman Meyer, it is plain that it answers every issue presented in this case, and is in entire harmony with the issues made by the pleadings. The instructions of the court upon the law of this case are believed to be an accurate statement of the law as applicable to the facts of the case. The judgment of the court is, therefore,- that the motion for a new trial must be overruled, and judgment entered for the defendant on the verdict.\nMotion for a new trial overruled.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Maloney & Cobb, for plaintiffs.",
+      "Winn & Shackleford, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "CARSTENS BROS. v. FRYE-BRUHN & CO.\n(First Division. Juneau.\nApril, 1901.)\nNo. 957.\n1. New Tbial \u2014 Verdict.\nTliis action was brought against Frye-Bruhn & Co., a copart-nership consisting o\u00ed Frye-Bruhn Company, a corporation, and Herman Meyer. The answer was a general denial. Meyer admitted an indebtedness to the plaintiffs. The jury found a verdict in favor of Frye-Bruhn & Co. Upon a motion for a new trial the verdict was sustained as to form and effect.\n2. Partnership \u2014 Judgment.\nWhere a suit is brought against a partnership consisting of a corporation and an individual, though the individual may admit a personal indebtedness, a verdict in favor of the partnership will be upheld. The partnership debt sued on was joint, the indebtedness admitted and proved was several, and not sufficient to sustain a judgment in the action, even against the individual partner.\nMotion' for New Trial.\nDenied.\nMaloney & Cobb, for plaintiffs.\nWinn & Shackleford, for defendants."
+  },
+  "file_name": "0140-01",
+  "first_page_order": 164,
+  "last_page_order": 170
+}

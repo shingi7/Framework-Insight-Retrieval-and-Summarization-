@@ -1,0 +1,79 @@
+{
+  "id": 8505540,
+  "name": "In re PACIFIC COLD STORAGE COMPANY",
+  "name_abbreviation": "In re Pacific Cold Storage Co.",
+  "decision_date": "1902-01-14",
+  "docket_number": "",
+  "first_page": "429",
+  "last_page": "430",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 429"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 330",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Stat. 1336",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 227,
+    "char_count": 3480,
+    "ocr_confidence": 0.645,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6004129970511795
+    },
+    "sha256": "227851d2e3a427c867b3686551df71022318822572cfa0a3a2af8290929b7ad1",
+    "simhash": "1:fb92c7f60f4d96f0",
+    "word_count": 617
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re PACIFIC COLD STORAGE COMPANY."
+    ],
+    "opinions": [
+      {
+        "text": "WICICERSHAM, District Judge.\nThe Pacific Cold Storage Company, a corporation maintaining a cold storage plant in the town of Nome, as well as in St. Michael, for the purpose of selling meat generally to the public, made application to the court, and received a license for three or more meat markets in the town of Nome, and paid therefor the sum' of $15 each, as required by the statute. Upon the objection of the prosecuting attorney, the matter came before the court to determine the character of the license to be paid by the company. Section 460 of Act March 3, 1899, c. 429 (30 Stat. 1336), as amended by section 29 of Act June 6, 1900, c. 786 (31 Stat. 330), provides that meat markets shall pay $15 per annum license. It also provides that licenses shall be paid by mercantile establishments, and fixes the amount to be paid by them upon the basis of the business done. The evidence upon this application is undisputed that, besides, furnishing meat to its own markets, the Pacific Cold Storage-Company does a general mercantile business in the sale to-other meat markets and the public generally of all kinds of fresh meats preserved by cold storage, as well as in the sale-of coal. The company made application for, and received from the clerk of this court, a license to do business as a mercantile establishment in the sale of coal, and limits its showing of business done to the sale of coal alone. This condition would enable the company to furnish from its cold storage plant all meats required in its own markets, and permit it to sell uncut meats to the public generally and to their meat markets without paying any license therefor. I am of the opinion that the term \u201cmeat market\u201d here refers only to what is commonly known as a \u201cbutcher shop,\u201d or a place where meats are cut into small quantities, and sold to individual customers. It seems clear to the court that the term \u201cmeat market\u201d does not include a cold storage plant, such as that possessed by the company in question, nor would it cover its general sales of meat in bulk to other meat markets, even though the meats were sold through one of the meat markets for which it had license. The license for a meat market under the section in question was not intended to embrace so wide a range as to allow a general mercantile business in frozen meats to be conducted under it. Under the statute in question, if the Pacific Cold Storage Company desires to run a \u201cmeat market,\u201d it should pay a license for so doing; if, beyond the business conducted in the ordinary meat market, it sells meats preserved by the cold storage process to the general public or to other meat markets, even though it does so through one of its own meat markets, it is a mercantile establishment, and should pay a license accordingly. The company in question must obtain a license as a mercantile establishment if it intends to sell its meats except in cuts to the ordinary customer who goes to the meat market to buy.",
+        "type": "majority",
+        "author": "WICICERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "P. C. Sullivan, for Pacific Cold Storage Co.",
+      "J. D. McGinn, Asst. U. S. Dist. Atty., contra."
+    ],
+    "corrections": "",
+    "head_matter": "In re PACIFIC COLD STORAGE COMPANY.\n(Second Division. Nome.\nJanuary 14, 1902.)\n1. Licenses \u2014 Meat Market \u2014 Mercantile Establishment.\nWithin tie meaning of tlie license laws of Alaska, a corporation engaged in the wholesale cold storage and sale of all kinds; of meats for the public generally, as well as for its own meat markets, is a mercantile establishment, and not a meat market,, and must pay license accordingly.\nP. C. Sullivan, for Pacific Cold Storage Co.\nJ. D. McGinn, Asst. U. S. Dist. Atty., contra."
+  },
+  "file_name": "0429-01",
+  "first_page_order": 453,
+  "last_page_order": 454
+}

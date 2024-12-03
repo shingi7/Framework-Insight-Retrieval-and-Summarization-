@@ -1,0 +1,82 @@
+{
+  "id": 8505469,
+  "name": "THE SCHOONER ARTHUR B.",
+  "name_abbreviation": "The Schooner Arthur B.",
+  "decision_date": "1901-12-31",
+  "docket_number": "No. 70a",
+  "first_page": "403",
+  "last_page": "406",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 403"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "108 U. S. 342",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3502573
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/108/0342-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 377,
+    "char_count": 7145,
+    "ocr_confidence": 0.693,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20523416616181098
+    },
+    "sha256": "c1ed1184cb70ef616ed9c90c2f86092e2ea3ce5f20ef184d7b58fd5266609739",
+    "simhash": "1:d3fc2d018c3e58e3",
+    "word_count": 1278
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THE SCHOONER ARTHUR B."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe libelants in this 'case seek to recover the various sums paid by them for transportation and freight charges on the schooner Arthur B. on an unsuccessful voyage from Nome to Keewalich, near the new gold strike on Candle creek. Some time in October the schooner Arthur B. was announced to sail upon a voyage from Nome to Keewalich to carry freight and passengers. The date of her sailing was fixed upon the 14th, and the libelants in this case purchased transportation and procured their freight to be sent aboard the vessel for that voyage. Without any fault on the part of the libelants,' the vessel' was detained in the roadstead of Nome, and did not sail until the 22d.\nThe voyage was unsuccessful, the vessel having reached a point no farther north than Cape Prince of Wales, from which she returned to Nome, and discharged her passengers, and freight. The passengers now seek to recover the amounts paid by them for transportation and freight, while the claimant defends against their recovery upon the ground that on account of the climatic conditions it was impossible to complete the voyage, and contends that the libelants cannot recover for that reason. The intervener, Craig, seeks-to recover for services performed on a prior voyage of the-same vessel from this port to Indian Point, Siberia, and return, upon which voyage he served as supercargo, or rather as a representative of the owner.\nThe court heard as much of the testimony as was offered in open court, has carefully read all of the testimony taken before the referee, and has examined the entire case with some care. The libelants were not to blame for the delay in leaving the roadstead of Nome in the first instance. The vessel remained there seven days after the date fixed for her sailing time, and this delay was wholly due to the vessel or her owners. On the 22d of October she left, but returned to the roadstead and anchored within 24 hours. Upon the 23d she made the second attempt, and this time reached a. point near Cape Prince of Wales, from which she returned to Port Clarence or Teller Harbor for the alleged reason that she met head winds at the cape. At Teller she took on water and supplies, and again left on her voyage. Again she reached the neighborhood of Cape Prince of Wales, but early in the morning of the 26th of October, without making any attempt whatever to cbntinue her voyage, she turned about, and returned to Nome, and discharged her passengers, and freight. The reason given by the captain- for turning about at the cape is that he saw slush ice in the distance, but all the passengers who were on deck at that hour deny \u25a0the existence of any ice. It may be that the passengers were mistaken, and that the captain did see ice in the distance, but I am very much impressed by the evidence that it w'as a lack of experience and capacity as a navigator that induced the captain to return, and not the fear of ice floes. The evidence conclusively shows to the court that the voyage was badly managed by the owners and master from the beginning. It was late in the season, and well known to all of them that for the vessel to reach Kotzebue Sound she must go early, and yet the vessel remained in Nome from the 14th to the 23d without any fault on the part of the passengers. It is shown in the evidence by the claimant\u2019s witnesses that it is dangerous for vessels of that character to enter the waters of the Arctic Ocean and Kotzebue Sound after the 15th day of October. In spite, however, of this knowledge which they possessed, these passengers were induced to part with their money for passage and freight, which was received by the charterer for that service.\nThis action, however, may be determined without finding any evidence of bad faith on the part of either party. It is admitted that the contract was for the transportation of freight and passengers from Nome to Keewalich, a point from which all the passengers and freight were to reach the mines at Candle creek. No part of the freight n\u00f3r any of the passengers reached that point, nor were they or any part of the freight afterwards within a reasonable time, or at all, delivered by the schooner or her owners under their contract. They were all returned to Nome, and put ashore upon the beach. They received no part of the consideration for which they paid their money, and the rule in such cases is clearly laid down by the Supreme Court of the United States in the case of Ellis v. Atlantic Ins. Co., 108 U. S. 342, 2 Sup. Ct. 746, 27 L. Ed. 747. The rule is that,, if the libelants are forwarded to their destination with their freight according to the contract by the vessel upon which they took passage, or within a reasonable time by another vessel, then the transportation and freight charges will be earned, and may be recovered in full. On .the other hand, if there, be a refusal or a failure to forward them to their destination, or a total failure of the voyage, the passengers are entitled to have the return of their passage and freight money. In this case there was a total failure on the part of the vessel to carry both the passengers and freight. There was a total failure of consideration on the part of the vessel, and the money must be returned to the party who paid it. The court is impressed from the evidence that there was no real attempt in good faith on the part of the vessel to earn either the passage or freight money.\nAs to the intervener, Craig, there seems to be but little controversy. He is not entitled to any lien upon the vessel for any services performed by him in digging the ice, snow, and sand from around the vessel while lying on the beach in front of the town of Nome, performed by him under contract with the charterer. But from the moment when he entered upon the vessel to perform a voyage he is entitled to be paid for all services performed by him as supercargo, and as such is entitled to a maritime lien.\nA decree may be entered in favor of the libelants for the amounts stipulated which they paid for freight and passage money, respectively, and for the intervener, for services perr formed by him from the port of Nome to Indian Point, Siberia, and back, not including the time employed in launching the vessel upon the ice.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "C. S. Blackett, for libelants.",
+      "A. Raws'on, for claimant.",
+      "I. S. Thompson, for intervener.",
+      "Bruner & McBride, for charterer."
+    ],
+    "corrections": "",
+    "head_matter": "THE SCHOONER ARTHUR B.\n(Second Division. Nome.\nDecember 31, 1901.)\nNo. 70a.\n1 Admiralty \u2014 Failure op Voyage.\nWhere a vessel took freight and passengers for Kotzebue Sound, but wholly failed to make the voyage, and discharged both at Nome, ,the sailing point, and they were not afterward forwarded, held, that upon the total failure of the voyage the passengers are entitled to have the return of their passage and freight money.\n2. Libel \u2014 Services on Land \u2014 Wages.\nOne who assists in digging ice, snow, and sand from around a vessel lying on the beach at her home port, performed under contract with the charterer, is not entitled to a lien upon the vessel therefor.\nLibel to recover passenger and freight money upon total failure of voyage.\nC. S. Blackett, for libelants.\nA. Raws'on, for claimant.\nI. S. Thompson, for intervener.\nBruner & McBride, for charterer."
+  },
+  "file_name": "0403-01",
+  "first_page_order": 427,
+  "last_page_order": 430
+}

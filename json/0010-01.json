@@ -1,0 +1,98 @@
+{
+  "id": 8504024,
+  "name": "MYERS v. SWINEFORD",
+  "name_abbreviation": "Myers v. Swineford",
+  "decision_date": "1888-08-24",
+  "docket_number": "No. 76",
+  "first_page": "10",
+  "last_page": "15",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 10"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "23 Stat. 24",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "14 Johns. 432",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        376225
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/14/0436-01"
+      ]
+    },
+    {
+      "cite": "1 Jones, 26",
+      "category": "reporters:state",
+      "reporter": "Jones",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Stat. 24",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 569,
+    "char_count": 10311,
+    "ocr_confidence": 0.668,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.340618893225049
+    },
+    "sha256": "6da0e8cfd98371d6dc4d6d64f8efe3c73c249eeb0f0a4577cc83987fb31ae323",
+    "simhash": "1:7eca9e45c224056d",
+    "word_count": 1720
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MYERS v. SWINEFORD."
+    ],
+    "opinions": [
+      {
+        "text": "DAAVSON, District Judge.\nThis was an action of as-sumpsit, brought by plaintiff against the defendants before United States Commissioner Brady to recover the sum of $600. The commissioner issued summons made returnable-on the 15th day of July. On that day the counsel for defendants appeared before the commissioner, and for that purpose only filed a demurrer, alleging the want of jurisdiction on the part of the commissioner to hear and determine the cause.\nThe demurrer was overruled,1 and judgment entered against the defendants for the amount of plaintiff\u2019s claim, being $600.26. The defendants then applied to the District Court for a writ of certiorari, upon the ground that the commissioner had exceeded his jurisdiction, and that the judgment rendered by him was void. This raises the direct question-as to the jurisdiction of United States commissioners under the act of Congress of May 17, 1884 (23 Stat. 24, c. 53). The question is of importance and not easy of solution.\nIn construing a doubtful statute, the first rule is to ascertain the legislative intent, and, if possible, give effect to every clause and section of it. It is the duty of courts, so far as-practicable, to reconcile the different provisions so as to-make the whole act consistent and harmonious. We cannot well doubt the proposition that in the use of language uncertainty and ambiguity will almost invariably occur. Statutes,, treaties, and even the books of our religions, furnish instances innumerable to the mind of the imperfection of language, and of the doubts arising as to the proper interpretation of words employed in the construction of sections, sentences, and their various subdivisions. Section 5 of the-organic act, after providing for the appointment of four commissioners by the President, defines their duties and powers-as follows:\n\u201c.Such commissioners shall exercise all the duties and powers, civil and criminal, now conferred on justices of the peace under the general laws of the state of Oregon, so far as the same maybe applicable in said district, and may not be in conflict with this act or the laws of the United States. They shall also have jurisdiction, subject to the supervision of the District Judge, in all testamentary and probate matters, and for this purpose their courts shall be open at stated terms and be courts of record, and be provided with a seal for the authentication of their .official acts. They shall also have power to grant writs of habeas corpus for the purpose of inquiring into the cause of restraint of liberty, which writs shall be made returnable before the said District Judge for said district.\u201d\nIt is lamentably true that the act of Congress of May 17, 1884, known as the.\u201cOrganic Act,\u201d establishing a civil gov\u25a0ernment for Alaska, is unsurpassed for uncertainty. The context and the whole body of the act indicate a want of that consideration which should always characterize an act of Congress establishing a civil government for the people inhabiting newly acquired territory.\nIn the annals of American legislation, this act stands glaringly and conspicuously forth as a stupendous piece of stupidity. It is, indeed, difficult for the court to sift from its incongruous and ambiguous provisions anything that is tangible to the common sense of mankind in relation to this question. Acts of legislation capable of being construed and applied so as to strike at the right and common sense of the object of the act should receive the interpretation which will make them conform to some reasonable intendment or allowable presumption.\nWhat, then, does section^ mean? Is it not clearly a limitation of the powers of the commissioner? Does it not circumscribe and limit his jurisdiction in the trial of civil causes to that of justices of the peace under the laws of Oregon ?\nInvesting commissioners with jurisdiction in testamentary and probate'matters subject to revision by the District Court cannot be construed as enlarging or extending their jurisdiction in other civil controversies, but clearly indicates an intent to limit and subordinate them in all matters, except the powers specially conferred in section 5, to the jurisdiction conferred by the Code of Oregon (pages 284, 285) upon the justices of the peace. That part of section 5 conferring upon them the jurisdiction and powers of United States Commissioners of Circuit Courts is another indication of an intent to limit their jurisdiction, since Congress has defined the powers of Circuit Court Commissioners. They may hold to bail in criminal cases, may take proof in bankruptcy, may act under the direction of the Circuit Courts as the chief supervisors of elections. But when, and from what source, do they derive power to hear, determine, and render judgment in civil controversies ? They may take bail and affidavits in a certain class of civil cases, but all are returnable to the court. They are empowered to enforce awards of foreign consuls in differences arising between the captains and crews of vessels belonging to the nation whose interests are committed to their charge. But such power can only be invoked by petition to the court or commissioner by the consul, vice consul, or commercial agent of the foreign nation to which the petitioner may belong. Section 728, Rev. St. [U. S Comp. St. 1901, p. 584].\nBut nowhere from section 627, Rev. St. [U. S. Comp. St. 1901, p. 584], to sections 2025, 2026 [U. S. Comp. St. 1901, p. 1272], and 5296 [U. S. Comp. St. 1901, p. 3608], are they authorized and empowered to hear, determine, and render judgment in civil cases, other than those specially mentioned.\nSection 7 of the organic act confers upon them unlimited jurisdiction, except in equity cases, cases involving land titles and mining claims, and criminal cases that are capital. There is clearly a conflict between sections 5 and 7 of the act in relation to the question of jurisdiction, and to determine this question properly a resort must be had to known and fixed rules of construction.\nMr. Sedgwick, in his book on. Statutory and Constitutional X,aw, has collected and classified certain rules of interpretation from some of the great legal lights of the world. Vat-tel says:\n\u201cThough a thing appears favorable when viewed in one particular light, yet when the proper meaning of the terms, if taken in its utmost latitude, leads to absurdity or injustice, their signification must he restricted.\u201d Sedg. \u00a7 297.\nDomat says:\n\u201cIf laws of doubtful meaning oe connected with or related to other laws which throw any light- on their purport, the interpretation thus derived is the one that should be adopted.\u201d Id. \u00a7 285.\nIf doubts or difficulties in regard to the interpretation of the law have been solved by contemporaneous interpretation, then the court should adopt that conclusion.\nIf Congress intended to confer upon these commissioners unlimited jurisdiction in all matters save the exceptions in section 7, then we should indulge the presumption that the President would have selected men learned in the law to -occupy the positions; but from the incipiency of the civil government in Alaska the commissioners provided for in the organic act have been appointed and confirmed by the Senate without reference to their legal acquirements, thus indicating that they were regarded as tribunals of limited jurisdiction. As was well said in the argument of petitioner\u2019s counsel, we cannot presume that Congress intended to establish five courts so equal in power, save from the exception in section 7.\nThe rule to be deduced from the authorities is that, when there is a conflict between two parts of -the same law, and a particular thing given is announced or a jurisdiction defined by the preceding part of a legislative act, it shall not be altered or taken away by any subsequent general words in the same act. Sedgwick, Statutory and Constitutional Law, 601; Stanton v. University of Oxford, 1 Jones, 26.\nApplying this rule, which I deem to be a sound one, the ,mind is led to the conclusion that the lines in section 7 of the organic act which extend the jurisdiction of the commissioners for Alaska must be regarded as superfluous matter, because they are in conflict with section 5 upon the same subject, and in a subsequent part of the act. A court of limited jurisdiction can take cognizance only of those matters conferred by the law of its organization. It can try and determine cases of that description only. If it assumes to act in a case over which the law does not give it authority, the whole proceeding, from the issuing of the writ to the rendition of judgment, is void; and the rights of property cannot be disturbed by means thereof. Blin v. Campbell, 14 Johns. 432.\nSo strict is this rule that the consent of parties cannot confer upon a court a jurisdiction or a power to act upon subjects which are not submitted to its judgment by the law. The law creates all inferior tribunals, and, with reference to considerations of general public policy, defines and limits their jurisdiction.\nThe conclusion I have reached under the Alaska act is that the trial of civil causes is limited to that of justices of the peace under the laws of Oregon, extending to controversies only when the amount involved does not exceed $250, and that the judgment rendered in this cause by the commissioner is void; and it is so ordered.",
+        "type": "majority",
+        "author": "DAAVSON, District Judge."
+      }
+    ],
+    "attorneys": [
+      "A. K. Delaney and M. D. Ball, for petitioner.",
+      "W. Clarke, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "MYERS v. SWINEFORD.\n(Sitka.\nAugust 24, 1888.)\nNo. 76.\n1. Justice oe the Peace \u2014 Jurisdiction.\nUnder the organic act of May 17, 1884 (23 Stat. 24, c. 53), a commissioner in Alaska, sitting as a justice of the peace, is limited in his civil jurisdiction to controversies where the amount involved does not exceed $250.\n2. Courts \u2014 Consent\u2014Jurisdiction.\nIf a court of limited jurisdiction assumes to act in a case over which the law does not give it authority, the whole proceeding, from the issuing of the writ to the rendition of the judgment, is-void. Consent of parties cannot confer jurisdiction where the-law has not.\n8. United States Commissioner \u2014 Jurisdiction.\nA judgment was rendered against the defendant before a commissioner at Sitka. The cause was taken before the District Court on certiorari. Held-, that the commissioner was limited in jurisdiction to $250.\nA. K. Delaney and M. D. Ball, for petitioner.\nW. Clarke, for respondent."
+  },
+  "file_name": "0010-01",
+  "first_page_order": 34,
+  "last_page_order": 39
+}

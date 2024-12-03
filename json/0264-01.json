@@ -1,0 +1,68 @@
+{
+  "id": 8504985,
+  "name": "HEMAN v. GRIFFITH et al.",
+  "name_abbreviation": "Heman v. Griffith",
+  "decision_date": "1901-10-29",
+  "docket_number": "No. 330",
+  "first_page": "264",
+  "last_page": "267",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 264"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 326,
+    "char_count": 5101,
+    "ocr_confidence": 0.701,
+    "pagerank": {
+      "raw": 6.380125665320789e-08,
+      "percentile": 0.3917637669223186
+    },
+    "sha256": "44c5174a7bb92862d17c30660c1e6620a94ddc9f504b21c61e5c7c95e757b624",
+    "simhash": "1:1eb461e8e5e8920c",
+    "word_count": 916
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HEMAN v. GRIFFITH et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe court is relieved from the consideration of some questions in this case by having determined similar ones in the case of Steen v. The Wild Goose Mining Co., ante, 255, and, so far as the same is .applicable, that opinion may be taken in connection with this one in determining the findings of fact, conclusions of law, .and decree to be prepared in this case.\nThe'Brevig location is far from being as satisfactory at \u25a0the beginning as was the Karlson claim. Melsing was employed by Brevig' in May, 1898, to make a location for him .above No. 13 on Ophir creek, and about midnight of May 14, 1898, he reached that point with his dog team, attended by .a native, and tied a notice of location, prepared by Brevig, upon a willow bush at the upper end of No. 13. This notice \u25a0of location has the same weakness that the Karlson notice had, in that it followed the bed of Ophir creek as a center line. Little seems to have been done immediately toward perfecting the Brevig location, although Englestadt testifies that on May 21, 1898, when he and Karlson located No. 15, they found Brevig\u2019s upper stake, and placed the lower stake \u25a0of No. 15 where it now remains, by the side of the upper \u2022stake of No. 14. The testimony on that point is not satisfactory; certainly not so satisfactory as that with regard to the upper and lower stakes of No. 15. The Brevig claim lacks the early integrity which No. 15 had, by reason of the fact that it was unworked and without attention for so long \u2022after his claim was first made. It was not until July 15, -i899, that No. 14 was staked by Pearson. The evidence shows that either in July or August of that year he staked the ground, made a discovery of gold, and did the assessment work upon the claim. Almost a year previous to this time, Teonhurtz marked the boundaries of No. 15, and during the year 1899, about the time Pearson first gave any legal life to No. 14, the Golovin Bay Mining Company was in-possession of No. 15, working the claim with a large force-of men. As between these two claims, I have no question but that No. 15 was located by Karlson in good faith. The monuments were set and a discovery made almost a year-before similar work was done upon No. 14. From all the evidence, I can reach but one conclusion between these two claims, and that is that No. 15 is entitled to be preserved entire, and that any overlap must be lost to No. 14, by- reason of being subsequent in location, discovery, and marking of the boundaries.\nI am satisfied from all the evidence, however, that No. 14 was staked, practically as claimed by the plaintiffs in this case, by Pearson in July or August, 1899, in the form of a parallelogram extending from the initial stake up stream. It is very earnestly urged that the Brevig location is void because a discovery did not precede the posting of Melsing\u2019s. notice and the filing and recording of the certificate of location. I am in some doubt upon that question, but the-general rule is that it is immaterial as to the order of events in the location of a mining claim. If it appears that each act-required by statute has been performed, and the claimant is in possession thereunder prior to any intervening rights, the claim will be sustained; and I am satisfied that everything required by law to be done to establish this mining claim had been done in good faith by Brevig, prior to the time-of the attempted location of any of the overlapping claims. The Black Mars claim was not located until October 2, 1899, and, so far as it overlaps No. 14 as now surveyed, the evidence shows that No. 14 was staked prior thereto and is-entitled to be sustained. The Griffith location of Sweet Silence was not made until October 12, 1899. He recognized the location and existence of No. 14, but attempted,, like Steen in the other case, to locate his claim along the sinuous line of Ophir creek, and for the same reasons his claim must fail. Rico\u2019s claim, the Lucky San Francisco, was not located until July 19, 1900, and, so far as it conflicts-with the Brevig location of No. 14, it must fail.\nFrom all the evidence in this case I am satisfied, and so\u2019 determine, that the Brevig location of No. 14 was located, staked, and marked in compliance with the law, between May 14, 1898, and August 2, 1899, and that it must be sustained as now surveyed. As between these two claims, the Karlson claim is entitled to be sustained, and No. 14 must give way.\nFindings of fact may be prepared in accordance with the conclusions.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "J. W. Loman, for plaintiff.",
+      "John Rustgard, for Griffith.",
+      "Johnson & Daly, Sullivan & Fink, and Gordon Hall, for Wild Goose Co.",
+      "Yolney T. Hoggatt, for Rice."
+    ],
+    "corrections": "",
+    "head_matter": "HEMAN v. GRIFFITH et al.\n(Second Division. Nome.\nOctober 29, 1901.)\nNo. 330.\n1. Motes .and Mineuals \u2014 Discovery\u2014Location.\nIt is immaterial in wbat order tbe acts necessary to constitute a valid placer mining claim are performed, as that tbe marking of tbe boundaries preceded tbe discovery. If all tbe necessary acts are done prior to an attempted location by another locator, it is sufficient, and tbe claim is valid.\nJ. W. Loman, for plaintiff.\nJohn Rustgard, for Griffith.\nJohnson & Daly, Sullivan & Fink, and Gordon Hall, for Wild Goose Co.\nYolney T. Hoggatt, for Rice."
+  },
+  "file_name": "0264-01",
+  "first_page_order": 288,
+  "last_page_order": 291
+}

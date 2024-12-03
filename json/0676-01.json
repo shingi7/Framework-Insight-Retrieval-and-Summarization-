@@ -1,0 +1,157 @@
+{
+  "id": 8506124,
+  "name": "UNITED STATES v. FLORENCE alias MAUD RICE",
+  "name_abbreviation": "United States v. Florence",
+  "decision_date": "1902-12-08",
+  "docket_number": "No. 328b",
+  "first_page": "676",
+  "last_page": "681",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 676"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "11 Pa. 293",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        404621
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/11/0293-01"
+      ]
+    },
+    {
+      "cite": "44 Tex. 112",
+      "category": "reporters:state",
+      "reporter": "Tex.",
+      "case_ids": [
+        2162073
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/tex/44/0112-01"
+      ]
+    },
+    {
+      "cite": "2 Colo. 528",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        188900
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/colo/2/0528-01"
+      ]
+    },
+    {
+      "cite": "6 Hill, 506",
+      "category": "reporters:state",
+      "reporter": "Hill,",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Ga. 37",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        843487
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/33/0037-01"
+      ]
+    },
+    {
+      "cite": "14 Tex. App. 168",
+      "category": "reporters:state",
+      "reporter": "White & W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 W. Va. 625",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8640782
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/24/0625-01"
+      ]
+    },
+    {
+      "cite": "33 Ga. 125",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        843502
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/33/0125-01"
+      ]
+    },
+    {
+      "cite": "30 Stat. 1334",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 522,
+    "char_count": 10736,
+    "ocr_confidence": 0.672,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20525366536813536
+    },
+    "sha256": "c3e39c947a36c64d31deece70a17ec2eed6ee1e76dce43a52f2a4cbcf0775d30",
+    "simhash": "1:1c0671283122a599",
+    "word_count": 1873
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES v. FLORENCE alias MAUD RICE."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nThe files and docket entries of G. M. Irwin, a United States Commissioner acting as justice of the peace at Douglas, Alaska, together with the undertaking on appeal accepted by him, have been duly filed by the clerk of this court. The district attorney moves to dismiss-the appeal on the following grounds: (i) The notice of appeal' does not sufficiently describe the judgment appealed from; (2) no undertaking has been filed by the defendant in this case, as required by section 442, c. 43, of the Alaska Criminal Code (Act March 3, 1899, c. 429, 30 Stat. 1334); (3) no undertaking has been filed by the defendant in this case, as required by section 446, c. 43, of the Alaska Criminal Code.\nIn determining this case I am concerned only with the consideration of the undertaking of the appellant under section 443 of the Code. There is no question or dispute that an undertaking was filed and sent up with the papers in the case. Section 451 of the Code provides as follows:\n\u201cAn appeal cannot be dismissed, on motion of tbe appellee on ae-count of tbe undertaking tberefor being defective, if tbe appellant, before tbe determination of tbe motion to dismiss will execute a sufficient undertaking and file tbe same in tbe appellate court, upon sucb terms as may be deemed just.\u201d\nDefective \u2014 what does it mean? Rapalje defines \u201cdefect\u201d as \u201cdeficiency; insufficiency; the absence of something required by law.\u201d Webster defines it as \u201cwanting in something; incomplete; lacking a part; deficient; imperfect; faulty.\u201d When the law speaks of a defective undertaking, it necessarily means that.there is an undertaking; that there is something in which there is a defect\u2019; something wanting; something incomplete, deficient, imperfect. Can it be possible that the statute means that, where the attempt has been made to file an undertaking for appeal, it means anything\u2014 any kind of writing, though it lack all the essentials of an undertaking? I cannot so construe the language of our statute. It seems to me that a defective undertaking means one which contains most of the essentials of the statute, but lacks something not very material, and going to matters of form, and not of substance. If the pretended undertaking in this case is so defective in substance as to be void, then it would seem .that such a paper would be no undertaking at all, and that any appeal undertaken with such a paper as its foundation must be treated as if no attempt whatever had been made to file the undertaking required by statute. If the paper filed is defective in form merely, and is voidable, but not void, it would seem that such, a paper would come within the purview of the statute as defective, and that an appeal should not be dismissed on account of such defect, if the appellant, before the determination of the motion to dismiss, should execute a sufficient undertaking and file the same in the appellate court.\nIn the determination of this motion, therefore, we are to consider it upon the theory that the paper filed is either void or voidable only. Surely it is very imperfect, and must come-under one of these' heads. L,et us examine the original p\u00e1per, called an \u201cundertaking\u201d or \u201ccost bond.\u201d It reads as follows r\n\u201cIn the United States Commissioner\u2019s Court, Douglas Island, Alaska. United States v. Florence alias Maud Rice, Cost Bond.\n\u201cFlorence Bice, principal, and J. B. Caro and V. McFarland as sureties, hereby undertake that the said Florence alias Maud Bice will pay all costs and disbursements that may be awarded against her on the appeal taken by her from the judgment rendered in the above-named court and cause.\u201d\nThere is nothing in this so-called undertaking or cost bond to indicate what judgment had been pronounced, or when it had been pronounced, if at all, against the said Florence alias Maud Rice. It is recited that some judgment was rendered in the Commissioner\u2019s Court of Douglas Island, Alaska; but what judgment? Was it a judgment of imprisonment? Was-it a fine? What is there in this paper to indicate from what' this party was appealing? Nor is there anything in this paper to. show to what court the appeal is addressed or is to be' taken. The statute requires that this bond shall be given within 30 days from the date of judgment. When there is nothing in the bond by which the judgment could possibly' be identified, not even the date of the judgment, how could-any one examining this paper determine whether it was given' within the time required by law? If it is not given within the time limited, then no appeal can be taken. This obligation required by law, and called an \u201cundertaking for appeal,\u201d is, in a sense, jurisdictional. No appeal can be granted without it, and the undertaking must be accepted by the magistrate before he can allow such appeal.\nA form of undertaking is given in the statute where a stay of proceedings is intended. Section 216, Cr. Code. While it is not a form expressly provided for justice courts, in case of an undertaking such as is required here it gives a very general idea of such an undertaking as would cover the requirements of the statute. It is said:\n\u201cA recognizance or bond must be taken before an officer duly authorized, and in its form and attending formalities it must fill the requirements of the statutes and unwritten law of the particular state, or it will be void.\u201d Bishop, Crim. Procedure, \u00a7 264, and eases cited.\nIt is further said:\n\u201cIf a condition prescribed by statute is omitted in the recognizance, it is void, although the surety be benefited.\u201d Alexander v. Bates, 33 Ga. 125; State v. McCown, 24 W. Va. 625.\nSo, too, if conditions not authorized by statute are inserted in the recognizance, thus making it more burdensome, it is invalid. Turner v. State, 14 Tex. App. 168; Loyd v. McTeer, 33 Ga. 37. A recognizance should state the ground on which it is taken, and show a cause in which the court or magistrate is authorized to take bail. 2 Am. & Eng. Enc. of Law, bottom of page 15, citing a large number of cases in support of the statement from New York, Massachusetts, Ohio, Georgia, and Kentucky.\nThe offense should be mentioned. People v. Rundle, 6 Hill, 506, and a large number of cases from Ohio, Kentucky, Louisiana, and other states. It is not necessary in a criminal recognizance to describe the offense in detail, or to state facts in detail -sufficient to show that a public offense was committed. All that is necessary is that the recognizance should either state or show that the defendant was charged with the commission of a public offense. 2 Am. & Eng. Enc. of Law, citing cases from Kansas, Tennessee, Iowa,' Texas, and Louisiana. Where the crime is recited as \u201cfor the offense of being a common gambler,\u201d it is sufficiently described. Chase v. People, 2 Colo. 528. The offense should be so described as to be capable of being identified with the one named in the indictment. 44 Tex. 112. A penalty and a condition are indispensable to constitute a recognizance. Caldwell v. Brindle, 11 Pa. 293.\nTo be a good undertaking for appeal, the undertaking must describe the court in which taken; the name of the person prosecuted; the character of the crime committed; if it have a name, designating it, and, if it have no name, a general appellation by so describing the substance of the offense as to make it clear for what the accused was tried; the date of the judgment; the penalty of the judgment; if a fine, the amount thereof, and the costs; if imprisonment in the jail, the term of imprisonment; and the court to which the appeal is taken, together with the particular conditions prescribed by statute, viz., that the appellant will pay all costs and disbursements that may be awarded against him or her on the appeal. Anything less than this is, in my opinion, a defective undertaking, or one that may be so bad as to be no undertaking at all.\nThe paper tendered by the defendant in the case does not contain the date of the judgment, if any was pronounced; does not name or describe the offense for which the person was tried; does not set forth what penalty, if any, was adjudged against the defendant; does not name or refer to the court to which the appeal was taken; in fact, is so indefinite and uncertain in all its terms that it would be utterly impossible from its face to identify it in any manner with the complaint or other proceedings occurring on the trial in the lower court.\nThe court is of the opinion that, under the authorities referred to by Bishop and the text of his valuable work on Procedure, the so-called undertaking in this case is not only defective, but lacks nearly all the essential ingredients to constitute it an undertaking of any force or validity in the case; in other words, it is void, and of no effect whatsoever. Being void, it does not come within the purview of the statute that an appeal cannot be dismissed on motion of the appellee on .account of the undertaking therefor being defective, if the appellant, before the determination of the motion to dismiss, will execute a sufficient undertaking, and file the same in the appellate court, upon such terms as may be deemed just.\nAs before stated, if there is no bond, there is nothing to amend. It is not a defect; it is nothing. And the case stands as if no bond had been given, and the motion to dismiss must he sustained. But I am bound to say the defendant has offered and- filed an undertaking in the case which is probably sufficient, in form and substance, before the determination of this motion to dismiss. The undertaking filed in this court hy counsel as a substitute for the one upon which the case was appealed, in my opinion, would be an excellent mode to follow for all persons taking an appeal. It covers the re\u2022quirements of the law precisely as I have stated them.\nBut, from my view of the law as applicable to this case, viz., that the paper filed as an undertaking is void, and therefore no undertaking at all, it is now too late to perfect the appeal hy filing an undertaking which is good.\nThe motion to dismiss is sustained.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Robert A. Friedrich, U. S. Dist. Atty., for plaintiff.",
+      "Maloney & Cobb, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES v. FLORENCE alias MAUD RICE.\n(First Division. Juneau.\nDecember 8, 1902.)\nNo. 328b.\n1. Appeal and Error \u2014 Bond\u2014Undertaking.\nAppeal from justice\u2019s court. Motion to dismiss appeal because-the undertaking is void. A sufficient undertaking was offered before the motion to dismiss was beard. The undertaking was-held so deficient as to be void and incapable of forming a basis, of appeal. Held, not a \u201cdefective\u201d undertaking, but wholly a void one. Appeal dismissed.\nMotion to dismiss appeal from justice\u2019s court because the undertaking on appeal was void.\nDismissed.\nRobert A. Friedrich, U. S. Dist. Atty., for plaintiff.\nMaloney & Cobb, for defendant."
+  },
+  "file_name": "0676-01",
+  "first_page_order": 700,
+  "last_page_order": 705
+}

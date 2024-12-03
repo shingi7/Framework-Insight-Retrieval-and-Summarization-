@@ -1,0 +1,115 @@
+{
+  "id": 8504402,
+  "name": "MOODY v. THE FIRST BANK OF SKAGWAY",
+  "name_abbreviation": "Moody v. First Bank of Skagway",
+  "decision_date": "1900-10",
+  "docket_number": "No. 951",
+  "first_page": "104",
+  "last_page": "107",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 104"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "23 Stat. 25",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Or. 328",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Cal. 501",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Cal. 206",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2199361
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/3/0206-01"
+      ]
+    },
+    {
+      "cite": "14 Or. 17",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2282895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/14/0017-01"
+      ]
+    },
+    {
+      "cite": "12 Pac. 56",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 399,
+    "char_count": 7319,
+    "ocr_confidence": 0.664,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20521350858679405
+    },
+    "sha256": "0ef6df53c1731d7084d50bead6e5fbaa1c731011c4094a110c372f8e42edaadd",
+    "simhash": "1:522ddd773d3d7062",
+    "word_count": 1296
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MOODY v. THE FIRST BANK OF SKAGWAY."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nIt seems,that the matter now before the court had its origin in the Commissioner\u2019s Court, before C. A. Sehlbrede, United States Commissioner, on the nth day of March, 1899, in A. McRae v. A. D. McLennan; that an affidavit in attachment was filed in said case, in which it was alleged that the defendant was indebted to plaintiff in the sum of $211.15 and interest, upon contract for the payment of money; that the sum for which attachment was asked was an actual, bona fide, existing debt due and. owing from the defendant to the plaintiff, and not secured by any mortgage, lien, or pledge upon any real or personal property; and that said action was not brought, nor said attachment sought, to hinder, delay, or defraud any creditor of the defendant. This affidavit was signed March 6th, and the bond seems to have been filed on March nth. An attachment was issued some time in March, but bears no date whatever. The marshal, however, certifies in his return that the writ came into his hands on March 13, 1899, and that he executed the same by attaching as garnishee the First National Bank of Skagway and C. S. Moody, manager of the Bank of Skagway, and also serving upon Moody a copy of the garnishment bearing date March 18, 1899. There also appears an answer, made by Moody, in writing, as president and manager of the First Bank of Skagway, admitting that the bank had in its possession the sum of $621, in the name, to the credit, or payable to A. D. McLennan. No date is attached to this paper, and no file mark is found thereon. There also appears in the record of proceedings in that case an affidavit for publication, alleging that the defendant is a nonresident. A complaint was also filed in the action, describing the claim on which suit was brought, as follows:\n4\u2018$211.15. Skagway, Alaska, May 25 th, 1898.\n\u201cSix months after date, I promise to pay to A. McRae, or order, at the Bank of British Columbia, Victoria, B. G., the sum of $211.15, with interest at ten per cent, till paid.\n\u201cA. D. McLennan.\u201d\nThe docket entries of the justice or commissioner before whom the suit was brought recite:\n\u201cMarch 13, 1899. Complaint was filed, summons issued, returnable March 20th at 10 o\u2019clock. Placed in the hands of Deputy Marshal Tanner for service. Summons returned \u201cDefendant not found.\u2019 Affidavit for publication of summons filed March 27th,\u201d etc.\nIt appears by the record generally that no service was 'made upon the defendant; that a constructive service was made, or attempted to be made, by publication of summons; that many of the proceedings in the matter of issuing summons and the publication of service were irregular; and, by the affidavit of the publisher, attached to the brief of the receiver in this case, it appears that the publication was made in the name of \u201cA. M. Rae,\u201d and not in the name of \u201cA. McRae\u201d; and that the proof of service in that case, when filed in the justice court, had the \u201cc\u201d inserted therein with a pen, the same not appearing at all in the publication. In other words, the affidavit of the publisher undertakes to show that the publication, after it was made, and after the proof thereof was made, was tampered with by inserting such letter as would make the publication and service in the action valid. There are many other irregularities apparent on the face of the record as presented to the court.\nBy the record as a whole we are brought squarely to face this proposition: Had the court that proceeded to enter judgment in the case under suit in attachment and the subsequent proceedings acquired jurisdiction, so that any of the steps taken in the case were legal or binding? If the court had jurisdiction, whatever minor defects in the record were unchallenged would not invalidate the proceedings; but, if the affidavit in attachment was insufficient to support the action taken, then the court was without jurisdiction, and all its proceedings void ab initio. At the time this action was brought the laws of Oregon provided in substance, if not in exact words, that the remedy by attachment is given upon those contracts for the direct payment of money which are made or are payable in the state. No writ of attachment could issue in Oregon under this statute, and no attachment be maintained, unless there was an express stipulation that the contract should be paid in that state; and, if the affidavit did not show the claim to be one of those upon which a suit in attachment could be brought, it was insufficient in law to sustain an attachment, and therefore wholly void. The affidavit in this case not only did not state that the claim was payable within the District of Alaska, but the complaint that was filed with, or at the time of, the affidavit for attachment, shows in express terms that the claim upon which suit was brought was by its terms made payable in British Columbia. This same statute has been construed, both in California and Oregon, in one way only, viz., that no proceedings upon a claim, not by its terms payable within the state could be maintained by action in attachment. Trabant v. Rummell, 12 Pac. 56, 14 Or. 17; Dulton v. Shelton, 3 Cal. 206; O\u2019Connor v. Frasher, 56 Cal. 501; Cooper v. McGrew, 8 Or. 328.\nWe are, then, confronted with the question whether the statute of Oregon referring to this matter was in force and effect in this jurisdiction at the time of the proceedings in question. By the act of Congress of 1884 (Act May 17, 1884, c. 53) \u00a7 7j 23 Stat. 25) all the laws of Oregon in force in that state, and not locally inapplicable or in conflict with the laws of the United States, were declared to be in force in Alaska. If the statutes of Oregon on the subject of attachment were not in force, then no such proceeding as the one instituted in this cause could have been maintained. The proceeding was begun solely under the authority of the attachment laws of Oregon, and under no other. If we were to say that this particular branch of the attachment law was not in force in Alaska, because it uses the language \u201cwithin the state,\u201d then we should be compelled to hold that the entire statute, for the same reason, was not in force. The statute could only be made applicable to conditions in Alaska by holding that, where the law was made to apply to conditions in the state of Oregon, the Congress of the United States, by putting' those laws into force in Alaska, intended that, where conditions in Alaska were like, the law of Oregon should be in force.\nWithout considering other questions presented by the record in this case, I am impelled to the conclusion that the proceedings in attachment originally instituted, and upon which the motion under consideration was framed, were wholly void, and of no effect. The motion to make the claims preferred claims against the bank and against the receiver is denied.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Louis K. Pratt, for the motion.",
+      "J. G. Price, contra."
+    ],
+    "corrections": "",
+    "head_matter": "MOODY v. THE FIRST BANK OF SKAGWAY.\n(First Division. Skagway.\nOctober Term, 1900.)\nNo. 951.\n1. Attachment \u2014 .Tustice oe the Peace.\nA justice of the peace in Alaska, under the laws of Oregon then in force there, was without jurisdiction to render a judgment in attachment upon a note pay\u00e1ble.in Victoria, B. 0.\nThis was an application of McRae and Tarrant for an order making their judgment in attachment a preferred claim.\nLouis K. Pratt, for the motion.\nJ. G. Price, contra."
+  },
+  "file_name": "0104-01",
+  "first_page_order": 128,
+  "last_page_order": 131
+}

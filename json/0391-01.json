@@ -1,0 +1,120 @@
+{
+  "id": 8505399,
+  "name": "CROSSLY et al. v. CAMPION MIN. CO.",
+  "name_abbreviation": "Crossly v. Campion Min. Co.",
+  "decision_date": "1901-12-21",
+  "docket_number": "No. 420",
+  "first_page": "391",
+  "last_page": "393",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 391"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 505",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "6 Pac. 173",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Or. 3",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2286174
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/12/0003-01"
+      ]
+    },
+    {
+      "cite": "24 Pac. 515",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "19 Or. 334",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        8661937
+      ],
+      "pin_cites": [
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/19/0334-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 503",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 265,
+    "char_count": 3873,
+    "ocr_confidence": 0.691,
+    "pagerank": {
+      "raw": 4.4916476050659184e-08,
+      "percentile": 0.2817004002936079
+    },
+    "sha256": "bf2a02e82ddfc3eb97246e195cbc49b11e0cea97037a2ad5da2423b23dd93130",
+    "simhash": "1:c7bd712ad3d6cdda",
+    "word_count": 678
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CROSSLY et al. v. CAMPION MIN. CO."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nDaniel J. Hart located the property in question on April 21, 1899. The same property was located by J. E. McDermott on August 1,1899. Upon all the evidence in the case I am satisfied that Haft\u2019s location was strictly in compliance with the statute, and for that reason the McDermott location was and is void, and need not be further considered in this case. \u201e\nHart\u2019s location was made in pursuance to a grub-stake contract with the Yukon Gold Dredging Company, made in March, 1899, and was recorded on June 29, 1900. In pursuance to this contract, and on August 19, 1899, Hart made a deed to the Yukon Company for the property in question, which deed was also filed for record on June 29, 1900.\nOn June 17, 1900 \u2014 almost a year after his deed to the Yukon Company \u2014 Hart made another deed to D. D. Mc-Lennan. This is a deed of quitclaim, in effect conveying only \u201call his right, title, and interest.\u201d The consideration mentioned in this deed is $1. The deed was not acknowledged until the 20th day of September, 1900. It was first recorded on June 22d, and, after acknowledgment, on September 20, 1900. Upon all the evidence I am satisfied that McLennan took this deed with full knowledge of the prior deed made by Hart to the Yukon Company. Hart testifies that he informed Harrison and McLennan distinctly about this matter when the deed to McLennan was made, and that McLennan acknowledged to him that he understood the situation fully.\nUnder section 75 of the Civil Code (Act June 6, 1900, c. 786, 31 Stat. 503) \u201ca deed of quitclaim or release, of the form in common use, shall be sufficient to pass all the real estate which the grantee could lawfully convey by deed of bargain and sale.\u201d The deed in question, then, may be considered as one of bargain and sale, but only of \u201call the right, title, and interest\u201d which Hart then had. The expressed consideration being nominal, and never having been paid, and the grantee accepting the deed with full knowledge of the prior unrecorded deed under which the plaintiffs claim title, he is not a bona fide purchaser for value. Nor was he a \u201csubsequent innocent purchaser in good faith, and for .a valuable consideration,\u201d such as is described in section 98; the outstanding deed would not be void as to such a purchaser. I am inclined to hold that- the deed from Hart to McLennan is void under sections 119 and 120 of the \u25a0Civil Code. American Mortgage Co. v. Hutchenson, 19 Or. 334, 348, 24 Pac. 515; Baker v. Woodward, 12 Or. 3, 6 Pac. 173.\nThere is a wide discrepancy between Hart and McLen-nan as to the payment of the consideration. Hart testifies positively that no consideration was paid, while McLennan swears equally as positively that it was paid. The deed itself discloses that the consideration was $1. This much may be conceded as established.\nThe evidence satisfies me that the plaintiffs\u2019 grantor, Hart, located this mine in good faith, and plaintiffs and their grantors have maintained that possession which justifies the court in upholding their title at the time of the bringing of this .action.\nFindings of fact and conclusions of law may be prepared for the plaintiffs, who will have judgment upon the merits of the case.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "T. M. Reed, for plaintiffs.",
+      "Hastie & Thuland, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "CROSSLY et al. v. CAMPION MIN. CO.\n(Second Division. Nome.\nDecember 21, 1901.)\nNo. 420.\n1. Vendob and Purchaser \u2014 Fraudulent Conveyances.\nOne who purchases real estate for a mere nominal consideration, with knowledge of a prior sale and of a prior unrecorded deed, made in good faith, and for a valuable consideration, is not a bona fide purchaser for value. Nor was he a \u201csubsequent innocent purchaser in good faith, and for a valuable consideration,\u201d such as is protected by section 98 of the Civil Code of Alaska (Act June 6, 1900, c. 786, 31 Stat. 505).\nSuit to Quiet Title to Real Estate.\nT. M. Reed, for plaintiffs.\nHastie & Thuland, for defendant."
+  },
+  "file_name": "0391-01",
+  "first_page_order": 415,
+  "last_page_order": 417
+}

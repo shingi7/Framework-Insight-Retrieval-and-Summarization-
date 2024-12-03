@@ -1,0 +1,97 @@
+{
+  "id": 8505855,
+  "name": "NESTOR v. HOLT et al.",
+  "name_abbreviation": "Nestor v. Holt",
+  "decision_date": "1902-04-16",
+  "docket_number": "No. 114",
+  "first_page": "567",
+  "last_page": "567",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 567"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 506",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "8 Pac. 548",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Or. 474",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2286190
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/12/0474-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 505",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 147,
+    "char_count": 1673,
+    "ocr_confidence": 0.688,
+    "pagerank": {
+      "raw": 1.2240919645422112e-07,
+      "percentile": 0.6003960076436888
+    },
+    "sha256": "d75a73353a6d67b030e535e978dc890a12c51ba38270d2a9a030c9957b7e05e0",
+    "simhash": "1:8476e8b46136cce8",
+    "word_count": 298
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NESTOR v. HOLT et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nUpon an examination of the pleadings, evidence, and brief of the defendant Ross, I am satisfied:\n1. That section 98 of the Civil Code of Alaska (Act June 6, 1900, c. 786, 31 Stat. 505) applies to the recording of mortgages, as well as to deeds and other conveyances. Watson v. Dundee Co., 12 Or. 474, 8 Pac. 548.\n2. That the mortgage given by Holt to the plaintiff, Nestor, on June 30, 1900, and which was not recorded until August 2 and 6, 1900, and several days subsequent to the conveyance by Holt to Chapman and Ross, who took their deed in good faith, for value, and without any notice of the existence of the Nestor mortgage, is void as against the said subsequent conveyances.\n\"3. That the option given by Ross to Holt did not create the relation of debtor and creditor between them, and Ross\u2019 deed from Chapman was not considered as a mortgage in favor of Holt, nor was it converted into a mortgage by the option given by Ross to Holt. These conclusions dispose of the matters in issue in favor of the defendant Ross, and findings of fact and conclusions of law in his favor may. be prepared for signature by his attorney.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "James E. Fenton, for Nestor, plaintiff, and Holt, defendant.",
+      "Jeffreys & Sullivan, for defendant Ross."
+    ],
+    "corrections": "",
+    "head_matter": "NESTOR v. HOLT et al.\n(Second Division. Nome.\nApril 16, 1902.)\nNo. 114.\n1. Records \u2014 Deeds\u2014-Mortgages.\nUnder section 98 of the Civil Oode of Alaska (Act June 6, 1900, c. 786, 31 Stat. 506). mortgages must he recorded with the same effect as deeds and other conveyances. An unrecorded mortgage is void as against an innocent purchaser in good faith for value, and without notice of the existence of the mortgage.\nJames E. Fenton, for Nestor, plaintiff, and Holt, defendant.\nJeffreys & Sullivan, for defendant Ross."
+  },
+  "file_name": "0567-01",
+  "first_page_order": 591,
+  "last_page_order": 591
+}

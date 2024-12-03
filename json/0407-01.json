@@ -1,0 +1,271 @@
+{
+  "id": 8505497,
+  "name": "GIBSON v. CANADIAN PACIFIC NAV. CO.",
+  "name_abbreviation": "Gibson v. Canadian Pacific Nav. Co.",
+  "decision_date": "1902",
+  "docket_number": "No. 1,070",
+  "first_page": "407",
+  "last_page": "421",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 407"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "106 U. S. 700",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3497777
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/106/0700-01"
+      ]
+    },
+    {
+      "cite": "149 U. S. 43",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3569644
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/149/0043-01"
+      ]
+    },
+    {
+      "cite": "102 Fed. 265",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 C. C. A. 334",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Fed. 464",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 C. C. A. 532",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 Fed. 462",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6719021
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/50/0462-01"
+      ]
+    },
+    {
+      "cite": "1 C. C. A. 529",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Wall. 341",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3408619
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/89/0341-01"
+      ]
+    },
+    {
+      "cite": "144 U. S. 408",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3561123
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/144/0408-01"
+      ]
+    },
+    {
+      "cite": "57 Fed. 915",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3802982
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/57/0915-01"
+      ]
+    },
+    {
+      "cite": "6 C. C. A. 636",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Fed. 65",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3809934
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/53/0065-01"
+      ]
+    },
+    {
+      "cite": "8 C. C. A. 433",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "97 Fed. 423",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3832444
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/97/0423-01"
+      ]
+    },
+    {
+      "cite": "38 C. C. A. 239",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "56 Fed. 973",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6723286
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/56/0973-01"
+      ]
+    },
+    {
+      "cite": "6 C. C. A. 190",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "139 U. S. 469",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3552570
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/139/0469-01"
+      ]
+    },
+    {
+      "cite": "94 U. S. 278",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5643960
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/94/0278-01"
+      ]
+    },
+    {
+      "cite": "53 Fed. 69",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 C. C. A. 437",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1043,
+    "char_count": 29349,
+    "ocr_confidence": 0.65,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.4379137548173658
+    },
+    "sha256": "1405393e633c5a796a64da2d79564102a03eabae724820315c8edfd25eb459b1",
+    "simhash": "1:7ca9a9289a0cd221",
+    "word_count": 5160
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GIBSON v. CANADIAN PACIFIC NAV. CO."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nBriefly stated, the complaint in this case alleges that on or about the 8th day of March, 1899, plaintiff, Gibson, was employed by the defendant at the town of Skagway as a longshoreman to assist in the unlading of the steamer Tees, a vessel owned by the defendant, the unlading of which was being conducted under the supervision of the agents and officers of -said defendant; that while the plaintiff was engaged in the work of unloading said vessel, through the negligence, carelessness, and mismanagement of said work by the defendant he was seriously and permanently injured by the breaking of his right leg. This allegation is followed by a statement of the circumstances and conditions under which the injury occurred; the term of plaintiff\u2019s sickness and incapacity by reason of sickness, loss of time, expense of treatment and care in his efforts toward recovery. The particular specifications of the complaint are that at the time the injury was received it was the hour of extreme low tide at the port of Skagway; that the ship Tees was very much lower than tne platform of the wharf; that the appliances for unloading said vessel were defectively rigged, so as to make her unloading dangerous to the employ\u00e9s engaged in said work, and especially dangerous at the stage of the tide aforesaid.\nThe alleged defective appliances are described as follows: Said unloading was being done by means of rope and tackle fastened to the end of a beam, the other end of which was fastened to the mast, one end of said rope passing around a winch. The load, fastened to the other end, was drawn out of the hold, and swung onto the wharf. The end of said beam fastened to the mast was fastened at a point so low down upon said mast that, in order to lift the load sufficiently to pass over the platform of the wharf, said beam was placed in a nearly upright position, so that it was impossible to swing the load over the wharf by means of the boom itself,-making it necessary to draw said load over the wharf by hand; that while unloading the vessel in the dangerous manner aforesaid, by reason of the defective appli-anees, the defendant negligently loaded too heavy a load upon said rope and tackle, to wit, 18 bales of compressed hay, and when the same was hoisted up to the end of the beam in the manner aforesaid libelant was instructed by defendant to draw the same by hand over onto the platform, when and where the said load was lowered upon the platform of the dock. This, the plaintiff charges, was a negligent and dangerous manner of unloading said vessel, and said load was precipitated upon the plaintiff, and crushed and broke his right leg.\nThe answer of the defendant is practically a denial of these allegations, putting the plaintiff to proof.\nThe evidence in this case tends to show that the work of unloading the vessel Tees had progressed but a short time when the accident occurred by which the plaintiff was injured. The freight that was being taken from the steamer \u25a0consisted of baled hay. Several bales were held together by a rope, and hoisted up to or above the level of the wharf, but, by reason of the shortness of the boom or the improper arrangement of the tackle, at the then stage of the tide, the load could not be swung over and landed upon the wharf. It did permit the swinging of the load to a point about even with the edge of the wharf, where the longshoremen engaged upon the work would seize the load at each end thereof, and swing it over the wharf platform far enough or to a point where it might be lowered upon the same. Several loads of hay, consisting of perhaps six bales, had been hoisted from the vessel and swung upon the wharf successfully, and without apparent danger to those engaged in the work. Later, nine bales were included in a single load and hoisted up through the vessel\u2019s appliances as before. The two men, one of whom was the plaintiff, engaged in swinging these loads inward, so that they might fall upon the wharf when lowered, undertook to land the load of nine bales upon the wharf as they had landed the other load. They made three trials to land this load, but failed, whereupon a stranger standing by came to their aid, one of the employ\u00e9s taking hold of the load at one end, the stranger at the other, and the plaintiff immediately in front. As it was swung inward,, over the wharf by the united strength of the three, and the men were straining to hold the load over the wharf, the plaintiff leaning backward pulling with his utmost strength,, his feet apparently somewhat under the load, the same was quickly lowered by the winchman, and fell upon and broke the right leg of the plaintiff. These are practically the facts, and all the facts, as described by witnesses engaged in the work, that resulted in the injury to the plaintiff.\nThe attorney for the defendant complains of the plaintiff\u2019s complaint, and challenges its sufficiency in the law. While, perhaps, the manner of stating the facts may be open to some criticism, it is believed that the allegations, as a whole, state a cause of action. The complaint being held sufficient, there remain two questions to be disposed of by the court on the motion now under consideration: Was the injury received by the plaintiff the result of carelessness on the part of the defendant in the imperfect construction of the appliances of the ship Tees for unloading and discharging its cargo, or of the careless use of appliances sufficient in themselves, or was the injury the direct result of the contributory negligence of the plaintiff?\nReferring to the statement of facts, it is proper for the court to add that it was admitted on trial, or the court and the counsel for the plaintiff were given to understand, that the unloading of the ship Tees was being done under the direct supervision of the mate of said ship, and for the purposes of this motion the court accepts this statement as true.\nIt is self-evident that, while the appliances of the ship were ample and sufficient for the discharge of its cargo at ordinary stages of the tide, when the boom attached to the mast could be so lowered as easily to swing the loads being' hoisted from the hold over the wharf so that the same could be lowered thereon, without the load being swung upon the wharf by men. working thereon, yet, at extreme low tide, such-appliances were wholly insufficient for the work. The fault, if fault there was, was not in the original construction of the-appliances, but in the use of them at a stage of the tide which made therri unequal to the work for which they were originally made.\nAs the court understands the evidence, the only negligence or wrong on the part of the defendant was in using these appliances when insufficient for the proper performance of the work for which designed.\nThe mate of the ship was intrusted with the work of discharging the cargo, and the ship\u2019s appliances for that purpose were under his control and supervision. The manner of using these was left to his judgment and discretion, a discretionary power and authority which, in the judgment of the-court, constituted him, for the time being at least, \u201cvice principal\u201d of the defendant company. If there was negligence, fault, or wrong in the use of these insufficient appliances at the time the accident occurred, it was, therefore, the fault, negligence, and wrong of the defendant company. Was there fault in using these appliances ? There can be but one-answer to this question. There is always fault and always-wrong in using appliances unsuitable and insufficient for the service required.\nHowever strong and adequate these appliances at a higher stage of the tide, at the stage when being used they were beyond question insufficient and inadequate. That they could have been used with very slight danger in raising light loads there is no doubt; but it is equally evident that, when raising heavy loads, danger from their use was increased.\nBut it is urged with great earnestness and candor that, if there was negligence on the part of the defendant in the use of insufficient appliances, this was evident to the plaintiff, .and that he continued to work knowing and realizing all the conditions which brought him misfortune. This, in a measure, must be conceded, but whether the plaintiff knew, \u2022or should have known, the danger to which he was exposing himself in the use of insufficient appliances, is not, perhaps, quite so clear.\nThe testimony of the plaintiff is not altogether satisfactory; indeed, the plaintiff, when testifying, seemed to be unable to explain the conditions around him at the time the injury was received. Whether this inability arose from the natural diffidence and modesty of the man, or from mental inability, the court was not able at the trial to determine. That the plaintiff knew that the appliances being used were insufficient and inadequate, there can be no doubt. That he realized the danger in using them in the manner in which they were'employed at the time of the injury does not appear.\nThe plaintiff could not be charged with a degree of contributory negligence such as would defeat recovery simply because he knew the appliances were defective in the manner in which used, unless a reasonably intelligent or prudent man, under like circumstances, would have known or apprehended the risks and danger which the use of the defective appliances would indicate. Union Pacific Railway Co. v. Jarvi, 3 C. C. A. 437, 53 Fed. 69. Judge Sanborn, speaking for the Circuit Court of Appeals upon this question, makes the following statement:\n\u201cThe degree of care required of the master and servant also differ, because defects in a piece of machinery, or in the roof of a mine, that, to the eye of a competent inspector, such as the master \u25a0employs, portend unnecessary and unreasonable risks and great danger, may have no such significance to a laborer or miner who has had no experience in watching or caring for machinery or roofs of slopes in a mine; and the latter is not chargeable with contributory negligence simply because he sees or knows the defects, unless a reasonably intelligent and prudent man would, under like circumstances, have known or apprehended the risks which those defects indicate. The dangers, and not the defects merely, must have been so obvious and threatening that a reasonably prudent man would have avoided them, in order to charge the servant with contributory negligence.\u201d\nThe question of contributory negligence is not only one ordinarily for the jury, but, unless the facts are undisputable, and such that reasonable men can fairly draw but one conclusion from them, the court will not take the case from the jury.\nThe plaintiff in this case evidently did not realize the danger of the work on which he was engaged. Indeed, men of ordinary intelligence and good judgment would not always agree upon the theory that the danger was so evident that plaintiff must have apprehended it. It would seem reasonable that the plaintiff might have placed himself in the position he did in swinging the load upon the wharf many times without injury to himself, and doing the work in the same manner it was done at the time of the injury. Technically, undoubtedly, when the plaintiff found upon trial that, with the aid of his fellow workman, it was impossible for the load to be swung upon the wharf because of its great weight, he should have refused to attempt it; the load should have been lowered again to the hold of the ship, and a portion of it removed, so that a lighter load, as before, could have been swung upon the wharf without danger. But, if there wTas technical negligence on the part of the plaintiff,, it must be remembered that this work of unloading was being done under the personal supervision of the company,, or its trusted agent, and if it was the technical duty of the plaintiff to have refused the work of swinging the unusually heavy load upon the wharf, and if danger was thereby increased, this should have been far more apparent, and was more apparent, to the mate of the ship, supervising the work, than to the inexperienced longshoreman actively engaged in its performance.\nAt the close of the testimony in this case the defendant moved the court to instruct the jury to bring in a verdict for the defendant on the ground that there was no evidence upon which the jury could find for the plaintiff, and on the further ground that the evidence tended to show, and did show, that the injury to the plaintiff was the result of his \u25a0own contributory negligence.\nAt the close of the evidence in every case the court must first find whether there is any substantial evidence upon which the jury may find for the plaintiff, and, if there is no such evidence, it is clearly the duty of the court to direct the jury to return the verdict for the defendant. Commissioners v. Clark, 94 U. S. 278, 24 L. Ed. 59; Railroad Co. v. Converse, 139 U. S. 469, 11 Sup. Ct. 569, 35 L. Ed. 213; Gowen v. Harley, 6 C. C. A. 190, 56 Fed. 973, 12 U. S. App. 574; Chicago G. W. Ry. Co. v. Price, 38 C. C. A. 239, 97 Fed. 423. In the case last above cited the court says:\n\u201cBut it is equally well settled that it is only when the evidence leaves the material facts admitted or undisputed, and only when these facts are such that reasonable men, in the exercise of an honest and impartial judgment, can fairly draw but one conclusion from them, that the court may properly withdraw the case from the jury. If the evidence relative to the material facts is contradictory, or if, from the \u00e1dmitted or established facts, the unprejudiced minds of reasonable men may well draw different conclusions, it is the duty of the court to submit the issues to the jury.\u201d R. R. Co. v. Jarvi, 8 C. C. A. 433, 53 Fed. 65, 10 U. S. App. 439; Fuel Co. v. Danielson, 6 C. C. A. 636, 57 Fed. 915; R. R. Co. v. Ives, 144 U. S. 408, 12 Sup. Ct. 679, 36 L. Ed. 485; R. R. Co. v. Pollard, 22 Wall. 341, 22 L. Ed. 877.\nIt is quite clear from the evidence that the proximate cause \u2022of the injury sustained by said Gibson was the use of improper appliances in unloading the vessel at the time the accident occurred. This being true, the only question raised by the motion to instruct the jury, was the contributory negligence of the plaintiff.\nIn reference to some of the facts the plaintiff testified on \u2022cross-examination, as follows:\n\u201cQ. When you unloaded the first two loads you saw how the apparatus was rigged, did you not?\n\u201cA. No. I did not.\n\u201cQ. You did not see it?\n\u201cA. No, sir; I did not see it as I see it now.\n\u201cQ. Not as you see it now? But I ash you whether you saw that the \u2018hoom stick' was too short?\n\u201cA. No, sir; I did not.\n\u201cQ. There was nothing in the way to prevent you seeing it?\n\u201cA. I was not an experienced longshoreman. I was doing it, hut 1 did not pay attention to that.\u201d\nThe rule is that the danger from defects in machinery .and appliances furnished an employ\u00e9 must have been so obvious and threatening that a reasonably prudent man in the plaintiff\u2019s situation would have avoided them, in order to \u2022charge the injured servant with contributory negligence in -the performance of his duty in such a way as to have assumed the risk.\nThe case of the N. Y. T. S. S. Co. v. Anderson, 1 C. C. A. 529, 50 Fed. 462, was somewhat like the case at bar. The -plaintiff was stationed on the upper deck to receive the cargo as it reached him, loaded in slings, from the hold. He con\u25a0ducted the slings to the side of the vessel, and started the load down the skids to the dock. Other men, some from the crew and some from the shore, were at work in the hold filling the slings with cargo; and one Bronson, a man from the shore, had charge of the steam winch by which the cargo was hoisted and lowered. Bronson\u2019s winch was between the decks, and it was his duty to operate it according to the signals to be given to him by the plaintiff by blowing a steam whistle. The signal to raise the load was one blast, the signal to stop was one blast, and the signal to lower was two blasts. According to the testimony of the plaintiff, after the work had proceeded for an hour or more, and when the sling of cargo had been hoisted from the hold and conducted by him to the side of the vessel, he blew one blast to stop, which was not heeded, whereupon he repeated the signal almost immediately, but that Bronson, instead of stopping, lowered the sling load, and it struck the plaintiff, and led to his injuries. Everything testified to by the plaintiff, it is said, was contradicted by the witnesses for the defendant. The ground of recovery was the incompetency of the winch-man, the winchman being deaf, and otherwise incompetent; and these facts, if they were facts, were known to the plaintiff before the injury occurred. It seems in this case that two of the instructions requested by the defendant and refused embodied the proposition that, if the plaintiff had information that the winchman was incompetent, and continued to work without objection, he was not entitled to recover for an injury caused by the winchman\u2019s incompetency. The verdict was for the plaintiff. A motion for new trial was filed, and the motion was denied.\nIn passing upon this case the Circuit Court of Appeals, Second Circuit, says:\n\u2018TVe do not think the defendant was entitled to the specific instructions asked for, following the charge to the jury, in the unqualified terms of the requests. The plaintiff, as a sailor, was amenable to rigid discipline for disobedience of orders. He was injured while discharging a duty to which he had been assigned by his superior officer, and which he was performing under the eye of the master of the ship. Notwithstanding what he had heard and ob-' served about the deafness and inexperience of the winchman for an hour at least, and, according to some of the witnesses, for a period of several hours, the winchman had heard and obeyed the signals, and performed his duty properly. In view of these facts, it would have been erroneous to instruct the jury that, if the plaintiff had any information that the winchman was incompetent, or had all the information which he had been shown to have, he could not recover. Irrespective of the consideration that any complaint on his part would probably have been treated as an act of insubordination, the facts presented a fair question for the jury whether, notwithstanding what he had heard and seen, he was not justified, until the accident took place, in believing that the winchman was sufficiently competent to manage the winch safely.\u201d\nIn passing- upon the question as to whether the evidence was sufficient to warrant the submission of the case to a jury, the court said:\n\u201cWe are constrained to decide that there was, although the ease for the plaintiff -was very weak, and was overwhelmingly disapproved by the evidence introduced by the defendant.\u201d 1 C. C. A. 532, 50 Fed. 464.\nIn the case of the Mex. Cen. Ry. Co., Limited, v. Murray, 42 C. C. A. 334, 102 Fed. 265 (error to the Circuit Court of Appeals, Fifth Circuit), in the statement of the facts the court says:\n\u201cThe main issue in the case was, conceding the negligence of the railway company in furnishing a defective loop, did the plaintiff assume the risk of injuries from that source, and was the plaintiff guilty of such contributory negligence as would prevent a recovery? This was one of the defenses of the defendant in its answer.\u201d\nThe plaintiff\u2019s case was the furnishing by the defendant of unsound material with which to accomplish their work, viz., the raising of an iron bridge. The plaintiff testified:\n\u201cI saw what kind of materials [the loops] were made of when they brought them there. I remember distinctly of two of these same kind of irons breaking before the one broke that injured me. I had been working there, and I had seen two or three of these [loops] broken before. I knew that they would break if too much weight were put upon them. At that time I was turning the ratchet, or turning the jack. That was just before the one broke that injured me.\u201d\nAt the close of the evidence the defendant requested the court to instruct the jury to return a verdict for the defendant. In refusing the general charge in favor of the defendant, the trial judge expressed his doubt as to whether the charge should be given, but resolved that doubt in favor of\u2019 the submission of the case to the jury. This was proper, and any doubts we have on the subject are resolved on the same side. It is clear that, as to the manner and method of the work in hand at the time Murray was injured, the danger and risks were as well known to him as to any other servant of the company there employed, either as superintendent, foreman, or ordinary laborer, and we are of the opinion that, as to the apparent dangers and risks in carrying on the work, Murray assumed them with his employment. But the case shown requires us to go farther. While Murray assumed the risks attendant upon the operation, and knew that there was danger, the question is presented whether, in assuming the known and apparent risks, he also assumed the risks resulting from unknown defects in the tools and appliances furnished b}' the railroad company. The loop that broke \u2014the breaking of which was the proximate cause of Murray\u2019s injury \u2014 was defective, and the negligence of the company in furnishing it is conceded. The defect, while it was more or less apparent, and was discoverable upon slight inspection, was not known to Murray, nor probably to any other employ\u00e9 of the railway company.\n\u201cConceding that Murray assumed the known risks and dangers attending upon his work, did he also assume the additional risks and dangers resulting from defects in appliances which were unknown to him, but were known, or ought to have been known, to the railroad company? If he did not assume these unknown risks, the general \u25a0charge was properly refused. If it was a matter for determination from the evidence, and the evidence on the point was conflicting and uncertain, then there was no error in refusing the general charge. \u2018It is well settled that, where there is uncertainty as to the existence of either negligence or of contributory negligence, the question is not one of law, hut of fact, and to be settled by a jury; and this whether the uncertainty arises from a conflict in the testimony, or because, the facts being undisputed, fair-minded men will honestly draw different conclusions from them.\u2019 \u201d\nThe verdict of the jury was sustained, and the judgment of the lower court affirmed. Richmond & Danville Ry. Co. v. Powers, 149 U. S. 43, 13 Sup. Ct. 748, 37 L. Ed. 642.\nIn the case of the Grand Trunk Ry. Co. v. Cummings, 106 U. S. 700, 1 Sup. Ct. 493, 27 L. Ed. 266, Mr. Chief Justice Waite, delivering the opinion of the court, said:\n\u201cIn the instruction which was given we find no error. It was, in effect, that, if the negligence of the company contributed to \u2014 that is to say, had a share in producing \u2014 the injury, the company was liable, even though negligence of a fellow servant of Cummings was contributory also. If the negligence of the company contributed to it, it must necessarily have been an immediate cause of the accident, and it is no defense that another was likewise guilty of wrong.\u201d\nIt is urged in support of the motion for a new trial before this court that, if the winchman was careless and negligent in permitting the sling load of hay to drop upon the plaintiff too suddenly, whereby the plaintiff was injured, this injury was the result of the negligence of a fellow servant. Counsel seems to overlook the more important principle that, where several \u201ctort feasors\u201d contribute to an injury, any one of them may be mulcted in damages for the injurie\u2019s received. In the above-cited case it was evident that there was wrong on the part of the railroad company, as well as of the fellow servant of Cummings; but without the negligence of the railroad company the injury would not have been sustained. It is also 'urged by the counsel that, even if the injury resulted from the carelessness of the winchman, such carelessness is not alleged in the complaint. This is true, but under our statute the complaint, either before or after judgment, may be amended, and made to conform to the facts proved. The failure of allegation, therefore, is not material at this time.\nIn the case at bar the proximate cause of the injury was the use of improper appliances in the unloading of the ship at that stage of the tide. While it is undoubtedly true that the winchman let the load fall upon Gibson in a reckless and unskillful manner, and was guilty therein of negligence contributory to the accident, nevertheless such negligence of the winchman can be no defense to the greater wrong of the company.\nConsidering the admitted facts in this case, is it not a' reasonable conclusion to say that the plaintiff might have placed himself in the position described in the testimony, and have drawn the same load of hay over -toward himself upon the wharf in the manner described, many times, with perfect safety to himself? Unless the winchman had carelessly and negligently lowered away too suddenly, and the load been caused to strike with greater rapidity and suddenness than the plaintiff could have possibly anticipated, there could have been little or no danger of injury resulting from the act.\nGibson was an inexperienced longshoreman, doing his first work in that line. He seems to have been ambitious in performing the work assigned him. This work, it must be remembered, was being performed under the direct supervision of the mate of the ship. Can it be said, under the circumstances of this case, that fair-minded men, desirous of doing right, might not reasonably reach different conclusions, upon the facts presented, as to whether the plaintiff\u2019s negligence contributed to the injury? It is believed by the court that reasonable men might well reach different conclusions upon the facts of the case; some holding that there was, and others holding that there was not, contributory negligence on the part of the plaintiff.\nOn the motion of the defendant to take the case from the jury the court was in doubt as to the propriety of allowing the jury to pass upon the questions presented by the testimony, but upon reflection, while it appeared that there was some degree of negligence on the part of the plaintiff, which perhaps contributed to the injury, the court was of the opinion that the danger was not so apparent that a man of ordinary intelligence and prudence would have foreseen it, and avoided doing what was done by the plaintiff. And then again it seemed to the court that fair-minded men might reasonably reach different conclusions upon the question of contributory negligence of the plaintiff. Upon this theory the court determined to resolve whatever doubts were urged in favor of the injured plaintiff, and to permit the case to go to the jury under instructions submitting the question of contributory negligence to the jury so fully and fairly that counsel for the defendant took no exceptions thereto.\nConsidering the same question upon the motion for a new trial, the court is still of the opinion, strengthened by examination of the authorities, that no error was made in submitting the case to the jury.\nIt is urged in the motion for a new trial that the damages \u2014viz., $1,500 \u2014 assessed by the jury were excessive. It is apparent to the court that the jury, in assessing the damages, exercised great wisdom and fairness. The plaintiff was severely injured; so badly, indeed, that it is doubtful whether he ever fully recovers. The damages returned by the jury are a moderate equivalent for the injuries sustained.\nThe motion for a new trial is overruled, and judgment ordered on the verdict.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Maloney & Cobb, for plaintiff.",
+      "J. W. Jennings, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "GIBSON v. CANADIAN PACIFIC NAV. CO.\n(First Division. Juneau.\n1902.)\nNo. 1,070.\n1. Pleading \u2014 Negligence.\nA complaint for damages through negligence, which states that plaintiff was injured in unloading freight from a vessel to the wharf, and briefly describes the relative positions of the vessel and wharf, the defective appliances used, and points out the defects therein, and the acts constituting the negligence, is good against demurrer.\n2. Negligence \u2014 Vice Principal.\nA mate of a ship, intrusted with the work of discharging the cargo upon a wharf, and having control and supervision of the ship\u2019s appliances for that purpose, the entire manner of using which was left to his judgment and discretion, is a vice principal of the defendant vessel owner.\n8. Negligence in Unloading Vessel.\nThough appliances for unloading the cargo of a vessel may be suitable and sufficient at one stage of the'tide, if used when the tide is so low as to render their use in raising heavy loads dangerous, it becomes negligence for which the owner is liable.\n4. Contributory Negligence.\nThe. plaintiff could not be charged with a degree of contributory negligence, such as would defeat recovery, simply because he knew the appliances were defective in the manner in which used, unless a reasonably intelligent or prudent man, under like circumstances, would have known or apprehended the risks and danger which the use of the defective appliances would indicate.\nMotion for a New Trial.\nDenied.\nMaloney & Cobb, for plaintiff.\nJ. W. Jennings, for defendant."
+  },
+  "file_name": "0407-01",
+  "first_page_order": 431,
+  "last_page_order": 445
+}

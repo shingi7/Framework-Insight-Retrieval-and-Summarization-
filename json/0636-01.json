@@ -1,0 +1,107 @@
+{
+  "id": 8506043,
+  "name": "THOMSON et al. v. ALLEN et al.",
+  "name_abbreviation": "Thomson v. Allen",
+  "decision_date": "1902-08-16",
+  "docket_number": "",
+  "first_page": "636",
+  "last_page": "640",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 636"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "130 U. S. 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3537191
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/130/0291-01"
+      ]
+    },
+    {
+      "cite": "160 U. S. 303",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5701126
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/160/0303-01"
+      ]
+    },
+    {
+      "cite": "104 U. S. 279",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3493164
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/104/0279-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 462,
+    "char_count": 9040,
+    "ocr_confidence": 0.667,
+    "pagerank": {
+      "raw": 8.594203391136844e-08,
+      "percentile": 0.4896959243569799
+    },
+    "sha256": "104554430a77d3d2ca771f0bdcf25ce8b054e8f3b70709a8a3847848015addc9",
+    "simhash": "1:beaee8ca0d9fac50",
+    "word_count": 1548
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THOMSON et al. v. ALLEN et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe plaintiff Thomson brought this action to quiet his alleged title to placer mining claim No. 6 below discovery on Slate creek, in the Slate Creek mining district. He alleges a location on the i6th day of July, 1900, and a compliance with the mining laws and local customs ever since, and then alleges that the defendants claim some right to or interest therein adverse to the plaintiff, and prays to have their claims adjudicated and his title quieted.\nOnly one of the defendants appeared in the action. Mattie Loeser appeared by her attorney, procured an injunction against working the claim, and filed an answer denying all the allegations and equities of the plaintiff Thomson, and' alleging a prior location of the same claim on August 27,. 1899, and a full compliance with the mining laws and local\u2019 customs subsequent thereto. No reply having been made-to the affirmative defense of defendant Loeser, her attorney-moved for judgment upon the pleadings; but, before any action of the court was taken, one James Halley appeared' in the action, by L. C. Hess, his attorney, and moved that he-be substituted as party plaintiff, upon the allegation that he-had purchased the claim from Thomson by deed dated' March 28, 1901. Halley was permitted to intervene to defend his interests. He appeared for himself alone, and filed' a reply denying the material allegations of the Loeser affirmative defense, and alleging affirmatively a purchase of Thomson\u2019s interest on or about December 5, 1900.\nIn this condition of the pleadings, the case has gone to a-, referee to take and report the testimony, and the cause is-now submitted to the court for decision upon the evidence-reported and upon written briefs by counsel. Counsel for defendant Loeser now contends (1) that defendant is still entitled to judgment by default against plaintiff Thomson for want of reply to her affirmative defense; (2) that plaintiff\" Halley has failed to show any interest in the matter in litigation, and is not entitled to any relief upon the merits; and (3) that upon the evidence the defendant Loeser is entitled to-a decree quieting her title under her senior location.\nAn examination of Halley\u2019s reply shows that it is limited to his own alleged interests, and was not intended to be the-reply of Thomson. Unless Halley had some interest as the successor of Thomson, there is a failure to connect the pleadings of Thomson with Halley\u2019s reply. An examination of the-testimony discloses that no attempt was made to prove the-allegation of interest set up in Halley\u2019s reply, and counsel, for Halley abandoned that claim in their argument, and relied upon the alleged rights of- Thom-son. This, failure- to sustain the Halley purchase and the utter abandonment of his cause of action leaves the c\u00e1se just as it stood before Halley\u2019s intervention. There is no reply to the defendant Loeser\u2019s affirmative defense. Halley\u2019s reply is personal, and not for Thomson. It was allowed wholly as a defense to his \u2022own alleged purchased interest. It has wholly failed and is abandoned. Thomson abandoned the case and failed to reply. Halley abandoned the case upon the merits. In this \u2022condition of the pleadings and evidence, the defendant Loeser must be held to be entitled to judgment .by default against Thomson' for want of a reply to her affirmative \u2022 defense. Upon his failure of proof, the court must hold that Halley fails to show any interest in the subject of litigation, and judgment must go against him on that account. No connection in interest is shown, by purchase- or otherwise, between Thomson and Halley, and the defect in Thomson\u2019s pleadings cannot be -supplied by the unauthorized reply filed by Halley. The application of defendant Loeser for default and judgment on the pleadings must be allowed.\nIt is within the discretion of the court to permit a reformation of the pleadings, even at this stage of this case, when necessary to the proper administration of justice. In view \u2022of this general rule, the court has carefully examined the case upon its merits, and has determined that, both on the pleadings and evidence, there must be a judgment for defendant Loeser. It is clearly shown that Thomson made a location of this claim at or about the time-alleged in his complaint. The whole controversy hinges on the alleged \u25a0 prior location of Loeser, made about August 27, 1899. On the part of the plaintiff it is' contended -that at that time the claim was not open to location, owing to its prior location by one Ellington. I do not find from the evidence that the Ellington claim was ever perfected. It is shown that he did \u25a0set a stake or stakes, and posted thereon a notice of location. The evidence discloses, so far as it goes, however, that Ellington made no discovery of gold, and did not record his notice of location. It may be that a record was not necessary, but discovery certainly was; and there is some affirmative evidence that no discovery was made, and that Ellington voluntarily abandoned the claim. The most serious \u25a0objection to a consideration of the Ellington claim, however, is that it is not pleaded. If, in reply to the defendant Eoeser\u2019s location, the plaintiff had alleged the prior Ellington location, and sustained the allegation by proofs, the court would have held the Eoeser location void, and sustained the Thomson location, under the rule established in the case of Belk v. Meagher, 104 U. S. 279, 26 L. Ed. 735. But there is a total lack of both allegation and proof, and the Ellington \u2022claim cannot be considered as a bar to the Loeser claim.\nThe next objection to the Eoeser location is that there was a fraudulent change in the records, whereby the name \u2022of Ellington was erased and that of Eoeser written in its place; that no record was ever made of the Eoeser location, except in that way. The answer to this objection is that the statutes of the United States do not require that the notice of location be recorded, and no rule or custom of miners is pleaded or proved, requiring it. This objection fails, therefore, even if true in fact. Haws v. Victoria Copper Co., 160 U. S. 303, 16 Sup. Ct. 282, 40 L. Ed. 436.\nNor am I convinced that the record was falsified as alleged. It is shown that the name of M. Eoeser is written in the record of the location in a different colored ink, and witnesses testify that there has been an erasure and-a writing in over a former name; but whether it was only an honest mistake corrected, or a fraudulent change by inter-lineation, is not shown. If the case rested on this record .alone, it would be more doubtful; but the recorder who made this record testified positively that it is his work, and that he made the record at the time alleged. All the surrounding circumstances, shown by the testimony of unim-peached witnesses, support it. There is an utter absence of proof to impeach the record, except the appearance of the record itself. Counsel for plaintiff asks: Who could have any interest in changing the record, except the defendants?' And then he argues that the erasure is sufficient to destroy the defendants\u2019 title. It may be asked in reply: Why should the defendants change a record, where it results in destroying their title? Is it not as reasonable to suppose that the plaintiff did it, if it is to be given that effect? A vested title to a mining claim cannot be divested on suspicion. The evidence must be clear and convincing, before the court will declare a title of that kind forfeited, and there is no such testimony in this record. Hammer v. Garfield Min. Co., 130 U. S. 291, 9 Sup. Ct. 548, 32 L. Ed. 964.\nI am satisfied from the evidence in this case that the claim in controversy was. located, staked, marked, worked, and recorded for the defendant Eoeser, by her duly authorized agent, at the time alleged in her answer, and that it was not open to a relocation when Thomson made his claim thereto. Upon the face of the pleadings, as well as upon the evidence, the defendant Eoeser is entitled to a decree; and findings of fact, conclusions of law, and a decree in accordance with this opinion may be prepared for her.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "A. N. Post, for plaintiff Thomson.",
+      "Johanson & Hess, for plaintiff Halley.",
+      "J. Lindley Green, for defendant Eoeser."
+    ],
+    "corrections": "",
+    "head_matter": "THOMSON et al. v. ALLEN et al.\n(Third Division. Eagle.\nAugust 16, 1902.)\n1. Pleadings \u2014 Default\u2014Judgment.\nPlaintiff failed to reply to an affirmative, defense in the answer. An intervener, claiming to he a purchaser pendente lite, was permitted to file a reply. On trial the intervener failed to connect himself with the location by purchase or otherwise. \u25a0Held, that defendant was entitled to a default and judgment on the pleadings.\n2. Forfeiture \u2014 Pleading.\nThe court will not declare a mining location' void for conflict with a prior location not pleaded.\n2. Evidence \u2014 Forfeiture\nA mining location will not he declared forfeited on mere suspicion, The evidence upon which to base a forfeiture must be clear and convincing.\nSuit in equity to quiet title to mining claim..\nA. N. Post, for plaintiff Thomson.\nJohanson & Hess, for plaintiff Halley.\nJ. Lindley Green, for defendant Eoeser."
+  },
+  "file_name": "0636-01",
+  "first_page_order": 660,
+  "last_page_order": 664
+}

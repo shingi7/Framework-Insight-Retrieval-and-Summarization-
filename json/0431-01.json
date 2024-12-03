@@ -1,0 +1,163 @@
+{
+  "id": 8505557,
+  "name": "VAN SCHUYVER v. HARTMAN",
+  "name_abbreviation": "Van Schuyver v. Hartman",
+  "decision_date": "1902-02-15",
+  "docket_number": "No. 1,166",
+  "first_page": "431",
+  "last_page": "436",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 431"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "48 Am. St. Rep. 524",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 L. R. A. 273",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Atl. 311",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Am. Dec. 393",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 N. Y. 210",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        2022890
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/20/0210-01"
+      ]
+    },
+    {
+      "cite": "22 Am. Dec. 362",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Mass. 55",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2036119
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/17/0044-01"
+      ]
+    },
+    {
+      "cite": "11 Pick. 36",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2016155
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/28/0036-01"
+      ]
+    },
+    {
+      "cite": "22 Am. Dec. 359",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Am. Dec. 482",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Johns. 263",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2129751
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/3/0263-01"
+      ]
+    },
+    {
+      "cite": "2 Black. 723",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 507,
+    "char_count": 10667,
+    "ocr_confidence": 0.614,
+    "pagerank": {
+      "raw": 4.8884310031789414e-08,
+      "percentile": 0.3066985758629171
+    },
+    "sha256": "61d3e725bafeec0c011bf56464eff15d3c4b18f37723b5f3b4d2eacbb1287a4e",
+    "simhash": "1:9ae6efa988607e58",
+    "word_count": 1881
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "VAN SCHUYVER v. HARTMAN."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nIn this case the defendant, by his amended answer, pleads the statute of limitations. Plaintiff demurs to the amended answer, alleging that the defendant first came to Alaska on the ist day of January, 1898, and had been absent from the district prior to that time. It is admitted that a right of action accrued on the claim sued on in the state of Oregon, more than six years prior to the time at which this action was brought in Alaska, but the time that the defendant has lived in Alaska prior to the bringing of the action is admittedly less than six years. The question, then, is this: Is the plaintiff\u2019s right of action barred by reason of lapse of time?\nIt is believed the law upon this question has been settled since the case of Dupleix v. De Roven, 2 Vern. 540, or at least since the passage of the statute of Anne, which has been adopted into all, or nearly all, of the statutes of limitations in this country. Statutes of limitations, so called, affect the remedy, but not the right of action. Necessarily, therefore, the law of the forum must control in all matters affecting procedure. A proviso in the statute of Anne, which has practically been adopted by the act of Congress governing limitations in Alaska, saves the operation of the statute if the party should be out of the district at the time the cause of action arises against him, and the statute does not begin to run until after the return of the defendant. This statute has received its true and proper construction first, perhaps, in the case of Strithorst v. Graeme, 3 Wils. 145, 2 Black. 723.\nNecessarily, the statute of limitations of this jurisdiction cannot begin to run until there is found some one within the jurisdiction of the forum capable of being sued. Chief Justice Kent passed upon this question in Ruggles v. Keeler, 3 Johns. 263, 3 Am. Dec. 482. He says:\n\u201cA foreign statute of limitations can no more be pleaded to a suit instituted bere than it can be replied to a plea under our statute. Statutes of limitations are municipal regulations founded on local policy, which have no coercive power abroad, and with which foreign or independent governments have no concern. The lex loci applies only to the validity or interpretation of contracts, and not to the time, mode, or extent of the remedy. Suppose Ruggles had sued Lewis upon the account attempted to be set off in the court below. The defendant could not have interposed the statute of limitations of Connecticut by way of plea.\u201d\nThe learned judge concludes in that case by saying:\n\u201cThe party to be charged by the set-off not having been six years within this state since the cause of action arose, our statute of limitations could not, therefore, be replied to the plea.\u201d\nIn Bulger v. Roche, 22 Am. Dec. 359, 11 Pick. 36, the action was assumpsit on a promissory note payable on demand given by defendant to plaintiff at Halifax, N. S., and dated February 5, 1821. The defendant pleaded non as-sumpsit and the statute of limitations. The plaintiff replied that he was beyond the sea, at Halifax, when the cause of action accrued, and that he commenced this suit within six years of his coming to the United States, in 1829. The defendant rejoined that both he and the plaintiff were residents of Plalifax at the time the. cause of action accrued, and were aliens; that by the laws of Nova Scotia then and now in force said cause of action was barred, no suit having been commenced within six years from the time the same accrued. There was a demurrer to the rejoinder on the ground that the plea was founded upon a foreign statute of limitations, and was, therefore, no defense in this state. Chief Justice Shaw, in deciding the case, states the question before-the court as follows:\n\u201cThe general question is whether a plaintiff, a subject of a foreign state, can maintain an action against a defendant, who is a subject of the same foreign state, upon a cause of action barred by a statute of limitations of the state of which they were respectively subjects when the cause of action accrued.\u201d\nAfter disposing of some preliminary questions as to the pleadings in the case, the court states the facts:\n\u201cThe cause of action accrued in 1821 \u2014 more than six years before the commencement of this action; that the plaintiff and defendant were both domiciled at Halifax, in Nova Scotia, and were subjects of the king of Great Britain; and that by the law of that country an action in assumpsit is barred in six years. It is stated in the replication, and admitted in the rejoinder, that the plaintiff came into this commonwealth for the first time in 1829, and that the action was commenced within six years from that time.\u201d\nIt will be perceived that the facts as stated by the court are, for all practical purposes, the same as the facts presented in this case, save in that the statute of limitations of Nova Scotia had fully run, and the claim had become barred under the' statutes of that country, before the parties came to Massachusetts. In passing upon the question presented in that case the distinguished jurist proceeded as follows:\n\u201cThat the law of limitations of a foreign country cannot of itself be pleaded, as a bar to an action in this commonwealth seems conceded, and is, indeed, too well settled to be drawn in question. Byrne v. Crowninshield, 17 Mass. 55. The authorities, both from the civil and common law, concur in fixing the rule that the nature, validity, and construction of contracts is to be determined by the law of the place where the contract is made, and that all remedies for enforcing such contracts are regulated by the law of the place at which such remedies are pursued. Whether a law of prescription or statute of limitations would take away every legal mode of recovering a debt shall be considered as affecting the contract like payment, release, or judgment which, in effect, extinguish the contract, or whether they are to be considered as affecting the remedy only by determining the time within which a particular mode of enforcing it shall be imrsued, were it an open question, might be one of some difficulty. It is ably discussed upon general principles in a late case (Le Roy v. Crowninshield, 2 Mason, 151 [Fed. Cas. No. 8,269]), before the Circuit Court, in which, however, it is fully considered by the learned judge, upon a full consideration and review of the authorities, that it is now to be considered a settled question. A doubt was intimated in that case whether, if the parties had remained subjects of the foreign country, until the term of limitation had expired, so that the plaintiff\u2019s remedy would have been extinguished, such a state of facts would not have presented a stronger case in the present instance; but we think it sufficient to avert to a well-settled rule in the construction of the statute of limitations to show that these circumstances can make no difference.\u2019\u2019\nAfter discussing the different cases, the court concludes:\n\u201cThis reason, whether well-founded or not, applies equally to cases where the term of limitation has elapsed when the parties leave the foreign state and to those where it has only begun to run before they have left the state and elapses afterwards. * * * On the whole, the court are of the opinion that the plaintiff is within the terms and spirit of the exception of the statute of limitations, and that his action, therefore, is not barred by it. The rejoinder is adjudged bad and insufficient, and judgment must be rendered on the verdict.\u201d\nWhere the statute has fully run in a foreign jurisdiction before either of the parties came into the jurisdiction of the forum, the holding has been different in some other courts than in the case above referred to; but the court is not advised of any well-considered case, where the statute had begun to run after an action had accrued in another state and the defendant had left that jurisdiction before the term had fully expired, in which it has been held that any portion of the term of years mentioned by the statute of limitations in the jurisdiction of the forum could include any portion of the terms of years that had expired after a right of action had accrued in the foreign jurisdiction, and before the defendant became a resident of the jurisdiction of the forum. These several questions will be found fully discussed in the note to the case of Bulger v. Roche, 22 Am. Dec. 362 et seq.\nThe question at bar is also quite learnedly discussed by Judge Denio in Olcott v. Tioga R. R. Co., 20 N. Y. 210,75 Am. Dec. 393. Here the question of the application of the statute of limitations to foreign corporations was the question at issue; but the whole law of the question at bar was fully discussed, with the same conclusion as that reached by Chief Justice Kent in the case heretofore referred to. The same question was also before the court of Maryland in the case of Mason v. Union Mills Paper Mfg. Co. and B. & O. R. R. Co., 32 Atl. 311, 29 L. R. A. 273, 48 Am. St. Rep. 524, and a brief of the authorities on this question may there be found.\nThe court is therefore of the opinion that, both as a matter of principle and as determined by the great weight of authority, the statute of limitations of Alaska did not begin to run in the present case until after the defendant came into this jurisdiction. As the six-years limitation fixed by the statute has not run since the defendant came into Alaska, the statute cannot be invoked to relieve him of his obligation, and the demurrer to the amended answer must be sustained. Thereupon the defendant declines to further plead or answer, but elects to stand upon his amended answer. Judgment is awarded to the plaintiff on the pleadings.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "J. G. Price, for plaintiff.",
+      "R. W. Jennings, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "VAN SCHUYVER v. HARTMAN.\n(First Division. Juneau.\nFebruary 15, 1902.)\nNo. 1,166.\n1. Statute of Limitations.\nWhere a cause of action accrued, in the state of Oregon, of which state the defendant was a resident, more than six years prior to the time at which action is brought, and the defendant removed to the District of Alaska admittedly less than six years prior to the time the action was brought, held, that the statute begins to run, not from the date the cause of action accrued in Oregon, but from the date of the removal of defendant to Alaska.\n3. Same.\nStatutes of limitations, so called, affect the remedy, but not the right of action. Necessarily, therefore, the lex fori must control in all matters of procedure.\n3. Same.\nThe statute of limitations of this jurisdiction cannot begin to run until there is found some one within the jurisdiction of the forum' capable of being sued.\nJ. G. Price, for plaintiff.\nR. W. Jennings, for defendant."
+  },
+  "file_name": "0431-01",
+  "first_page_order": 455,
+  "last_page_order": 460
+}

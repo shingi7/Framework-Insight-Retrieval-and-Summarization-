@@ -1,0 +1,79 @@
+{
+  "id": 8504756,
+  "name": "U. S. ex rel. McINTOSH v. PRICE et al.",
+  "name_abbreviation": "U.S. ex rel. McIntosh v. Price",
+  "decision_date": "1901-09-19",
+  "docket_number": "No. 48\u00bd",
+  "first_page": "204",
+  "last_page": "208",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 204"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 429",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Stat. 429",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 369,
+    "char_count": 7487,
+    "ocr_confidence": 0.641,
+    "pagerank": {
+      "raw": 6.490364409232219e-08,
+      "percentile": 0.39931864753504936
+    },
+    "sha256": "7710424f715e9db624196cc7f14f99ed1864a59f1dee0cc275ab597a0765c55a",
+    "simhash": "1:2ef90c2b85bf519b",
+    "word_count": 1255
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "U. S. ex rel. McINTOSH v. PRICE et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKFRSHAM, District Judge.\nIf the defendants are guilty of contempt, it is under the fifth subdivision of section 609, p. 271, of Carter\u2019s Code (Act June 6, 1900, c. 786, 31 Stat. 429), for the alleged \u201cdisobedience of any lawful judgment, order, or process of court.\u201d From the admitted facts in this case it appears that, after the court made its order and injunction of November 28, 1900, and also its order of August 7, 1901, the defendants in this proceeding, Price and Tremper, went upon the property in question, and worked the same, and extracted gold therefrom, and forcibly ousted and drove McIntosh and his associates therefrom, and took forcible possession thereof.\nIt is the duty of every good citizen to obey the law, and \u2022to obey the lawful judgments, orders, and processes of the court. It is a contempt of the court not to do so, and the statute has fixed a punishment as for a crime upon the conviction for such contempt. It was the duty of these defendants to obey any lawful orders of the court made in this case, and for any willful disobedience thereto they may be punished. But it is equally the duty of the court to confine itself within its jurisdiction.\nThe order made by Judge Noyes on November 28th, enjoining all of the defendants in the original action, No. 242, was an injunction in plain, unmistakable terms. That injunction continued in force until August 7, 1901, when the order was m'ade permitting the defendant McIntosh and his associates to go into possession of the property upon giving a $10,000 bond. Whatever may be said of this order of August 7th, its effect was to vacate and dissolve the injunction granted at the suit of the plaintiffs on November 28th, and when the defendant \"McIntosh and his associates had given their bond for $10,000, and had entered into possession of the \u201cCalifornia Fraction,\u201d the injunction theretofore made against them was dissolved. The order of August 7th contained no injunction or restraining clause whatever against Price and Tremper. It only provided that, upon giving the bond in the sum of $10,000, McIntosh and his associates \u2022 \u201cshould be allowed and permitted, without interference by the plaintiffs, their agents, successors, or em-ploy\u00e9s, to mine and operate\u201d the \u201cCalifornia Fraction.\u201d While the language is somewhat involved and ambiguous, a careful consideration leads persuasively to the conclusion that its legal and only effect was to dissolve the injunction of November 28th, and leave the parties in exactly the same situation in which they were at the time it was issued. When Price and Tremper went upon the claim thereafter, and mined thereon, they violated no order or process of this court forbidding them to do so. It may be possible that they were guilty of a trespass and a wrong, but it was not a violation of any lawful judgment, order, or process of this court, and their act in doing so was no more a contempt of this court than would have been a trespass of any third party. True, the matter was still in litigation between Price and Tremper as plaintiffs and McIntosh and his associates as defendants, but there was no order of court or injunction restraining either of them from going upon the premises in dispute.\nFor these reasons this court is without jurisdiction to punish the defendants, or either of them, for contempt in this proceeding, and the motion to vacate and set aside the order upon which this proceeding is based, and to quash and dismiss all the proceedings in relation thereto, will be allowed, and the proceedings will be dismissed, at the cost of the petitioners.",
+        "type": "majority",
+        "author": "WICKFRSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "John L,. McGinn, Dep. Dist. Atty., for plaintiff.",
+      "Sullivan & Fink, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "U. S. ex rel. McINTOSH v. PRICE et al.\n(Second Division. Nome.\nSeptember 19, 1901.)\nNo. 48\u00bd.\n1. INJUNCTION\u2014 Contempt.\nThe defendants were regularly enjoined from working the mine in dispute, and a subsequent order provided that, in the event the defendants gave an indemnifying bond in the sum of $10,000, \u201cthey shall be allowed and permitted, without interference by the plaintiffs, their agents, successors, or employ\u00e9s, to mine and operate\u201d the claim. Plaintiffs thereafter entered, and drove the defendants from the claim. Held, that the injunction had been dissolved by the modifying order, and that plaintiffs were not guilty of any act of contempt of court.\nThis is a contempt proceeding against the defendants under chapter 58, pp. 271-274, Carter\u2019s Alaska Code (Act June 6, 1900, c. 7S6, 31 Stat. 429). The evidence discloses that the defendants, Price and Tremper, brought an action in this court entitled Price v. McIntosh (No. 242) post, 286, and, in that action an injunction was issued November 28, 1900, forbidding the defendants therein from working or mining upon the ground in controversy, known as the \u201cCalifornia Fraction,\u201d pending the final determination of the action. The plaintiffs, Price and Tremper, were required to give an injunction bond in that case, which they did, in the sum of $10,000, and the same was approved by the court.\nThis injunction continued in force unmodified until August 7, 1901, when, upon application of the defendant McIntosh, an order was made by Judge Noyes, over the objections of the plaintiffs, which provided:\n\u201cIt is ordered and adjudged that the defendants he, and they are-hereby, enjoined and restrained from working said mining claim described in plaintiffs\u2019 complaint and defendants\u2019 answer, or any part thereof, until the final determination of this action, unless defendants give a good and sufficient bond, to he approved by this court, to the plaintiffs, in the sum of $10,000, conditioned that they will faithfully account for and pay over to plaintiffs all gold and gold dust extracted by them from said claim, over and above the actual and necessary working expenses incurred in extracting said; gold or gold dust, should said plaintiffs ultimately prevail in said suit, and be ultimately decreed and determined to be the owners- and entitled to the said mining claim and the gold and gold dust extracted therefrom.\n\u201cIt is further ordered and adjudged that, in the event said defendants shall give said bond as above required, they shall be allowed and permitted, without interference by.the plaintiffs, their agents, successors, or employ\u00e9s, to mine and operate\u201d the \u201cCalifornia Fraction.\u201d\nThis modified order of August 7th also provided that the defendants should keep a full account of all thefr receipts and disbursements, and of the gold extracted, and render an account thereof to the court, so that a full and proper settlement might be made if the title was found to be in the plaintiffs, Price and Tremper.\nIt appears from the evidence in this proceeding that subsequent to the 7th day of August, the defendants herein, Price and Tremper, went upon the ground in controversy with certain of their employ\u00e9s, and worked the same, and extracted gold therefrom, and ousted the claimant McIntosh and his associates, for which alleged defiance of the order of August 7th they were, by an order of this court made on September 17th, cited to show cause why they should not be punished for contempt. The matter came on for hearing on the 18th day of September, the defendants, Price and Trerm per, being represented by their attorney, who made a special appearance for them, and objected to the jurisdiction of the court, and contended that upon the face of the record the court had no jurisdiction to punish the defendants for contempt.\nJohn L,. McGinn, Dep. Dist. Atty., for plaintiff.\nSullivan & Fink, for defendants."
+  },
+  "file_name": "0204-01",
+  "first_page_order": 228,
+  "last_page_order": 232
+}

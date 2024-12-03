@@ -1,0 +1,232 @@
+{
+  "id": 8505700,
+  "name": "SPAULDING et al. v. ALASKA COM. CO.",
+  "name_abbreviation": "Spaulding v. Alaska Com. Co.",
+  "decision_date": "1902-03-15",
+  "docket_number": "No. 26a",
+  "first_page": "497",
+  "last_page": "508",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 497"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "6 Fed. 517",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6736429
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/6/0517-01"
+      ]
+    },
+    {
+      "cite": "17 L. Ed. 70",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1410125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/66/0121-01"
+      ]
+    },
+    {
+      "cite": "1 Black, 126",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "opinion_index": 0
+    },
+    {
+      "cite": "Rob. 406",
+      "category": "reporters:state",
+      "reporter": "Robards",
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Fed. 647",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3724106
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/45/0647-01"
+      ]
+    },
+    {
+      "cite": "1 Woods, 397",
+      "category": "reporters:federal",
+      "reporter": "Woods",
+      "case_ids": [
+        6130064
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-cas/3/0818-01"
+      ]
+    },
+    {
+      "cite": "5 Fed. 463",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3751091
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/5/0463-01"
+      ]
+    },
+    {
+      "cite": "36 Fed. 604",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6733142
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/36/0604-01"
+      ]
+    },
+    {
+      "cite": "77 Fed. 996",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3785013
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/77/0996-01"
+      ]
+    },
+    {
+      "cite": "39 Fed. 567",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3733861
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/39/0567-01"
+      ]
+    },
+    {
+      "cite": "19 L. Ed. 870",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3436263
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/77/0001-01"
+      ]
+    },
+    {
+      "cite": "Rob. 216",
+      "category": "reporters:state",
+      "reporter": "Robards",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Sumn. 328",
+      "category": "reporters:federal",
+      "reporter": "Sumn.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Ware, 61",
+      "category": "reporters:federal",
+      "reporter": "Ware",
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 U. S. 384",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5630890
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/101/0384-01"
+      ]
+    },
+    {
+      "cite": "77 Fed. 846",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3783725
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/77/0846-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1076,
+    "char_count": 24838,
+    "ocr_confidence": 0.623,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20524053718961993
+    },
+    "sha256": "3f4a134196c723c8f6eda4aefcf27c6f1b4bbe4d49f09bb473db6512ec485874",
+    "simhash": "1:75c7bea16a1c94d5",
+    "word_count": 4407
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SPAULDING et al. v. ALASKA COM. CO."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe libelants brought this action in personam against the Alaska Commercial Company to recover for salvage services voluntarily performed in saving two barges and their contents and other stranded goods, on the north shore of St. Michael Island, on or about' July 31, 1899. An answer was filed by respondent denying the performance of the services. The evidence has been heard by the court, and the case is now submitted for final determination.\nRespondent contends that, even if the testimony of the libelants should be taken as absolutely true, the libelants could not recover in this action, first, because a suit in admiralty for voluntary salvage services cannot be maintained in personam; second, that, if such action could be maintained, the alleged service performed by libelants was not a salvage service; and, third, that the libelants, at the time they claim to have performed the service, ought to have known from the circumstances surrounding the condition of the barges, and their knowledge of the circumstances under which they came ashore, that the barges had not been abandoned by the owner, the Alaska Commercial Company.\nThe nineteenth admiralty rule provides that, in all suits for salvage, the suit may be \u201cin rem\u2019'' against the property saved or the proceeds thereof, or \u201cin personam\u201d against the party at whose request and for whose benefit the salvage service has been performed. This action is based upon the latter clause in the rule, for the suit is not in rem against the property saved or the proceeds thereof. The inquiry then arises whether, upon the pleadings and proofs in support thereof, the libelants can maintain a suit in personam under the last clause in the rule.\nUpon the right of libelants to maintain the suit in per-sonam, they cite to the court and depend upon the construction given to rule 19 in the case of Hudson v. Whitmire (D. C.) 77 Fed. 846, while respondent cites and depends upon the construction given in the case of The Sabine, 101 U. S. 384, 25 L. Ed. 982. In the case of The Sabine the court says:\n\u201cThere is a broad distinction, said Dr. Dushington, between sal-vors who volunteer to go out and salvors who are employed by a ship in distress. Salvors who volunteer go out at their own risk for the chance of earning reward, and, if not successful, they are entitled to nothing; the rule being that it is success that gives them a title to salvage remuneration. But if men are engaged to go out to the assistance of a ship in distress, they are to be paid according to their efforts, even though the labor and service may not prove beneficial to the vessel or cargo. The Undaunted, 1 Lush. 90. No one can doubt that for such service the proper remedy is an action in personam, as provided in the last clause of the admiralty rule prescribing the mode of procedure to recover salvage compensation. Unless the property saved is destroyed after having been restored, or is clandestinely removed from the jurisdiction, the salvors require no more convenient or effectual remedy than the action in rem against the property, as their compensation cannot exceed its value; and, if destroyed without their fault or removed from the jurisdiction to defeat their remedy, no doubt is entertained that they may proceed in personam against the owners of the salved property, though the case is not specifically provided for in the nineteenth rule, to which reference has been made. The Emblem, 2 Ware, 61 [Fed. Cas. No. 4,435]; The Schooner Boston [1 Sumn. 328, Fed. Cas. No. 1,673]; Dunlap, Prac. 511; The Trelawney, 3 C. Rob. 216, note.\u201d\nI gather from the rules announced in this opinion: (i) If a salvor\u2019s services were voluntary, he can generally recover only by a suit in rem against the property salved. The exception to this general rule is stated to be that, if the property is \u201cdestroyed without their fault or removed from the jurisdiction to defeat their remedy, no doubt is entertained that they may proceed in personam against the owners of the salved property, though the case is not specifically provided for in the nineteenth rule, to which reference has been made.\u201d (2) If the salvor\u2019s services were furnished upon request of the master or owner, then the salvor may recover either in rem or in personam, as upon a contract, express or implied.\nIn the case at bar the service sued for was voluntarily rendered, and it is not sought, as is usual, to enforce a lien therefor, which exists independent of possession, by a suit in rem, \u25a0but the suit is in personam. If the facts do not bring it within the exception to the general rule, the action must fail. The salvor cannot generally waive his lien for voluntary services, and sue in personam as upon a contract, express or implied.'\nUpon the matter of exceptions to the rule, the court is \u2022cited to the case of Hudson v. Whitmire (D. C.) 77 Fed. 846, which recognizes the same exception as that pointed out m the Sabine Case.\nThe court in that case holds that under the general admiralty law, which is not limited in this respect by admiralty rule 19, a salvor of property which has been taken from his possession by replevin in a state court may maintain a suit in personam against the owner to recover salvage compensartion, and quotes another distinguished admiralty jurist, who-held that, \u201cif the owner wishes to receive the property before the proceedings at law are instituted and the salvor delivers it to him, a personal libel may be maintained for the-salvage.\u201d And he adds, \u201cThis is solely on the ground of his-possession of the property.\u201d The Emblem, Fed. Cas. No. 4,434.\nIn the case at bar the libelants were present at the wreck of the property alleged to have been saved, and claiming possession thereof. Either by their voluntary surrender or by overpowering force, the respondent came into possession of Ihe property, and removed it and sold part of it at auction immediately thereafter, and retained possession of the balance.. The facts seem to me to bring the case within the exception\u2019 to the general rule stated in The Sabine and in Hudson v.. Whitmire, and the objection of respondent upon this point is-overruled.\nThe next objection made by respondent is a challenge in the nature of a demurrer to the evidence. Conceding all the-evidence offered by the libelants to be true, respondent insists that it conclusively appears that the services performed were not necessary or beneficial, and not sufficient to support, the claim for salvage award. This challenge goes to the merits of the case, and, if sustained, will end the litigation.\nThe Supreme Court of the United States has laid down, some rules which must govern all inferior courts in admiralty cases, and some of which apply particularly to the facts that \u2022determine this case. In the case of The Blackwell, the court says:\n\u201cSalvage is ttie compensation allowed to persons by whose assistance a ship or her cargo has been saved, in whole or in part, from impending peril on the sea, or in recovering such property from actual loss, as in cases of shipwreck, derelict, or recapture. Success is essential to the claim; as, if the property is not saved, or if it perish, or, in case of capture, if it is not retaken, no compensation .can be allowed.\u201d 77 U. S. (10 Wall.) 1, 19 L. Ed. 870.\nIn speaking of the character of the service necessary to support such a claim, the court in this case fairly determines that it must be a successful, meritorious, and. important service, resulting in a saving of the property. In the case of The Sabine, the court quotes the definition of salvage given in the case of The Blackwell, and then adds:\n\u201cThree elements are necessary to a valid salvage claim: (1) A marine peril. (2) Service voluntarily rendered when not required as an existing duty or from a special contract. (3) Success in whole or in part, or that the service rendered contributed to such success. Proof of success, to some extent, is as essential as proof of service, for if the property is not saved, or if it perish, or, in case of capture, if it is not retaken, no compensation will be allowed. * * * Volunteer assistance rendered to such property when in peril, and which is successful in saving the property or some portion of it, constitutes the proper foundation to support an action for salvage in rem against the ship and cargo or the proceeds thereof. * * * Salvors who volunteer go out at their own risk for the chance of \u2022earning reward, and, if not successful, they are entitled to nothing; the rule being that it is success that gives them a title to salvage \u00a1remuneration.\u201d The Sabine, 101 U. S. 384, 25 L. Ed. 982.\nThe facts in the case of The Avoca (D. C.) 39 Fed. 567, show that the vessel caught fire while lying at the wharf loaded with refined petroleum. The pilot of the Alice E. Crew, a steam tug, saw her danger, and came to her rescue voluntarily, extricated her from the burning shipping and wharves, and anchored her in safety in the river, where the Avoca\u2019s crew were successfully assisted by the tug and her crew in extinguishing the fire.\n\u201cWhile the hark was at anchor, and the crew of the hark engaged with the crew of the Alice E. Crew in extinguishing the fire upon the hark, the steam tug Arrow and also the steam tug Excelsior came alongside the bark, and now claim to have rendered services in extinguishing the fire on the hark, for which they also demand salvage-compensation. * * * In regard to the services rendered hy the Arrow and the Excelsior, in my opinion, neither of those vessels is entitled to salvage compensation. Their services were not needed. The Alice E. Crew was alongside the hark, and her crew and the crew of the bark were engaged in putting out the fire, and it would have been extinguished without any aid from the Arrow or the Excelsior. The little aid that they did render was not required, and I am unable to award to them any compensation therefor.\u201d\nThe rule so clearly recognized in this case is founded upon-principles of good faith and equity. It is that the service performed must be beneficial, to some extent, in saving the property; that, if the property had then been rescued from the peril, no gratuitous, officious, and unnecessary service thrust upon it by one seeking to connect himself with a salvage' claim would justify the court in granting the decree. See, also, The Pohatcong (D. C.) 77 Fed. 996; The J. W. Husted (D. C.) 36 Fed. 604; The Chouteau (D. C.) 5 Fed. 463. In the case of Spreckels v. The State of California, Judge Hoffman, in commenting upon the case of The Chouteau, says:\n\u201cI should hesitate to accept the view of the master\u2019s right and duties as broadly as it is here laid down. But when the owners of a vessel in xieril have taken all measures in their judgment necessary to insure her safety, and those measures are adequate, and all that prudence requires, other parties have no right to obtrude their services, and anticipate the employment of the means adopted by the owners, and then, if successful, claim a salvage recompense. Such an enterprise savors more of a predatory expedition than a salvage service to be encouraged and rewarded on grounds of public policy. * * * The owner of a vessel disabled or in distress does not thereby lose the control of his property. He has the right to refuse or accept any offers of assistance tliat may be made, or to adopt Ms own measures for tbe preservation of Ms vessel. When be bas provided means for ber rescue, in Ms judgment adequate and effectual, be is not at tbe mercy of any stranger wbo, with full knowledge of this fact, may sally out to \u2018take bis chances\u2019 of winning in a race \u2018to see wliicb shall first seize tbe ship as a salvage prize.\u2019 The Bolivar v. The Chalmette [1 Woods, 397, Fed. Cas. No. 1,611].\u201d Spreckels v. The State of California (D. C.) 45 Fed. 647.\nIn October, 1879, the bark Cleone was driven ashore in St. Lawrence Bay, just south of Bering Strait, and sank in shallow water. Her crew and pa'rt of her cargo were shifted to another vessel, and her master left her for the winter, giving a native on shore orders to protect her as best he could. In the spring, another vessel reached that-bay, ahead of the one commanded by the master of the sunken bark, who came back to rescue her and her cargo from peril. Capt. Ravens, of the Timandra, well knowing the facts, but reaching the bay a short time prior to Capt. Nye, the recent master of the Cleone, put a man aboard of the stranded vessel, and set up a claim for salvage services.\n\u201cHis design was to take possession of tbe vessel, and to secure some sort of a lien or right to take ber cargo, to tbe exclusion of ber owner, at a future time, and whenever circumstances and bis own convenience might permit.\u201d\nUnder the facts in .the case, Judge Hoffman held, that she was neither a derelict nor abandoned.\n\u201cBy quitting the vessel tbe master and owner does not lose bis jus disponendi or right of property. If a vessel be found, though with no one on board, under such circumstances that tbe persons assuming to be salvors knew, or ought to have known, that their services were not desired, and they take possession with intent to supplant the master and owners in giving ber relief, they have no claim for compensation. The Upnor, 2 Hag. Adm. 3; The Barefoot [1 Eng. Law & Eq. 661]; Tbe India, 1 W. Rob. 406; The Amethyst, Davies R. 23 [Fed. Cas. No. 330]. See argument of counsel (the late Mr. J. Curtis) in The Island City, 1 Black, 126 [17 L. Ed. 70]; The Champion, Br. & Lush. Adm. R. 69. These authorities establish beyond controversy the principle so agreeable to justice and reason \u2014 that unless the vessel has been utterly abandoned, and is, in contemplation of law, a derelict, even bona fide salvors have no right to the exclusive possession, and are bound to give up charge to the master on his appearing and claiming charge. See The Champion, ubi supra. It is not to be tolerated that a stranded vessel with a valuable cargo may be taken possession of by a stranger, who knows that she has been left, but not abandoned; that she has been put in charge o\u00ed-an agent of the master, and that the latter intends to return to her, and is actually on his way to her for that purpose; nor that the mere fact of placing a man on board, with the object of anticipating and supplanting the master, shall entitle him to a share of the property which is subsequently recovered by the unaided efforts of its owner.\u201d The Cleone [D. C.] 6 Fed. 517.\nIn the case at bar the testimony shows that the Louise was a Yukon river steamer, and that she left the harbor of St. Michael at midnight of July 30, 1899, pushing three loaded barges, one at her bow and one at each side. Her destination was the mouth of the Yukon, to reach which she had to coast along the north shore of St. Michael Island. Soon after leaving the harbor a strong gale from the north struck the vessel, and on account of the strong winds, and the great surface exposure of the houses on the barges, she became unmanageable, and drifted upon the north shore. The storm increased, and the danger became so great that, upon a consultation between the master and his two pilots and Capt. Hansen, the superintendent of the line, it was found necessary to drop the barges. The course of the vessel was changed, she wms backed to relieve her from the strain, and a good place was sought to beach the barges. Just opposite a sandy cove on the north shore, with the wind on shore at the rate of 30 miles an hour, they anchored the front barge and cut the side barges loose, with the design of saving them and their caroges by beaching them in the cove. .Their design failed in one feature only \u2014 the front barge swamped at her moorings about 300 or 400 feet off shore. 'The other two safely beached, as expected, in the sandy cove. The Louise, though in great peril, turned back and reached St. Michael Harbor, but in such an unmanageable condition that she went ashore there. Her crew and passengers were rescued with danger. The evidence shows that the Louise left St. Michael at midnight, and returned to the'harbor- and was beached about 4 o\u2019clock in the morning. The barges were cut loose about 2:3o a. m., about a mile or a mile and a half off shore. The wind was blowing at the rate of 30 miles an hour on shore.\nThe libelants were at the St. Michael wharf when the Louise left there at midnight (McKinney testifies to hearing her signals of distress), and was at her place of stranding in St. Michael harbor at 4 o\u2019clock, and remained there an hour or more. In company with one McSherry, he interviewed one Lascelles, a fireman who came ashore from the Louise, and testifies that Lascelles told them the barges had been cut loose some nine miles north of the coast. Well knowing that the barges would come ashore before such a wind, he testifies that \u201cfinally we made up our minds that it would be a \u2022pretty good thing for us to strike out on our own hook on a little salvage expedition.\u201d So accurate was the information obtained by them from Lascelles that they went speedily and directly to the spot where the barges had been beached by the master. It was eight miles distant along the beach, and upon the journey Spaulding and McKinney met, and thereafter continued and acted together. They testify that they saw the barges when yet distant from their final landing place a mile, and that they were all three coming rapidly ashore before the wind. This, they say, was about 7 o\u2019clock in the morning. They also testify that two of the barges reached a point only 150 feet from shore by the time they arrived there, and that the third suddenly swamped about 300 or 400 feet from shore. They testify that they boarded the two\u2019 stranded barges, got an anchor ashore, and a line fast to the anchor, and then, hauling in on the slack of the line, they drew the barges further upon the land, and thus preserved them. It is admitted that the wind continued to blow heavily on shore for two days, and the evidence is clear that there was no contrary and dangerous current and no danger of rocks.\nA short distance away from where the barges beached stood an Eskimo village, and some of these people, being introduced on behalf of the respondent, testified that the barges came ashore just at sunrise, which would be very early at that season. This evidence agrees with that of the officers of the Eouise. The Eskimo witnesses say that they saw the steamer and saw the barges cut loose, and that it was not long before the barges struck the beach solidly; that it was much later when the white men (the libelants) came, and that, when the white men arrived, the tide was falling, the strong wind having, as usual, carried the water out of Norton Sound and St. Michael Bay; before the white men (libelants) reached the barges, an Eskimo had gone on the barges to unfasten a dog, and had succeeded. They testified that they gathered from the surf much of the cargo coming ashore from the sunken barge, but deny that libelants did. They further testify that libelants did not reach the barges until 9 or io-o\u2019clock in the morning, and got out no anchor until the tide went out, leaving the barges fiat on the beach, and making it easy to roll the anchor ashore.\nIt appears from the testimony that the goods rescued from the surf by the natives, or the libelants, or both, were of little-value, and only sold for some $28; that, as soon as the Louise landed, the respondent\u2019s officers sent out men to find and take charge of the barges and cargo, though the libel-ants beat them in the race by a few hours, but were promptly ejected when respondent\u2019s employ\u00e9s did arrive. Libelants now claim salvage for the services rendered in putting out lines and rescuing goods from the surf.\nThere seems to be no ground for the foundation of such a claim. The libelants had nothing to do with beaching the barges in this sandy cove. That was designed and carried out by the officers of the respondent on board the Louise, and was the primary, if not the only, means of saving them. The on-shore gale blew the barges upon the sands and held them there. No evidence is offered to show that they could or would have moved a foot up or down the beach. The court is satisfied that no act done by libelants assisted in any\" way in holding the barges on shore; it was impossible to move them off in opposition to the on-shore wind. The anchors put out by the libelants, whether put out in the morning or evening, gave no aid in rescuing the property from peril, for the winds never abated their strength on shore, nor was it shown that, even if the course of the wind had changed, and come from the opposite direction, the barges could have lifted after once reaching their place on the crest of the high on-shore waves. Success in saving these barges and their loads was due entirely to the design of the; officers on board the Louise beaching them at a safe place. True it is that the libelants, in pursuance of the information given them by the fireman of the Louise in St. Michael, were enabled to race across the tundra and reach these barges ahead of the employ\u00e9s of the respondent; but they rendered no meritorious services in saving either the barges or cargo. They knew that the officers of the Louise had cut them loose,, and that they would find them on shore, as they did. Their action in racing there and boldly taking possession of them was, as McKinney well said, a \u201clittle salvage expedition\u201d \u2014 a predatory excursion without a single just or equitable feature of salvage service to excuse it. Their service brought no sue-\u25a0cess in saving the property. It was not a meritorious service nor beneficial in any respect. It resembles, more than anything else, the action of the master of the- Timandra in placing a man on board the bark Cleone for the purpose of dividing another man\u2019s property because he rescued it first in the race.\n\u201cUseful services of any kind rendered to a vessel or her cargo, exposed to any impending danger and imminent peril of loss or damage, may entitle those who render such services to salvage reward. \u2022* * * Compensation as salvage is not viewed hy the admiralty \u2022courts merely as pay, on the principle of a quantum meruit, or as a remuneration pro opere et lahore, hut as a reward given for perilous -services, voluntarily rendered, and as an inducement to seamen and others to embark in such undertaking to save life and property.\u201d The Blackwell, 77 U. S. (10 Wall.) 1, 19 L. Ed. 870.\nPublic policy suggests that courts ought to be fair, and \u25a0even liberal, in compensating salvors who have thus saved derelict property, but no such liberality can be shown unless it affirmatively appears that their services were an aid to the enterprise. Beach-combing, predatory excursions to fasten vipon another man\u2019s property before he can reach it, mere possession, without aid in saving it from peril \u2014 these are not services for which admiralty courts will award salvage compensation. Whatever may be said of the labor performed by the libelants in going to the place of wreck, their efforts to get anchors and lines ashore, and their alleged salvage of wreckage from the sunken barge, it is my judgment that it falls far short of invoking the equitable principle of admiralty law which can justify this court in decreeing them an award .as a compensation for such services. The efforts of the officers on board the T'ouise, and the prevailing winds of which they took advantage, are entitled to all the credit for saving -what was saved from their tow, and nothing can be awarded to the libelants for their intrusion when their services were not needed. Tet a decree be entered against the libelants.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Albert Fink, Ira D. Orton, and James M. Bell, for libelants.",
+      "C. S. Johnson, Geo. D. Schofield, A. J. Daly, and P. G. Sullivan, for respondent."
+    ],
+    "corrections": "",
+    "head_matter": "SPAULDING et al. v. ALASKA COM. CO.\n(Second Division. Nome.\nMarch 15, 1902.)\nNo. 26a.\n1. Admiralty \u2014 Salvage\u2014Suit in Personam.\nUnder the general admiralty law (which is not limited in this respect by admiralty rule 19), a salvor of property, which has been taken from his possession by the owner, may maintain a suit in personam against the owner for salvage compensation.\n2. Salvage Service \u2014 Want op Merit.\nWhere libelants knew that barges had been driven on shore by a heavy on-shore wind at a point designed by the master of the tow, reached them ahead of the owner\u2019s employ\u00e9s, went aboard dry-shod, put out an anchor on shore, and attached a line thereto, but did no meritorious act or thing toward saving them or the property - aboard, or rendering either more secure, held, that they were trespassers, and not entitled to salvage compensation.\nLibel in personam to recover salvage for services performed in saving two barges and contents on St. Michael Island, Alaska.\nAlbert Fink, Ira D. Orton, and James M. Bell, for libelants.\nC. S. Johnson, Geo. D. Schofield, A. J. Daly, and P. G. Sullivan, for respondent."
+  },
+  "file_name": "0497-01",
+  "first_page_order": 521,
+  "last_page_order": 532
+}

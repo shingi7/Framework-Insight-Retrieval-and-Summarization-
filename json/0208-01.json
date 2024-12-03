@@ -1,0 +1,190 @@
+{
+  "id": 8504786,
+  "name": "BATES v. MAYOR AND COUNCIL OF NOME",
+  "name_abbreviation": "Bates v. Mayor of Nome",
+  "decision_date": "1901-09-30",
+  "docket_number": "No. 523",
+  "first_page": "208",
+  "last_page": "217",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 208"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 520",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": -1
+    },
+    {
+      "cite": "42 Fed. 306",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 N. W. 788",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "36 Pac. 480",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Wash. 479",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        2431646
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/8/0479-01"
+      ]
+    },
+    {
+      "cite": "41 Pac. 186",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Wash. 428",
+      "category": "reporters:state",
+      "reporter": "Wash.",
+      "case_ids": [
+        782173
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash/12/0428-01"
+      ]
+    },
+    {
+      "cite": "54 Pac. 942",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Pac. 3",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "34 Kan. 714",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        1127590
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/34/0714-01"
+      ]
+    },
+    {
+      "cite": "22 L. R. A. 548",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Atl. 56",
+      "category": "reporters:state_regional",
+      "reporter": "A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "15 L. R. A. 561",
+      "category": "reporters:federal",
+      "reporter": "L.R.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 N. W. 724",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 U. S. 601",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5632736
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/101/0601-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 520",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 734,
+    "char_count": 17744,
+    "ocr_confidence": 0.673,
+    "pagerank": {
+      "raw": 7.351004668085048e-08,
+      "percentile": 0.44107610134799363
+    },
+    "sha256": "f56e551f4a93fe13eb12599d3889423f0e93fdb17b1e862e71e4841e76497b8c",
+    "simhash": "1:86dee6528caba7e3",
+    "word_count": 3041
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BATES v. MAYOR AND COUNCIL OF NOME."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe first question urged in the argument of the demurrer, though not specially raised by the demurrer itself, was that the plaintiff had no legal capacity to sue and maintain the action as a taxpayer or disfranchised elector. It is contended that the complaint does not state facts which show any such interest in the plaintiff as will justify the court in granting an injunction upon his application. The demurrer admits the truth of the allegations that the plaintiff is a taxpayer, and is taxed for the public fund; that, unless restrained, defendants will hold the election, and incur the expense thereof; and that the plaintiff has no other plain, speedy, and adequate remedy to prevent the fund being thus depleted. It also admits his allegation that he will not be permitted to cast his vote at the election, though a qualified elector residing within the corporate limits of Nome, for the reason that he does not live within the boundaries of the Second Ward. Upon these admitted facts, is not the plaintiff a proper party to bring, and may he not maintain, the suit at this time, to prevent a waste of public funds ?\nThe Supreme Court of the United States, by Mr. Justice Field, has laid down the rule as follows:\n\u201cOf the right of resident taxpayers to invoke the interposition of a court of equity to prevent an illegal disposition of the moneys of the county, or the illegal creation of a debt which they, in common with other property holders of the county, may otherwise he compelled to pay, there is at this day no serious question. The right has been recognized by the state courts in numerous cases; and from the nature of the powers exercised by municipal corporations, the great danger of their abuse, and the necessity of prompt action to prevent irremediable injuries, it would seem eminently proper for courts of equity to interfere upon the application of the taxpayers of a county to prevent the consummation of a wrong, when the officers of those corporations assume, in excess of their power, to create burdens upon property holders. Certainly, in the absence of legislation restricting the right to interfere in such cases to public officers of the state or county, there would seem to be no substantial reason why a bill by or on behalf of individual taxpayers should not be entertained to prevent the misuse of corporate powers.\u201d Crampton v. Zabriski, 101 U. S. 601, 25 L. Ed. 1070.\nPublic officers are public servants, and all funds intrusted to them are public trust funds. The jurisdiction of courts-of equity in this class of cases rests in the doctrine of trusts, and, while equity will not interfere to control the officers of a municipality while acting within the limits laid down for them by law, yet when they go outside of their well-defined jurisdiction, and threaten to misappropriate the funds intrusted to them, a court of equity will, at the suit of a taxpayer,, grant an injunction to restrain the illegal payment. It can make no difference in principle whether the amount threatened to be misappropriated be large or small. If it is a portion of the public funds, and is to be paid out without authority, and in violation of law, the proposed payment may be enjoined at the suit of a taxpayer. It follows that a taxpayer has a sufficient interest to enable him to maintain a suit in equity to restrain the municipal officers from incurring or paying the expenses of an election called without authority and in violation of law.\nIt is urged in argument, though not raised by the demurrer, that this court will not entertain jurisdiction to control the election of officers by injunction. It would not do-so if they were acting within the limits of their jurisdiction as established by the law; it would not undertake to control either the legal judgment or discretion of such officers by an injunction; but where they assume to perform ministerial duties in pursuance to a void ordinance, or in the absence of any legislative authority whatever, the court, in the proper performance of its duty, has jurisdiction by injunction to-prevent the proposed illegal action; and this may be done at the suit of a taxpayer. State of Wisconsin v. Cunningham (Wis.) 51 N. W. 724, 15 L. R. A. 561; State of New Jersey v. Wrightson (N. J. Sup.) 28 Atl. 56, 22 L. R. A. 548; State of Kansas v. Eggleston, 34 Kan. 714, 10 Pac. 3; Buck v. Fitzgerald (Mont.) 54 Pac. 942; Krieschel v. County Commissioners, 12 Wash. 428, 41 Pac. 186; Rickey v. Williams, 8 Wash. 479, 36 Pac. 480. Whether or not a qualified elect- or, whose right to cast his vote is restricted by the unauthorized and illegal act of public officers, may not also restrain such violation of his lawful right, need not be decided in this case, although very high authority seems to lean toward the affirmative. State v. Wrightson, supra. I have no doubt of the jurisdiction of this court to hear and determine this action upon the allegations in the complaint showing plaintiff\u2019s interest as a taxpayer.\nThe demurrer raises the single question that the complaint does not state facts sufficient to constitute a cause of action. All the law relating to the incorporation of municipal corporations, their power to hold elections and appoint election officers in Alaska, is found in chapter 21 of the Civil Code of Alaska, Act June 6, 1900, c. 786 (31 Stat. 520). Section 198 of that chapter provides, that any community having 300 permanent inhabitants may incorporate as provided therein. A petition shall be presented to the district judge, which shall set forth the boundaries of the proposed town, and state other facts showing the necessity of the incorporation. Notice shall be given, objections may be heard before the court, which, \u201cif satisfied that the public interests require the incorporation, by order may make changes in the boundaries, and shall set forth the name thereof and give due notice of an election for the purpose of determining whether the same shall be incorporated. At such election, the qualified electors of the community may elect a common council of seven members, who shall have the qualifications of electors, such election to be under the control of a board of electors composed of three bona fide residents and property-owners in the corporation, to be appointed by the court or judge.\u201d\nSection 199 prescribes the qualifications of an elector within such incorporated town as follows:\n\u201cTire qualification of an elector for the first and all subsequent municipal elections shall he as follows: He shall he a male citizen of the United States, or one who has declared his intention to become such, and of the age of twenty-one years, and shall have been a bona fide resident of Alaska for one year, and of the proposed corporation for six months, next prior to the date of election, or any subsequent one: provided, there shall be added to the foregoing qualification in any election to determine whether or not a community shall incorporate the following qualification: Every elector shall be the owner of substantial property interests in the corporation.\u201d\nSection 200 then provides for the canvass of the votes at the first or incorporating election, for declaring the result, and that a certificate shall be filed by the election board with the clerk of the district court, the secretary of the district, and the commissioner residing in the corporation.\n\u201cAfter filing such orders, the corporation shall be deemed complete and the councilmen shall, after duly qualifying before the United States Commissioner residing in the corporation, enter upon the duties of their office, and shall hold the same for one year or until their successors shall be elected and qualified.\u201d\nUnder the provisions of the foregoing sections, the town of Nome was incorporated, and a council of seven members elected in April, 1901. One of the councilmen so elected was McPhee, who, after the passage of the ordinances set out in the complaint, and prior .to bringing this action, resigned his office, and left the District of Alaska. Under the provisions of Ordinance No. 54, he had been, just previous to his resignation, assigned to AVard No. 2 as created and bounded in Ordinance No. 52. The election complained of in the complaint is called to provide his successor, and is restricted to the said Second Ward.\nSection 201 confers certain powers upon the common council. It contains the only grant of power made by law to the common council. The third subdivision grants the power \u201cto make rules for all municipal elections: provided, no officer shall be elected for a longer term than one year.\u201d This is a very comprehensive and important grant of power. It is the only one made by Congress upon that subject to the common council of incorporated towns of Alaska.\nUnder , this grant of legislative power, the council passed Ordinance No. 51, empowering the mayor to appoint a person to act as councilman to fill any vacancy that might thereafter occur by death or resignation. This ordinance is in conflict with the grant of power, as well as the last clause of section 200, which provides that such successor \u201cshall be elected and qualified.\u201d This clearly excludes any power on the part of the council to fill vacancies in the council except by election.\nIt is not claimed, however, that there is any intention on the part of the mayor to appoint a successor to McPhee. The subsequent allegations of the complaint show that soon after his resignation, and upon September 24, 1901, the may- or of Nome, without any action of the common council by rule or ordinance calling for such election, issued a notice for an election to be held on September 30, 1901, in the Second Ward, as bounded and described in Ordinance No. 52, to elect a successor to \u201cfill the vacancy caused by the resignation of Councilman McPhee.\u201d\nThis election seems to have been called by the mayor in pursuance to the supposed authority granted by Ordinance No. 56, supra. The action of the mayor, however, is without authority or law, for several reasons. First. The action of the council in assigning the original seven councilmen to wards, without regard to their residence in the same, was void, and without authority of law. All members of the common council must be elected at large by all the electors of the town. State of Minnesota v. Fitzgerald (Minn.) 32 N. W. 788. Second. The resignation of McPhee created a vacancy in the office of councilman, to be filled by all the electors residing within the limits of the town of Nome, and not those, only, residing within the Second Ward. Third. Because by the terms of Ordinance No. 56, even if the election could be held under its provisions, \u201cone week\u2019s notice of such election to fill such vacancy shall be given to the electors of the ward in which said vacancy occurs in such manner as said municipal council may elect.\u201d\nThe only authority given to the council to call or hold such elections is the power \u201cto make rules for all municipal elections.\u201d A \u201crule\u201d is that which is prescribed or laid down as a guide to conduct; that which is settled by authority or custom; a regulation; a prescription; a minor law; a uniform course of things. A rule of court means uniformity, regulation in practice alike to all suitors, established and fixed, as much as a statute itself, and known to all litigants and attorneys. Spangler v. Atchison Ry. Co. (C. C.) 42 Fed. 306; 21 Am. & Eng. Ency. of Law, p. 437.\nIn our American system of managing city elections, the \u201crule\u201d is always manifested in the form of an ordinance passed with the consent of a majority of the common council, approved by the mayor, and made public as a law. It must have been so understood by Congress. It follows that the council can only provide for calling elections, appointing election officers, canvassing the returns, and declaring the result by ordinances, either general or special. What board, for instance, would canvass the votes as required in Ordinance No. 53, or declare the result of the election, or issue and sign the certificate of election ? The action of the mayor in calling the election of September 30th was without the \u25a0sanction of any ordinance authorizing it, and is void. The appointment of the election officers, defendants herein, was equally without authority by ordinance, and must be held void. The election being wholly without authority, and in violation of law, affords no excuse or justification for incurring the expenses incident thereto, which must be paid from the public fund raised by taxation within the town. The plaintiff, as a taxpayer, has an interest in protecting the fund. The demurrer to the complaint will be overruled, and the injunction prayed for may issue.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "T. M.-Reed, Jr., and C. S. Hannum, for plaintiff.",
+      "J. W.-Fenton and P. C. Sullivan, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "BATES v. MAYOR AND COUNCIL OF NOME.\n(Second Division. Nome.\nSeptember 30, 1901.)\nNo. 523.\n1. MuNicipau Cobpop.ation \u2014 Elections\u2014Injunctions\u2014Taxpayers.\nA taxpayer in an incorporated town in Alaska has a sufficient interest to enable him to maintain a suit in equity to restrain municipal officers from incurring or paying the expenses of an election called without authority and in violation of the law.\n2. Same \u2014 Officers.\nAn Ordinance providing for the appointment by the mayor of the successor to a councilman who resigns is void for conflict with section 200 of the Civil Code of Alaska, Act June 6, 1900, c. 786 (31 Stat. 520), which provides that such successor shall be \u201celected.\u201d\n8. Same \u2014 Notice\u2014Rules.\nWhere the organic act provides that the council shall have power \u201cto make rules for all municipal elections,\u201d an election called by the mayor without any general or special action by the council is void, and will be enjoined.\n4. Same \u2014 Wards.\nThe common council in incorporated towns in Alaska is not authorized by law to divide the town into wards, and cause the election of eouncilmen in such wards, hy less than a majority of all the electors in the town.\nThe plaintiff in this action alleges that he is a citizen of the United States, a qualified elector and a resident taxpayer of the city of Nome, and brings the suit on behalf of himself and all others similarly situated. He alleges that he has substantial property interests within the corporate limits of Nome, subject to taxation, and taxed; that by reason of holding the election mentioned in the complaint there will necessarily result a great and useless expenditure of the public funds of said city of Nome out of its public treasury, to the irreparable loss and injury to the plaintiff and other taxpaying citizens. He also alleges and shows that by reason of the passage of the ordinances set out in the complaint, dividing the city into wards, and the election of a single councilman to each ward, he will be deprived of his legal right to vote for all members of the city council of Nome except one. He asks for an injunction to prevent the defendants from holding the election on September 30th, and a decree declaring the ordinances set out in the complaint to be null and void.\nThe complaint further shows that Geiger, Geise, Rickard, Hoxsie, Harris, and Stevens, together with one McPhee, were elected eouncilmen of the - city of Nome at the first election held in April, 1901, under chapter 21 for \u201cthe incorporation of towns\u201d contained in the Civil Code of Alaska, passed June 6, 1900, c. 786 (31 Stat. 520). That thereafter, and on the 4th day of September, the city council passed an ordinance \u2014 No. 51 \u2014 conferring upon the mayor the power to fill vacancies in the city council that might occur through death, resignation, or other cause. On the 9th day of September, 1901, Ordinance No. 52 was passed, dividing the city of Nome into seven wards, and describing the boundaries thereof. On the same day' the city council passed Ordinance No. 53, providing for the election of members of the city council by wards, which reads as follows:\n\u201cThat at the next annual election for said city, the resident electors of each ward, as numbered and described in Ordinance Number fifty-two (52), shall be entitled to elect one qualified person to represent such ward in said municipal council, and a separate polling place shall be provided in each ward for this purpose, and the votes cast in each ward shall be canvassed separately, .and the person receiving the highest number of votes cast in each ward shall be declared to be the person representing such ward in said municipal council.\u201d\nThe complaint alleges that after the passage of the ordinances hereinabove mentioned McPhee resigned as member of the council from the Second Ward; that his resignation was accepted, and that, without any further action of the said council, the mayor issued a call for an election to fill the vacancy; that the election will be held on the 30th day of September, 1901; that the mayor appointed the defendant Wilkinson as judge of the said election, and defendants Nestor and Humber as clerks, and that, unless restrained, the said election will be held, and the said useless expenditure of the public funds will be incurred; that by reason of holding the election in the Second Ward, as described in Ordinance No. 52, all the electors residing within the city of Nome, except those residing in the Second Ward, will be denied permission to vote for councilmen at said special election; and that the accounts incurred in holding the election will be audited and paid by the council, if not restrained. The defendants appear by their attorneys, and demur to the complaint upon the ground that it does not state facts sufficient to constitute a cause of action, or to entitle the plaintiff to the relief prayed for, or any relief.\nT. M.-Reed, Jr., and C. S. Hannum, for plaintiff.\nJ. W.-Fenton and P. C. Sullivan, for defendants."
+  },
+  "file_name": "0208-01",
+  "first_page_order": 232,
+  "last_page_order": 241
+}

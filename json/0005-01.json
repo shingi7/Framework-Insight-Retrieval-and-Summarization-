@@ -1,0 +1,92 @@
+{
+  "id": 8504008,
+  "name": "UNITED STATES v. THE NORTH-WEST TRADING CO. et al.",
+  "name_abbreviation": "United States v. North-West Trading Co.",
+  "decision_date": "1888-08-20",
+  "docket_number": "No. 104",
+  "first_page": "5",
+  "last_page": "10",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 5"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "15 Pet. 407",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3331298
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/40/0407-01"
+      ]
+    },
+    {
+      "cite": "60 Mo. 394",
+      "category": "reporters:state",
+      "reporter": "Mo.",
+      "case_ids": [
+        946284
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mo/60/0394-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 565,
+    "char_count": 10139,
+    "ocr_confidence": 0.643,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2052057861288438
+    },
+    "sha256": "77772fffc16ebd1dc7551264ac890f591b87a7f4a7de52d3c502699fecaede88",
+    "simhash": "1:b4cbe5202d4e6ede",
+    "word_count": 1777
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES v. THE NORTH-WEST TRADING CO. et al."
+    ],
+    "opinions": [
+      {
+        "text": "DAWSON, District Judge.\nOn June 6, 1888, the United States District Attorney for the District of Alaska, representing the United States, filed his petition, in which it is alleged, in substance, that by virtue of the treaty of March 30, 1867, by which Alaska was ceded to the United States by Russia, the wharf in front of what is now designated as lot one in the town of Sitka passed to the United States; that the defendants, James Carroll and the North-West Trading Company, which is admitted to be a body corporate existing under and by virtue of the laws of the state of Oregon, claim to have some interest, lien, or title to said wharf adverse to the title of the United States; that the defendants have been and are threatening to tear down the framework and platform of said wharf; and praying that defendants may be restrained, the title quieted, etc. The defendants, answering; deny that the wharf in controversy passed to the United States by the treaty alluded to, but in substance admit that they did tear down a portion of the framework and platform of said wharf for the purpose of rebuilding and repairing the same, alleging that it had fallen into decay, and was unsafe for the landing of vessels, and that they did this under claim of ownership. Defendants further allege that the repair of said wharf was an immediate necessity, and deny any intention to injure or destroy the property.\nBefore proceeding to discuss the legal aspect of this case, something of its history may not be amiss. The wharf described in plaintiff\u2019s bill was first erected by the Russian-American Company, anterior to the transfer of Alaska to the United States, and remained in the possession and under the control of that company until the transfer. After the transfer the military authorities then stationed at Sitka took possession of the wharf, and held it until 1879, when they abandoned the country. During their occupancy they extended the wharf from the stonework to its present limits. After the wharf was abandoned by the military, the collector of customs, claiming the custody of the property, on the 7th day of September, 1881, turned over and delivered possession of the wharf to the agents of the North-West Trading .Company on the following conditions:\n\u201cWith all the privileges of wharfage, warehouse, storage, etc., connected therewith, for the full term necessary in order to realize from said wharfage and storage receipts the following sums, due as stated and payable out of said wharfage and storage receipts, in the order to be herein named; that is to say: (1) The sum of three hundred and six dollars and fifty-nine cent? ($306.59) due to said parties, as such agents, for advances on the late repair of said wharf, as per account of myself transferred and assigned to them; (2) the sum of four hundred and eighty dollars and ninety-one cents ($480.91), due me for advances and commissions, and the sum of six hundred and fifty dollars ($650.00) on order of Frank Starr, held by A. T. Wbitford & Co.; which claims are held in equal merit as liens of the second class, and to be paid by an equal division of all receipts of storage and wharfage, after payment of the first and preferred claim in full, and 'the application of half of said receipts to each of said debts; but provided that the necessary repairs to said wharf may be made and paid first out of said receipts as the said receipts accrue and the repairs are needed for the safety of said wharf.\u201d\nThe agents of the company remained in possession until 1887. It further appears that in 1881, and prior to the delivery of possession by the collector of customs to the agent of the N. W. T. Co., the framework of the wharf became decayed, and fell down, and that it was rebuilt by private subscription. After the abandonment by the agents of the company, the defendant James Carroll took possession, and in January, 1888, filed his application in the District Court for the appointment of a receiver, and asked to be allowed to use $1,000 of the earnings of the wharf for the purpose of repairing the same and making it safe for the landing of vessels. The prayer of the petitioner was granted; the wharf has been rebuilt, and is now in a safe condition for landing vessels, making them fast, and discharging and receiving their cargoes.\nAs I view this case, there is no question of title involved. The plaintiff cannot claim equitable relief, because his petitioner does not show or allege that he has not an adequate remedy at law. To entitle the plaintiff to relief in equity and invoke remedial relief by injunction, it must be made to appear upon the face of the petition that he cannot redress his supposed grievance in an action at law. It is not; and never was, the province of courts of equity to take cognizance of cases where the law affords an ample remedy. Equity must necessarily have a place in every rational system of jurisprudence. It is impossible that any code or system of laws, however minute, should embrace, or provide for the infinite variety of human affairs, or should furnish rules applicable to all of them.\nEvery system of laws must necessarily contain defects, and cases often occur for which the law based on precedents and fixed rules affords no redress. It is in such cases only that equity interposes to do that justice for which the law fails to make provisions. But the courts in the various states have uniformly held that equity will not interpose when there is ample remedy at law. To entitle a party to relief in equity, his petition must show upon its face that he is without remedy at law, and that, unless equity interposes, he will sustain irreparable loss or injury. The petition in this case most signally fails to show any such ground for invoking the equitable arm of the court, or that petitioner cannot have ample redress at law! The plaintiff has greatly mistaken the manner of quieting title, if that was the object of the suit. The primary object of a suit to quiet title is to compel the outstanding claimant to bring a suit for the purpose of trying the strength of the title to the property in dispute. A condition precedent to this form of proceeding is that plaintiff must allege that he is in possession of the disputed property, owning an estate of freehold.or an unexpired term of not less than io years. He may then file his petition in a court of competent jurisdiction, setting forth his estate, whether of inheritance for life or years, describing the premises, and averring that he is credibly informed and believes that the defendant makes some claim adverse to the petition, and concluding with a prayer that defendant may be summoned to show cause why he should not bring an action to try the alleged title. The proceeding is only preliminary to a suit to settle title, and was never intended to determine future or contingent interests not interfering with present possession. Webb v. Donaldson, 60 Mo. 394.\nThe title to the property not being involved in this controversy, I may remark, obiter, dictum, that, while the sea is probably without an owner, and is regarded as an unappropriated waste, yet those parts of the sea which wash the shores of civilized nations have been and are regarded as capable of appropriation, and of being held by possession. If the theory of the plaintiff be true that the portion of the sea upon which the Sitka wharf is erected passed to the United States under the treaty and protocol, still the defendant might have a lawful right to erect and maintain a wharf, since it is clear that portions of the sea may be appropriated, provided such appropriation does not interfere with navigation. The United States Supreme Court has held in an early case, which I believe has not been overruled, that, pursuant to that provision of the Constitution conferring upon Congress the right to dispose of and make all needful rules and regulations respecting the territory or other property of the United States, an appropriation of a water front for the purposes of wharfage to the United States can only be made by an act of Congress. See U. S. v. Fitzgerald, 15 Pet. 407, 10 L. Ed. 785.\nIt is a fact well known here that great inconvenience has been experienced and expenses augmented because of the defective condition of the wharf and the use of lighters in landing the various articles of merchandise at this port; and it was only through the energy and enterprise of the defendant Carroll, who advanced his own money for the purpose, that the wharf has been rebuilt, and the conveniences of yore re-established. The Sitka wharf is erected on the shore of an arm of the great ocean, upon whose bosom floats a large portion of the commerce of the world, and it is essential that there should be- a safe place of landing and securing the instruments of commerce that ply on this vast highway.\nThe order of the court is that the plaintiff\u2019s petition be dismissed, and the defendant Carroll be left in the true, untrammeled use and occupancy and peaceable possession of said wharf.",
+        "type": "majority",
+        "author": "DAWSON, District Judge."
+      }
+    ],
+    "attorneys": [
+      "W. M. Grant, for plaintiff.",
+      "J. G. Hcid, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES v. THE NORTH-WEST TRADING CO. et al.\n(Sitka.\nAugust 20, 1888.)\nNo. 104.\n1. Equity \u2014 Injunction\u2014Remedy at Law.\nTo entitle tlae plaintiff to relief in equity, and to invoke remedial relief by injunction, it must be made to appear on tbe face of tbe petition that be cannot redress bis supposed grievance in an action at law. Equity will not take cognizance of cases where tbe law affords an ample remedy.\n2. Quieting Title \u2014 Possession.\nIn a suit to quiet title tbe plaintiff must allege and show that be is in possession of tbe disputed property, owning an estate of freehold, or an unexpired term of not less than 10 years, and that the defendant claims some interest therein adverse to plaintiff.\n3. Whauves \u2014 United States.\nAn appropriation of a water front for tbe purposes of wharf-age to the United States can only be made by an act of Congress.\nSuit by the United States to quiet title to wharf at Sitka, alleged to have been acquired by the government by virtue of the treaty of March 30, 1867, with Russia.\nW. M. Grant, for plaintiff.\nJ. G. Hcid, for defendants."
+  },
+  "file_name": "0005-01",
+  "first_page_order": 29,
+  "last_page_order": 34
+}

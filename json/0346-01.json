@@ -1,0 +1,128 @@
+{
+  "id": 8505253,
+  "name": "FOSS v. DAM",
+  "name_abbreviation": "Foss v. Dam",
+  "decision_date": "1901-12-07",
+  "docket_number": "No. 318",
+  "first_page": "346",
+  "last_page": "347",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 346"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "7 Pac. 693",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "67 Cal. 275",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2228734
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/67/0275-01"
+      ]
+    },
+    {
+      "cite": "59 Cal. 613",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2308762
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/59/0613-01"
+      ]
+    },
+    {
+      "cite": "52 Cal. 430",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1937116
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/52/0430-01"
+      ]
+    },
+    {
+      "cite": "26 Stat. 1095",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "73 U. S. 402",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3453592
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/73/0402-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 228,
+    "char_count": 2859,
+    "ocr_confidence": 0.633,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20522895350269457
+    },
+    "sha256": "83f31784a88a34f81d2ded6741461b6f273d4795c3537dca2cc77dc81920c358",
+    "simhash": "1:01321a069c754475",
+    "word_count": 498
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FOSS v. DAM."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nDemurrer to complaint that it does not state facts sufficient to constitute a cause of action. The complaint shows the plaintiff\u2019s possession of a lot on the public lands, with store, residence, and other property for trade and residence, and the usual allegation that defendant claims an interest. Plaintiff seeks to quiet his title against the defendant. The only point made on the demurrer is that the plaintiff cannot maintain a suit to quiet title upon mere possession of public land, and counsel quotes Stark v. Starr, 73 U. S. 402, 18 L. Ed. 925, in support of his contention. The language'depended upon is as follows:\n\u201cWe do not, however, understand that the mere naked possession of the plaintiff is sufficient to authorize him to institute the suit, and require an exhibition of the estate of the adverse claimant, though the language of the statute is that \u2018any person in possession by himself or his tenant may maintain\u2019 the suit. His possession must be accompanied with a claim of right \u2014 that is, must be founded upon title, legal or equitable; and such claim or title must be exhibited by the proofs, and perhaps in the pleadings also, before the adverse claimant can be required to produce the evidence upon which he rests his claim of an adverse estate or interest.\u201d\nThe allegations in the complaint bring this case clearly within these words. They show the plaintiff to be in possession with store and dwelling house for purposes of trade and residence. The court will take notice of the act of March 3, 1891, entitled \u201cAn act to repeal timber culture law, and for other purposes\u201d (26 Stat. 1095, c. 561, extending the town-site law to Alaska). Sections 11 and 12 [U. S. Comp. St. 1901, p. 1467] of this act provide for the sale of such land as that possessed by plaintiff for purposes of trade and residence, and a possession based upon such claim is founded upon sufficient title to maintain a possessory action under the Code, either by ejectment or suit to quiet title, as the fact of possession or want of it determines.\nThe fact that the real title is in the government has long been held in California not to prevent such actions by one claiming by right of possession only. Brandt v. Wheaton, 52 Cal. 430; Funk v. Sterrett, 59 Cal. 613; Orr v. Stewart, 67 Cal. 275, 7 Pac. 693. Such an action may be maintained in Alaska by one in possession claiming title under the .United States land laws. Demurrer overruled.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "S. A. Keller and S. C. Blackett, for plaintiff.",
+      "Jackson, Pittman & Fink, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "FOSS v. DAM.\n(Second Division. Nome.\nDecember 7, 1901.)\nNo. 318.\nx. Public Lands \u2014 Quieting Title.\nOne wlio is in possession of a lot on tlie public lands in Alaska, and using the same for purposes of trade or residence, may maintain a suit to quiet bis title thereto.\nDemurrer to Complaint..\nOverruled.\nS. A. Keller and S. C. Blackett, for plaintiff.\nJackson, Pittman & Fink, for defendant."
+  },
+  "file_name": "0346-01",
+  "first_page_order": 370,
+  "last_page_order": 371
+}

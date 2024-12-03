@@ -1,0 +1,85 @@
+{
+  "id": 8505867,
+  "name": "HACKLEMAN v. GEISE et al.",
+  "name_abbreviation": "Hackleman v. Geise",
+  "decision_date": "1902-04-26",
+  "docket_number": "No. 654",
+  "first_page": "568",
+  "last_page": "570",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 568"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "53 Pac. 536",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 Pac. 539",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 480",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 319,
+    "char_count": 4762,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.34577652982857304
+    },
+    "sha256": "9e57ad2fa10051d63d0d6bc96dd30662a060f1af3790128054a6136a28346595",
+    "simhash": "1:9e3745feb2862cfa",
+    "word_count": 799
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HACKLEMAN v. GEISE et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nOn September 19,1900, the plaintiff began a suit in the Commissioner\u2019s Court in Nome precinct to recover from McPhee & Hamilton a balance of $450 alleged to be due him for hay and grain sold the defendants. The summons in that case was made returnable on September 27th, and on that day the defendants filed their answer with the commissioner, denying every material allegation of the complaint. The record does not disclose any action of the justice on the return day \u2014 neither an appearance, nor trial, nor an adjournment to another time. The transcript of the justice\u2019s docket shows that the next step in the case occurred on November 2d, when the case was set for trial on November 5, 1900, at 10 a. m.; but again the record fails to show any appearance, trial, or postponement. Nothing further is shown by the docket until June 30, 1901, when some costs were paid. There is no other entry until October 8, 1901, when the docket shows a special appearance by the defendants, and their objection to the jurisdiction of the justice on the ground that the case had prior thereto been dismissed, which objection was overruled, and the testimony of the plaintiff was heard, and judgment given against the defendants for $450 and costs.\nUpon the hearing of the special objection to the jurisdiction, an affidavit was filed by defendants\u2019 attorney, alleging that upon written notice served by mail on November 2, 1900, the case was dismissed by the justice on November 5, 1900. The record is otherwise silent on this point. Plaintiff\u2019s attorney, however, filed an affidavit in support of jurisdiction, in which he alleges that the cause was continued once by consent of both parties, and that before he left Nome for the outside, in the fall, counsel for defendants consented, upon his request, to continue the case till the spring of 1901.\nUpon the 19th day of September, 1900, when the suit was begun against McPhee & Hamilton, the plaintiff caused their personal property to be attached. On the 20th the defendants, to secure the release of their property, gave a redelivery bond, with the defendants in this action as sureties, and thereupon the attached property was released. After the entry of the judgment -on October 8, 1901, this action was begun to recover upon the redelivery bond. The cause was heard before the justice, who held that the judgment against Mc-Phee and Hamilton was void for want of jurisdiction, on account of the long postponement and lack of record entries. An appeal from the final judgment before the justice, dismissing the cause, was brought into this court.\nIn open court, counsel for plaintiff and defendants agreed that the allegations in the complaint and answer, and the entries contained in the justice\u2019s transcripts in both cases, are true, and correctly stated the facts, and thereupon the case was submitted to the court for decision.\nSection 945 of the Code of Civil Procedure (Act June 6, 1900, c. 786, 31 Stat. 480) provides that every justice of the peace shall keep a docket, and prescribes what he shall enter therein, including, \u201cFifth. Every postponement of a trial or proceeding, and upon whose application, and to what time.\u201d Section 965 fixes the time beyond which postponement shall not extend, as follows: \u201cWhen a cause is at issue upon a question of fact, the justice must, upon sufficient cause shown on the application of either party, postpone the trial for a period not exceeding sixty days.\u201d These matters are thus made jurisdictional, and a violation of the statute in either respect leaves the justice without power to proceed further in the case. Nelson v. Campbell (Wash.) 24 Pac. 539; State v. Laurandeau (Mont.) 53 Pac. 536. The judgment rendered by the justice on October 8, 1901, more than a year after the return day of the summons, and without any docket entry showing a continuance or an appearance of the plaintiff, was-wholly invalid and void for want of jurisdiction, and will not support the action against the sureties on the redelivery bond. At the time it was rendered, the justice had no jurisdiction of either the person or subject-matter of the action. There is-no judgment, and the question may be raised in this action by the defendants herein. 12 Am. & Eng. Ency. of Law, p. 311.\nJudgment of dismissal, with costs to defendants, may be entered.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "James Frawley, for plaintiff.",
+      "James E. Fenton, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "HACKLEMAN v. GEISE et al.\n(Second Division. Nome.\nApril 26, 1902.)\nNo. 654.\n1. Justice op the Peace \u2014 Continuance\u2014Juhisdiction.\nA justice\u2019s record must show jurisdiction. Where he enters judgment after an unexplained continuance for more than a year, it was without jurisdiction and void.\nMotion to dismiss for want of jurisdiction.\nGranted.\nJames Frawley, for plaintiff.\nJames E. Fenton, for defendants."
+  },
+  "file_name": "0568-01",
+  "first_page_order": 592,
+  "last_page_order": 594
+}

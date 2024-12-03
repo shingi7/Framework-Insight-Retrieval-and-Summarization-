@@ -1,0 +1,351 @@
+{
+  "id": 8504361,
+  "name": "SUTTER et al. v. HECKMAN et al.",
+  "name_abbreviation": "Sutter v. Heckman",
+  "decision_date": "1900-07",
+  "docket_number": "No. 1,164",
+  "first_page": "81",
+  "last_page": "94",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 81"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "23 Stat. 24",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "29 Stat. 316",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 Pac. 385",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "391"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 U. S. 239",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5699273
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/132/0239-01"
+      ]
+    },
+    {
+      "cite": "42 Pac. 735",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Sup. Ct. 566",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "152 U. S. 49",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "140 U. S. 371",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3554635
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "838"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/140/0371-01"
+      ]
+    },
+    {
+      "cite": "21 Wall. 389",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3410453
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/88/0389-01"
+      ]
+    },
+    {
+      "cite": "21 L. Ed. 798",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3425949
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/85/0057-01"
+      ]
+    },
+    {
+      "cite": "18 Wall. 65",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Wall. 46",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        5649056
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/90/0046-01"
+      ]
+    },
+    {
+      "cite": "10 Wall. 497",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3437121
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/77/0497-01"
+      ]
+    },
+    {
+      "cite": "7 Wall. 272",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3450258
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/74/0272-01"
+      ]
+    },
+    {
+      "cite": "17 L. Ed. 29",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1410110,
+        1410079
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/66/0023-01",
+        "/us/66/0035-01"
+      ]
+    },
+    {
+      "cite": "1 Black, 23",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "case_ids": [
+        1410110
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/66/0023-01"
+      ]
+    },
+    {
+      "cite": "14 Sup. Ct. 548",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3575173
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/152/0001-01"
+      ]
+    },
+    {
+      "cite": "152 U. S. 5",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 Am. Dec. 597",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Pa. 21",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        428573
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/61/0021-01"
+      ]
+    },
+    {
+      "cite": "97 Am. Dec. 718",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 N. J. Law, 223",
+      "category": "reporters:state",
+      "reporter": "N.J.L.",
+      "case_ids": [
+        382838
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/njl/33/0223-01"
+      ]
+    },
+    {
+      "cite": "16 Am. Dec. 386",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Pick. 199",
+      "category": "reporters:state",
+      "reporter": "Pick.",
+      "case_ids": [
+        2033125
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/22/0199-01"
+      ]
+    },
+    {
+      "cite": "4 Am. Dec. 463",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "38 Am. Dec. 722",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 N. C. 277",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8690578
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/25/0277-01"
+      ]
+    },
+    {
+      "cite": "6 Am. Dec. 250",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Conn. 382",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        12127256
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/1/0382-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 981,
+    "char_count": 25555,
+    "ocr_confidence": 0.618,
+    "pagerank": {
+      "raw": 2.965190838620652e-07,
+      "percentile": 0.8498785064302977
+    },
+    "sha256": "5d1567a345a1ab803adf27f2b93afafd9976b112167400f34f83f78bfdfd4220",
+    "simhash": "1:48b00dc706dcfd6a",
+    "word_count": 4457
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SUTTER et al. v. HECKMAN et al."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge\n(after stating the facts as above). It is claimed by complainants that their ownership and possession of the upland bordering on the tide waters gives them certain exclusive rights to the tide flats; that no one except the United States can or should be permitted to prevent their ingress or egress to and from their upland possessions to the fishing grounds adjacent, and that the occupation of said tide flats by others in taking and landing thereon does hinder, delay, and for a time prevent the free enjoyment of their upland property, and their egress therefrom and ingress thereto in landing fish upon their own possessions, to the practical destruction of their fishing rights. It is also claimed that they have certain prescriptive rights.\nOn the other hand, it is claimed by the respondents that they have a right, in common with all others, to take salmon in and about the mouth of Ketchikan creek, to spread their nets in tide waters, and to occupy said tide flats in landing their fish; that complainants have no exclusive right, nor better right than they or others desiring to take fish at the same point.\nWe have, then, these questions for consideration, viz.: (i) Have all persons, subject to regulations by Congress, a'common and equal right to fish in the tide waters and to utilize the tide flats in common for such fishing purposes ? (2) Do those persons owning and occupying uplands bordering on the tide waters acquire any exclusive or superior right to fishing grounds and the tide flats lying opposite such uplands and adjacent thereto by reason of such ownership of the upland? (3) Have complainants acquired prescriptive rights which entitle them to exclude others from the fishing grounds in question ?\nIt would seem that to discuss the question of the common right of persons to fish in the navigable waters of the United States, after the many decisions of the courts of our country upon the question, would be a work of supererogation. That the right is one common to all, except in cases of private grant, cannot be doubted, if, indeed, there has ever been chance of doubt since the Magna Charta. Chalker v. Dickenson, 1 Conn. 382, 6 Am. Dec. 250; Collins v. Benbury, 25 N. C. 277, 38 Am. Dec. 722; Carson v. Blazer, 4 Am. Dec. 463; Commonwealth v. Chapin, 5 Pick. 199, 16 Am. Dec. 386; Cobb v. Davenport, 33 N. J. Law, 223, 97 Am. Dec. 718.\nIn Tinicum Fishing Co. v. Carter, 61 Pa. 21, 100 Am. Dec. 597, Judge Sharswood says:\n\u201cIndependently of the acts of assembly, there are no exclusive rights of fishing by riparian proprietor opposite to his shore in any navigable river. In England the king has no power, and since the Magna Charta never had, to grant an exclusive right of fishing in an arm of the sea. A private and several right to fish in a navigable river must have had its origin before the Magna Charta.\u201d\nIn Shively v. Bowlby, 152 U. S. 5, 14 Sup. Ct. 548, 38 L. Ed. 331, it is said:\n\u201cLands under tide waters are incapable of cultivation or improvement in the manner of lands above high-water mart. They are of great value to the public for the purposes of commerce, navigation, and fishery. Their improvement by individuals, when permitted, is incidental or subordinate to the public use or right. Therefore the title and control of them are vested in the sovereign for the benefit of the whole people.\u201d\nThe title and rights of riparian or littoral proprietors of the soil below high-water mark are governed by the laws of the several states, subject to the rights granted to the United States by the Constitution. The United States, while they hold the country as a territory, having all the powers both of the national and municipal government, may grant, for appropriate purposes, titles or rights in the soil below high-water mark or tide waters. But they have never done so by their general laws.\nThe court is forced to hold in this case that the right to fish in the tide waters about the mouth of Ketchikan creek is a common one, and the complainants and respondents were and are upon an equality in taking fish in the said tide waters, unless the complainants have acquired some exclusive rights or privileges by grant, prescription, possession, or as owners of the uplands. The rights of the owners of uplands in tide flats and fishing grounds have been frequently determined by state and federal courts, and the law governing them seems to be well settled.\nIt has been held by many of the state courts of last resort that the owner of lands adjoining navigable water, whether within or above the ebb and flow of the tide, has, independently of local law, a right of property in the soil below high-water mark, and a right to build out wharves, so far at least as to reach water really navigable. This same theory, under the influence of the state statutes, has been indulged in by the federal courts in a few cases; especially in Dutton v. Strong, 1 Black, 23, 17 L. Ed. 29; R. R. Co. v. Schurmeier, 7 Wall. 272, 19 L. Ed. 74; Yates v. Milwaukee, 10 Wall. 497, 19 L. Ed. 984; St. Clair v. Lovingston, 23 Wall. 46, 23 L. Ed. 59. But by the later decisions of the courts it is established that the rights of riparian or littoral proprietors in the soil below high-water mark of navigable waters are governed by local laws of the several states, subject only to the rights granted to the United States by the Constitution. In the case of Weber v. Harbor Commissioners, 18 Wall. 65, 21 L. Ed. 798, Mr. Justice Field, in speaking of the right to occupy the tide lands, said:\n\u201cAny erection thereon without license is, therefore, deemed an encroachment upon th\u00e9 property of the sovereign, or, as it is termed in the language of the law, a \u2018purpresture,\u2019 which he may remove at pleasure, whether it tend to obstruct navigation or otherwise.\u201d\nAgain, in Atlee v. Packet Co., 21 Wall. 389, 22 L. Ed. 619, a riparian proprietor had no right, without statutory authority, to build out piers into the Mississippi river, as necessary parts of the boom to receive and retain logs until needed for sawing at its mill by the water side. In Hardin v. Jordan, 140 U. S. 371, 11 Sup. Ct. 808, 838, 35 L. Ed. 428, the court said:\n\u201cWith regard to grants of the government for lands bordering on tide water, it has been distinctly settled that they only extend to high-water mark, and that the title to the shore and lands under water in front of lands so granted inures to the state within which they are situated, if a state has been oz-ganized and established there.\u201d\nMr. Justice Gray, in Shively v. Bowlby, 152 U. S. 49, 14 Sup. Ct. 566, 38 L. Ed. 331, says:\n\u201cThe Congress of the United States, in disposing of the public lands, has constantly acted upon the theory that those lands, whether in the interior, or on the coast above high-water mark, may be taken up by actual occupants, in order to encourage the settlement of the country; but that the navigable waters and the soils under them, whether within or above the ebb and flow of the tide, shall be and remain public highways; and, being chiefly valuable for the public purposes of commerce, navigation, and fishery, and for the improvements necessary to secure and promote those purposes, shall not be granted away during the period of territorial government.\u201d\nAfter discussing a great many cases, state and federal, involving this question, this same distinguished jurist states his conclusions as follow:\n\u201cLands under tide waters are incapable of cultivation and improvement in the manner of lands above high-water mark. They are of great value to the public for the purposes of commerce, navigation, and fishery. Their improvement by individuals, when permitted, is incidental or subordinate to the public use and right. Therefore the title and control of them are vested in the sovereign for the benefit of the whole people. At common law the title and dominion in lands flowed by the tide were in the king for the benefit of the nation. Upon the settlement of the colonies, like rights passed to the grantees in the royal charters, in trust for the communities to be established. Upon the American Kevolution these rights, charged with a like trust, were vested in the original states, within their respective borders, subject to the rights surrendered by the Constitution of the United States. * * * The new states admitted into the Union since the adoption of the Constitution have the same rights as the original states in the tide waters and in the lands under them within their respective jurisdictions. The title and rights of riparian or littoral proprietors in the soil below high-water mark, therefore, are governed by the laws of the several states, subject to the rights granted to the United States by the Constitution.\u201d\nThe conclusion reached by the Supreme Court of the United States in Shively v. Bowlby controls this court. To the conclusions reached by the court in that case I give my most hearty assent. There is no longer room for the discussion of the question, and it should be deemed settled for all time. The court is therefore compelled to hold in this case that, if the complainants were the owners in fee of the uplands claimed by them, their riparian or littoral rights would give them no control whatsoever of the tide lands or lands below high-water mark.\nBut it is claimed by the learned attorney for complainants that they have acquired interests in the tide flats below high-water mark by prescription. It has been sometimes held that, where parties had held fishing grounds from time immemorial, a grant would be presumed. The tide lands in all territory acquired by the United States have been held in trust, it is said, by the United States for the benefit of the new states that might be carved out of such territory. The United States has avoided making grants of the tide lands to individuals or corporations, and, while the general government undoubtedly has the right and power to grant, for appropriate purposes, rights in the soil below high-water mark of tide waters, the fact that it has never done so destroys any claim of grant from the United States by reason of control of' such lands for a great period of time. No-presumption of a grant can arise where no grant has ever been made by the only authority having power to make it. The lands below high water in tide waters and in navigable streams under control of the states have been disposed of by grant under the authority of the Legislature of the several states. Where grants have been made under such conditions, it has sometimes been held that a party holding the possession, or exercising the right of fishery within certain limits for a number of years might obtain a title by prescription; a grant presumed because of the lapse of years and the continuous right exercised by the party. But statutes of limitation do not run against the king or against the state. Jaynes v. Wilkinson (Kan. App.) 42 Pac. 735; Redfield v. Parks, 132 U. S. 239, 10 Sup. Ct. 83, 33 L. Ed. 327; Smith v. Smith (Kan. Sup.) 8 Pac. 385; Rhodes v. Smith, Id. 391. It is believed to be clear that the complainants in this case and their grantors have gained no rights by prescription in the tide lands in complainants\u2019 petition described.\nBut it is said that the respondents have at times landed their nets, when taking fish, upon the lands of the complainants above high-water mark. As the complainants allege ownership in this land, and nothing has been presented, either by allegation or evidence, to controvert their right of ownership, it will be accepted for the purposes of this case. As the owner of the uplands, the complainants have an unquestioned right of way over the tide flats lying below high-water mark to the deep water. It appears by the testimony of some of the witnesses that there is only about 500 feet along the line of the complainants\u2019 lands where the tide and overflowed lands are of a character suitable for landing fish with seines. It also appears, or is claimed, that the plaintiffs and their grantors have, from time immemorial, us'ed these lands along the 500 feet of their shore line as a fishery, and for the purpose of passing from their land to the deep water of the sea, and landing fish from their seines in returning from the sea. The unrestricted right of free passage to and from the deep waters for such purpose is one that may be properly maintained by the plaintiffs as an exclusive right, and may be maintained by them as against all persons except the United States. In Weber v. Harbor Commissioners, the court seems clearly to recognize the propriety of this doctrine in the use of the following language;\n\u201cThat a riparian proprietor, whose land is bounded by a navigable stream, has the right of access to the part of the navigable stream in front of his land, and to construct a wharf or pier projecting into the stream for his own use or the use of others, subject to such general rules and regulations as the Legislature may prescribe for the protection of the public. * * *\u201d\nThis is a right of highway; an easement, but not an ownership. It is, however, a valuable right to the owner of land bordering upon tide waters, and should be protected.\nThe United States undoubtedly holds the title to these lands, and might dispose of them according to its choice; but no rules or regulations have been adopted by the United States for the control of its tide lands under circumstances like those presented in this case, and it is believed the riparian \u2022owner may only properly use these lands and have the exclusive right of user for the purpose of going to the deep water and returning from it in landing fish, etc., but that the riparian owners might build wharves upon those lands, and occupy them to the exclusion of all others, until required to remove the same by the United States.\nThe Congress of the United States has enacted some rules governing the right of fishery in Alaskan waters, among which is the following:\n\u201cThat it shall toe unlawful to fish, cateto, or kill any salmon of any variety, except with rod or spear, above ttoe tide-water of any creek or river of less than five hundred feet in width in the territory of Alaska, except only for the purpose of propagation, or to lay or set any drift net, set net, trap, pond net, or seine, for any purpose, across the tide-waters of any river or stream for a distance of more than one-third the width of such stream or channel, or lay or set any seine within one hundred yards of any other net or seine which is toeing laid or set in said stream or channel,\u201d etc. Act June 9, 1896, c. 387, 29 Stat. 316.\nThe testimony in this case discloses the fact that the respondents used seines of more than 150 fathoms in length, that would cross, when spread, the entire channel of the mouth of Ketchikan creek, and that they used their nets in \u25a0drawing in their fish, not only upon the tide flats, but at times to points above high water on the lands of the complainants, and that they held the same upon the tide flats from time to time in such a manner as prevented the egress, and ingress of the riparian owners across these tide flats to deep water, and in returning to deep water after having spread their nets. It is said that the respondents \u201calternated\u201d with the complainants in spreading their seines and drawing in the seines upon the banks, but that, when complainants did not move as quickly as respondents seemed to think they should, the latter did not wait for complainants to alternate with them, but again occupied the grounds-\u25a0to the exclusion of complainants. It is evident to the court that the complainants were hindered and prevented by respondents from the free use of their right of way from the uplands to the deep waters, over the 500 or 600 feet of tide lands described by the witness Martin in his testimony; that such hindrance and delay by the respondents, and their action in preventing the complainants\u2019 free access to the deep water and return therefrom, were unlawful, and should not be permitted. The court is unable to understand why the respondents, who are engaged in the business of canning and taking salmon at various points along the coast, should seek to interfere with others in like business. Ordinary respect for the rights of others, and common decency and discretion in the management of their business, would seem to require these men, who are occupying other grounds, to the exclusion, perhaps, of other fishermen, to seek at least to-establish a custom of protection of their own fishing rights' and grounds by noninterference with others, instead of wantonly encroaching upon their ground. To allow such things to continue would result in quarrels, and probably bloodshed, as well as in destroying the business of fishermen conducting the same in a fair and legitimate way. Public poney seems to indicate that this should not be permitted. It is evident from the testimony that respondents have used seines in an unlawful manner in setting them across the entire mouth of the creek. It is the evident intention of the law that seines should not be so set as to prevent the passage of salmon to their spawning places; hence the requirement that they should not be permitted to extend more than one-third the width of the stream.\nUntil Congress shall have enacted some laws that shall fully determine the rights of parties situated as these complainants are, or until some higher court shall overturn the decision of this court, the court will endeavor at least to protect persons who have made settlement upon lands bordering upon tide waters, and made valuable improvements thereon, in their rights of exclusive highway from their own lands over the tide lands between themselves and the deeper water of the sea for purposes of taking salmon and landing fish without hindrance from others. It must not be understood that persons can claim unlimited rights in this behalf. And, though complainants claim to own a mile of the shore, it seems that only 500 or 600 feet thereof are used and necessary for spreading seines and landing the same. Such a width of highway for this business is not unreasonable, and in the exclusive use of this complainants will be protected by the order of the court.\nA temporary injunction and restraining order will be allowed to the complainants pending the trial of this cause upon filing a good and sufficient bond, to be approved by the clerk of this court.'",
+        "type": "majority",
+        "author": "BROWN, District Judge"
+      }
+    ],
+    "attorneys": [
+      "Winn & Shackleford, for plaintiffs.",
+      "Oscar Foote, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "SUTTER et al. v. HECKMAN et al.\n(First Division. Juneau.\nJuly Term, 1900.)\nNo. 1,164.\n1. Fish \u2014 Game.\nTlie right to taire fish in the sea or tidal waters of Alaska is one common to all persons, and no exclusive grant will he presumed.\n3. Public Land \u2014 State\u2014Tide Lands.\nThe owner of uplands bordering upon the sea in Alaska has no proprietorship in the tide lands lying immediately in front of his property. The title to such tide lands is held by the United States, in trust for the future state.\n3. Same \u2014 Prescription\u2014Tide Lands.\nThe title to tide lands in Alaska feeing held in trust fey the United States for the future state, no presumption of a grant to an occupier will be admitted, nor title fey prescription recognized?-\n4 Same \u2014 Easement\u2014Injunction\u2014Tide Lands!\nThe owner of uplands bordering on the seashore in Alaska has the right of ingress and egress between his land and the sea over tide lands. Injunction will protect him in the exclusive enjoyment of his rights.\nThe complainants, on July 30, 1900, filed their bill in this court, praying for a perpetual injunction against respondents. Upon reading the bill of complaint, an order was issued out of this court to the respondents, requiring them to show cause why a temporary restraining order should not issue against them. On the 8th of August, 1900, the defendants presented and filed a general demurrer to the bill of complaint, and on the 9th day of August, 1900, on the order to show cause, respondents offered certain oral evidence in support of their contention, and the complainants offered evidence in support of their bill of complaint and the relief therein prayed for.\nThe evidence submitted and the demurrer, so far as the same may bear upon the order to show cause, will be considered together. It is alleged in the bill that on May 17, 1884, the date of the passage of the act of Congress providing for a civil government for Alaska (23 Stat. 24, c. 53), Charles Dicksop, a native Alaskan Indian, was the owner, by right of appropriation and possession, of a certain parcel of land thereinafter described, situated at Ketchikan, on Tongass Narrows, in the District of Alaska; that the said Dickson and his ancestors had for more than 100 years been the occupants and possessors of said land, subject only to the paramount title, before the cession, of the Russian crown, and thereafter of the United States; that said Dickson conveyed to one Berry; that the title of said Dickson, by various conveyances, has come down to the complainants in 1899 (all of which said conveyances are set forth in the bill), and that the plaintiffs have been in possession since the date last aforesaid; that the land so conveyed borders on Tongass Narrows at high-water mark, and runs from a monument on the eastern bank of Ketchikan creek along the shore of Tongass Narrows one mile to a second monument, and back from the shore a quarter of a mile, the land claimed being a tract of about 160 acres; that plaintiffs and their grantors have been in possession of said lands since conveyed by said Indian, and have improved the same, from time to time, by the erection of valuable buildings thereon, such as \u201cboarding houses, packing houses for fishing, store, dwelling,\u201d etc., of a value of more than $40,-000 ;\u25a0 that they have, from year to year, cleared the beach from d\u00e9bris, so as to make it valuable and convenient for landing fish thereon; that from the 17th day of April, A. D. 1888, when conveyance was made by Dickson, to the present time, complainants and their grantors have made useful, valuable, and profitable use of the said land and improvements; that there are valuable fishing grounds along the water front of said lands on either side of Ketchikan creek, and large numbers of salmon are taken yearly from said waters; that on either side of said creek are tide flats that are alternately covered and uncovered by the ebb and flow of the sea, and which afford excellent ground for taking and landing salmon during the fishing season; that the flats have been used by complainants and their grantors and by the Indian and his ancestors for a hundred years or more; that said fishing business is a profitable industry; that in pursuing said business the complainants have sold to Carl A. Sutter certain of the uplands above described, and he has erected thereon a large cannery at an expense of $50,000; that by the terms of the contract of sale it was covenanted that said Sutter should be kept and maintained in all the fishing and riparian rights on said tide flats and connected with the said water front along the land before-described, and that he should be protected in the possession thereof, and from interference therewith for fishing purposes; that plaintiffs and their grantors have had and enjoyed the exclusive right of fishing on the waters abutting on said uplands and of using said beach and tide flats for landing fish for all times mentioned in their complaint to the 21st day of July, 1900, at which time the respondents so arranged and planted their nets as to wholly exclude plaintiffs; from said fishing grounds, and prevent them from casting their nets or from taking or landing any salmon whatsoever;; that respondents have ever since, and now are, so using said fishing grounds and so planting their nets as to cork the nets of complainants, and are intentionally excluding complainants therefrom, and from all use thereof in fishing; that respondents\u2019 purpose is to crush complainants, and to destroy their business; and that they have done complainants-great injury, and will, by continuing such practice, do them irreparable injury, unless restrained.\nThe evidence of complainants and respondents tends to show that each party put out its nets and landed fish in turn, neither interfering with the other; that nets of respondents were sometimes landed upon the possessions of the complainants above high tide; that there was' some slight friction between the fishermen, the respondents taking the lion\u2019s share, to the detriment of the complainants; that the shore line where fish were in the main taken and landed was about 500 feet long, and that nets of any party taking salmon at this point would occupy the entire shore line of 500 feet to the exclusion of all others; that no two parties could take fish at this point, near and at the mouth. of Ketchikan creek, at the same time; that when more than one is engaged in fishing they must spread their nets in turn, one party waiting while the other makes its haul; that' until this year respondents have never fished at this point, and complainants have had the unrestricted use of the fishing grounds, the respondents buying of complainants; and that the \u201ctide flats\u201d each year become incumbered with rocks, logs, and d\u00e9bris, and complainants are compelled to clear this away each year before the salmon season, in order to land fish thereon. No denial is made, either by answer, oral evidence, or affidavit, of complainants\u2019 claimed ownership of the upland above high tide.\nWinn & Shackleford, for plaintiffs.\nOscar Foote, for defendants."
+  },
+  "file_name": "0081-01",
+  "first_page_order": 105,
+  "last_page_order": 118
+}

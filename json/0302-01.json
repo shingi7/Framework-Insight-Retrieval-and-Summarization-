@@ -1,0 +1,86 @@
+{
+  "id": 8505075,
+  "name": "NODINE v. HANNUM",
+  "name_abbreviation": "Nodine v. Hannum",
+  "decision_date": "1901-11-23",
+  "docket_number": "No. 571",
+  "first_page": "302",
+  "last_page": "304",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 302"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "10 Wall. 483",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3435720
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/77/0483-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 449",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 291,
+    "char_count": 4765,
+    "ocr_confidence": 0.628,
+    "pagerank": {
+      "raw": 1.7710994026850012e-07,
+      "percentile": 0.711897682065634
+    },
+    "sha256": "b29e197575c7480ca5a897e03b715bf09a19158bbc1ece764231b848dce062ce",
+    "simhash": "1:8c86f1388002dbe9",
+    "word_count": 854
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NODINE v. HANNUM."
+    ],
+    "opinions": [
+      {
+        "text": "WICKFRSHAM, District Judge.\nThis is a proceeding begun by the plaintiff under the provisions of chapter 76 of the Code of Civil Procedure (Act June 6, 1900, c. 786, 31 Stat. 449), to compel' the defendant, as attorney of this court, to pay over to the plaintiff the sum of $404, which plaintiff alleges the defendant received in his professional employment for her use.\nSection 751 of chapter 76 provides that:\n\u201cWhen an attorney refuses to deliver over money or papers to a person from or for whom he has received them in the course of professional employment, whether in a judicial proceeding or not, he may be required by an order of the court to do so within a specified time, or show cause why he should not he punished for a contempt.\u201d\nUpon an application under this section an order was granted, requiring the defendant to make payment or show cau'se. To this order the defendant answered, alleging that as a member of the firm of Milroy, Hannum & Milroy he did receive the money in question; that theretofore the firm had been employed by the defendant in two suits; and that, for the various services rendered in those two suits, mentioned in the answer, the plaintiff in this action became indebted to the firm in the sum of about $1,250; and that the money received by him was applied on the payment of the sums due from Mrs. Nodine to the firm, and the defendant set up his attorney\u2019s lien upon the property.\nSection 742 of chapter 76 provides that:\n\u201cAn attorney lias a lien for his compensation, whether specially agreed upon or implied, as provided in this section \u2014 First. Upon the papers of his client which have come into his possession in the course of his professional employment. Second. Upon money in his hands belonging to his client.\u201d\nTo the defendant\u2019s answer there was a reply admitting some of the facts and denying others. Upon the pleadings the court heard the testimony of both the plaintiff and the defendant in full, and has examined the records in both the suits mentioned in the defendant\u2019s answer. From all the evidence in the case the court is now satisfied that there has been no misconduct on the part of the defendant; that his refusal to deliver the money obtained by him in the course of his professional employment was in accordance with the rule of law as laid down by statute. Whether or not the defendant is entitled to charge for the services the sum which he did charge, and which he did retain from the funds in his hands, is not now a matter for this court to determine. The only question which the court now intends to determine is that the defendant acted in good faith, and without any misconduct or fraudulent intent upon his part. Every phase of this case is determined in favor of the defendant in the case determined by the Supreme Court of the United States entitled In re Paschal, 10 Wall. 483, 19 L. Ed. 992.\nSection 752 provides:\n\u201cIf, however, the attorney claim a lien upon the money or papers under the provisions of section seven hundred and forty-two, the court shall:\u2014\n\u201cFirst; impose, as a condition of making the order, that the client give security, in form and amount to be directed, to satisfy the lien, when determined in an action; or,\n\u201cSecond; summarily inquire into the facts on which the claim of a lien is founded, and determine the same; or,\n\u201cThird; direct the trial of the controversy by a jury or refer it, and upon the verdict or report, determine the same as in other cases.''\nThe subject of controversy between the plaintiff and defendant in this action is the amount which the plaintiff owes the firm of Milroy, Hannum & Milroy. It is a question to be determined by a jury, and the court will order .that the matter be referred to a jury for determination. However, it is unfair to the defendant to single him out of the firm, and prosecute the case against him alone. He acted for and on account of the firm, and the firm is the real party in interest, and not the defendant. There will be a further order that the firm be' substituted as defendant, instead of C. S. Hannum alone. The cause will then be placed upon the trial calendar for determination by a jury upon the pleadings as they now stand between the plaintiff and the defendant in this action.",
+        "type": "majority",
+        "author": "WICKFRSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Cochran & Grimm, for plaintiff.",
+      "C. S. Hannum, in propria persona."
+    ],
+    "corrections": "",
+    "head_matter": "NODINE v. HANNUM.\n(Second Division. Nome.\nNovember 23, 1901.)\nNo. 571.\n1. AttoRnby \u2014 Client\u2014Attorney Pee.\nAn attorney has the statutory right to retain money in his hands belonging to his client for the payment of his attorney fees. When a single member of a firm was cited to pay money into court belonging to the client, the court ordered the firm made parties, and when it appeared that a contention existed in good faith the cause was set for trial by jury.\nCochran & Grimm, for plaintiff.\nC. S. Hannum, in propria persona."
+  },
+  "file_name": "0302-01",
+  "first_page_order": 326,
+  "last_page_order": 328
+}

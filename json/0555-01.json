@@ -1,0 +1,66 @@
+{
+  "id": 8505832,
+  "name": "HAINES WHARF CO. v. DALTON et ux.",
+  "name_abbreviation": "Haines Wharf Co. v. Dalton",
+  "decision_date": "1902-04-11",
+  "docket_number": "No. 86",
+  "first_page": "555",
+  "last_page": "560",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 555"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 471,
+    "char_count": 10223,
+    "ocr_confidence": 0.666,
+    "pagerank": {
+      "raw": 6.173274113081918e-08,
+      "percentile": 0.3831872051227697
+    },
+    "sha256": "4ad936cf0b9cd5ca0edefe6deafac2e01fc31318e28e4c507660c66c3638fda3",
+    "simhash": "1:601164d7a74a74d4",
+    "word_count": 1837
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "HAINES WHARF CO. v. DALTON et ux."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nWhen the Daltons abandoned their right of possession to the land along the sea front, running south from the mission monument, for a street, without finding any boundaries whatsoever to the land so abandoned, \u2022then the occupation by the Daltons of other portions of the tract having no boundaries fixed therefor, would give them no right of possession whatsoever over lands wholly unoccupied. Regally speaking, as he had no boundaries to his southern line bordering on the street at the water line \u2014 and none have been testified to by Dalton \u2014 he had no possession or right of possession of any of the lands south of the ground actually occupied by him, viz., by the Dalton building. In any view of the case, under the facts or the law, it does not seem that Dalton has any claim whatsoever upon the land in question, and the temporary injunction heretofore granted by the court will be made perpetual by proper order, to be entered of record in the case; and it is so ordered.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Winn & Shackleford, for plaintiff.",
+      "Maloney & Cobb, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "HAINES WHARF CO. v. DALTON et ux.\n(First Division. Skagway.\nApril 11, 1902.)\nNo. 86.\n1. Public Lands \u2014 Abandonment\u2014Boundaby.\nOne who abandons a portion of his possessory rights on the-public domain of Alaska, including one entire boundary line, thus leaving the limits of his claim open, indefinite, and undetermined, is limited in his possessory claim in the direction of his-abandoned boundaries to lands actually occupied and used.\nThis action is brought by the plaintiff company to restrain the defendants from building upon or occupying any portion of the space between the shore end of the plaintiff\u2019s wharf .at Haines Mission and the building owned by the defendant Dalton, and situated, as appears from the evidence, 15 feet and xo inches in a northerly direction from the most northerly stringer of said wharf. The evidence in the case, as returned by the referee, shows, briefly stated, the following facts: Neither party has title in fee to the land in controversy. The only right that either can assert to the premises is that which grows out of possession and occupation. Title to the land is in the government of the United States. The particular tract in dispute runs from the shore line of Lynn Canal, an arm of the sea, out toward the deep water of the \u2022canal. It seems that Dalton had been at Haines 10 years or more, and some time after his going there his wife purchased an acre of land adjoining the mission lands from a Mrs. Dickinson, whose only title to the same was possession and occupation. This acre of land originally included the ground in controversy in this case.\nFrom the testimony of the witnesses in the case it would seem that Dalton was engaged in some commercial business, and that he and others needed an opening to the sea, where they could pass out to deep water, and bring and land goods from the sea \u2014 although this does not very clearly appear. It is said by Dalton that his wife made the purchase, and that one of the monuments designating the boundaries of the acre was a large stone just below high tide, which also marked the boundary of the Haines Mission lands; that, passing down the shore line a certain number of feet, another monument was placed, and that the land ran inland from this shore line; that he put some improvements on some part of the land, and afterwards conveyed to the town of Haines a. road or street running across the acre tract from the sea tip the hill. This conveyance was not of record, nor made by deed, and was in fact no conveyance whatever; but there was a relinquishment of the possessory rights of Dalton and his wife over this roadway. It did not constitute the roadway an easement, because the Daltons held no title by which any easement could be created. It was a mere surrender and quitclaim of the right of possession that had theretofore been asserted by them or those from whom they purchased. Just -what width of land was so released does not appear. Dalton fails to state the width of the tract that was donated for a street, and no other witness in the case described with any degree of certainty just what portion of the acre purchased by Mrs. Dalton was abandoned by the Daltons and used as a roadway. -\nDalton testifies that he had at one time a building resting on a portion of the land in controversy, lying between the wharf of plaintiff and what is called in the testimony the \u201cDalton Structure.\u201d In that he is evidently mistaken. Paddock, a wholly disinterested witness, and one who must have been familiar with all the facts, testified that the small building referred to by Dalton was situated in part on the lot that is now occupied by the new Dalton building; that he was employed by Dalton to build the present Dalton building; and that he moved the small building referred to by Dalton from the site of the present Dalton building to a point farther north, where the same now remains, having moved it a sufficient distance to enable him to build the present Dalton building as it now stands. This witness has been familiar with these premises and the conditions there as many years as Dalton himself, and perhaps longer. The fact that he moved the small building referred to by Dalton, and that he constructed the new building, must fix in his memory, beyond possible question, the exact condition of things as they existed at the time. Dalton, then, made a mistake when he said that he erected this small building on a portion of the premises now in dispute.\nThe testimony of Paddock is also interesting in connection with the controversy that existed between Dalton and Smith as to this particular ground. ' And here it may be proper to refer to another fact that appears from the evidence, viz., that the wharf people, under the direction of Smith, put a certain foundation and piling on the land in dispute, and reduced it to actual occupation and possession prior to the attempt of Dalton to put up his new building. Dalton, it would seem, directed Paddock to put the new building up close to the wharf, but some difficulty arose about this with the wharf people, and, after Dalton had got his lumber, it was piled up on the foundation that had been constructed by Smith and others, and Dalton thereupon directed Paddock to put the new Dalton building close to the line of the Smith foundation, and thus have no further trouble with the wharf people.\nIt will be observed from the testimony that Paddock and others, and even Dalton at times, speak of this property in dispute as abutting on the street, and they all refer to it as the wharf property; but the testimony of Dalton is that he bought the property in order that they might have a street. In fixing the place of the monuments between his land, or the acre purchased by his wife, and the mission property, Dalton states that it was right behind the building of the Bay Trading Company \u2014 a small structure perhaps io or 12 feet in width, which stands on the opposite side of the wharf from the ground in controversy. The wharf is said to be 15 or 16 feet in width, and the distance from the wharf to the Dalton building is 15 feet and 10 inches, making the entire width from the Dalton building to the farther side of the wharf 30 feet, and, without fixing any distance that the monument was located'beyond the south side of the wharf, we may say it could not be farther than 10 feet behind the Bay Trading Company building. From Dalton\u2019s description of it, it is probably a less distance than io feet; so we would have for the width of the street, from the Dalton building in a southerly direction to the farthest point of the land that Dalton describes as a street, only 40 feet. Considering that the land was of no special value, that the parties had no ownership of it, and that it is in a country where streets in all towns are \u2022ordinarily very much wider than 40 feet, it would seem highly improbable that Dalton ever intended to relinquish to the town a lesser distance than 40 feet for a street. But Dalton says he claimed \u201cup to the corner.\u201d What constituted the \u201ccorner,\u201d and where it was located, he fails to explain, as do all the other witnesses. But he says he thinks it was 3 or 4 feet north of the wharf; so that, on his own showing, the land that he claimed a right to occupy, after having released his possessory right to the street, is 4 feet, we will say, less than he would claim if he went up to the wharf. But Paddock and the other witnesses all indicate by their testimony that this entire ground in front of the wharf, for the whole width between the Dalton building and the Bay Trading Company building, and up to the mission line south of the wharf, had all been left open for the purposes of a street. Indeed, the \u25a0corner across the street from the Dalton building, running in a northerly and southerly direction along the water front, which runs up the hill toward the hotel, and which Paddock talks about as having a fence along the side next the street that was put there after the Daltons relinquished their possession of the land for a street, is about on a line with the corner' \u25a0of the Dalton building.\nFrom the fact that Dalton testified that the little building, to which he refers in his testimony as the first he constructed there, was in part on the ground in- controversy, and his being mistaken as to that \u2014 it having been on the site of what is called the present Dalton building \u2014 and that he claimed up to a certain point covered by that small building, it would appear that he is entirely mistaken as to the point where the small building really was, and as to the ground he thinks he claimed. That the ground opened up as a street extended to the water along the line of the old posts and fence now on the ground, I have no doubt whatever, and I am fully convinced that the ground released by the Daltons for the purpose of a street covers all the ground now claimed by the wharf company. Without referring to the testimony of Smith and other witnesses, which in some respects is in conflict with Dalton\u2019s, I find that the preponderance of the evidence shows the possession and right of possession to the land in dispute in the plaintiff.\nWinn & Shackleford, for plaintiff.\nMaloney & Cobb, for defendant."
+  },
+  "file_name": "0555-01",
+  "first_page_order": 579,
+  "last_page_order": 584
+}

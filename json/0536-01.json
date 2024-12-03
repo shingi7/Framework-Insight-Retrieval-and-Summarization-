@@ -1,0 +1,393 @@
+{
+  "id": 8505806,
+  "name": "VALENTINE v. ROBERTS",
+  "name_abbreviation": "Valentine v. Roberts",
+  "decision_date": "1902-04",
+  "docket_number": "No. 128a",
+  "first_page": "536",
+  "last_page": "552",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 536"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "8 L. Ed. 108",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        534535
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/30/0150-01"
+      ]
+    },
+    {
+      "cite": "5 Pet. 241",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "30 Stat. 1285",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Stat. 552",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "49 Pac. 1038",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "case_ids": [
+        2258927
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/32/0179-01"
+      ]
+    },
+    {
+      "cite": "21 Pac. 440",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Pac. 548",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Mich. 53",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1317445
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/35/0052-01"
+      ]
+    },
+    {
+      "cite": "20 Johns. 140",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2142428
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/20/0140-01"
+      ]
+    },
+    {
+      "cite": "9 Pac. 798",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 Mich. 8",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Me. 326",
+      "category": "reporters:state",
+      "reporter": "Me.",
+      "case_ids": [
+        632702
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/me/28/0326-01"
+      ]
+    },
+    {
+      "cite": "21 N. W. 406",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 L. Ed. 1055",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1438403
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/33/0591-01"
+      ]
+    },
+    {
+      "cite": "8 Pet. 658",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Ohio St. 585",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        8842114
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/42/0585-01"
+      ]
+    },
+    {
+      "cite": "16 Pa. Co. Ct. R. 589",
+      "category": "reporters:state",
+      "reporter": "Pa. C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "86 N. C. 126",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        11273070
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/86/0126-01"
+      ]
+    },
+    {
+      "cite": "7 Am. Dec. 303",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Johns. 178",
+      "category": "reporters:state",
+      "reporter": "Johns.",
+      "case_ids": [
+        2139263
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/johns/12/0178-01"
+      ]
+    },
+    {
+      "cite": "1 Cow. 209",
+      "category": "reporters:state",
+      "reporter": "Cow.",
+      "case_ids": [
+        2156644,
+        2156607
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cow/1/0209-02",
+        "/cow/1/0209-01"
+      ]
+    },
+    {
+      "cite": "5 N. H. 462",
+      "category": "reporters:state",
+      "reporter": "N.H.",
+      "case_ids": [
+        6757051
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nh/5/0462-01"
+      ]
+    },
+    {
+      "cite": "3 La. Ann. 275",
+      "category": "reporters:state",
+      "reporter": "La. Ann.",
+      "case_ids": [
+        4813103
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/la-ann/3/0275-01"
+      ]
+    },
+    {
+      "cite": "2 Duv. 436",
+      "category": "reporters:state",
+      "reporter": "Duv.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Kan. 661",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        60896
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/29/0661-01"
+      ]
+    },
+    {
+      "cite": "40 Ill. 146",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        425899
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/40/0146-01"
+      ]
+    },
+    {
+      "cite": "18 Ark. 534",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        8726716
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/18/0534-01"
+      ]
+    },
+    {
+      "cite": "2 Mass. 530",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        2007338
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/2/0475-01"
+      ]
+    },
+    {
+      "cite": "14 Am. Rep. 667",
+      "category": "reporters:state_regional",
+      "reporter": "Am. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 R. I. 227",
+      "category": "reporters:state",
+      "reporter": "R.I.",
+      "case_ids": [
+        725252
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ri/10/0227-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 445",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Stat. 1274",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "8 L. Ed. 108",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        534535
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/30/0150-01"
+      ]
+    },
+    {
+      "cite": "5 Pet. 241",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Stat. 1285",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 552",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1215,
+    "char_count": 33693,
+    "ocr_confidence": 0.608,
+    "pagerank": {
+      "raw": 6.770845263994211e-08,
+      "percentile": 0.41394498289282505
+    },
+    "sha256": "f366e6ccc05280ee78d60ccbbf4aa515992f9134e7ef1c3f585fe6d72b2f0e96",
+    "simhash": "1:a6e3b9e08c805c27",
+    "word_count": 6020
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "VALENTINE v. ROBERTS."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nThis case came to this court on appeal from the United States Commissioner\u2019s Court at Juneau.\nOn the 23d day of August, 1901, as appears by the files in this case, Emery Valentine instituted proceedings in a civil action against the defendant, John R. Roberts, to recover the value of a ring said to have been unlawfully and improperly appropriated to his own use by the said Roberts after the same had been lent to him by the plaintiff on the promise of said Roberts to return the same. Upon an affidavit filed with the complaint, an order of arrest was issued, and placed in the hands of Deputy United States Marshal W. S. Staley for service. It seems that Roberts was passing through Juneau on Sunday, August 25, 1901, and was found by the deputy marshal at that time, and, under the order of arrest issued by the commissioner\u2019s court, seems to have been taken into custody by the deputy marshal on said 25th day of August; - that thereafter, and on the same day, the defendant gave bond for his appearance, and delivered the same to the marshal, and the said deputy marshal thereupon made return of the said writ or order of arrest on the said 25th day of August, 1901, the same being Sunday. The defendant, by his counsel, appearing in said commissioner\u2019s court specially and for the purposes of the action only, moved for the dismissal of the action on the ground that the defendant had been improperly arrested on a Sunday; that the court had no jurisdiction for that reason; that the said summons had been served on the same day \u2014 which also appears from the records and files of the case. The court below overruled the motions and held the defendant to answer, whereupon the defendant answered, making a general denial of all the facts set up and alleged in plaintiff\u2019s complaint, pleading specially that he had been arrested on a Sunday over his protest, that the same was a nonjudicial day, and that he was not, therefore, subject to arrest on civil process, and that the court was without jurisdiction; also that the summons had been served on a Sunday, and was therefore void. It is further alleged affirmatively in the answer that the jewel referred to in the plaintiff\u2019s complaint was presented to him by the plaintiff, and that there was no understanding or agreement that the defendant should ever return the same. On this issue, the defendant not being personally in court to testify, the plaintiff recovered judgment in the lower court, and the defendant appeals therefrom to this court.\nThe matter is presented to the court at this time on the motion of the appellant, John Roberts, which is as follows:\n\u201cGomes now tlie appellant above named, and moves tbe court for an order quashing and vacating the service of the writ of arrest in the above-entitled action, and for an order vacating and setting aside the judgment in said action, the issuance of a writ of execution, and all the proceedings subsequent to the writ of arrest and summons, and for an order discharging the bail bond herein. This motion is based for the reason that it appears on the face of the transcript herein that the court has never had jurisdiction of the person of the defendant, and is based upon the record and flies in said action.\u201d\nIt is contended on behalf of the plaintiff, Valentine, that the service made on Sunday was a good service; that it was legal in every particular; and further that, if said service was irregular and illegal, the giving of the bail bond by the defendant was a waiver of the original wrong in making such arrest, if there was a wrong; that the giving of said bond was an appearance in the case; that the court had jurisdiction; and that the judgment is right. On the other hand, it is contended on behalf of the appellant that the action of the deputy marshal in making said arrest on Sunday was illegal and void; that the service of the summons was illegal and void; that the taking of the bond was an illegal proceeding; and that in fact everything that was done by the deputy marshal in this behalf was, in law, void and of no force or effect.\nAn examination of the files and proceedings in this case in the court below discloses that the defendant, Roberts, resisted the action of the court from first to last, predicating his defense largely upon the proposition that the court had no jurisdiction, because of the illegal acts of the deputy marshal in making his service, or what is claimed to be a service, on Sunday. The motion raises the entire issue on the face of the case as made in the court below. The court therefore is compelled to examine the law as to what may or may not be done legally and properly on Sunday. And first, let us examine our statutes on the question. Section 141 of the Criminal Code of Alaska (Act March 3, 1899, c. 429, 30 Stat. 1274) reads as follows:\n\u201cThat if any person shall keep open any store, shop, grocery, halt alley, billiard room, or tippling house, for purpose of labor or traffic, or any place of amusement, on the first day of the week, commonly called Sunday or the Lord\u2019s Day, such person, upon conviction thereof, shall be punished by a fine not less than five nor more than fifty dollars. Provided, that the above provision shall not apply to the keepers of drug stores, doctor shops, undertakers, livery-stable keepers, barbers, butchers, and bakers, and all circumstances of necessity and mercy may be pleaded in defense, which shall be treated as questions of fact for the jury to determine, when the offense is tried fiy jury.\u201d\nSection 716 of the Civil Code (Act June 6, 1900, c. 786, 31 Stat. 445) defines what are nonjudicial days, and reads as follows:\n\u201cCourts of justice may be held, and judicial business transacted, on any day except as provided in this section. No court can be opened, nor can any judicial business be transacted, on a Sunday, on a legal holiday, or on a day appointed by the executive authority of the United States or of the district as a day of fasting or thanksgiving, except for the following purposes: First, to give instructions to a jury when deliberating on their verdict; second, to receive the ver* diet of a jury; third, for the exercise of the powers of a magistrate in criminal actions, or in proceedings of a criminal nature: provided, that this section shall not be so construed as to prevent the issuance of any writ or order for which the judge granting the same may think an emergency exists.\u201d\nSection 717 reads as follows:\n\u201cIf any of the days mentioned in the last section happen to be a day appointed for holding a court, or to which it is adjourned, it is deemed appointed for or adjourned to the next judicial day.\u201d\nIt will be observed that the criminal statute referred to can hardly be construed as including the action of a marshal who serves process on a Sunday. The section of the Civil Code also leaves the matter in very grave doubt. This Code seems wholly to refer to the action of the court, unless the words, \"nor can any judicial business be transacted on a Sunday or legal holiday,\u201d etc., should be deemed to include the action \u25a0of a marshal in serving process or taking bail bond. It is contended, however, on the part of the defendant (the contention being earnestly and ably resisted by counsel for the plaintiff), that the common law which is in force in the District of Alaska makes the action of the deputy marshal in this instance unlawful and void, and that while it is perhaps doubtful whether the language of our statute is sufficient to include the return of the service of process in the words \u201cjudicial business,\u201d as used in our statute, yet the common law clearly and unequivocally helps out the statutory provisions, and covers the objection made on behalf of the defendant. Section 367 of our Code of Civil Procedure (Act June 6, 1900, c. 786, 31 Stat. 552) reads as follows:\n\u201cSo much of the common law as is applicable and not inconsistent with the Constitution of the United States or with any laws passed or to be passed by the Congress, is adopted and declared to be the law within the District of Alaska.\u201d\nSection 218 of the crimes act of Alaska (Act March 3, 1899,, c. 429, 30 Stat. 1285) reads as follows:\n\u201cThe common law of England as adopted and understood in the United States, shall be in force in said district, except as modified by this act.\u201d\nIf we are to look to the common law as a guide in this case, therefore, the first question that must necessarily be determined is this: What is the common law as in force in the District of Alaska ? \u201cCommon law\u201d is sometimes defined as follows:\n\u201cIt includes those principles, usages, and. rules of action applicable to the government and security of person and property which do not rest for their authority upon any express positive declaration of the will of the Legislature.\u201d 1 Kent, Com. 533.\nAgain:\n\u201cA system of elementary principles and of general judicial truths which are continually expanding with the progress of society, and adapting themselves to the gradual changes of trade and commerce, and the mechanical arts and the exigencies and usages of the country.\u201d Pierce v. Proprietors of Swan Point Cemetery, 10 R. I. 227, 14 Am. Rep. 667.\nOrdinarily we mean by the \u201ccommon law\u201d the unwritten law, or the English common law, as sometimes stated, comprising the immemorial custom declared by the courts and particular local customs, the law merchant, or that part not defined by statute, and the canon and ecclesiastical law. In Massachusetts it is held that whatever of the common law was brought over by the colonists, such statutes as have been passed since the immigration in aid of the common law and adopted in practice, and such usages as probably originated from laws of the Colonial Legislature, constitute the common law of Massachusetts, except as changed by statute. Commonwealth v. Knowlton, 2 Mass. 530. In Patterson v. Winn, 5 Pet. 241, 8 L. Ed. 108, it is said, \u201cThe term \u2018common lawr means both the common law of England, as opposed to written or statute law, and the statutes passed before the immigration of the first settlers to America.\u201d This latter definition, furnished by the court of last resort for Alaska, would seem to be the one that should control this court in its application of the common law to the case at bar. The common law, as before stated, is said to be an unwritten law. It is classed by Blackstone as the lex non scripta. Another definition is, \u201cThe common law of England meant all of those universal rules, not the enactment of Parliament, which govern the English people.\u201d In Andrews\u2019 American Eaw, \u00a7 200, the author says:\n\u201c \u2018Common law\u2019 is a term which has with us a double significance. In the United States, when we speak of the common law, the mind of the lawyer naturally reverts to the system of English jurisprudence, an indefinite and undescribed portion of which was said to be the birthright of the colonies, and has been adopted in most of our states as a portion of our jurisprudence.\u201d\nIn many of the states of the Union the common law has been adopted by express legislation, and includes most of the statutes enacted by Parliament prior to the migration of the English-speaking people to this continent. In other states a particular date is fixed, and the common law includes all the statutes up to that particular date. In Virginia the common law and the statutes in aid thereof prior to the fourth year of King James I were adopted as the common law of Virginia. Some other states fix the date to include all of the common law and the statutes in aid thereof prior to the Declaration of Independence. It is also said that, if no other definite period is fixed, the Declaration of Independence necessarily limits the period when the common law of England was a part of the law of the colonies. See Andrews\u2019 American Eaw, p. 249, and authorities there cited. Perhaps the varying decisions which we find bearing upon the question at bar are due in a measure to the dates fixed adopting the common law and the statutes of England. However that may be, upon the question now before the court the decisions of the courts are widely variant. Counsel for the plaintiff cit\u00e9s with great confidence the following statement of the law, found at page 1197, book 20, Enc. of P. & P.:\n\u201cWhile at common law, as lias been seen, no judicial act could be done on Sunday, the authorities are practically unanimous that merely ministerial acts could be performed on that day, and this would seem to be the rule at present in the absence of any prohibitory statute.\u201d\nCiting cases from Alabama, Arkansas, Indiana, Nevada, some English cases, the 8 Cowan, and some others. But in the same book, at page 1192, we find the following:\n\u201cAt common law, and by statute in most, if not all, of the states, process cannot usually be served on Sunday. This rule is, however, relaxed in some states by statute, in cases where delay in making such service will result injuriously to the plaintiff.\u201d\nOur statute provides that process may be served on Sunday where the court issuing the. same may think an emergency exists, and orders the service made. But no such question as an order of the court to make the service is involved in this case. In support of the proposition that service of process is within the meaning of judicial proceedings, the author above quoted cites the article under the head \u201cService of Process and Papers,\u201d volume 19 of the same work (page 567). Also it is noted that service of notice of action on Sunday is irregular and void, and a large number of cases are cited in support of this proposition. Now, referring to volume 19, at page 567, as to \u201cService of Process and Papers,\u201d and more particularly to page 600, which refers to Sunday and legal holidays, we find the following statement of the law as to the service of process:\n\u201cAt common law, and by statute in nearly every state, Sunday is dies non juridicus, and therefore process cannot usually be served on. that day.\u201d Citing Swinney v. Johns, 18 Ark. 534; Scammon v. Chicago, 40 Ill. 146; Morris v. Shew, 29 Kan. 661; Moore v. Hagan, 2 Duv. 436; Foy v. Harper, 3 La. Ann. 275; Shaw v. Dodge, 5 N. H. 462; Vanderpoel v. Wright, 1 Cow. 209; Van Vechten v. Paddock, 12 Johns. 178, 7 Am. Dec. 303; several other New York cases; Devries v. Summit, 86 N. C. 126; Commonwealth v. De Puyter, 16 Pa. Co. Ct. R. 589.\nOn the other side is cited Hastings v. Columbus, 42 Ohio St. 585. If we were to rest the proposition on these citations, found in the Encyclopedia of Pleading & Practice, it would seem that the weight of authority is in favor of the contention of the defendant in this case, viz., that process served on Sunday is void and equivalent to no service. The statute 29 Car. II provides, among other things;\n\u201cNo person or persons upon the Lord\u2019s Day shall serve or execute, or cause to be served or executed, any writ, process, order, warrant, judgment, or decree, except in case of treason, felony, or breach of the peace; but the service of any such writ, process, warrant, \u25a0 order, judgment, or decree shall be void to all intents and purposes whatsoever.\u201d\nIf Mr. Andrews is right in his statement that where no particular time is mentioned, and the common law adopted in general terms includes not only the common law proper, but all statutes in aid thereof prior to the Declaration of Independence, then the statute of 29 Charles II is part and parcel of the common law to be administered by the courts of Alaska. In Wheaton v. Peters, 8 Pet. 658, 8 L. Ed. 1055, the court says:\n\u201cThe common law, says an eminent jurist (2 Kent\u2019s Com. 471), includes those principles, usages, and rules of action applicable to the government and security of person and property which do not rest for their authority upon any express and positive declaration of the will of the Legislature. A great proportion of the rules and maxims which constitute the immense code of the common law grew into use by gradual adoption, and received from time to time the sanction of the courts of justice, without any legislative act or interference. It was tlie application of tiie dictates of natural justice and of cultivated reason to particular cases.\u201d\nIn a case that arose in Nebraska (Bryant v. State, 21 N. W. 406) it was held:\n\u201cA writ of replevin conveys no authority to a sheriff or his deputy to seize property on the first day of the week, commonly called \u2018Sunday.\u2019 and the recapture on the same day of the property seized is not a resistance of an officer in the execution of his office.\u201d\nIn this case the sheriff took the property on Sunday at about 12 o\u2019clock, the property being certain horses, and placed them in the barn of one James Boyd for safe-keeping. At about 7 o\u2019clock the same evening the plaintiffs in error went into said barn and forcibly removed said horses. The court says:\n\u201cIf the plaintiffs in error were guilty, their guilt depends upon the legality of the acts of the deputy sheriff in seizing and removing the horses, by virtue of the writ of replevin, on Sunday. It may he admitted there was no statute law which exactly covers the case. Section 38 of chapter 19 of the Compiled Statutes is in the following words: \u2018Sec. 38. No court can he open nor can any judicial business he transacted on Sunday or any legal holiday, excepting to give instructions to a jury when deliberating on their verdict,\u2019 etc. [our statute being practically a copy of the Nebraska statute referred to].\u201d\nThe ccairt further says:\n\u201cThis provision is contained in a chapter devoted exclusively to the supreme and district courts, so that it can scarcely be said to strictly apply to county courts, and it is only by implication that it can be said to apply to the service of process. But there is common law, or, what amounts to the same thing, an English statute of ancient date (29 Car. II, c. 7, \u00a7 6), which provides that \u2018no person on the Lord\u2019s Day shall serve or execute, or cause to be served or executed, any writ, process, warrant, judgment,\u2019 etc. [repeating the entire statute as before recited in this opinion].\u201d\nThe court then proceeded:\n\u201cApplying the law, as thus laid down, to the case at bar, how can we escape the conclusion that the formal service of the.writ of re-plevin by the de facto seizure of the horses on the Lord\u2019s Day impressed no right whatever on the part of the deputy sheriff on the horses? All acts of the deputy sheriff, so far as the writ of replevin was concerned, being absolutely void, the ease stood precisely as though A. N. Barrett, without pretense of official authority or right, took the horses of plaintiffs in error and put them in James Boyd\u2019s stable. It cannot be contended that this act would give Mr. Barrett any right of possession, or give him any official power over the horses whatever. Hence the recapture of the horses by the plaintiffs in error, or the turning them out of Boyd\u2019s stable and taking them home, was no resistance of the authority of the deputy sheriff.\u201d\nIt is said in Am. & Eng. Enc. of Law, vol. I, p. 723, \u201cAt the common law, service of process might be had by night or day or on Sunday;\u201d citing Keith v. Tuttle, 28 Me. 326. But on the same page, and in the next sentence, we find the following: \u201cBy statute 29 Car. II, c. 7, \u00a7 6, however, arrests on Sunday were prohibited, except for treason, felony, and breach of the peace. Proceedings on Sunday coming within this provision are void.\u201d It would seem that the first question referring to the common law meant, of course, the common law as it existed in England before the adoption of the statute next referred to; but as that definition of the common law does not cover the common law as it existed and has existed in the United States, or in most of the states of the Union, it cannot be of force \u2019or effect, it would seem, in this jurisdiction.\nIn Peck v. Cavell Jr., 16 Mich. 8, Justice Cooley, deciding the case (I read from the syllabus only), states:\n\u201cAn execution may be lawfully returned by the officer on the sixth day from its date, that being the return day, unless such day should be Sunday, in which case the return would be void.\u201d\nIn Hauswirth, Administratrix, etc., v. Sullivan et al. (Mont.) 9 Pac. 798, it is said that, under the Revised Statutes of that jurisdiction, a summons cannot be legally served on Sunday.\n\u201cThe want of jurisdiction is a matter that may always be set up against a judgment, where sought to be enforced or where any benefit is claimed under it, and the want of jurisdiction may be shown in cases where tbe judgment by tbe record appears perfect; and where tbe sheriff serves a writ on Sunday, and falsifies tbe return by making it appear that such service was made on Saturday, tbe fact may be proven in a collateral action to sbow that the court never acquired jurisdiction.\u201d\nMr. Chief Justice Wade delivered the opinion of the court, and, in the course of his discussion, said: \u201cBy the common law, all judicial proceedings which take place on Sunday are \u2022void. It is so stated in all the books, as the following' authorities will show\u201d \u2014 citing a large number of cases, and then continuing:\n\u201cBy a statute of this territory tbe common law, so far as the same is applicable and of a general nature, and not in conflict with the statutory enactments thereof, is made the law and rule of decision, and is in full force until repealed by legislative authority; and our statute further provides that no judicial business shall be transacted on Sunday, except in certain cases. The issuing of a summons, and the service and return thereof, are acts by the officers of the court and for the court in the action therein pending, and, in the construction of this statute, must be considered as judicial business or proceedings. The statute so construes itself, for it authorizes summons and process in certain cases to issue and be served on Sunday, and the specification of these particular and special cases is a prohibition of all others.\u201d\nBy an examination of our statute it will be found it is practically the Montana statute. However, I do not rest this case on our statute, and do not wish to be understood as holding that the service of process is the transaction of judicial business, although it may be very reasonably construed to be such. Sunday is made by our statute a nonjudicial day, and undoubtedly it was intended to prevent all business, including the service of writs, on said day. In Gould v. Spencer, 5 Paige, 541, in an action brought to restrain proceedings on a judgment, it is said:\n\u201cIt is irregular to make any process returnable on Sunday, and where the complainant made his subpoena returnable on that day, and afterwards took out an attachment thereon against the defendant for not appearing, the court set aside the attachment as illegal. The court of chancery has jurisdiction to restrain proceedings elsewhere for an abuse of its processes, and may compel the injured party to appeal to this court for redress.\u201d\nIn Vanderpoel v. Wright, heretofore cited, the defendant indorsed his appearance on the capias on Sunday, and the service was admitted to be void, within the case of Taylor v. Phillips, 3 East, 155, and Field v. Park, 20 Johns. 140. It was moved to set aside the return and subsequent proceedings. This motion was opposed because the defendant ha'd retained an attorney, who had given a general notice of retainer in the case. It was insisted that this was an appearance, and therefore a waiver of all irregularities. Held, the notice of retainer is not an appearance.\nIt would seem from these authorities, and many others that might be referred to, that, under the conditions of the law as it exists in Alaska, service of process on Sunday is void, and the court so holds. But it is urged on the part of counsel for the plaintiff that the defendant below and appellant here waived the irregularity of the service by filing his bond on Sunday. Upon this question of waiver it is said:\n\u201cThe right of waiver is subject to the control of public policy, which cannot be set aside or contravened by any arrangement or agreement of the parties, however expressed. Thus an agreement waiving the defense of usury is void, and so, also, is the ratification of a forgery. A party cannot waive the objections to acts done or contracts entered into in violation of the Sunday laws. The service of process on Sunday is absolutely void, and cannot be made good by the subsequent waiver of t]ae defendant.\u201d Taylor v. Phillips, 3 East, 155.\nIn Pierce v. Rehfuss, 35 Mich. 53, it is held:\n\u201cThe objection in a replevin suit that the return day of the writ was Sunday is held to be waived by the defendant appearing, pleading to the merits, and going to trial without objection.\u201d\nThis decision seems to have been predicated \u2022 on several Michigan cases to the effect that by pleading the general issue one admits all jurisdictional and formal matters. But in the case at bar it will be perceived that the defendant first moved- to set aside the proceedings, making a special appearance for that purpose. Being overruled in this, he then answered; among other things, again setting forth that the court had no jurisdiction because of the proceedings had on Sunday.\nCounsel for the plaintiff cites Nemitz v. Conrad (a case from the Supreme Court of Oregon, decided March 29, 1892) 29 Pac. 548, in support of his contention that by filing the bond for discharge in this case the defendant waived irregularities of the service. A suit was brought of false imprisonment by reason of arrest under what was claimed as a void warrant. The court in this case says:\n\u201cA void process is no justification for an arrest, but an irregular and voidable one is a complete defense until set aside. Before an action for false imprisonment under process of court can be maintained, it is necessary that the writ should be set aside, unless it appears to be absolutely void, for, if the process is merely voidable, it is valid until quashed; hence the arrest, until then, must be legal.\u201d\nIn the case then under consideration by the Supreme Court of Oregon, no application was made in the case wherein the void or voidable process was issued to have the process set aside, but a defendant appeared and put in bail. Having done so, and by neglect to move to be discharged, he consented to the process, aiid waived all irregularity in the manner of its issue. The language of the court, it will be observed, is \u201cthat the plaintiff appeared and put in bail. Having done so, and by neglect to move to be discharged, he consented to the process,\u201d etc., and thereby waived irregularities ; showing conclusively that if in that case the defendant, notwithstanding the fact he put in bail, had moved for a discharge because of the irregularities in the manner of the issuance and service of the process, he would have been so discharged notwithstanding the bail. But let it be remembered, also, that in that case, where there was no motion to discharge, and the party put in bail, judgment went against him: and in a suit for damages for false arrest the court held that the condition of that case was such that no such action could be maintained, which is entirely in accord with the contention of defendant in this case, and in no wise tends to support the claim made by the plaintiff. Neither does the case of Forster v. Orr (Or.) 21 Pac. 440, cited by the plaintiff, seem to support his contention. In that case, action was brought against the defendant for the sum of $1,000 due for rent, and the plaintiff caused an order of arrest to issue in said action. The respondent, after being arrested, and consulting with counsel in regard to the matter, paid the appellant\u2019s demand against him, on account of which he was arrested, and the disbursement in the proceedings against him accrued in said case and said arrest, and asked that he be released from custody, and that all further proceedings against him be discontinued. Whereupon, on order of the attorney for appellant, the respondent was released from custody, and all further proceedings against him were discontinued. A reply was filed to the allegations, and the issues tried. It was held in the case that the failure of the complainant to show that the writ of arrest had been vacated or 'set aside by the court in the action in which it was issued was a fatal defect, and that the complaint was insufficient to sustain a recovery had thereon. It was held, _ further, that an allegation in the answer to the effect that the plaintiff, after being arrested upon the writ of arrest, paid the defendant\u2019s demand on account of which he was arrested, and the disbursements of the proceedings against him, accrued in the case in which the writ was issued, and that said arrest did not aid the complainant in respect of such defect, but, on the contrary, showed that the arrest was acquiesced in by the defendant, and that the plaintiff did not deny in his reply the said allegation in the answer \u2014 all this showed that under the pleadings he had no cause of action. I fail to see wherein the case sustains the claim of counsel for the plaintiff, and, while it refers indirectly to the proposition of waiver, it does not go to the extent of sustaining the contention of plaintiff.\nOn the other hand, as has been shown before, there can be no waiver in a case like the one at bar, and this is expressly decided in Ex parte Tice, 49 Pac. 1038. The Supreme Court of Oregon holds in that case that, under the Sunday statute, the court cannot discharge a jury in a criminal case on Sunday, and further holds that the privilege of Sunday statute is one that cannot be waived, in this connection stating:\n\u201cTlie contention tliat it must tie presumed, in tlie absence of recital in tlie record to tlie contrary, tliat tlie plaintiff consented to the discharge of the jury, is without merit, for, if he could agree to-their discharge on Sunday, he could with equal propriety consent to be tried in a criminal action on that day. But as the public has an interest in the observance of Sunday as a day of rest, and the right to see that it shall not be desecrated except in cases of urgent need, the plaintiff could not waive a public right, and hence the injunction invoked is not applicable to the facts involved.\u201d\nI am clearly of the opinion that giving the bond to the deputy marshal was not only a waiver, but, in all probability (and there is ample authority to support the proposition), it was in itself a void act, and could in no wise furnish a ground for waiver. It will be remembered that the bond was taken on Sunday, and the return of the marshal with the bond was made on the same day. It is further urged by counsel for the plaintiff in the court below that, inasmuch as an appeal has been taken in this case, it is a waiver, under the statute, to all objections to process, and is made so by statute, and that, where appeals are taken, the rule is entirely different from that prevailing where a case is taken up on error. I do not so find the law, and, in the few cases that I have examined, I find that appeals have been taken, and the sufficiency of process objected to, and objections to the jurisdiction have been sustained, exactly as if the same had been taken up on error.\nBut in the case at bar these questions are hardly worthy of consideration. The defense in this case set up by answer is that the court acquired no jurisdiction by reason of the service of process on Sunday. The question, therefore, would arise on the trial, and the court would necessarily have to pass upon it at some time during these proceedings. The whole matter may as well be finally determined at this time as at any other.\nIt is possible that the court erred in dismissing this case unadvisedly on account of the stream of other business at the time. I was at the time of the belief that the process and all other proceedings in the case were begun on Sunday. Under such conditions, the action of the court below would have been void ab initio; but it appears that the case was properly begun, so far as the filing of the complaint and the issuance of summons are concerned, and that the trouble grew out of the service alone. The order of the court dismissing the case will be set aside, and the case reinstated.\nThe motion of the defendant is therefore sustained, and the judgment of the court below set aside and held for naught. The service of the summons and the return thereof are hereby quashed, and all the proceedings in said case in the court below following the issue of the summons are set aside and held for naught, and the case is remanded, with instructions to set aside the judgment and proceedings as above stated, and to discharge the defendant and his bail.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Maloney & Cobb, for plaintiff.",
+      "Louis P. Shackleford, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "VALENTINE v. ROBERTS.\n(First Division. Juneau.\nApril, 1902.)\nNo. 128a.\n1 Sunday \u2014 Appearance\u2014Arrest.\nThe issuance and. service of an order of arrest in a civil action on Sunday is void, and cannot \"be aided or cured by appearance and giving bond for appearance.\n2. Common Law \u2014 Alaska.\nThe common law adopted in Alaska by sections 367 (Act June 6, 1900, c. 786, 31 Stat. 552) of the Code of Civil Procedure and 218 of the Criminal Code (Act March 3, 1899, c. 429, 30 Stat. 1285) is that body of law described by the Supreme Court of the United States in the case of Patterson v. Winn, 5 Pet. 241, 8 L. Ed. 108, in the following language: \u201cThe term \u2018common law\u2019 means both the common law of England, as opposed to written or statute law, and the statutes passed before the immigration of the first settlers to America.\u201d\nMotion to quash writ of arrest in a civil action issued and served on Sunday.\nMaloney & Cobb, for plaintiff.\nLouis P. Shackleford, for defendant."
+  },
+  "file_name": "0536-01",
+  "first_page_order": 560,
+  "last_page_order": 576
+}

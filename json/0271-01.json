@@ -1,0 +1,81 @@
+{
+  "id": 8505020,
+  "name": "CHAMBERS et al. v. SOLNER, Treasurer of Nome",
+  "name_abbreviation": "Chambers v. Solner",
+  "decision_date": "1901-11-02",
+  "docket_number": "No. 535",
+  "first_page": "271",
+  "last_page": "278",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 271"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 521",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Stat. 1438",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 521",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 520,
+    "char_count": 13996,
+    "ocr_confidence": 0.649,
+    "sha256": "2d5a32314b79c261bf1b77b28e1ce89a6e57b1f6232d7173464861e8f87d12d4",
+    "simhash": "1:96f9a306ec04fdcd",
+    "word_count": 2397
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "CHAMBERS et al. v. SOLNER, Treasurer of Nome."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge\n(after stating the facts as above). The contention in this case arises over the respective claims of the common council and the school board of the city of Nome to the control and management of the school funds. The common council insists that it has the direction and control of this fund, and is authorized and empowered by statute to expend it; the school board traverses this claim, and asserts its jurisdiction over the school fund, and urges that the school board alone has the legal authority to manage the expenditures of these funds; and it is to determine the respective powers of these departments that this case is submitted to the court.\nThe case presents some anomalous features, and the court finds few precedents to assist it in the determination of the important questions at issue. The statutory provisions are very general in their phraseology, and the case must be determined wholly upon the construction given to them by the court.\nSection 201 of the Civil Code, found in chapter 21, at page 394 of Carter\u2019s Annotated Alaska Codes (Act June 6, 1900, c. 786, 31 Stat. 521), gives to the common council certain powers,.and among others':\n\u201cFourth. By ordinance to provide for necessary street improvements, fire protection, water supply, lights, wharfage, sewerage, maintenance of public schools, protection of public health, police protection, and the expense of assessment and collection of taxes.\u201d\nThe next provision in that section empowers the council to levy and collect taxes.\nSection 202 is as follows:\n\u201cIn addition to the officers heretofore provided by this act, there shall be elected a school board of three directors, who shall have the exclusive supervision, management, and control of the public schools and school property within said corporation, and shall be elected in the same manner and for the same term as the council.\u201d\nIf these two sections stood alone, the court would have little difficulty in determining the respective spheres of the two bodies in question. Section 203, as amended by the act approved March 3, 1901 (31 Stat. 1438, c. 859), however, contains a clause which, it is claimed, gives to the common council the control of the funds in question. This section provides that the treasurer of the corporation shall be \u201cex officio treasurer of the school board,\u201d and then provides for the treasurer\u2019s bond and oath of office. It then provides that 50 per cent, of all license moneys paid within the corporation shall be paid over by the clerk of the District Court to the treasurer of the said corporation, and then follows this clause:\n\u201cAll moneys received by tbe treasurer from the clerk of the court for licenses shall be used, under the direction of the council, for school purposes.\u201d\nThese are the clauses of the statute which, it is claimed, give to the council or the board their respective powers over the school fund, and, under them, each of these bodies claims the right to control the fund. In the absence of any precedent, the court can only follow the general rule that such a construction should be given to these statutory provisions as will sustain and give force and effect to each of them.\nThere is no territorial Legislature in the District of Alaska. In the creation of a municipal corporation it is essential to the proper management of its affairs that there be such a body, and Congress, in providing for the incorporation of towns, wisely gave to the common council certain restricted legislative powers. They constitute the only legislative bodies within the territory of Alaska, and are to be viewed within their respective corporate boundaries as having the powers given to them by Congress, and such other powers as are to be inferred from the responsibilities and duties imposed upon them by law. The duty and power is imposed upon them, by the fourth clause of section 201, \u201cby ordinance to provide for * * * the maintenance of public schools.\u201d This clause in the organic act imposes upon the council the duty to provide by ordinance for the maintenance of the public schools by taxation, and by such other methods of raising money as are necessary to meet that requirement. No other duty or power is given to the common council until we reach \u2022that clause in the amendment of March 3, 1901, providing that \u201cthe money received by the treasurer of the corporation from the clerk of the court for licenses shall be used, under the direction of the council, for school purposes.\u201d Viewing this clause in the light of the legislative duty of the common council to provide the funds for the maintenance of the public schools, and the clause in section 202, vesting \u201cexclusive supervision, management, and control\u201d in the school board, I have no doubt as to the construction which ought to be given to it. The fund received by the treasurer from the clerk of the court for licenses shall be added to the fund required to be raised by ordinance for the maintenance of public schools. The council is thereby relieved from the duty of raising that fund by ordinance imposing a license or tax upon the people of the corporation. The clause, \u201cunder the direction of the council,\u201d if construed merely as a reference to the duty of the legislative body to provide for the maintenance of the public schools, gives a reasonable construction to-all clauses of the statute, and recognizes the well-defined boundaries between the legislative duty to provide for the maintenance of the public schools, and the duty imposed on the school board as to the exclusive supervision, management, and control o.f the public schools and school property within said corporation. To give the words, \u201cunder direction of the city council,\u201d the force and meaning claimed for them by defendant, is to contradict the whole spirit of the law, and to render the plain provisions of section 202 useless and nugatory. I am of the opinion that the only power which the common council Has in the management of the public schools under thes.e statutory provisions is the legislative duty of providing the funds necessary for their maintenance. Their duty is legislative, and neither ministerial nor executive. The duty of the school board is ministerial and executive. It has \"the exclusive supervision, management, and control of the public schools and school property within the said corporation.\u201d\nThis view is further borne out by the fact that section 203,. as amended, provides that \u201cthe treasurer of the corporation shall be ex officio treasurer of the school board.\u201d While this clause is not of much force as a guide to the construction of the statute, yet it affords some light. It shows that there was in the mind of Congress a distinction between the functions of the municipal corporation and the school board. The treasurer of the corporation was to serve as ex officio treasurer of the school board. No salary is necessary for his services, for that must be provided for as treasurer of the corporation. Then, too, he is ex officio treasurer of the \"school board.\u201d As treasurer of the \u201cschool board,\u201d he holds the school fund, and is responsible to the \u201cschool board\u201d for the custody of the fund. This idea would be incompatible with the theory of the defendant that he is only responsible to the common council for the school fund.\nAnother clause in this amendment of March 3, 1901, affords some light upon the gloom of the situation. It is the last proviso, which reads as follows:\n\u201cProvided, that where it is made to appear to the satisfaction of the district court that the whole amount heretofore or hereafter received by the treasurer of the corporation from the clerk of the court is not required for school purposes, the court may from time to time, by orders duly made and entered with a statement of the facts upon which they are based, authorize the expenditure of the accumulated surplus, or any part thereof, for \"any of the municipal purposes enumerated in this chapter.\u201d\nThis clause makes it clear that the common council has no control, for municipal purposes at least, over any portion of the school fund, until it is segregated and set apart for the use of the corporation by the order of the District Court. If, now, the council had control of both the municipal and school funds, why should Congress impose upon the District Court the duty of ascertaining the fact and making the segregation of the school fund? This clause is persuasive that Congress meant that the court should hear the contention between these two bodies, and set apart any surplus of the school fund to the control of the council. It would seem reasonable to conclude that otherwise the council could not control any part of it.\nIt must be a fair construction of this statute to say, too, that the school fund is a -part of \u201cthe school property within the said corporation,\u201d and, if that is conceded, then section 202 gives \u201cthe exclusive supervision, management, and control\u201d thereof to the school board.\nFrom a full comparison and reasonable construction of all these provisions, it appears clear to the court that the purpose of the common council is the legislative duty to provide for \u201cthe maintenance of public schools\u201d within the corporation. The council has no authority to expend any portion of the school fund,- except that portion which is segregated by the court under the amendment of March 3, 1901, and set apart for municipal purposes. Section 202 is adopted from the Code of Oregon, where the school board has the exclusive supervisi\u00f3n, management, and control of the public schools and school property, which is claimed for the board here, and I am constrained to accept that construction of the statute which confers upon the school board the same broad powers and duties imposed by the laws of Oregon. The school board of Nome is the only body having any authority to expend the school fund. It is the duty of that board to employ teachers, provide for school buildings, and to supervise, manage, and control the public schools and school property, so long as there is a fund for the maintenance of the same, derived either through ordinances passed by the common council of Nome or from funds received from the clerk' of the District Court.\nIt follows that the common council of Nome has no authority to order the treasurer to pay any sums of money out of the school fund, for any purpose whatever, much less to pay a portion of the salary of the town clerk and town treasurer therefrom. The demurrer to the complaint will \u2018be overruled, and, upon answer or other pleading admitting the facts in the complaint to be true, the injunctioin prayed for may issue against the payment of the warrants in question.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge"
+      }
+    ],
+    "attorneys": [
+      "Alonzo Rawson, for plaintiffs.",
+      "V. T. Hoggatt, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "CHAMBERS et al. v. SOLNER, Treasurer of Nome.\n(Second Division. Nome.\nNovember 2, 1901.)\nNo. 535.\n1. Statutes \u2014 Construction.\nSuch a construction must be given to statutes as will sustain and give fair effect to each part when possible.\n2. Towns \u2014 Schools\u2014Taxation.\nUnder the laws of Alaska, the legislative duty is imposed on town councils \u201cby ordinance to provide for the maintenance of public schools\u201d by taxation or other methods necessary to meet that demand.\n3. School Fund \u2014 Common Council.\nThe town council has no other direction over the school fund paid into the school treasury hy the clerk of the District Court from licenses, than to consider the amounts in determining the budget to be raised by taxation or otherwise under their duty to provide for the maintenance of the public schools.\n4. Same \u2014 School Board.\nThe school board has \u201cthe exclusive supervision, management, and control of the public schools and school property.\u201d within the school district, including the power and duty of expending the funds paid in by the clerk of the District Court.\n5. Same \u2014 Municipal Purposes.\nThe common council has no control for municipal purposes over the school fund or any portion thereof until such portion is segregated and set apart for municipal use by an order of the District Court.\n6. Same \u2014 School Property.\nThat part of the school fund paid in by the clerk of the District Court from license receipts is a part of \u201cthe school property within the said corporation,\u201d over which the school board is given \u201cexclusive supervision, management, and control\u201d by section 202 of the Civil Code (Act June 6, 1900, c. 786, 31 Stat. 521).\nThe plaintiffs in this action show that they are citizens and taxpayers of the city of Nome, and together with one Collin Beaton constitute the school board, and that the city of Nome is regularly incorporated under chapter 21 of the Civil Code of Alaska, approved June 6, 1900; that the defendant is the duly elected, qualified, and acting treasurer of the city of Nome; that prior to the bringing of this action the common council of Nome authorized certain warrants to be drawn on the treasurer of the city of Nome in favor of the clerk for the sum of $50 per month, to be paid out of the school fund in the hands of the city treasurer as ex officio treasurer of the school board; that the defendant will, unless restrained by an order of this court, pay the said warrants out of the school fund, and that the public funds for the support of the public schools will be thereby depleted, to the irreparable injury and damage of the plaintiffs and the general public of the city of Nome. They deny that the city clerk or treasurer has ever been employed to perform any service whatever for or by the said school board; and show that the services performed were such as followed from the performance of their respective duties as- city clerk and city treasurer of Nome. Plaintiffs pray for an order restraining the defendant from paying the warrants out of the school funds in his hands as treasurer of the school board.\nThe defendant appears, and demurs to the compl.ajnjt'that it does not state facts sufficient to constitute a cause of action, or to entitle the plaintiffs, to any relief.\nAlonzo Rawson, for plaintiffs.\nV. T. Hoggatt, for defendant."
+  },
+  "file_name": "0271-01",
+  "first_page_order": 295,
+  "last_page_order": 302
+}

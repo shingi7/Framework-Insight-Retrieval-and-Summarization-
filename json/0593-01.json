@@ -1,0 +1,94 @@
+{
+  "id": 8505926,
+  "name": "TOWN OF NOME v. LANG",
+  "name_abbreviation": "Town of Nome v. Lang",
+  "decision_date": "1902-05-17",
+  "docket_number": "No. 641",
+  "first_page": "593",
+  "last_page": "595",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 593"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 520",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5699198
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "12, 13"
+        },
+        {
+          "page": "10"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/132/0001-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 248,
+    "char_count": 4266,
+    "ocr_confidence": 0.689,
+    "pagerank": {
+      "raw": 4.729469169007321e-08,
+      "percentile": 0.29710303573683255
+    },
+    "sha256": "2d790fa20511c76950986491c8d8d46146d8602ea04265b313da2beb3afa5a57",
+    "simhash": "1:8ad2debd326c10f6",
+    "word_count": 729
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TOWN OF NOME v. LANG."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe plaintiff, the town of Nome, alleges in its complaint that it is a municipal corporation, and that the defendant is indebted to it in the sum of $341.44 for street assessment due for the improvement of Steadman avenue in front of defendant\u2019s property; that said improvement consisted in the planking of the avenue; \u201cthat said improvement and planking was done and the labor and material furnished by the plaintiff at the special instance and request of defendant; that the same was done with defendant\u2019s knowledge, acquiescence, and' consent; that said improvement directly benefited defendant\u2019s property, and that he received the benefit thereof; that the said sum of $341.44 assessed and herein claimed was the reasonable value of the material furnished and work and labor performed in making said improvement, and was also the value of said benefit to defendant\u2019s property.\u201d The complaint further alleges that prior to the improvement the defendant, together with a majority of the owners of the lineal feet frontage on said Stead-man avenue, had petitioned and requested the common council of the town of Nome to order the improvement done; \u201cthat defendant, in said petition, further requested that the common council improve Steadman avenue in such manner as to the common council might seem proper, and to exercise the power of said council providing for the improvement of said Steadman avenue, so as to cause said Steadman avenue to be repaired and put in fair condition for travel\u201d from Front street to the northern end of the avenue; that by ordinance the common council provided for the improvement of the street as requested; \u201cthat no portion of said sum of $341.44 has been paid, although demand has been made upon the defendant for the payment of the same, and notice has been \u00bfiven to defendant that the same was due and payable.\u201d Plaintiff asks for judgment for the amount sued for, with interest.\nUpon the face of this complaint the action is one in assump-sit for the recovery of the reasonable value of material and services rendered by the town of Nome in the improvement \u2022of the defendant\u2019s property at his request. Such a suit, may be maintained. Metropolitan Ry. Co. v. District of Columbia, 132 U. S. 1, 12, 13, 10 Sup. Ct. 19, 33 L. Ed. 231.\nThe town of Nome has power, under chapter 21 of the Civil .Code of Alaska (Act June 6, 1900, c. 786, 31 Stat. 520), \u201cby ordinance to provide for necessary street improvements.\u201d It may be conceded that it has power and authority, under section 269 of chapter 28 of the Civil Code, extending the mechanics\u2019 liens to such cases, to file a -lien for work done and material furnished in improving a street in front of the property by one who requested the improvement to be made. The municipal corporation is a person under the provisions of that section. Metropolitan Ry. Co. v. District of Columbia, 132 U. S. 1, 10, 10 Sup. Ct. 19, 33 L. Ed. 231. But I do not discover that any question in relation to special assessment or the mechanic\u2019s lien law arises under the allegations in the complaint demurred to. It is a suit in assumpsit to recover the reasonable value of money expended by the town of Nome, at the special instance and request of the defendant, in the improvement of the street in front of his property. It seems clear enough to me that the city may undertake such improvement under the wide power given it by statute, and, if the defendant requested the improvement to be made, an implied contract to pay for it may result. The complaint states a cause of action, and the demurrer may be overruled.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "V. T. Hoggatt, for plaintiff.",
+      "Albert Fink, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "TOWN OF NOME v. LANG.\n(Second Division. Nome.\nMay 17, 1902.)\nNo. 641.\n1. Municipal Corporations \u2014 Assumpsit\u2014Street Improvements.\nWhere resident property owners of the town of Nome petitioned the common council to improve the street in front of their property, specifying the kind and character of improvement, and saw the work and labor done and the materials furnished in compliance with their written request, held, that the town-might recover the reasonable value of such work and materials in an action of assumpsit under their implied contract to pay.\nSuit to recover for street improvements.\nV. T. Hoggatt, for plaintiff.\nAlbert Fink, for defendant."
+  },
+  "file_name": "0593-01",
+  "first_page_order": 617,
+  "last_page_order": 619
+}

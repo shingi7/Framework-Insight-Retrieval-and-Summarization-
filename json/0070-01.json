@@ -1,0 +1,61 @@
+{
+  "id": 8504285,
+  "name": "THE CHALLENGE",
+  "name_abbreviation": "The Challenge",
+  "decision_date": "1892-07-05",
+  "docket_number": "No. 326",
+  "first_page": "70",
+  "last_page": "71",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 70"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 193,
+    "char_count": 2589,
+    "ocr_confidence": 0.679,
+    "sha256": "7e74cfa84ce18a0a299e60778f8c6c7fa0b29d7f54136b58e35ee1649b063524",
+    "simhash": "1:9ab673011b088567",
+    "word_count": 452
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THE CHALLENGE."
+    ],
+    "opinions": [
+      {
+        "text": "TRUITT, District Judge.\nThe libel of information in this case was filed by Chas. S. Johnson, United States District Attorney, on the 29th day of April, 1892, in said court, against said steam schooner Challenge, her boats, tackle, apparel, furniture, cargo, engines, and fixtures, in which it is alleged that said vessel, her captain, officers, and crew, on the 17th day of November, 1891, were engaged in killing, and did kill, within the limits of Alaskan territory, to wit, on St. George Island, in Bering Sea, a large number of fur seals, viz., 37, in violation of section 1956 of the Revised Statutes of the United States and acts of Congress and the proclamation of the President thereunder.\nThe hearing of said' c\u00e1se was set for June 20, 1892, and the usual monition was issued and published as by law required. On the day set for hearing no appearance was mad'e on behalf of said vessel, or any person as claimant, no answer or pleading of any kind being filed. The libelants appeared by said United States attorney. A default was entered against all claimants of said schooner, her tackle, boats, apparel, furniture, engines, and fixtures, the testimony of the libelants was submitted to the court, and, after the hearing was closed, the case was taken under advisement.-\nFrom the testimony I find that on the night of November 17th or early in the morning of the 18th of November, 1891, said steam schooner Challenge was at or near the coast of St. George Island, in Bering Sea; that at said time xo men, employed on her, landed upon said island, and did then and there unlawfully club and kill a large number of fur seals, amounting to about 100 in all. Some of them, however, were lost, and from the evidence it appears that only 37 skins were secured on board of the vessel, and those were seized with it, and are now in the hands of the United States marshal of this district.\nThe facts established by the evidence show a plain violation of section 1956, Rev. St. U. S., together with the acts of Congress and the proclamation of the President relating thereto. A decree of forfeiture as prayed for in the libel of information must, therefore, be entered.",
+        "type": "majority",
+        "author": "TRUITT, District Judge."
+      }
+    ],
+    "attorneys": [
+      "C. S. Johnson, U. S. Dist. Atty."
+    ],
+    "corrections": "",
+    "head_matter": "THE CHALLENGE.\n(Sitka.\nJuly 5, 1892.)\nNo. 326.\n1. Forfeiture \u2014 Animals\u2014Game.\nA vessel and her tackle, boats, apparel, furniture, cargo, engines, and fixtures are forfeited to the United States for violation of section 1956, Rev, St., for the protection of the fur-bearing animals of Alaska.\nCondemnation for Killing Fur Seals on St. George Island in Violation of Section 1956, Rev. St.\nC. S. Johnson, U. S. Dist. Atty."
+  },
+  "file_name": "0070-01",
+  "first_page_order": 94,
+  "last_page_order": 95
+}

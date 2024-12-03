@@ -1,0 +1,118 @@
+{
+  "id": 8505240,
+  "name": "WOODS v. BEATON",
+  "name_abbreviation": "Woods v. Beaton",
+  "decision_date": "1901-12",
+  "docket_number": "No. 50",
+  "first_page": "344",
+  "last_page": "345",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 344"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 270",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Stat. 415",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Pac. 496",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "case_ids": [
+        2263234
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/29/0475-01"
+      ]
+    },
+    {
+      "cite": "44 L. Ed. 163",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1239493
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0281-01"
+      ]
+    },
+    {
+      "cite": "175 U. S. 281",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1239493,
+        1250823
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0281-01",
+        "/alaska-fed/1/0574-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 273,
+    "char_count": 3584,
+    "ocr_confidence": 0.635,
+    "pagerank": {
+      "raw": 7.896356455754522e-08,
+      "percentile": 0.4605430664104355
+    },
+    "sha256": "44a1022affebf1b88f3d44b032a8b051beac987c80262c671e3668c16d94bbea",
+    "simhash": "1:c6a3a14538862e52",
+    "word_count": 660
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WOODS v. BEATON."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe record in this case shows that the verdict of the jury was rendered on the 13th day of April, 1901, and that final judgment was entered on the verdict on the 15th day of May, 1901. A motion for a new trial was filed by the plaintiff on April 13, 1901, and a bill of exceptions and other proceedings in the way of an appeal were presented to Judges Noyes, but the hearing thereof seems to have been postponed from time to time, until, when Judge Noyes left the district in September to go to San Francisco, the matter was yet undisposed of. Counsel now urges this court to grant a motion for a new trial, under the rule laid down by the Supreme Court of the United States in the case of Malony v. Adsit, 175 U. S. 281, 20 Sup. Ct. 115, 44 L. Ed. 163, and the case of Henrichsen v. Smith (Or.) 44 Pac. 496. The first of these .cases went up from the District of Alaska. The trial was had before Judge Delaney, while the bill of exceptions was signed by his successor in office. The Supreme Court of the United States held that the successor to Judge Delaney had no authority to sign the bill of exceptions, and ought to have granted a new trial. In the case of Henrichsen v. Smith (decided by the Supreme Court of Oregon) the trial judge in the court below died before the bill of exceptions was signed. The Supreme Court of that state held that the successor did right in refusing to sign the bill of exceptions and in granting a new trial. But neither of these cases govern the case at bar. Judge Noyes is neither dead nor removed from office. He left the district in September to attend the Circuit Court of Appeals in San Francisco on October 14th and thereafter, and was, of course, unable to return to this district, owing to the climatic conditions existing in this region, of which the court will take judicial notice. He may, however, return via Skagway and Dawson, down the Yukon river, as many other people do during the winter.\nSection 506 of the Code of Civil Procedure (Act June 6, 1900, c. 786, 31 Stat. 415) provides that:\n\u201cNo appeal or writ of error, by which any final order or judgment may be reviewed under the provisions of this Code, shall be taken \u25a0or sued out except within one year after the entry of the order or judgment sought to be reviewed.\u201d\nJudgment in this case was rendered on the 15th day of May, 1901, and, if Judge Noyes returns to this district at any time before the year has expired, he may sign the bill of exceptions, and thus avoid the granting of a new trial upon the grounds suggested. In case he does not return before that time, or whenever it becomes necessary or apparent that the plaintiff will be denied his right to appeal by reason of his nonappearance to sign the bill of exceptions, this court will then again hear this application. In the meantime it will remain without determination.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "C. S. Hannum, for plaintiff.",
+      "J. K. Wood and J. L,. McGinn, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "WOODS v. BEATON.\n(Second Division. Nome.\nDecember, 1901.)\nNo. 50.\n1. Bill op Exceptions \u2014 New Judge.\nWhere tlie judge who heard the case and to whom the bill of exceptions was presented for settlement temporarily left the district without signing the bill, but intended to return before the expiration of the year for appeal had expired, another judge, sitting in his absence, refused either to sign the bill or to grant a new trial. See section 953, Rev. St., as amended by Act June 5, 1900, 31 Stat. 270, c. 717, 2 Supp. Rev. St. 1892-1901, p. 1190 [U. S. Comp. St. 1901, p. 696]. .\n-Application to the judge to sign bill of exceptions.\nC. S. Hannum, for plaintiff.\nJ. K. Wood and J. L,. McGinn, for defendant."
+  },
+  "file_name": "0344-01",
+  "first_page_order": 368,
+  "last_page_order": 369
+}

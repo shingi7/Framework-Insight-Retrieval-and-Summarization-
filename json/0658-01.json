@@ -1,0 +1,105 @@
+{
+  "id": 8506092,
+  "name": "WEITZMAN v. HANDY et al.",
+  "name_abbreviation": "Weitzman v. Handy",
+  "decision_date": "1902-10",
+  "docket_number": "No. 163",
+  "first_page": "658",
+  "last_page": "664",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 658"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "4 Or. 209",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2294089
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/4/0209-01"
+      ]
+    },
+    {
+      "cite": "1 Wash. T. 368",
+      "category": "reporters:state",
+      "reporter": "Wash. Terr.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Am. St. Rep. 145",
+      "category": "reporters:state",
+      "reporter": "Am. St. Rep.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Pac. 341",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "case_ids": [
+        1175331
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan/65/0523-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 476,
+    "char_count": 12093,
+    "ocr_confidence": 0.644,
+    "pagerank": {
+      "raw": 2.208705353199233e-07,
+      "percentile": 0.7760263243146608
+    },
+    "sha256": "50428ada66afec18cb412123a84864d94d3a39a9422beeff50cb0232c801f3e1",
+    "simhash": "1:6903996d924af6f2",
+    "word_count": 2121
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WEITZMAN v. HANDY et al."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nThis case came on for hearing before the court on motion of the plaintiff to dismiss the appeal because of the insufficiency of the notice of appeal in the lower court. Several grounds are assigned in the motion for such dismissal, some of which are in substance as follows ;\nThat the defendants are not properly described in the notice : that the judgment referred to in the notice of appeal is not so described that it could be identified; that there is no date given in said notice on which the judgment sought to be appealed from was entered, and the notice does not indicate who the defendants were, against whom such judgment was entered. The notice of appeal, as sent up from the Commissioner\u2019s Court with the record of the case, is in the following words, to wit:\n\u201cIn the U. S. Commissioner\u2019s -Ex Officio J. P. Court for the District of Alaska, at Skagway. S. J. Weitzman v. M. E. Handy et al. Notice of Appeal. To John E. Dillon, Attorney for Plaintiff Herein: You will please take notice that the defendants in the above-entitled action hereby appeal to the U. S. District Court for the District of Alaska, Division No. 1, from the judgment therein made and entered in the said Commissioner\u2019s Court on the - day of July, 1902, in favor of'the plaintiff and against said defendants, and from the whole thereof. T. A. Marqbam, Attorney for Defendants.\u201d\nIt further appears that the notice was . served on Mr. Dillon, the attorney for the plaintiff, on July n, 1902, by Deputy Marshal Snook, which certificate of service is indorsed upon the notice.\n. Section 996, c. 97, pt. 4, p. 346, Carter\u2019s Code, provides that appeals taken to the District Court may be so'taken within 30 days from the date of entry of judgment. Section 997, following, provides as follows:\n\u201cAn appeal is taken by serving a notice thereof on the adverse party or his attorney, and filing-the original, with the proof of service indorsed thereon, with the justice, and by giving the undertaking for the costs of the appeal, as hereinafter provided.\u201d\nThere is nothing in our statute describing or indicating what the notice of appeal shall contain. The whole question, therefore, is one of construction, and is left to depend largely upon the practice that maybe established in this court, and what may be deemed by the court sufficient to notify the parties properly of the intended appeal. Clearly, a notice stating merely that a party intends to appeal \u201cfrom the judgment entered in said action\u201d could hardly be deemed sufficient. Neither would a notice, it would seem,' be deemed sufficient that was not addressed to the parties defendant, and that did not refer in an intelligible way to the judgment that had been entered. \u25a0 If a money judgment, it would seem that the amount for which judgment was rendered should be stated, and the date on which such judgment was entered; and, if it were a judgment for the recovery of personal property, the notice should at least state that it was such judgment. There might on any day be judgments entered in the same court, between the same parties, and of a different character. There might be a judgment entered on a certain day for the recovery of personal property, and on the same day a money judgment on an entirely different cause of action might be entered between the same parties. To say that a party plaintiff or defendant appeals from a judgment entered in a certain court on a certain day, without in any way identifying or indicating the character of such judgment, would not, in my opinion, be a sufficient notice. The notice should so far and so clearly state the nature of the judgment that there would be no mistake in identifying it when the record should come to this court.\nThe notice of appeal provided by our statute is in the nature of a process whereby this court obtains jurisdiction of cases appealed; that is, the giving of the notice is a preliminary step to be taken, and, if followed by other steps required by law, this court thereby obtains jurisdiction of the case. Being in the nature of a process, it should, I think, as clearly describe the parties, the nature of the judgment sought to be appealed from, the date on which such judgment was entered, the court in which entered, and the court to which appeal is taken, as a summons is required to indicate the nature of the action, the court in which brought, the parties to the action, and the amount sued for, when issued from the district court.\nIt is very earnestly urged on the part of appellant that the notice should be informal, and that the notice in question is as full as is ordinarily required by the courts of last resort of the state of Oregon, where the same statute has been under consideration. And counsel further urges that inasmuch as this statute of ours was evidently taken from that of Oregon, and adopted by the Congress of the United States as the law of Alaska, the construction given to the statute under consideration by the courts of last resort in the state of Oregon was also adopted by Congress. This contention is in accord with the general authority upon the proposition as stated, if the section of the statute was one peculiar to Oregon. An examination of the various statutes will disclose, however, that the same section has been included in the statutes of many states, and has received construction more or less in accord with that given by the courts of last resort of the state of Oregon. But the courts of Oregon seem to differ upon the construction of the section, rendering their own decisions at least uncertain, and not so far commanding as to control this court on the theory advanced by counsel for appellant. Indeed, where the statute had been construed by other courts long, before it was adopted by the state of Oregon, this court would be more inclined to follow the decisions of those courts, if there were any material difference in the construction given by such other courts and that given by the courts of last resort of the state of Oregon.\nIn the case of Neppach, Administrator, v. Jordan, 10 Pac. 341, 23 Am. St. Rep. 145, the Supreme Court of Oregon passed directly upon the question at issue, and the conclusion of the court in that case meets my hearty approval. In that case the court says:\n\u201cJudgment was rendered against Jordan in a justice\u2019s, court. Jordan appealed to the circuit court. In the circuit court the appellee moved to dismiss the appeal for the reason that the notice of appeal was insufficient, in this: (1) That it failed to describe the court in which judgment was rendered; (2) that it failed to describe the parties; and (3) that it failed to describe the judgment. The notice was of the tenor following:\n\u201c \u2018In Justice Court for Couch Precinct, William Neppach, Plaintiff, v. W. P. Jordan, Defendant. Notice of Appeal. Civil Action. To William Neppack and Charles H. Hewell, Your Attorney: Please \u25a0take notice that tlie defendant in the above-entitled action appeals from the judgment rendered and entered therein on the 5th day of June, A. D. 1885, in favor of the said plaintiff and against the said defendant, for the possession of the premises described in the complaint herein, and costs and disbursements, and from the whole of such judgment, to the circuit court of the state of Oregon, for the county of Multnomah. E. 0. Dowd, Attorney for Defendant.\u2019 \u201d\nIn passing upon the motion, the court says:\n\u201cThe notice of appeal must be directed.to the adverse party, and must inform him that the appellant appeals from the judgment. As this notice is a species of judicial process (Webster, J., in Driver v. McAllister, 1 Wash. T. 368), the sufficiency whereof must appear to the court on its face, the question whether the notice is sufficient to give the appellee actual knowledge of the intention of the appellant to appeal cannot be gone into. The court must be able to identify the judgment from the notice. Can it do so in this case? Evidently so. -A judgment is sufficiently described when the court in which it is rendered is given, the names of the parties to the judgment, the date of the judgment, and for what it was rendered. Lewis v. Lewis, 4 Or. 209. * * * This notice gives the court, the names of the parties, the date, and that the judgment was for the possession of the premises described, in the complaint. It was not necessary to give a description of the premises in the notice itself.\u201d\nIn that case, it will be observed, the notice specified that the judgment was for the possession of certain premises described in the complaint. It was not necessary to give a description of the premises, and that these premises \u201cwere described in the complaint.\u201d The court holds that the statement in the notice that the judgment was for the possession of property describ\u00e9d in the complaint made it' sufficient, quoting the familiar rule that \u201cthat is certain which can be made certain.\u201d In the above case, inasmuch as the notice described generally the character of the judgment, and referred to the complaint on file for a more complete description, an examination of the complaint in that instance made the identity of the judgment clear and explicit in a high degree. I heartily coincide with the requirements. of this decision as stated by the Supreme Court of Oregon; and, while there are other decisions in that state that seem not wholly in accord with this, I regard this as the one decision of the court of last resort of Oregon that I feel disposed to follow in construing the same statute in this jurisdiction.\nLet it then be clearly understood hereafter that notices of appeal to this court must be entitled in the proper court, must be directed to the adverse party, must so identify or refer to the judgment that this court will be able to identify the judgment from the notice, and must contain the date of the judgment, and' the names of the parties plaintiff and defendant, all of which must be in clear and unmistakable language. Where a money judgment is sought to be appealed from, the notice should state the amount of such judgment. If the judgment is for the possession of personal property, the notice should so state. If it is for the possession of real property, as in action of forcible entry and detainer, the notice should indicate the character of the action and the judgment. Indeed, I am of the opinion that the notice given in the case of Neppach, Administrator, v. Jordan, passed upon by the Supreme Court of Oregon (10 Pac. 341, 23 Am. St. Rep. 145), is one that may well be followed by all attorneys in this jurisdiction. I would add to that notice only one ingredient: Where it is a money judgment, the amount for which judgment was given should be stated in the notice. I am clearly of the opinion that the notice in the case at bar is insufficient. It does not properly describe the parties; it is without any date; it does not refer in unmistakable terms to the judgment rendered from which the appeal is sought to be taken; it is not addressed to the adverse party \u2014 although this objection is not raised by the motion in this case \u2014 and is therefore insufficient.\nThe motion to dismiss is sustained, and the judgment of the court is that the appeal be dismissed.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "J. F. Dillon and J. G. Price, for motion.",
+      "T. A. Marqham and W. F. Crews, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "WEITZMAN v. HANDY et al.\n(First Division. Skagway.\nOctober Term, 1902.)\nNo. 163.\n1. Appeal and Ebrob \u2014 Justice op the Peace.\nA notice of appeal from a justice of the peace to the District Court of Alaska must be entitled in the proper court, directed to the adverse party, identify or refer to the judgment so distinctly that the appellate court can identify the judgment from the notice, contain the date of the judgment, the names of the parties plaintiff and defendant, and, when it is a money judgment, the amount thereof; and, if for the possession of real or personal property, the notice should indicate which, and describe the property. The notice in this case held insufficient. Appeal dismissed.\nMotion to dismiss appeal for insufficiency of notice.\n'Granted.\nJ. F. Dillon and J. G. Price, for motion.\nT. A. Marqham and W. F. Crews, for defendants."
+  },
+  "file_name": "0658-01",
+  "first_page_order": 682,
+  "last_page_order": 688
+}

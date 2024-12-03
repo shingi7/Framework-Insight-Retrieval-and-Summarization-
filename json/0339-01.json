@@ -1,0 +1,125 @@
+{
+  "id": 8505224,
+  "name": "MITCHELL v. GALEN et al.",
+  "name_abbreviation": "Mitchell v. Galen",
+  "decision_date": "1901-12",
+  "docket_number": "No. 562",
+  "first_page": "339",
+  "last_page": "343",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 339"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 347",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Stat. 1263",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 L. Ed. 646",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1134244,
+        1134222
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/80/0335-01",
+        "/us/80/0156-01"
+      ]
+    },
+    {
+      "cite": "13 Wall. 335",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        1134244
+      ],
+      "pin_cites": [
+        {
+          "page": "351"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/80/0335-01"
+      ]
+    },
+    {
+      "cite": "7 Wall. 523",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3450149
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/74/0523-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 488,
+    "char_count": 8840,
+    "ocr_confidence": 0.642,
+    "pagerank": {
+      "raw": 5.527646540942415e-08,
+      "percentile": 0.34577633676712427
+    },
+    "sha256": "e3c448f01dbd6ac0241c79997f8a3d1d3fd47b2c8fc59259d3e7003ab46a6811",
+    "simhash": "1:9f18537cf549ea78",
+    "word_count": 1506
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MITCHELL v. GALEN et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nAdmitting, as the demurrer does, that Galen, in his capacity as justice of the peace, acted in collusion with the defendants, that he knew the warrant issued was for the arrest of Mitchell for extracting and appropriating gold from his own claim, and that, having full knowledge of these facts, he joined in the enterprise for the purpose of gaining possession of the claim for himself and codefendants, is he liable in a civil suit for damages for such collusive action on his part?\nIf a judge were to be held liable for every mistake or error where another suffered any real or supposed injury,' if the threat of suits for damage lurked behind every question presented to him for adjudication or determination; if every litigious and disappointed suitor could go into another tribunal and maintain an action against him upon any form of allegation whatever for having performed a judicial duty, however erroneously \u2014 the office of judge could be filled with safety only by a bankrupt knave. On the other hand, it would shock the moral sense of mankind to admit that there is one man who is so far above the law, by reason only of being its expounder, that he is absolved from obeying it. Upon this interesting branch of the law the courts have not failed to announce just principles for the protection of both litigant and judge. They will be found collected with annotations, following the leading English case of Crepps v. Durden, in Smith\u2019s Leading Cases (9th Am. Ed.) vol. 2, pp. 978-1044.\nIn Randall v. Brigham, 7 Wall. 523, 19 L. Ed. 285, the rule which must govern this court is laid down in the following language:\n\u201cNow, it is a general principle, applicable to all .-judicial officers, tliat they are not liable to a civil action for any judicial act done within their jurisdiction. In reference to judges of limited and inferior authority, it has been held that they are protected only when. -they act within their jurisdiction. If this he the case with respect to them, no such limitation exists with respect to judges of superior or general authority. They are not liable to civil actions for their judicial acts, even when such acts are in excess of their jurisdiction, unless perhaps where the acts in excess of jurisdiction are done maliciously or corruptly.\u201d\nIn a later case the Supreme Court had occasion to consider the qualifying language in the last above quoted sentence, and then said of the words used:\n\u201cIn the present case we have looked into the authorities, and are clear from them, as well as from the principle on which any exemption is maintained, that the qualifying words used were not necessary to a correct statement of the law, and that judges of courts of superior or general jurisdiction are not liable to civil actions for their judicial acts, even when such acts are in excess of then1 jurisdiction, and are alleged to have been done maliciously or corruptly. A distinction must be here observed between excess of jurisdiction and the clear absence of all jurisdiction over the subject-matter. Where there is clearly no jurisdiction over the subject-matter, any authority exercised is a usurped authority, and for the exercise of such authority, when the want of jurisdiction is known to the judge, no excuse is permissible.\u201d Bradley v. Fisher, 13 Wall. 335, 351, 20 L. Ed. 646.\nFrom these authorities three principles may be extracted: (i) In reference to judges of limited and inferior authority, it has been held that they are protected only when they act within their jurisdiction. (2) Judges of courts of superior or general jurisdiction are not liable to civil actions for their judicial acts, even when such acts are in excess of their jurisdiction, and are alleged to have been done maliciously or corruptly. (3) Where there is clearly no jurisdiction over the subject-matter, any authority exercised is a usurped authority, and for the exercise of such authority, when the want of jurisdiction is known to the judge, no excuse is permissible. In short, an inferior judge must keep within his jurisdiction at his peril; a superior judge is not liable for an excess of jurisdiction, even if accompanied by malice or corruption; while either will be held civilly liable for damages resulting from an admitted usurpation of authority.\nA justice of the peace is an inferior judicial officer, and for any judicial act performed by him outside of his jurisdiction he may be sued in a civil action. The question, then, is whether the allegations of the complaint disclose that Galen acted without jurisdiction in the matter alleged. The allegations are that, acting in collusion with the other defendants, he issued a warrant against Mitchell for a felony, to wit, for stealing gold from his own claim. Section 75 of the Criminal Code of Alaska (Act March 3, 1899, c. 429, 30 Stat. 1263) provides \u201cthat any person who shall attempt to break or rob, any flume, rocker, quartz vein, lode, bed-rock, sluice, sluice-box, or mining claim not his own\u201d shall be punished as for a felony. Carter\u2019s Code of Alaska, p. 15. While the justice would have jurisdiction to issue the warrant for the arrest pf a person, and hold him to bail before the next grand jury in such case, yet he would clearly have no such jurisdiction if the mining claim belonged to the person arrested; and that is the allegation in the complaint. Whether he would have jurisdiction in case the person arrested was in actual possession, claiming title as a locator, although another claimed to be a prior locator, need not now be decided. Upon the allegations of the complaint in this respect, and in some others, it appears that the justice was without jurisdiction to issue the warrant, and under the rule his judicial character cannot be invoked as a cloak to his alleged wrongdoing. The demurrer is overruled as to Galen upon this ground, which was the only one raised by him.\nThe demurrer of Backus is upon both grounds: First, that the complaint does not state facts sufficient to constitute a cause of action; and, second, that several causes of action are improperly united. It must be overruled upon both grounds. An inspection of the complaint does show that separate rights of the plaintiff were invaded, viz.: First, that he was illegally arrested and imprisoned; and, second, that he suffered damage to his property; and, third, to his character. These constitute separate causes of action, and they are certainly intermixed in one pretended cause of action, and are not separately stated. Pomeroy, however, says that the correct practice in such case is \u201cnot by a demurrer, but by a motion to make the pleading more definite and certain by separating and distinctly stating the different causes of action.\u201d Pomeroy\u2019s Code Pleading (3d Ed.) \u00a7 447. Section 96 of our Code of Civil Procedure (Act June 6, 1900, c. 786, 31 Stat. 347) contains this provision: \u201cWhen any pleading contains more than one cause of action or defense, if the same be not pleaded separately,- such pleadings may, on motion of the adverse party, be stricken out of the case.\u201d An amended pleading may, of course, be filed, and the better practice, therefore, is to move against the improper joinder and require a separate statement. The fact that the plaintiff in this action asks for several forms of damage does not render the pleading open to demurrer, for these allegations of special damages are no part of any cause of action. They ought more properly to be embraced in the prayer for relief. Both demurrers are overruled.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Jackson, Pittman & Fink, for plaintiff.",
+      "Stevens & Du Bose, for Galen.",
+      "Ira D. Norton, for Backus.",
+      "Keller & Fuller, for Kjeagstad and Keller, defendants."
+    ],
+    "corrections": "",
+    "head_matter": "MITCHELL v. GALEN et al.\n(Second Division. Nome.\nDecember, 1901.)\nNo. 562.\n1. Justice oe the Peace \u2014 Action\u2014Civil Liability.\nA justice of the peace is an inferior judicial officer, and for any judicial act performed hy him outside of his jurisdiction he may be sued in a civil action.\n2. Same \u2014 Civil Action against.\nWhere a justice of the peace acts in collusion with other persons, and issues a warrant for the arrest of a mine owner for an alleged trespass or crime upon his own property, in order that he may be removed therefrom, so 'that these other persons, acting with the justice, may get into possession, and thereby secure his mine, he may be sued civilly for such act.\n3. Pleading \u2014 Complaint.\nWhere a complaint alleges several causes of action not separately stated, the proper practice is to move to strike the pleading, or to make it more definite and certain by separating and distinctly stating the different causes, and not by a demurrer.\n4. Same \u2014 Damages.\nThe fact that the complaint prays for several forms of damages does not render it open to demurrer.\nSuit against Justice of the Peace for Damages.\nDemurrer overruled.\nJackson, Pittman & Fink, for plaintiff.\nStevens & Du Bose, for Galen.\nIra D. Norton, for Backus.\nKeller & Fuller, for Kjeagstad and Keller, defendants."
+  },
+  "file_name": "0339-01",
+  "first_page_order": 363,
+  "last_page_order": 367
+}

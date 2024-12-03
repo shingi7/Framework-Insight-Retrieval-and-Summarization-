@@ -1,0 +1,461 @@
+{
+  "id": 8504463,
+  "name": "ALLEN v. MYERS et al.",
+  "name_abbreviation": "Allen v. Myers",
+  "decision_date": "1901-03-04",
+  "docket_number": "No. 2",
+  "first_page": "114",
+  "last_page": "121",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 114"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "148 U. S. 603",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3566777
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/148/0603-01"
+      ]
+    },
+    {
+      "cite": "52 Cal. 430",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1937116
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/52/0430-01"
+      ]
+    },
+    {
+      "cite": "21 Fed. 693",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3774730
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/21/0693-01"
+      ]
+    },
+    {
+      "cite": "42 Fed. 821",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6737249
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/42/0821-01"
+      ]
+    },
+    {
+      "cite": "97 Fed. 303",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3833948,
+        1250743
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/97/0303-01",
+        "/alaska-fed/1/0566-01"
+      ]
+    },
+    {
+      "cite": "130 U. S. 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3537191
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/130/0291-01"
+      ]
+    },
+    {
+      "cite": "119 U. S. 485",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8300046
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/119/0485-01"
+      ]
+    },
+    {
+      "cite": "163 U. S. 160",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        468243
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/163/0160-01"
+      ]
+    },
+    {
+      "cite": "20 Sup. Ct. 222",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1239460
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0571-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 321",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "50 U. S. 235",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3353794
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/50/0235-01"
+      ]
+    },
+    {
+      "cite": "26 U. S. 511",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1432410
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "546"
+        },
+        {
+          "page": "256"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/26/0511-01"
+      ]
+    },
+    {
+      "cite": "36 L. Ed. 232",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        6140584
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/143/0472-01"
+      ]
+    },
+    {
+      "cite": "143 U. S. 472",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140584,
+        1250753
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/143/0472-01",
+        "/alaska-fed/1/0244-01"
+      ]
+    },
+    {
+      "cite": "35 L. Ed. 693",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3556335
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/141/0174-01"
+      ]
+    },
+    {
+      "cite": "141 U. S. 174",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1250750,
+        3556335
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0189-01",
+        "/us/141/0174-01"
+      ]
+    },
+    {
+      "cite": "102 Fed. 473",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6721496,
+        1250734
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/102/0473-01",
+        "/alaska-fed/1/0599-01"
+      ]
+    },
+    {
+      "cite": "42 C. C. A. 452",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "87 Fed. 801",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3839519
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/87/0801-01"
+      ]
+    },
+    {
+      "cite": "31 C. C. A. 223",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "75 Fed. 37",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3963710
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/75/0037-01"
+      ]
+    },
+    {
+      "cite": "43 Fed. 219",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3725226
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/43/0219-01"
+      ]
+    },
+    {
+      "cite": "2 How. 383",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3328200
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/43/0383-01"
+      ]
+    },
+    {
+      "cite": "8 L. Ed. 204",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        534520
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/30/0318-01"
+      ]
+    },
+    {
+      "cite": "5 Pet. 496",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 L. Ed. 324",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1411953
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/6/0250-01"
+      ]
+    },
+    {
+      "cite": "2 Cranch, 419",
+      "category": "reporters:scotus_early",
+      "reporter": "Cranch,",
+      "case_ids": [
+        1411953,
+        6765593
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/6/0250-01",
+        "/dc/2/0419-01"
+      ]
+    },
+    {
+      "cite": "17 L. Ed. 333",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3465408,
+        3465669
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/67/0544-01",
+        "/us/67/0545-01"
+      ]
+    },
+    {
+      "cite": "67 U. S. 545",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3465669
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/67/0545-01"
+      ]
+    },
+    {
+      "cite": "21 L. Ed. 174",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3426161
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/82/0373-01"
+      ]
+    },
+    {
+      "cite": "92 U. S. 373",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "60 U. S. 271",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140363
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/60/0271-01"
+      ]
+    },
+    {
+      "cite": "1 Stat. 82",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 651,
+    "char_count": 13086,
+    "ocr_confidence": 0.605,
+    "pagerank": {
+      "raw": 1.4292197538457575e-07,
+      "percentile": 0.6507105240498577
+    },
+    "sha256": "45291a20b06aca09c1655610778f667fa2dbd49f77d60cade46f7821bdef50e3",
+    "simhash": "1:c6c67f10c7a1b6ea",
+    "word_count": 2342
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ALLEN v. MYERS et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe suit is brought under section 475 of the Code of Civil Procedure (Act June 6, 1900, c. 786, 31 Stat, 410), which reads as follows:\n\u201cSec. 475. Any person in possession by liimself or Ms tenant, of real property, may maintain an action of an equitable nature against \u2022 another who claims an estate or interest therein adverse to him, for the purpose of determining such claim, estate or interest.\u201d\nThe complaint would state a cause of action, and be unobjectionable, if it did not allege the inception of the special proceedings by the plaintiff to obtain patent to the claim under the provisions of sections 2325 and 2326 of the United States Revised Statutes [U. S. Comp. St. 1901, pp. 1429,. 1430]. Do not these sections, and the method therein pointed out for quieting his title, afford the complainant full, speedy, and adequate remedy without the aid of a court of equity? If they do, this court has no jurisdiction to hear or determine this action. No objection has been made to the jurisdiction of this court by demurrer or otherwise, and it is left to the court to settle jurisdictional questions without the aid of counsel.\nThe sixteenth section of the judiciary act of 1789 (1 Stat. 82, c. 20) declares \u201cthat suits in equity shall not be sustained in either of the courts of the United States, in any case where plain, adequate, and complete remedy may be had at law.\u201d This is the general rule in all courts, \u201cand the result of the argument is that, whenever a court of law is competent to take cognizance of a right, and has power to proceed to a judgment which affords a plain, adequate, and complete remedy, without the aid of a court of equity, the plaintiff must proceed at law, because the defendant has a constitutional right to a trial by jury.\u201d Hipp v. Babin, 60 U. S. 271, 15 L. Ed. 633; Grand Chute v. Winegar, 92 U. S. 373, 21 L. Ed. 174.\nIn Parker v. Winnipiseogee, etc., Co., 67 U. S. 545, 17 L. Ed. 333, the Supreme Court of the United States says:\n\u201cIt was urged, at Rearing, as an insuperable objection to tbe relief prayed for, that tbe appellant bas not established bis right by an action at law. The objection was not talren by demurrer or in tbe answer. In tbe courts of tbe United States it is regarded as jurisdictional, and may be enforced by the court sua sponte, though not raised by tbe pleadings, nor suggested by counsel. Graves v. Bos. Mar. Ins. Co., 2 Cranch, 419, 2 L. Ed. 324; Fowle v. Lawrason, 5 Pet. 496, 8 L. Ed. 204; Dade v. Irwin, 2 How. 383, 11 L. Ed. 308.\u201d\nThe real question, then, is, has the plaintiff plain, speedy, and adequate remedy at law by a continuance of the special statutory proceeding which he instituted to secure a patent to the mine in controversy? Among other provisions, section 2325 contains the following:\n\u201cIf no adverse claim shall have been filen with tbe register and receiver of tbe proper land office at tbe expiration of tbe sixty days\u2019 publication, it shall be assumed that tbe applicant is entitled to a patent, upon payment to the proper officer of five dollars per acre, and that no adverse claims exist; and thereafter no objection from third parties to the issuance of a patent shall be heard, except it be shown that the applicant has failed to comply with the terms of this chapter.\u201d\nIt does not appear that any such adverse claim has been filed in the land office. If the proceedings there are continued until the end of the 60-days\u2019 publication, and no adverse claims are then begun, plaintiff\u2019s title to the mine in controversy will be quieted by operation of law, and without the aid of a court of equity.\nIf, however, adverse claims are filed, then, under the provisions of section 2326.\n\u201cIt shall be the duty of the adverse claimant, within thirty days after filing his claim, to commence proceedings in a court of competent jurisdiction, to determine the question of the right of possession, and prosecute the same with reasonable diligence to final judgment; and a failure so to do shall be a waiver of his adverse claim.\u201d\nWhether adverse claims are filed or not, when the plaintiff once began the special proceedings for patent under sections 2325 and 2326, Rev. St., a plain, speedy, and adequate remedy was afforded to quiet all adverse claims against his title, either by a suit begun by his adversary or by force of the bar o\u00ed the statute.\nIt has been repeatedly held by the District Courts of the United States, and affirmed by the Circuit Court of Appeals in the Ninth Circuit, that suits brought in the courts of the United States in pursuance of sections 2325 and 2326, Rev. St., to determine adverse claims to mining grounds, are in their nature equitable, and not legal, actions. Doe v. Mining Co. (C. C.) 43 Fed. 219; Rutter v. Shoshone Min. Co. (C. C.) 75 Fed. 37; Shoshone Min. Co. v. Rutter, 31 C. C. A. 223, 87 Fed. 801. The District Court for the District of Alaska, however, is not, strictly speaking, a court of the United States, and does not come within the purview of the acts of Congress which speak of \u201ccourts of the United States\u201d only. Jackson v. United States, 42 C. C. A. 452, 102 Fed. 473; McAllister v. United States, 141 U. S. 174, 11 Sup. Ct. 949, 35 L. Ed. 693; Ex parte Cooper, 143 U. S. 472, 12 Sup. Ct. 453, 36 L. Ed. 232. In legislating for Alaska, \u201cCongress exercises the combined powers of the general and of a state government.\u201d American Ins. Co. v. 356 Bales of Cotton, 26 U. S. 511, 546, 7 L. Ed. 242, 256; Benner v. Porter, 50 U. S. 235, 13 L. Ed. 119. In passing the act of June 6, 1900 (31 Stat. 321, c. 786), commonly called the \u201cAlaska Code,\u201d Congress exercised its power as a state government, and that Code, which is practically identical with that in Oregon and other code states, is to be considered and construed as if enacted by the Legislature of a state.\nThe Circuit Court of Appeals for the Ninth Circuit, in the case of Shoshone Min. Co. v. Rutter, 31 C. C. A. 223, 87 Fed. 801, said:\n\u201cThe proceedings required to be commenced, under the provisions of section 2326, in a court of competent jurisdiction, may be brought either in the state or national courts, at law or in equity, as the facts may warrant; but section 2326 does not confer any special jurisdiction on the state court.\u201d\nAnd to the same effect are the decisions in Blackburn v. Portland Co. (U. S. Supreme Court, January 8, 1900) 20 Sup. Ct. 222, 44 L. Ed. 276; Perego v. Dodge, 163 U. S. 160, 16 Sup. Ct. 971, 41 L. Ed. 113; Wolverton v. Nichols, 119 U. S. 485, 7 Sup. Ct. 289, 30 L. Ed. 474; Hammer v. Garfield Co., 130 U. S. 291, 9 Sup. Ct. 548, 32 L. Ed. 964. In Perego v. Dodge it is said of a suit under section 2326:\n\u201cThus, the determination of the right of possession between the parties is referred to a court of competent jurisdiction in aid of the land office, but the form of action is not provided for by the statute; and apparently an action at law or a suit in equity would lie, as either might be appropriate under the particular circumstances\u2014 an action to recover possession when the plaintiff is out of possession, and a suit to quiet title when he is in possession.\u201d Young v. Goldsteen (D. C.) 97 Fed. 303.\nThe District Court of Alaska is a court of general jurisdiction, and is competent to determine the issues necessarily involved in a suit instituted under section 2326. This court has ample power to pass upon all questions involved, whether at law or in equity. The suit, after it is once authorized under the provisions of section 2326, must be brought under the provisions of the Alaska Code for trying title to real estate in any other case \u2014 \u201can action to recover possession when plaintiff is out of possession, and a suit to quiet title when he is in possession.\u201d\nThe Code of Alaska provides both an action at law and a \u2022suit in equity, according to the facts, for determining the title or right of possession to real estate. The equitable title may be litigated by one in possession under section 475, supra. An action in the nature of ejectment may be maintained under section 301 of the Code of Civil Procedure, which reads as follows:\n\u201cAny person who lias a legal estate in real property, and a present right to the possession thereof, may recover such possession, with damages for withholding the same, by an action. Such action shall be commenced against the person in the actual possession of the property at the time, or if the property be not in the actual possession of anyone, then against the person acting as the owner thereof.\u201d\nThe proceeding to obtain a patent to a mining claim under section 2326 is judicial in character. The publication of the notice is process, and \u201csuits in court to settle the title are to be begun and conducted as declared in the act of Congress, which must be regarded as full and complete on that subject.\u201d Steves v. Carson (C. C.) 42 Fed. 821; Wight v. Dubois (C. C.) 21 Fed. 693. The Land Department will not be guided by judicial proceedings instituted outside of the sanction of section 2326 of the Revised Statutes, nor will a judgment rendered in any ordinary action like the one at bar, wholly disconnected from the patent proceedings, be considered as aiding that department. Lindley on Mines, 755; Nichols v. Becker, 11 Land Dec. Dept. Int. 8; Cain v. Addenda Min. Co., 24 Land Dec. Dept. Int. 18-20; Brandt v. Wheaton, 52 Cal. 430.\nIt seems conclusive, from the principles announced by the authorities, that the proceedings begun by the plaintiff in the land office in applying for a patent are exclusive; that a continuation of the proceeding is a plain, speedy, and adequate remedy for the wrongs complained of in the action at bar; that the defendants and interveners in this action will be entitled to a jury trial in that proceeding; that the District Court of Alaska, by analogy with the courts of code states, has jurisdiction to hear and determine adverse interests to mining claims in suits begun under section 2326, either at law or in equity; that, because of the remedy at law in the suit already instituted in the patent proceeding, this court is without jurisdiction in equity to hear the cause and render a valid judgment; and that the action ought to be dismissed, but without prejudice to any of the parties to maintain such other suits or proceedings as may be proper (Swan Land & Cattle Co. v. Frank, 148 U. S. 603, 13 Sup. Ct. 691, 37 L. Ed. 577), and it is so ordered.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "A. J. Balliett and A. M. Post, for plaintiff.",
+      "J. Lindley Green, for defendant Myers.",
+      "George K. French, for defendant W. T. Garratt."
+    ],
+    "corrections": "",
+    "head_matter": "ALLEN v. MYERS et al.\n(Third Division. Rampart.\nMarch 4, 1901.)\nNo. 2.\n1. Actiost \u2014 Law\u2014Remedy\nA suit in equity will not be sustained where a plain, adequate, and complete remedy may be had at law.\n2. Courts \u2014 Territories\u2014United States.\nThe District Court of Alaska is not, strictly speaking, a court of the United States, and does not come within the purview of the- acts of Congress which speak of \u201ccourts of the United States\u201d only.\n8: Territories \u2014 Congress\u2014Legislative Power.\nIn legislating for Alaska, Congress exercises the combined powers of the general and state government. The Alaska Code is to be considered and construed as if enacted by tbe Legislature of a state.\n4. Actions \u2014 Mines and Minerals.\nAn action at law to recover possession when plaintiff is out of possession, or a suit in equity to quiet title when he is in possession, is an appropriate remedy to determine the right of possession of a mining claim, as between claimants, under Rev. St. U S. \u00a7 2326 [U. S. Comp. St. 1901, p. 1430].\n5. Mines and Minerals \u2014 Patent\u2014Land Office.\nAfter the applicant for patent has once initiated the proceeding in the land office under sections 2325, 2326, Rev. St. [U. S. Comp. St. 1901, pp. 1429, 1430], an independent suit in equity to quiet title, not in any way connected with the patent proceeding, will be dismissed, because the plaintiff has in the patent proceeding a plain, adequate, and complete remedy at law.\nThis is a suit in equity to quiet complainant\u2019s title to a placer mining claim situated in the Little Minook Creek, Jr., mining district, Alaska. Complainant alleges that he located the claim on September 12 and November 7, 1899. In addition to the formal allegations necessary in a complaint to quiet title, the bill alleges that the plaintiff had complied with the mining laws in respect to locating, recording, and labor, and that he had instituted the preliminary steps to secure patent under sections 2325 and 2326 of the United States Revised Statutes of 1878.\nThe defendants and interveners deny all of plaintiff\u2019s equities, and allege prior location of the same ground, and a compliance with the mining laws in respect to staking, recording, and working. Upon the allegations of the complaint, supported by affidavits, an injunction was granted enjoining defendants from trespassing or mining upon the claim pending the litigation, but with a clause providing that the net product of the mine should be delivered to a trustee appointed by the court, to await the final disposition of the action.\nA. J. Balliett and A. M. Post, for plaintiff.\nJ. Lindley Green, for defendant Myers.\nGeorge K. French, for defendant W. T. Garratt."
+  },
+  "file_name": "0114-01",
+  "first_page_order": 138,
+  "last_page_order": 145
+}

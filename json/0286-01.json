@@ -1,0 +1,354 @@
+{
+  "id": 8505061,
+  "name": "PRICE et al. v. McINTOSH et al.",
+  "name_abbreviation": "Price v. McIntosh",
+  "decision_date": "1901-11-16",
+  "docket_number": "No. 242",
+  "first_page": "286",
+  "last_page": "302",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 286"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "17 Stat. 91",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "111 U. S. 356",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3507078
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/111/0356-01"
+      ]
+    },
+    {
+      "cite": "15 Morr. Min. R. 462",
+      "category": "reporters:specialty",
+      "reporter": "Morr. Min. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Pac. 66",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Utah, 159",
+      "category": "reporters:state",
+      "reporter": "Utah",
+      "case_ids": [
+        8871924
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/utah/3/0159-01"
+      ]
+    },
+    {
+      "cite": "15 Morr. Min. R. 324",
+      "category": "reporters:specialty",
+      "reporter": "Morr. Min. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Pac. 904",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "case_ids": [
+        8858209
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/idaho/2/0265-01"
+      ]
+    },
+    {
+      "cite": "17 Stat. 94",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 U. S. 636",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3493873
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "650"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/104/0636-01"
+      ]
+    },
+    {
+      "cite": "16 Stat. 217",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "14 Stat. 251",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 U. S. 453",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11294
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/98/0453-01"
+      ]
+    },
+    {
+      "cite": "13 Stat. 440",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Pac. 1105",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 L. Ed. 960",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Sup. Ct. 1052",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1250815
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0310-01"
+      ]
+    },
+    {
+      "cite": "21 Pac. 1040",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "case_ids": [
+        8859871
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/idaho/2/0456-01"
+      ]
+    },
+    {
+      "cite": "11 Fed. 666",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3779361
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/11/0666-01"
+      ]
+    },
+    {
+      "cite": "114 U. S. 576",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11295295
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/114/0576-01"
+      ]
+    },
+    {
+      "cite": "14 Stat. 85",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 Fed. 626",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6735895
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/42/0626-01"
+      ]
+    },
+    {
+      "cite": "23 Pac. 365",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 U. S. 196",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3518720
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/118/0196-01"
+      ]
+    },
+    {
+      "cite": "9 Morr. Min. Rep. 578",
+      "category": "reporters:specialty",
+      "reporter": "Morr. Min. Rep.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Sawy. 302",
+      "category": "reporters:federal",
+      "reporter": "Sawy.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "58 Fed. 106",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6731651
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/58/0106-01"
+      ]
+    },
+    {
+      "cite": "39 L. Ed. 1046",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1220442
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/158/0441-01"
+      ]
+    },
+    {
+      "cite": "158 U. S. 441",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1250809,
+        1220442
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0400-01",
+        "/us/158/0441-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 440",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Stat. 24",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Stat. 91",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1153,
+    "char_count": 29978,
+    "ocr_confidence": 0.657,
+    "pagerank": {
+      "raw": 6.201045849262137e-08,
+      "percentile": 0.3841445968471521
+    },
+    "sha256": "6cdd43d41780d9716a080f31568d39beb7fdf977fa8160c1706dc6cf8a6948d1",
+    "simhash": "1:e46f72840e1d6d72",
+    "word_count": 5303
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PRICE et al. v. McINTOSH et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge\n(after stating the facts as above). Under the admitted facts in this case these questions arise for determination by the court: (i) Was Thorolf Kjelsberg\u2019s placer location void because his notice of location called for a tract 1,320 feet long by 66o feet wide, while the stakes and monuments actually set by him at the corners of his claim inclosed a space described in the foregoing map 1,061 feet on the south line, 787 feet on the west line, 904 feet on the north line, and 777.7 feet on the east line? (2) Was it void as to the excess in width over 660 feet? (3) Was the junior location made by Magnus Kjelsberg valid or void for conflict with the senior location made by his brother? (4) Was the location of the Gould or California fraction, which is conceded to be within the exterior boundaries of both the prior Kjelsberg locations, valid or void, in view of the actual possession of the ground by the prior locators with their diggings at the time of its location ?\nThe mining laws of the United States were extended to Alaska by section 8 of \u201cAn act providing a civil government for Alaska,\u201d approved May 17, 1884, c. 53, 23 Stat. 24.\nThe first inquiry arising in this cause must be decided in the negative. The court has had occasion to examine into1 that question in the case of Steen v. The Wild Goose Mining Co., ante, 255, and held that a placer location would not be void for a discrepancy between the courses and distances mentioned in the notice and the stakes and monuments set by the locator to mark the boundaries of his claim; that, where there is such a conflict, the stakes and monuments must prevail, if they are sufficient to identify the claim, as they are in the case at bar. Section 682, Code Civ. Proc. p. 286; Carter\u2019s Alaska Code (Act June 6, 1900, c. 786, 31 Stat. 440) Bennett v. Harkrader, 158 U. S. 441, 15 Sup. Ct. 863, 39 L. Ed. 1046; Book v. Justice Min. Co. (C. C.) 58 Fed. 106; 1 Lindley on Mines, \u00a7\u00a7 381, 382. The adoption of any other rule would wholly defeat even the claims of the defendants in this action, for the notice of their location of the California fraction begins at their southeast corner stake, and carries their claim 1,320 feet south, whereas their stakes and monuments locate it 1,061 feet west from that point. Miners in the mountains, without surveying instruments, or even a compass, to guide them, or any pres'ent method of making accurate measurements, are not expected to get their courses or distances accurately. The court will pay more attention to their stakes and monuments. The purpose of both the notice and the monuments is to \u201cidentify the claim,\u201d and generally this can be done most certainly by the stakes set on the ground by the miner himself. Certainly, they must govern when there is a difference between them and the calls in the notice. The ICjelsberg claim is not void for that reason.\nThe second objection made to the Thorolf Kjelsberg location, which is really the point in this case, too, is much more serious, and seems never to have been clearly passed upon by the courts. Conceding this claim to be of the dimensions shown upon the diagram, is it void as to the excess in width over 660 feet, or may it be sustained, though wider than 660 feet, because as actually located and marked upon the ground it does not contain more than 20 acres of land?\nIt may save time to suggest at the beginning that a different rule is fixed by statute for determining the shape and area of lode and placer claims. Section 2320, Rev. St., being section 2 of the act of 1872 (Act May 10, 1872, c. 152, 17 Stat. 91 [U. S. Comp. St. 1901, p. 1424]), provides that a lode claim located after the 10th day of May, 1872, \u201cmay equal, but shall not exceed, one thousand five hundred feet in length along the vein or lode. * * * No claim shall extend more than three hundred feet on each side of the middle of the vein at the surface, nor shall any claim be limited by any mining regulation to less than twenty-five feet on each side of the middle of the vein at the surface. * * * The .end-lines of each claim shall be parallel to each other.\u201d\n\u25a0 Here is a specific statittory limitation upon the maximum length of a lode claim, and a specific limitation upon both the maximum and minimum width, with a specific direction that the end lines shall be parallel to each other. And yet in the Eureka Case in the United States Circuit Court of Nevada, decided by Judge Field, and concurred in by Judge Sawyer, it is said that \u201cthe provision of the statute of 1872, requiring the lines of each claim to be parallel to each other, is merely directory, and no consequence is attached to a \u2022deviation from its direction.\u201d Eureka M. Co. v. Richmond M. Co., 4 Sawy. 302, Fed. Cas. No. 4,548, 9 Morr. Min. Rep. 578. Nor is it necessary that the side lines of a lode claim should be parallel, or that the location should be in the form of a parallelogram. A lode claim may be in any form bounded by lines, not exceeding the maximum length and width, which enables the miner to follow the vein of ore. A horseshoe shape has passed the Supreme Court of the United States without criticism, a wedge shape has been sustained by the Supreme Court of California, and a triangle by the United States Circuit Court in Montana. Iron Silver Co. v. Elgin Co., 118 U. S. 196, 6 Sup. Ct. 1177, 30 L. Ed. 98; Doe v. Sanger (Cal.) 23 Pac. 365; Montana v. Clark (C. C.) 42 Fed. 626.\nAttention is called to the fact that the lode law was first enacted by Congress in 1866 (Act July 4, 1866, c. 166, 14 Stat. 85) while the first placer law was not passed until 1870 (Act July 9, 1870, c. 235, i\u00f3 Stat. 217). They are different acts, and largely independent of each other. The provisions necessary to a determination of this case are entirely separate and distinct from the lode law, and the decisions applicable to lode claims may or not apply to placer claims. None of the provisions fixing the size and extent of lode claims apply to placer claims^\nThe courts have frequently decided that the location of more ground than is allowed by law is void only as to the excess, and that to that extent the location is void. Richmond M. Co. v. Rose, 114 U. S. 576, 5 Sup. Ct. 1055, 29 L. Ed. 273; Jupiter M. Co. v. Bodie M. Co. (C. C.) 11 Fed. 666; Stemwinder M. Co. v. Emma M. Co. (Idaho) 21 Pac. 1040, affirmed on appeal to Supreme Court of the United States, 13 Sup. Ct. 1052, 37 L. Ed. 960; Rose v. Richmond M. Co. (Nev.) 27 Pac. 1105. All the authorities cited by the defendant to sustain this point are those relating to lode, and not to placer, claims. The leading case of Richmond v. Rose, 114 U. S. 576, 5 Sup. Ct. 1055, 29 L. Ed. 273, was decided upon the early lode act of 1866, while the others above cited, are either in construction of that or later lode acts. They are, then, in point only so far as principles are to be considered. Still the general principle may be considered as settled by these and other decisions that a mining location,, whether lode or placer, containing more ground than allowed by the statute, must be held void as to the excess. To the extent allowed by law it will be sustained.\nIs there an excess in area in this case? Can there be an. excess in a placer mining claim, however wide or long it may be, unless the area exceeds 20 acres ? To answer these-questions involves a brief examination of the United States mining laws, and the conditions which preceded their enactment by Congress. The necessary information upon these matters, however, is authoritatively stated in the decision of the Supreme Court of the United States and in the statutes themselves.\nFrom the discovery of gold in California to the passage of the act providing for a District and Circuit Court for the District of Nevada, approved February 27, 1865 (13 Stat. 440, c. 64), there was no national legislation upon the subject of the western gold-bearing mineral lands. The act of February 27, 1865, only recognized the right of litigants to maintain suits for the possession of such lands, without regard to the paramount ownership of the United States. From the beginning of mining in California, however, local rules and regulations adopted by the miners in district meetings had been recognized as the common law of the diggings. In Jennison v. Kirk, 98 U. S. 453, 25 L. Ed. 240, Judge Field continues this historical review:\n\u201cThese regulations and customs were appealed to in controversies in the state courts, and received their sanction; and properties to the value of many millions rested upon them. For eighteen years \u2014from 1848 to 1866 \u2014 the regulations and customs of miners, as enforced and molded hy the courts and sanctioned hy the legislation of the state, constituted the law governing property in mines and in water on the public mineral lands.\u201d\nThe act of Congress of July 26, 1866 (14 Stat. 251, c. 262), known as the \u201cLode and Water Law,\u201d was the first of the great mining statutes. It gave no recognition, however, to placer deposits, but was confined exclusively to lode and quartz mines. As the real wealth of California had, up to that time, been extracted from her placer deposits, it was not long before Congress passed the act of July 9, 1870. Section 12 of this act first fixed a statutory limit upon the quantity of land which might be embraced in a placer claim in the following language: \u201cThat no location of a placer claim, hereafter made, shall exceed one hundred and sixty acres for any one person or association of persons, which location shall conform to the United States surveys.\u201d 16 Stat. 217, c. 235. See section 2330, Rev. St. U. S. 1878 [U. S. Comp. St. 1901, p. 1432]. Again we quote from Judge Field, in Smelting Co. v. Kemp:\n\u201cPreviously to the act of July 9, 1870, 16 Stat. 217, Congress imposed no limitation to the area which might be included in the location of a placer claim. This, as well as every other thing relating to the acquisition and continued possession of a mining claim, was determined by rules and regulations established by miners themselves. * * * Placer claims first became the subject of regulation by the mining act of July 9, 1870, which provided that patents for them might be issued under like circumstances and conditions as for vein or lode claims, and that persons having contiguous claims of any size might make joint entry thereof. But it also provided that no location of a placer claim thereafter made should exceed one hundred and sixty acres for one person or association of persons.\u201d Smelting Co. v. Kemp, 104 U. S. 636, 650, 26 L. Ed. 875.\nPrior, then, to 1870, there was no limit to the area of placer mines, nor any provision fixing their form, except such as was imposed by the miners by their local rules and regulations. The act of 1870 limited the area to 160 acres in each location, and also provided that each \u201clocation shall conform to the United States surveys.\u201d This latter provision is important in the consideration of the question at bar, for it provided a new and unyielding rule in fixing both the area and form of placer claims. They could not exceed 160 acres in extent, as theretofore they might, and must conform tO' the rectangular system of the public surveys. The law of 1870, however, was so unsatisfactory, and so widely at variance with the methods theretofore prevailing in locating placers, that Congress was speedily prevailed upon to change the law in these respects.\nThe act of May 10, 1872, was then passed, very largely to relieve the objections raised to the act of 1870 in requiring each placer location to \u201cconform to the United States surveys.\u201d The act of 1872 re-enacted the old rule. It again gave freedom to the miner in locating his mine according as the ground was valuable for mineral or not. To be more accurate, it recognized two rules, which will be more apparent upon quoting the law. Section 10 of the act of May 10, 1872 (17 Stat. 94, c. 152), is now section 2331 of the Revised Statutes of the United States of 1878 [U. S. Comp. St. 1901, p. 1432], and that clause in question reads:\n\u201cSee. 2331. Where placer-claims are upon surveyed lands, and conform to legal subdivisions, no further survey or plat shall be required, and all placer-mining claims located after the tenth day of May, eighteen hundred and seventy-two, shall conform as near as practicable with the United States system of public-land surveys, and the rectangular subdivisions of such surveys, and no such location, shall include more than twenty acres for each individual claimant; but where placer-claims cannot be conformed to legal subdivisions, survey and plat shall be made as on unsurveyed lands.\u201d\nTwo rules are thus recognized in locating and fixing the exterior boundaries of placer claims under the act of 1872. The first one provides that all claims located after May 10, 1872, \u201cshall conform as near as practicable with the United States system of public land surveys, and the rectangular system of such surveys.\u201d The second \u2014 and the one always in force until the act of 1870 was passed \u2014 and now given legislative recognition, is in this language: \u201cBut where placer claims cannot be conformed to legal subdivisions, survey and plat shall be made as on unsurveyed lands.\u201d These two rules for determining the form and extent of placers, together with the provision reducing the area to 20 acres in each location, continue to be the law to this day, and must determine the controversy at bar.\nThe court will take judicial notice that the \u201cpublic land surveys and the rectangular subdivisions of such surveys\u201d have not been extended to this part of Alaska, and do not embrace the claim in question, but that all the public domain within this division of the court is unsurveyed. It follows that all placer claims within this division may be located, surveyed, platted, and patented without regard to the public surveys, and need not conform thereto in any particular. When the surveys are extended over this region, such claims will be noted upon the map of such surveys as lots in the usual manner.\nThe only limitation, then, imposed by statute upon the location of a placer mining claim upon the unsurveyed public land in Alaska is that it shall not include an area of more than 20 acres. It need not conform to the public surveys. No limit is fixed by statute to its length, breadth, or form. Section 2320, Rev. St., fixing the maximum length and width of lode claims, does not apply; and unless some rule, regulation, or custom of miners within the district limits the locator, it seems as if he may locate his placer claim to follow the pay streak, in any form he chooses, but not to exceed 20 acres in extent.\nCounsel for defendant seem to have recognized this, for they pleaded and offered proof to support both a rule and a custom of that kind. The rule proved was adopted by the miners in the Cape Nome mining district on October 15, 1898, and is in the following language: \u201c2nd! A motion by Eric O. Eindbloom, and seconded by John Bryndeson, that placer claims shall be located 1320 (thirteen hundred and twenty) feet by 660 (six hundred and sixty) feet. Carried.\u201d They also proved by the deputy recorder of the district that nearly 15,000 mining locations had .been filed in his office, and that more than 95 per cent, thereof described the claim as 1,320 by 660 feet square.\nConceding both the rule and custom to have been established, what effect shall be given to them? Literally, they both say that placer claims shall be 1,320x660 feet square; no more, no less. It cannot be pretended that a maximum width alone is established by either, nor is it attempted to be shown that any forfeiture clause or custom is in force in such cases. Neither the rule nor the custom makes any concessions to fractions, such as all parties in this cause claim, and a literal adherence to the rule will render each claim in this case void. To enforce either the rule or custom literally would require a miner who desired to locate one acre of placer deposit fraudulently to include nineteen acres of agricultural or nonmineral land.Jn his location. Under such a condition no prospector would be safe to locate a mine, except when accompanied by a surveyor, or having with him some means of accurately measuring the ground. It cannot be seriously argued that either a rule or a custom of that kind would be reasonable, or ought to be upheld by the courts. If neither the rule nor the custom can be maintained literally, then what effect shall be given to them ? Counsel for defendant answers: This effect \u2014 that no claim shall be longer than 1,320 feet nor wider than 660 feet. Two objections appear to this answer. The first is that neither the rule nor custom is to that effect; and, second, the court ought not to infer a construction which does not fairly exist for the purpose of forfeiting the prior claim of another. Jupiter M. Co. v. Bodie M. Co. (C. C.) 11 Fed. 666.\nWhy not determine the construction to be given to both the rule and custom by the construction given to a' similar rule in the lode law of 1872? Neither the rule nor the custom relied on by defendant does more than to fix an ideal maximum containing 20 acres. The statutory provisions relating to the length and width of lode claims in section 2320, Rev. St. U. S-, do identically that, yet in the celebrated Eureka opinion, written by Judge Field, and concurred in by Judge Sawyer, the United States Circuit Court of Nevada declared: \u201cIn the second place, the provision of the statute of 1872, requiring the lines of each claim to be parallel to each other, is merely directory, and no consequence is attached to a deviation from its direction.\u201d By a parity of reasoning it seems fair to conclude that the rule and custom in question are each only directory, and not mandatory, and no consequence can be attached to a deviation from either of them. Eureka M. Co. v. Richmond M. Co., 4 Sawy. 302, Fed. Cas. No. 4,548, 9 Morr. Min. Rep. 578.\nMore important questions, however, are involved: Can \u25a0a placer mining location be limited by a miners\u2019 rule, regulation, or custom either, first, to an area less than 20 acres, or, second, in form, upon the unsurveyed public land?\nWhile the construction given to the mining laws by the Department of the Interior may not be binding upon. the. court, a contemporaneous and long accepted construction by that department is entitled to great consideration. And especially is this true when it appears that for many years the titles through all placer patents have vested under that construction, which has not once been questioned by the courts.\nThe sixty-first rule or regulation promulgated by that department under its authority to dispose of the mining lands of the United States concludes with this sentence: \u201cAnd no local laws or mining regulations can restrict a placer location to less than twenty acres, although the locator is not compelled to take so much.\u201d Regulations of 1891, approved by Secretary Noble, reissued 1894, approved by Secretary Hoke Smith; 2 Lindley on Mines, p. 1200; Barringer and Adams, pp. 259, 260.\nWithout seeking for decisions for support, it must be conceded that every miner has the statutory right to locate 20 acres for placer deposits, nor is he required or permitted thus to acquire title to agricultural or nonmineral land. If, then,, he be obliged by miners\u2019 rule or regulation to take a tract in no case longer than 1,320 feet nor wider than 660 feet, he may be even limited to one acre. Suppose the mining-ground is in a narrow valley only 100 feet wide, such a construction would allow him only a strip 100 feet wide by 1,320-feet long, or 3 acres, whereas the law allows him 20. These questions have repeatedly been determined by the Land Office and the Interior Department.\nApplication was made to this department to enter the-Bear river extension placer claim in sections 12, 13, and 14,. Tp. 15 N., R. 9 E., California, along the bed of Bear river 12,000 feet. Upon appeal to Secretary Teller, he said:\n\u201cIt was the intention of the mining laws, generally, to permit persons to take a certain quantity of land fit for mining, and not to compel them to take such a quantity irrespective of its fitness for mining. The act of July 9, 1871, whicli expressly required placer locations to-conform to the lines of the public surveys, was unreasonable, a hardship, and in contravention of the established customs of the mining region. Therefore it was modified by the act of May 10, 1872, so as to provide for exceptional cases where reason and common sense required a different regulation. Such an exceptional case, in my judgment, is now before me, where the entire placer deposit in a canon within certain limits is claimed, and where the adjoining land on either side is totally unfit for mining or agriculture.\u201d In re William Rablin, 2 Land Dec. Dept. Int. 764.\nSecretary Teller\u2019s decision was approved in later decisions by that department (In re Pearsall and Freeman, 6 Land Dec. Dept. Int. 227; Esperance Mining Claim, 10 Copp\u2019s Land Owner, 338), and in approving it Lindley says:\n\u201cThere can be no question but that this ruling is in harmony with the customs of miners in California. * * Evidently, there was some reason for the modification of the original placer act in this respect, and there can be no doubt that Secretary Teller states the \u2018old law, the mischief, and the remedy\u2019 correctly.\u201d 1 Lindley on Mines, p. 448.\nAt the end of this section Lindley lays down what is undoubtedly the correct rule in this forceful language:\n\u201cLocations upon unsurveyed lands may be made in any form, so-long as the statutory area is not exceeded.\u201d\nBarringer and Adams reach the same conclusion, and say:\n\u201cA placer location may be in any shape, but should conform to legal subdivisions when the land has been surveyed.\u201d Page 260.\nA single case only upholds a different rule. The Idaho-court in the case of Rosenthal v. Ives says:\n\u201cWas it error to find the existence of a mining custom at the date of the Ives location, limiting all placer claims in that locality to-eighty rods in length, and will this finding support the conclusions of law based thereon? Rules and customs of miners, reasonable in themselves, and not in conflict with any higher law, have long been -recognized and sanctioned by legislative enactments and judicial \u25a0decisions. That such rules may still be adopted and enforced as a part of the law of this country is too well settled to admit of argument. We cannot see that the custom in question in any way con--fliets either with the acts of Congress or the laws of the territory, \"but, on the contrary, think the custom a reasonable one, and entirely in harmony with the spirit of the laws.\u201d Rosenthal v. Ives (Idaho) 12 Pac. 904, 15 Morr. Min. R. 324.\nNor does the Idaho court cite a single authority to support its contention in this respect. Its conclusion is in direct opposition to the construction given for many years by the Land Department, and approved by every other authority having occasion to pass upon it. To gain that advantage to the miner, Congress passed the amendment of 1872, at the same time reducing the area from 160 to 20 acres, and the advantage ought not to be surrendered by construction. It is a fair inference, too, from the language used in Rosenthal v. Ives (1) that in the opinion of that court a rule or custom of miners was necessary to limit the length of placer claims to 80 rods, or 1,320 feet; and (2) that without such .a rule or custom it might be of any length or width, providing- only that the claim did not exceed 20 acres in area. In the case at bar the court finds that the rule and customs pleaded do not have that effect, and Rosenthal v. Ives is, by reason of that difference, an authority against the defendant.\nUntil corrected by a superior tribunal, or convinced that It is in error, this court will maintain that a miner may locate 20 acres, or less, if he desires, of placer mining ground in any form he chooses, excluding known nonmineral land; that no miners\u2019 rule, regulation, or custom can limit him in the area or form of his claim, nor in its width or length; that any such rule, regulation, or custom is void for conflict with both the spirit and letter of the placer mining law.\nIt follows, in my judgment, that the location of Thorolf Kjelsberg was not void in any part, for, as staked and located, it did not contain more than 20 acres. The evidence does not convince the court that he and Grenier, his partner,, ever abandoned that part, at least, in the Good Kuck location,, for they were so far recognized as its owners that they sold it and received the consideration therefor.\nThe last query in this case \u2014 whether or not the location of the California fraction upon ground actually and notoriously then in possession of an adverse claimant is valid or void \u2014 -is fully answered by the language of the Supreme Court of Utah as follows:\n\u201cIt is conceded by the respondents, and it is doubtless true, that, as'between two locators, and as affecting their rights only, one cannot locate ground of which the other is in actual possession under claim or color of right, because such ground would not be vacant and unoccupied. This would affect the appellant\u2019s right to recover for the-conflict area in dispute, it being an undisputed fact that at the very time when the Virginia was located by him, the respondents, the locators of the Nabob, were in actual possession, sinking their incline shaft, and occupying a shanty on the ground.\u201d Eilers v. Boatman, 3 Utah, 159, 2 Pac. 66, 15 Morr. Min. R. 462.\nUpon appeal to the Supreme Court of the United States,, this case was distinctly affirmed, because it was \u201cright on the1 facts.\u201d Eilers v. Boatman, 111 U. S. 356, 4 Sup. Ct. 432, 28 L. Ed. 454. Under the principle thus approved by the Supreme Court of the United States, a junior location of an excess over the maximum allowed by law ought not to be sustained, unless it is taken from that part of the claim not actually occupied by the diggings or property of the senior locator.\nThe location of the California fraction was and is void,, because there was no excess or fraction upon which to locate.. It was void for the further reason that at the time of its attempted location the strip or fraction was in the actual occupation of Thorolf Kjelsberg and his partner, and was then actually being worked and mined. Findings and decision will be in favor of the plaintiffs.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge"
+      }
+    ],
+    "attorneys": [
+      "Chas. S. Johnson, P. C. Sullivan, A. J. Daly, Ira D. Orton, and Alfred Fink, for plaintiffs.",
+      "Thompson, Murane & Thompson, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "PRICE et al. v. McINTOSH et al.\n(Second Division. Nome.\nNovember 16, 1901.)\nNo. 242.\n1. Mines and Minerals \u2014 Location Notice \u2014 Monuments\u2014Stakes.\nA placer claim is not void because there is a discrepancy between the courses and distances mentioned and called for in the location notice and the stakes and monuments set by the locator to mark the boundaries of his claim. Where there is such a conflict, the stakes and monuments must prevail, if they are sufficient to identify the claim, as they are in the case at bar.\n2. Same \u2014 Public Lands \u2014 Surveys.\nA mining claim located on surveyed lands \u201cshall conform as nearly as practicable with the United States system of public-land surveys, and the rectangular system of such surveys\u201d (Act May 10, 1872, c. 152, 17 Stat. 91). On unsurveyed lands they may be located, surveyed, platted, and patented without regard to the public surveys, and need not conform thereto in any particular.\nS. Same \u2014 Limitations upon Location.\nThe only limitation placed by law upon a placer mining claim located upon the unsurveyed public domain in Alaska is that it shall not exceed 20 acres in area.\n4. Same \u2014 Limitations upon Area \u2014 Miners\u2019 Rules.\nA miners\u2019 rule, custom, or regulation arbitrarily fixing the size of all placer claims at 1,320 feet long by 660 feet wide Is void. A miners\u2019 rule, custom, or regulation cannot limit a placer mining claim to less tlian 20 acres; nor fix its unvarying form upon the unsurveyed public domain; and such a rule, custom, or regulation is void.\n'6. Mining Location \u2014 Excess AREA \u2014 Relocation.\nAs between two locators, and as affecting their rights only, one cannot locate ground of which the other is in actual possession under claim or color of right, because such ground would not be vacant and unappropriated. Where a junior locator attempts to relocate the excess in area in a placer claim, he must locate some portion of the excessive claim not actually occupied by-the diggings or property of the senior locator.\nThis is a suit in ejectment to recover possession of a portion of a mining claim which is known to all parties to this action, and will be hereafter referred to as the \u201cCalifornia Fraction.\u201d Plaintiffs allege two sources of title. The first is derived through a placer mining location made on May 29, 1899, by one Thorolf Kjelsberg; and the second through a placer mining location upon the same ground made on August 18, 1900, by Magnus Kjelsberg. The defendants claim title through a location of the California fraction by one E. G. Gould, made on August 22, 1900. By stipulation in ojien court, a jury trial was waived, and the cause submitted to the decision of the court upon the merits.\nIt is not denied that each of the Kjelsbergs made his location at the dates claimed. It is admitted that their southeast and southwest corner stakes are identical in place with those of the California fraction, and it is admitted that the California fraction was located, and intended to be located, within the Kjelsbergs\u2019 claims, with the intent to locate and claim the excess in width therein over 660 feet. The following diagram shows the respective locations of the parties, and gives, at least approximately, the admitted corners and distances of their claims:\nQ'o.gr\u00bbaT\u00a3i peapectiV^ oj* arjol (Jffc\u00edgrKJd ierg\u2019di (\u00bftaMpd, aAo CaEiJoPrNo.^ hervor) if pa chote\u00f3.\nChas. S. Johnson, P. C. Sullivan, A. J. Daly, Ira D. Orton, and Alfred Fink, for plaintiffs.\nThompson, Murane & Thompson, for defendants."
+  },
+  "file_name": "0286-01",
+  "first_page_order": 310,
+  "last_page_order": 326
+}

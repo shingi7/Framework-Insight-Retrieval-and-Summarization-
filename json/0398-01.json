@@ -1,0 +1,66 @@
+{
+  "id": 8505446,
+  "name": "In re SHARICK, Bankrupt",
+  "name_abbreviation": "In re Sharick",
+  "decision_date": "1901-12-30",
+  "docket_number": "No. 65a",
+  "first_page": "398",
+  "last_page": "402",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 398"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 430,
+    "char_count": 9216,
+    "ocr_confidence": 0.652,
+    "pagerank": {
+      "raw": 7.317852702137001e-08,
+      "percentile": 0.43822400456551713
+    },
+    "sha256": "c3dcce00805453ef4da6a4e5a08b91b54c4db7add1aa93b2948ee1364ca884a0",
+    "simhash": "1:f8e0d1304c86f334",
+    "word_count": 1606
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re SHARICK, Bankrupt."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nIt will be observed, as appears from the files, that three days after this motion was filed the petition for review was filed with the referee in bankruptcy, and also in the District Court, thereby abandoning the so-called appeal.\nRule No. 27 of the Supreme Court (18 Sup. Ct. viii) touching the subject of bankruptcy, reads as follows:\n\u201cWhen a bankrupt creditor or other person shall desire a review by the judge of any order made by the referee, he shall file with the referee his petition therefor, setting out the error complained of; and the referee shall forthwith certify to the judge the question presented, a summary of the evidence relating thereto, and the finding and order of the referee thereon.\u201d\nThe notice of appeal that was filed August 3, 1901, refers to a proceeding not authorized by the law or any order or rule of the Supreme Court, and will, therefore, without further consideration, be dismissed on motion of the claimants heretofore referred to, which was filed in this court on the 14th day of December, 1901, and it is so ordered.\nThe rule of the Supreme Court above quoted fixes no time within which the petition for review shall be presented or filed with the referee, but the language of the rule as to the duty of the referee when such petition is filed with him is very imperative, and requires that the referee \u201cshall forthwith certify to the judge,\u201d etc., the question presented. The word \u201cforthwith\u201d ordinarily means \u201cimmediately,\u201d \u201cwithout delay,\u201d \u201cdirectly.\u201d Generally, in law, the term is understood to mean \u201cas soon as the thing required may be done by reasonable exertion confined to that object,\u201d which is another way of saying that it must be done within a reasonable time. Accepting this definition, we conclude that the work should be done speedily, pursued with reasonable industry, and concluded within such time as might be ordinarily deemed reasonable for the performance of the work in hand.\nThe rule of the Supreme Court, however, fixes no time within which proceedings for review shall be taken. We are left, therefore, without any specific guide as to the question of time, and must determine the same by the general character of the act of Congress and the rules of proceeding by the Supreme Court. Where no rule is definitely fixed requiring an act to be done within a given time, it is deemed that it shall be done within a reasonable time. What is to be deemed a reasonable time depends largely, in a case of this kind, upon the general trend of the bankrupt act. The act itself is intended as a speedy remedy, one that shall be rapidly and promptly enforced, and shall not be unreasonably delayed. \u201cA reasonable time,\u201d says Mr. Rapalje, \u201cmust be determined by the circumstances of each particular case.\u201d What might be a reasonable time under one condition of circumstances would not be reasonable .under other circumstances. But certainly, in following the general tenor of the act, we might reasonably conclude that a review of \u2022'he decision or order of the referee should be pursued as promptly as remedies by appeal from this court to higher courts.\nRooking, then, to the bankrupt law for some guidance in this behalf, we find that:\n\u201cThe Supreme Court of the United States, the Circuit Courts of Appeals of the United States, and the Supreme Courts of the states and territories, in vacation, in chambers, and during their respective terms, as now or as they may be hereafter held, are hereby invested with' appellate jurisdiction of controversies arising in bankrupt proceedings from the courts of bankruptcy from which they have appellate jurisdiction in other causes.\u201d\nAppeals, as in equity cases, may be taken in bankruptcy proceedings from the court of bankruptcy of the Circuit Court of Appeals of the United States and of the Supreme Court of the territories in the following cases, to wit: (i) From a judgment adjudging or refusing to adjudge the defendant a bankrupt; (2) from a judgment granting or denying a discharge; (3) from a judgment allowing or rejecting a debt or claim of $500 or over. Such appeals shall be taken within 10 days after the judgment appealed \u2022 from has been rendered, and may be had and determined by the appellate' court in term or vacation, as the case may be.\nWhere the act provides that appeals from these courts to the Circuit Court of Appeals of the United States shall be taken within 10 days on claims amounting to $500 or over, it would seem that certainly -no longer time should be allowed for filing a petition for review of a like question determined by a referee and bringing the same before the District Court. To file such a petition six months or more after the determination by the referee seems wholly out of harmony with the general intent and purpose -of the bankrupt act, which intent and purpose unquestionably is that all such matters should be speedily determined. It seems to me, therefore, that the motion of the claimants on the last ground stated, if not on the others, should be sustained, and it is so ordered.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Winn & Shackleford, for creditors.",
+      "Maloney & Cobb, for bankrupt."
+    ],
+    "corrections": "",
+    "head_matter": "In re SHARICK, Bankrupt.\n(First Division. Juneau.\nDecember 30, 1901.)\nNo. 65a.\n1. Bankruptcy \u2014 Appeal and Error \u2014 Review.\nA review of an order of a referee in bankruptcy by the District Court is to be obtained by a petition, and not by notice of appeal. No time is fixed by rule or otherwise within which such petition shall be filed, but it must be within a reasonable time. Ten days is a reasonable time, and a petition filed six months after the date of the order complained of dismissed.\nIt appears that on June 4, 1901, C. D. Rogers, as referee, allowed the claim of George W. Garside and William Winn in the amount of $880, as a preferred claim against the estate of the said Sharick, including a further sum for costs ; a part of the order being as follows: \u201cAnd it is further ordered, adjudged, and decreed said claim is secured by a mortgage upon all the bankrupt\u2019s estate in custody of the trustee herein, and situated in the store known as the Alaska Jewelry Company\u2019s store, in the city of Juneau, Alaska; that said claim be first paid out of any assets of said store, or out of the proceeds of the same after sale by the trustee, subject to the priorities provided for by section 64 of the bankrupt act [U. S. Comp. St. 1901, p. 3447].\u201d Thereafter, and on the 3d day of August, 1901, a notice was filed in said referee\u2019s court by Referee Rogers, which said notice bears the signature of Maloney & Cobb and John B. Denny as attorneys for appellants, and purports to be a notice of appeal from the decision of the said C. D. Rogers, referee in bankruptcy, allowing the claim of the said Garside and Winn against the bankrupt\u2019s estate aforesaid in the sum of $800, and the costs before referred to. The notice further alleges that the appeal is taken on questions of both law and fact, is styled \u201cNotice of Appeal in Bankruptcy,\u201d and is addressed to C. D. Rogers as referee in bankruptcy, and to Winn & Shackleford, attorneys for claimants and respondents Garside and Winn. The notice itself is without date.\nThereafter, on the 17th day of December, 1901, the same attorneys whose names are attached to the said notice of appeal present their petition for a review of the decision and order of the said referee in bankruptcy approving and allowing the claim of the said Garside'and Winn as a preferred claim, which seems to be the same order and judgment of the referee attempted to be appealed from under the notice of appeal. The referee, upon said petition being filed with him on the said 17th day of December, 1901, on the same day certified the whole matter to this court, and the certificate and petition for review are dated the 17th day of December, 1901.\nOn December 19, 1901, the files in this case show that a motion was filed by Winn & Shackleford to dismiss the petition for review for various reasons assigned and stated in said motion; among others being the following, which are the fourth and fifth grounds of said motion:\n\u201cFourth. For the reason that said petition and certificate have been sued out since the time limited by law has expired for suing out said review. Fifth. For the reason that it appears on the face of the record herein that said petition and certificate have been sued out after an unreasonable time therefor had expired since the entry of the order complained of, and for the further reason that it appears on the face of the proceedings herein that the petitioners herein have been guilty of laches in suing out their petition.\u201d\nThis motion is signed \u201cWinn & Shackleford, Attorneys for Claimants.\u201d\nOn the 14th day of December, 1901, the same attorneys, Winn & Shackleford, acting on behalf of the claimants, Gar-side and Winn, moved the court to dismiss the appeal, which said motion is in the following words:\n\u201cCome now, George W. Garside and William Winn, by their attorneys Winn & Shackleford, and move this court for an order dismissing the appeal herein of I. J. Sharick and others from a certain order allowing to George W. Garside and William Winn a preferred claim. That this motion is based upon the records and flies of the case.\u201d\nWinn & Shackleford, for creditors.\nMaloney & Cobb, for bankrupt."
+  },
+  "file_name": "0398-01",
+  "first_page_order": 422,
+  "last_page_order": 426
+}

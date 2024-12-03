@@ -1,0 +1,66 @@
+{
+  "id": 8505735,
+  "name": "McMORRY v. RYAN",
+  "name_abbreviation": "McMorry v. Ryan",
+  "decision_date": "1902-03-22",
+  "docket_number": "No. 273",
+  "first_page": "516",
+  "last_page": "517",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 516"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 197,
+    "char_count": 2977,
+    "ocr_confidence": 0.677,
+    "pagerank": {
+      "raw": 1.2661694597839642e-07,
+      "percentile": 0.6136469732405249
+    },
+    "sha256": "a5a5863e185f5609c31bf8c04413a0f45b6ea97d6b657aaaebc0af490fcb0364",
+    "simhash": "1:b71f652c5b0d90a7",
+    "word_count": 541
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McMORRY v. RYAN."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThis cause comes before the court upon defendant\u2019s motion for a new trial, it having been decided by the jury in favor of the plaintiff.\nWhere there is a conflict of testimony, the court ought not to set the verdict of a jury aside and grant a new trial, even though the judge would have reached a different verdict upon the same evidence. Where, however, the jury render a verdict upon evidence insufficient to justify it, or in violation of the law, it is the duty of the judge to set it aside and grant a new trial. The motion in this action is based upon the insufficiency of the evidence to justify the verdict, and that it is against the law.\nIt was not disputed by any evidence that Linden located the lot in question and entered into its occupancy and possession in 1899, erected some kind of a house, a fence, and a sidewalk, and then sold it to Ryan for $1,000. Neither is it denied that Ryan left it in charge of an agent and went outside in the late fall of 1899 to make arrangements, which he testifies he perfected, to build a large and substantial building thereon. The only conflict of testimony is over the character and kind of structure on the premises during the fall, winter, and spring of 1899-1900. This conflict is immaterial, for the \u2022court instructed the jury, in effect, that Ryan could maintain' the former occupancy and possession gained by Linden, by his agent, during the winter, if he went out intending to return with material and build on the lot, and the testimony to that effect was undisputed.\nThe court will not approve verdicts which will place every land title within its jurisdiction in jeopardy, and at the mercy of the swaying and uncertain will of a jury. The law intends that such titles shall be fixed and secure. The jury, it is true\", is empowered to hear, and, from the evidence, and the law as given to them by the court, to award the right of possession; but there must be some adherence to the rules of law and evidence, and, if not, the verdict must be set aside.\nThe jury in this case clearly disregarded both the law and the evidence in rendering its verdict, not in immaterial or disputed matters of evidence only, but in respect to those which were admitted and most material to the issue. For these reasons, the verdict will be set aside and a new trial awarded.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Thompson, Murane & Thompson, for plaintiff.",
+      "V. T. Hoggatt, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "McMORRY v. RYAN.\n(Second Division. Nome.\nMarch 22, 1902.)\nNo. 273.\n1. New Trial \u2014 \u2019Evidence\u2014Verdict.\nWhen there is a conflict of testimony, the court ought not to set the verdict of a jury aside and grant a new trial, even though the judge would have reached a different verdict upon the same evidence. When, however, the jury renders a verdict upon evidence insufficient to justify it, or in violation of the law, it is the duty of the judge to set it aside and grant a new trial.\nMotion to set aside the verdict of a jury and for a new trial.\nGranted.\nThompson, Murane & Thompson, for plaintiff.\nV. T. Hoggatt, for defendant."
+  },
+  "file_name": "0516-01",
+  "first_page_order": 540,
+  "last_page_order": 541
+}

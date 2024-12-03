@@ -1,0 +1,104 @@
+{
+  "id": 8504423,
+  "name": "SAWYER v. VAN HOOK",
+  "name_abbreviation": "Sawyer v. Van Hook",
+  "decision_date": "1900-10-20",
+  "docket_number": "No. 10",
+  "first_page": "108",
+  "last_page": "111",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 108"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "99 U. S. 20",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3373061
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/99/0020-01"
+      ]
+    },
+    {
+      "cite": "25 L. Ed. 421",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3373225
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/99/0610-01"
+      ]
+    },
+    {
+      "cite": "98 U. S. 610",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Stat. 1095",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 379,
+    "char_count": 6686,
+    "ocr_confidence": 0.654,
+    "pagerank": {
+      "raw": 4.7492960360752035e-08,
+      "percentile": 0.2987158710797425
+    },
+    "sha256": "2119049ca07aa3ddec16c4d08085caad0d93bf32755e2a6997d95c4c79698497",
+    "simhash": "1:70b582609f497602",
+    "word_count": 1167
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "SAWYER v. VAN HOOK."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe laws of the United States relating to town sites on the public domain are extended to Alaska by the eleventh section of \u201cAn act to repeal timber culture laws and for other purposes,\u201d approved March 3, 1891. 26 Stat. 1095, c. 561 [U. S. Comp. St. 1901, p. 1467]. It is there provided:\n\u201cThat, until otherwise ordered by Congress, lands in Alaska maybe entered for townsite purposes, for the several use and benefit of the occupants of such townsites, by such trustee or trustees as may be named by the Secretary of the Interior for that purpose, sucl-entries to be made under the provisions of section twenty-three hundred and eighty-seven of the Revised Statutes as near as may be.\u201d\nSection 2387 of the Revised Statutes' [U. S. Comp. St. 1901, p. 1457] provides that \u201cwhenever any portion of the public lands has been, or may be, settled upon or occupied as a townsite,\u201d it shall be lawful to enter \u201cthe land so settled and occupied in trust for the several use and benefit of the occupants thereof, according to their respective interests.\u201d\nThese statutory provisions show that it was the intention of Congress to dispose of lots in town sites in Alaska only to those who would possess and use them. Title thereto can be obtained only through settlement occupancy. \u201cSettled upon\u201d means taken possession of. It includes such an improvement of the lot by the erection of buildings or fences, or by actual residence thereon, or by such other acts of possession and improvement, as clearly and unmistakably show that it is bona fide the intention of the settler to take and hold possession of the lot, and that his possession and improvement is intended to be permanent, and for himself. \u201cOccupied\u201d also means taken and held in possession, and one who uses a lot and occupies it in good faith with buildings or other improvements or property, which show his intention to possess and claim it under the town-site law, although he may not reside upon it, can acquire title thereto. Stringfellow v. Cain, 98 U. S. 610, 25 L. Ed. 421; Hussey v. Smith, 99 U. S. 20, 25 L. Ed. 314. The improvements of a settler upon a town lot, by which he gains possession, are in themselves equivalent to an announcement of his intention to claim and hold the property under the law, and a notice of such intention, filed in the recorder\u2019s office, adds nothing to his rights.\n.In case more than one person shall claim the same lot under the town-site law, the person having the prior claim by settlement or occupation is authorized to acquire the title. Settlement or occupancy are generally made up of a series of acts, often extending over a considerable period of time; but whoever enters upon such property and makes the first act of settlement or occupancy in good faith, with the intention of following it up and claiming the benefit of the law, is thereby recognized as the first settler or occupant. As two settlers or occupants cannot at the same time acquire title thereto, the first in point of time is entitled to the lot.\nApplying these well-established principles to the case at bar, it follows that by his entry upon the lot in controversy on October 13th, and the act of depositing building material thereon with the intention of erecting a dwelling house, the plaintiff settled upon the lot under the provisions of the town-site act. He acquired the right thereby to the exclusive possession of the property and to its quiet use and enjoyment, and when, on the following day, the defendant entered, and began to tear down structures standing thereon, and not belonging to, erected by, or in the occupancy of himself, he became a trespasser and a wrongdoer. Plaintiff is entitled to an injunction to prevent the threatened attack upon his property, and to the decree prayed for in his complaint.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Prescott Sawyer, for plaintiff.",
+      "George K. French, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "SAWYER v. VAN HOOK.\n(Third Division. Eagle.\nOctober 20, 1900.)\nNo. 10.\n1. Pontic Lards \u2014 Town Site.\nIt was the aim of Congress to dispose of town lots in Alaska only to actual settlers and occupants. Improvements are evidence of the intention of the settler to use and occupy.\n2. Same \u2014 Town Site \u2014 Evidence.\nWhoever enters upon a vacant town lot and makes the firs! act of settlement or occupancy in good faith, with the intention of following it up and claiming the benefit -of the law, is the first settler or occupant. The first settler or occupant in point of time is entitled to the lot.\nPrior to any of the acts complained of in this action, the town of Eagle had been built upon the unsurveyed public domain in Alaska, and had been, by its inhabitants, platted into lots, blocks, streets, and alleys. The lot in controversy had been settled upon by some unknown claimant prior to the time when either of the parties to this action laid claim to it, and on August 23, 1900, the defendant filed in the office of the recorder a notice of his intention to relocate the same. About a week thereafter he left Eagle for St. Michael, where he had been employed as topographer by the military authorities. Before leaving he informed plaintiff that he would not return until next summer. He made no entry or improvement upon the lot, nor did he at any time occupy it in any way. When he left the town, the lot still remained in the vacant and abandoned condition in which it was left by the prior claimant, and the only act performed by defendant showing any intention on his part to claim the lot was the notice filed in the recorder\u2019s office.\nOn September 22d the plaintiff also filed in the recorder\u2019s office a notice of his intention to claim and relocate the said' lot. On September 30th the defendant unexpectedly returned from St. Michael, and, although he was fully informed in regard to plaintiff\u2019s relocation of the lot, made no entry or improvement thereon. On October 13th the plaintiff made the first act of settlement and improvement upon the lot, by delivering two loads of lumber at and upon the same. This lumber was part of the material which the plaintiff had then purchased for the erection of two dwelling houses on the property, and it was delivered there with the intention on the part of the plaintiff of immediately building the houses. On the day following this act of possession and settlement the defendant entered upon the lot and began to tear down a small log structure which had been built thereon and abandoned by the first occupant, threatened to remove plaintiff\u2019s building material, and sought to oust the plaintiff from the possession of the premises. Upon application of the plaintiff, a restraining order was issued, after which the cause came to issue and trial.\nPrescott Sawyer, for plaintiff.\nGeorge K. French, for defendant."
+  },
+  "file_name": "0108-01",
+  "first_page_order": 132,
+  "last_page_order": 135
+}

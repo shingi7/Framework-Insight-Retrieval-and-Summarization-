@@ -1,0 +1,70 @@
+{
+  "id": 8505947,
+  "name": "AMES v. KRUZNER et al.",
+  "name_abbreviation": "Ames v. Kruzner",
+  "decision_date": "1902-05-24",
+  "docket_number": "",
+  "first_page": "598",
+  "last_page": "604",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 598"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 528",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 489,
+    "char_count": 11997,
+    "ocr_confidence": 0.645,
+    "sha256": "9b9a76b2a49e3aa4c10f7bca21d3c600547740a0cf00b096bf6c845abfd408c4",
+    "simhash": "1:b692f668714bf5aa",
+    "word_count": 2066
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "AMES v. KRUZNER et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nOn October 16, 1900, the defendants, Kruzner and Woodruff, at Nome, made and delivered their promissory note in the sum of $1,514.90 to the Ames Mercantile Company, a foreign corporation. At the same time they made and delivered to the plaintiff, Ames, a mortgage upon an undivided one-half interest in placer mine No. 2 above discovery on Bonanza creek, in the Cape Nome mining district, and also upon the schooner Lady George, to secure the payment of the note and other advances to be made thereafter by the plaintiff, and which were afterwards made in the sum of $206.93. This is a suit to foreclose the mortgage, the note and open account having been assigned to this plaintiff prior to bringing this action.\nIt is alleged as a defense that upon the date of the making and delivery of the note and mortgage the Ames Mercantile Company, to which the note was made payable, was a foreign corporation, and had not complied with the provisions of chapter 23 of the Civil Code of Alaska (Act June 6, 1900, c. 7S6, 31 Stat. 528), requiring such foreign corporation to file copies of its articles of incorporation, a statement of its financial condition, and the name and consent of its agent to be sued in this jurisdiction in the office of the clerk of this court. Each defendant, answering separately, then alleges that \u201cdefendant elects not to be bound by said note and mortgage executed and delivered on the'said 18th (16th) day of October, A. D. 1900, to the said corporation, and described in the amended complaint of plaintiff herein, for the reason that said corporation had, at the time mentioned, failed to comply with the provisions and requirements of chapter 23 of the Civil Code of Alaska herein.\u201d A stipulation is filed, signed by both parties, wherein it is agreed that the articles, financial statement, and consent of agent were filed with the clerk of this court on the 20th day of October, 1900 \u2014 only four days after the date of the note and mortgage, and long before the maturity of the note. It is not shown when the indebtedness upon the open account for $207.93, secured by the mortgage, was incurred by defendants. The court will not presume that it was prior to October 20, 1900. Paragraph 4 of the amended complaint alleges that it was \u201csubsequent to the date of said mortgage,\u201d on October 16th, and, as no date is agreed upon or showm, the court will presume that it was subsequent to October 20th, the date when the Ames Mercantile Company, become duly qualified to transact business in Alaska, for \u201cillegality is never presumed; on the contrary, everything must be presumed to have been legally done till the contrary is proved.\u201d As this item is secured by the mortgage, and is sufficient to sustain this action, there must be a judgment and foreclosure in favor of the plaintiff for that amount, in any event.. This leaves only the question of the validity of the note and mortgage of the date of October 16th in controversy. As to these the defendants elect to avoid their obligation under the provisions of the statute.\nIt is a sound principle of equity and good conscience that forfeitures are deemed odious, and courts will not resolve a doubt, either of law or fact, in favor of a forfeiture of property rights once fully and fairly vested. The intention of the law to forfeit the estate must be so clear as to leave the court no room for other action before ,it will enter the decree. Equity often interferes to relieve against forfeitures, but never to divest estates by enforcing them. A forfeiture will not be declared unless the law so expressly provides.' If the'law does s\u00f3 provide, and the case falls unmistakably within the statute, the court must declare the forfeiture.\nIn this case the note was made on October 16th, and was due, according to its terms, in four months. Four days after the note was made \u2014 on October 20th \u2014 the corporation complied with the law. The defendants received the consideration for the note, and the defense has no merit except the technical wording of the statute which they plead.\nSections 228 and 231 of chapter 23 of the Civil Code of Alaska (Act June 6, 1900, c. 786, 31 Stat. 528), upon which defendants rely, read as follows:\n\u201cSee. 228. Penalty for Failure to Comply. If any corporation or company shall attempt or commence to do business in the district without having first filed said statements, certificates, and consents required by this chapter, it shall forfeit the sum of twenty-five dollars for every day it shall so neglect to file the same; and every contract made by such corporation, or any agent or agents thereof, during the time it shall so neglect to file such statements, certificates, or consents, shall be voidable at the election of the other party thereto. It shall be the duty of the United States attorney for the district to sue for and recover, in the name of the United States, the penalty above provided, and the same, when so recovered, shall be paid into the treasury of the United States.\u201d\n\u201cSee. 231. Penalty for Failure to Comply. If any such .corporation or company shall fail to comply with any of the provisions of this chapter, all its contracts with citizens of the district shall be void as to the corporation or company, and no court of the district, .or of the United States, shall enforce the same in favor of- the corporation or company so failing.\u201d\nUpon a careful study of the chapter including these two sections, it is plain that the purpose of the law is to require foreign corporations to file their articles of incorporation, a statement of their financial condition, and the appointment and consent of their agent to be sued, before they shall commence to do business in the district. A graduated series of penalties is imposed in case of their failure to comply with the law in these respects. Three such penalties are imposed\u2014 two by the first section, and one by the last. If the corporation shall attempt or commence to do business without complying with the law, it shall forfeit the sum of $25 per day for every day it shall so neglect, to be recovered by suit in the name of the United States, and paid into the treasury of the United States. This clause is general, and is not repeated in section 231, because it is understood to apply without being mentioned again. The real distinction between these two sections is seen in comparing the penal clause against the enforcement of contracts. Section 228 provides that, if such corpoi-ation shall attempt or commence to do business without complying with the law, it shall pay the daily penalty to the government, \u201cand every contract made by such corporation, or any agent -or agents thereof, during the time it shall so neglect to file such statements, certificates, or consents, shall be voidable at the election of the other party thereto.\u201d\nI understand this section to mean that a contract made by any person on October 16th, with a foreign corporation which did not file its statements, certificates, and consent until October 20th, and which came to suit subsequent to that date, is voidable at the election of the other party thereto. It is not void, but only voidable. The other party thereto may waive his statutory privilege, and stand on his contract; it cannot be avoided by the corporation. If the other party thereto does waive his right to avoid, the contract may be enforced, even by the corporation, and the court is not without jurisdiction.\nSection 231, however, has but one object, viz., it is a withdrawal of all jurisdiction in the court to enforce, in favor of the corporation, a contract falling within its terms. I understand it to mean that a contract made by any person, say, on October 16, 1900, with a foreign corporation, which wholly failed thereafter to comply with the law, cannot be enforced by the court in favor of the corporation, for want of jurisdiction in the court. The contract, strictly speaking, is not void, but only voidable, when considered from the standpoint of the other party. Notwithstanding the fact that a foreign corporation has wholly failed to comply with the law, the other party may, under the provisions of either section, enforce his contract with the company. He can avoid it, also, under the terms of either section. In favor of the corporation the contract is only voidable under the terms of section 228, but wholly void for want of jurisdiction in the courts to enforce it under the terms of section 231.\nIt follows, from this imperfect analysis, that in the case at bar the contract note sued upon is, as against the corporation, only voidable under section 228, and not void under section 231. The court has jurisdiction to enforce the contract, unless it is avoided by its judgment.\nThis brings us to consider the law and practice when a party seeks to escape from his obligation under a voidable contract. The defendants allege only that they \u201celect not to be bound by said note and mortgage,\u201d for the reason that the corporation has failed to comply with the law. Can they thus repudiate a \u201cvoidable contract,\u201d and retain the consideration, or must they not return the consideration before rescission, or stand by the contract as made?\nThe avoiding of a voidable contract is termed rescission. \u201cWe have already seen that rescission is the avoiding of a voidable contract.\u201d Bishop on Contracts (Enlarged Ed.) \u00a7 679. \u201cA party, to accomplish an adverse rescission, must return to the nonconsenting party what will place him in statu quo.\u201d \u201cThe party rescinding must return the consideration or whatever else he received under the contract, and otherwise do what will put him and the other party in statu quo, as already explained; and if he cannot do this \u2014 as, if he has derived from the contract some benefit not of a sort to be refunded \u2014 he cannot rescind.\u201d Bishop on Contracts, \u00a7\u00a7 818-\u00ab33-\nIn the case at bar the defendants have received, and do not offer to return, the full consideration for the note which they elect to repudiate upon their voidable contract. This they cannot do, and their plea cannot avail them as a defense under the facts and the phraseology of section 228. For these reasons there must be a foreclosure and decree against the defendants for the full amount of the note and open account.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Ira D. Orton, for plaintiff.",
+      "Love & Knott, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "AMES v. KRUZNER et al.\n(Second Division. Nome.\nMay 24, 1902.)\n1. -Evidence \u2014 Presumptions.\nIllegality is never presumed; on the contrary, everything must be presumed to have been legally done until the contrary is proved.\n2. Forfeiture \u2014 Evidence.\nCourts will never resolve a doubt, either of law or fact, in favor of a forfeiture of property. The intention of the law to forfeit the estate must be so clear as to leave no room for doubt. Equity often interferes to relieve against forfeitures, but never to divest estates by enforcing them. A forfeiture will not be declared unless the law so expressly declares.\n3. Foreign Corporations \u2014 Contracts\u2014Rescission.\nOn October 16th, defendants gave their note to the Ames Mercantile Company, a foreign corporation, which had not yet filed its articles, statement, and consent of agent required by chapter 23 of the Civil Code of Alaska (Act June 6, 1900, c. 786, 31 Stat, 528). On the same day the defendants made a mortgage to Ames,, the plaintiff, to secure the payment of that note and other contemplated indebtedness. The corporation filed its articles, etc.,, on October 20th, and thereafter plaintiff brought suit to foreclose the mortgage. Defendants seek to avoid their note, because it was made to the corporation in advance of their compliance with the statute. Held, that it was a voidable contract only, and could only be avoided by rescission and returning the consideration.\nForeclosure of a mortgage. Defendants seek to avoid their obligation upon a plea that the plaintiff, a foreign corporation, was not empowered to contract within the district.\nDemurrer to plea sustained.\nIra D. Orton, for plaintiff.\nLove & Knott, for defendants."
+  },
+  "file_name": "0598-01",
+  "first_page_order": 622,
+  "last_page_order": 628
+}

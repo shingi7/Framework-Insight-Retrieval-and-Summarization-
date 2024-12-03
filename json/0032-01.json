@@ -1,0 +1,66 @@
+{
+  "id": 8504138,
+  "name": "GR\u00c6CO-RUSSIAN CHURCH v. COHEN",
+  "name_abbreviation": "Gr\u00e6co-Russian Church v. Cohen",
+  "decision_date": "1890-09-03",
+  "docket_number": "No. 186",
+  "first_page": "32",
+  "last_page": "36",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 32"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 358,
+    "char_count": 6900,
+    "ocr_confidence": 0.649,
+    "pagerank": {
+      "raw": 5.298132930532853e-08,
+      "percentile": 0.3323087562247838
+    },
+    "sha256": "748679964a2c362c548dca4b6071889015318178ba67c98af5fd8e4909c44b40",
+    "simhash": "1:ffd30a3a52305796",
+    "word_count": 1217
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GR\u00c6CO-RUSSIAN CHURCH v. COHEN."
+    ],
+    "opinions": [
+      {
+        "text": "BUGBEE, District Judge.\nThere is nothing in the record nor among the papers to show that either of said witnesses was ever subpoenaed to attend as a witness in the action, or attended otherwise than voluntarily, and the main ground of defendant\u2019s objection is that neither of them had been subpoenaed, and therefore that plaintiff can recover no mileage whatever, and can recover only the fees for one day\u2019s attendance of the witnesses who were actually sworn as such.\n\u201cA witness is a person whose declaration under oath or affirmation is received as evidence for any purpose, whether such declara-tlon be made on oral examination or by deposition or affidavit.\u201d Gen. Laws Or. \u00a7 699, p. 251.\nVladimir P. Donskoy does not come under this definition, and neither fee nor mileage can be allowed him as a witness. It. is doubtless true that plaintiff requested his attendance in the belief that it was necessary; but it was not in fact necessary, and he was not called as a witness. It would open too wide a door for the admission of oppressive cost bills if parties were permitted to recover as costs the fees and mileage of persons not placed upon the witness stand nor offered as witnesses, simply because counsel at some stage of the case may have considered their attendance necessary.\nKasavaroff and Kostiometinoff were witnesses, whether subpoenaed or not, having testified on oath at the trial, and were entitled to their fees as such, but neither was entitled to mileage. ,\n\u201cEvery person whose fees are prescribed by the statute, and this Includes witnesses who shall be required to travel in order to execute or perform any public duty, * * * shall be entitled to mileage.\u201d\nThere is no other provision for mileage. Each of the parties resided in Sitka, where the court was held. Neither was subpoenaed, and for all that is shown to the contrary, each was a voluntary attendant.\nThe process by which the attendance of a witness is required is a subpoena. Gen. Daws Or. \u00a7 779, p. 266. Not having been subpoenaed, neither of these witnesses was required to attend nor required to travel to perform any public duty, and, as it is only such as are required to travel that are entitled to mileage, it is clear that these witnesses cannot \u2022claim it.\nThe case of N. G. Metropolsky presents somewhat greater difficulties, or, more properly speaking, possibly greater hardship for plaintiff, at whose request he was in attendance. His residence was at Kenai, in Cook\u2019s Inlet, in this territory, and it was conceded on argument that, if he were entitled to mileage at all, the amount would not be less than that claimed in the bill of costs, which is $80, being at the rate of 10 cents per mile for 800 miles. He was in actual attendance upon the court, his attendance was undoubtedly necessary, and his declaration under oath was received as evidence at the trial; but he was not subpoenaed to attend, and was not, therefore, in view of the law, required to attend, nor to travel, in order to execute or perform any public duty. He is not entitled to mileage. He was not obliged to leave his home without a subpoena, nor, even had he been served with a subpoena, could he have been compelled to do so, unless the court, or judge thereof, upon the affidavit of the plaintiff or some one on his behalf, showing that his testimony was material and his oral examination important and desirable, had indorsed upon the subpoena an order for his attendance, and service had been made upon him of. such subpcena and order, and payment also made to him of double witness fees. Gen. Caws Or. \u00a7 785, p. 267.\nUnder the section quoted, no witness in Oregon can be obliged to attend for oral examination or otherwise at a place outside of the county in which he resides, or in which he may be served with a subpoena, unless his residence be within 20 miles of such place, except upon the order of the court or judge, as above stated. We have no subdivisions of this territory into counties, but it would be an absurd construction of the statute to hold that for that reason the whole territory must be considered as one great county, arid that the witness, if subpoenaed at his place of residence to attend at Juneau or Sitka, 800 miles away, was not thereby called outside of the county in which he resided, or in which he might have been so served. As to the fees to be allowed to him as a witness, it appears that he attended from June 13, 1890, to July 10, 1890, or 27 days in all. The witness, not having been subpoenaed, must be considered to have been a voluntary attendant at court, and, being present, was, like any other person, required to testify in the same manner as if he had been in attendance under a subpcena. Gen. Laws Or. \u00a7 786, p. 267. For this attendance he was entitled to a fee of $2 only.\nFor these reasons the defendant\u2019s objections must be sustained, and the clerk is ordered to retax the costs in accordance with this decision.",
+        "type": "majority",
+        "author": "BUGBEE, District Judge."
+      }
+    ],
+    "attorneys": [
+      "A K. Delaney, for plaintiff.",
+      "C. S. Johnson and M. P. Berry, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "GR\u00c6CO-RUSSIAN CHURCH v. COHEN.\n(Sitka.\nSeptember 3, 1890.)\nNo. 186.\n1. Costs \u2014 Fees\u2014Mileage.\nA witness who is neither subpoenaed nor called to testify is not entitled to either fees or mileage. One called within the courtroom is not entitled to mileage. One who attends without being subpoenaed, though he comes a long distance and testifies, and is a necessary witness, cannot recover mileage under the laws of Oregon, then applicable to Alaska.\nMotion to Retax Costs. Plaintiff had judgment as prayed for, with costs, and on July io, 1890, filed its bill of costs,, amounting to $151.15. On July 14th defendant filed with the clerk his objections to certain items in the bill, but his objections were overruled by the clerk, and the whole amount was allowed as claimed. On July 16th the defendant, feeling aggrieved by the decision of the clerk in such allowance, appealed from the taxation of certain items, which are as follows: (i) All of the $134 witness fees of N. G. Metro-polsky, except the sum of $2; (2) the mileage allowed to witnesses Andrew Kasavaroff and George Kostiometinoff in the sum of 20 cents; (3) the witness fees of Vladimir P. Donskoy of $2. On the hearing of the appeal an affidavit was filed in behalf of plaintiff that N. G. Metropolsky resided at Kenai, in Cook\u2019s Inlet, attended court as a witness for plaintiff 27 days, and traveled 800 miles from the place of his residence to the place of attending court; that Andrew Kasavaroff, George Kostiometinoff, and Vladimir P. Dons-koy resided at Sitka, the place of holding court, attended I day, and traveled 1 mile each; that each and all of said witnesses attended the court as such witnesses for the plaintiff, under the direction and by the request of the attorney for plaintiff, and that each and all of them actually and necessarily attended the number of days and traveled the distances above mentioned\nA K. Delaney, for plaintiff.\nC. S. Johnson and M. P. Berry, for defendant."
+  },
+  "file_name": "0032-01",
+  "first_page_order": 56,
+  "last_page_order": 60
+}

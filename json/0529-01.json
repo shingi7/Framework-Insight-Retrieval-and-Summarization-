@@ -1,0 +1,87 @@
+{
+  "id": 8505775,
+  "name": "LEWIS et al. v. JOHNSON",
+  "name_abbreviation": "Lewis v. Johnson",
+  "decision_date": "1902-03-29",
+  "docket_number": "No. 444",
+  "first_page": "529",
+  "last_page": "533",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 529"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "90 Fed. 673",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        1250819,
+        6752621
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/alaska-fed/1/0559-01",
+        "/f/90/0673-01"
+      ]
+    },
+    {
+      "cite": "76 Fed. 477",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "opinion_index": -1
+    }
+  ],
+  "analysis": {
+    "cardinality": 427,
+    "char_count": 7813,
+    "ocr_confidence": 0.681,
+    "pagerank": {
+      "raw": 1.6257817673322324e-07,
+      "percentile": 0.688070810305929
+    },
+    "sha256": "62494f50461692142b985614864792a964773d981880d2f38791352087e7e42e",
+    "simhash": "1:0f270be30550de9f",
+    "word_count": 1368
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "LEWIS et al. v. JOHNSON."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN,- District Judge.\nIt is very earnestly contended on behalf of the defendant that he has acquired title in said land by prescription. It has long been the settled doctrine of the law that a statute of limitations does not run against the king or state, and that no prescriptive right or title can be acquired as against either. But it is claimed that, inasmuch as the defendant was in possession of a certain portion of the tide lands before and at the time the plaintiff acquired his title to the upland, there was a severance by reason of such occupation by defendant; and that, when plaintiff received his deed, he acquired no interest in the tide flats as a littoral or riparian owner. The question is presented with great ingenuity on the part of counsel for defendant ; so ingeniously, indeed, that it leaves one in some uncertainty as to the true doctrine in the case.\nMy view, however, upon the law of this question, is that no person can occupy any portion of the lands below high tide and by such occupancy acquire title thereto. They go upon such lands as trespassers, and remain trespassers until they are ejected by proper authority. It is my opinion that they can acquire no prescriptive rights whatever. But the question is whether the)'' acquire such possessory rights in the land which they actually occupy as would preclude any ohe save the United States from dispossessing them. If the government, when it parted with its title to the land under the trustee\u2019s deeds, conveyed all interest to the shore line of Gas-tineau Channel, and persons holding such uplands, by reason of title thereto, have a right of way, unobstructed by others, from their uplands to deep water, and the right to wharf out to deep water on their approach to the same, then it would seem that a party who has acquired no interest in the land below tide water, and is there as a mere trespasser, could have acquired no such rights as would prevent the owner of the upland from occupying the tide flats as a littoral or riparian owner.\nUnder the rules of the Department of the Interior, the town-site trustee was charged with the duty of determining who of several claimants to a lot or lots was in rightful possession of such lot, and to make title to the rightful possessor. The plaintiffs and defendant were, as shown by the evidence in this case, each in possession of portions of the lots in dispute at the time the patent issued for the town site and when the deed was made by the town-site trustee. The Department of the Interior had sole jurisdiction over this matter, and, when title was finally made to the plaintiffs to the two lots 7 and 8, all rival claims of possession and right of possession were thereby determined. This defendant was, therefore, precluded from asserting any further right, unless he pursued such remedy as might then have been open to him. As he acquiesced in the judgment then rendered against him, the plaintiffs took the property as a whole, free from any claim whatsoever that the defendant might assert thereto.\nIt is believed that, if the plaintiffs had received a patent to the land in dispute before it was occupied by defendant, and defendant had retained the open and notorious possession for the requisite term of years, he would have thereby acquired title by prescription, and a deed thereafter made by plaintiffs would not have carried title as against the defendant ; the doctrine of severance in that case clearly applying.\nI am free to say that I am not altogether clear as to the justice of this proposition, but I am inclined to believe that it is the law as applicable to cases of this kind, and the court will therefore grant the relief prayed for in the bill of complaint.\nJudgment ordered for the plaintiffs.",
+        "type": "majority",
+        "author": "BROWN,- District Judge."
+      }
+    ],
+    "attorneys": [
+      "R. F. Uewis and John G. Heid, for plaintiffs.",
+      "Maloney & Cobb, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "LEWIS et al. v. JOHNSON.\n(First Division. Juneau.\nMarch 29, 1902.)\nNo. 444.\n1. Limitation of Actions \u2014 Prescription\u2014Public Lands.\nIt lias long been the settled doctrine that a statute of limitations does not run against the government, and that no prescriptive right or title can be acquired to public lands.\n2. Public Lands \u2014 Tide Lands \u2014 Trespass.\nA trespasser cannot acquire a prescriptive right or title to tide lands by mere occupancy. The upland owner has a right to build a wharf upon tide lands in front of his property, notwithstanding a trespasser\u2019s presence on the tide lands.\n8. Same \u2014 Town Site \u2014 Trustee.\nA town-site trustee is charged with the duty of determining who of several claimants to a lot or lots was in rightful possession, and to make title to the rightful possessor. The Department of the Interior has sole jurisdiction over such matters, and its action thereon is final.\nThis suit was begun May 4,1895. The plaintiffs allege possession of the property in dispute by themselves and their grantors from the year 1881 down to the present time. It seems that application and survey for patent of the town site of Juneau was made in 1893; that in July, 1898, after the patent for the town site was obtained, a deed was made by T. R. Lyons, town-site trustee, to.the plaintiff Lewis, and another deed in 1900 to the defendant. The plaintiffs pray that they may be decreed to be in the free use and occupation of the tide lands in dispute, and entitled to exercise all riparian and littoral rights over the same; that an injunction restraining defendant from building a wharf over said land, or permitting the piles already driven and buildings erected on said lands to remain thereon may be granted, and to forever restrain defendant from driving piles or constructing any obstruction; on said lands, or in any manner interfering with the plaintiff or his co-owner in the free use and occupation thereof.\nThe defendant, by answer, denies possession or right of possession in plaintiffs; claims to have settled on and erected improvements on said lands as early as 1887, and that the same had been occupied thence hitherto by him and his grantors ; and, further, that he has acquired such possessory rights in the premises as entitle him to retain the same against the owner of the upland.\nThe testimony of Garside is to the effect that the upland lots 7 and 8 ran to the shore line; that the Hanus survey, that had been made long before the town site was entered, ran to the shore line; and that the survey made by said Garside was made to conform to the Hanus survey. Witness Thomas R. Tyons testifies to having made the deeds offered in evidence, and that the southern boundary of said lots 7 and 8 in block F is Gastineau Channel.\nThis case seems to have had a somewhat remarkable history. When the complaint was first filed, a demurrer was interposed by the defendant challenging the sufficiency of the complaint. The case was begun before Judge Truitt. The demurrer was argued before Judge Delaney, his successor, whose very clear, concise, and vigorous statement of the law on the subject in his opinion in passing upon the demurrer will be found reported in Lewis v. Johnson (D. C.) 76 Fed. 477. Thereafter it would seem that Judge Charles S. Johnson came to the bench, and, having been interested in the case as brought, could not sit in the trial thereof. The case was then certified to the Circuit Court for this jurisdiction, and that court refused to exercise jurisdiction. Lewis v. Johnson, 90 Fed. 673. The papers were again returned to this court, and were thereafter all lost. On an application made in 1900, it was ordered that copies of said papers be supplied and filed in place of the originals, and the case proceeded with. Thereafter the case was set down for trial, the evidence taken before a referee and reported back to the court during the vacation thereof last year, and for the first time comes up for trial at this term.\nR. F. Uewis and John G. Heid, for plaintiffs.\nMaloney & Cobb, for defendant."
+  },
+  "file_name": "0529-01",
+  "first_page_order": 553,
+  "last_page_order": 557
+}

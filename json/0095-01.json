@@ -1,0 +1,111 @@
+{
+  "id": 8504379,
+  "name": "PRATT et al. v. UNITED ALASKA MIN. CO.",
+  "name_abbreviation": "Pratt v. United Alaska Min. Co.",
+  "decision_date": "1900-10",
+  "docket_number": "No. 1,148",
+  "first_page": "95",
+  "last_page": "103",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 95"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "27 Pac. 1105",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1901,
+      "opinion_index": -1
+    },
+    {
+      "cite": "21 Pac. 1040",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "case_ids": [
+        8859871
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/idaho/2/0456-01"
+      ]
+    },
+    {
+      "cite": "11 Fed. 666",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3779361
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/11/0666-01"
+      ]
+    },
+    {
+      "cite": "5 Sup. Ct. 1055",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11295295
+      ],
+      "weight": 3,
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/114/0576-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 707,
+    "char_count": 17248,
+    "ocr_confidence": 0.639,
+    "pagerank": {
+      "raw": 1.0052889892850951e-07,
+      "percentile": 0.5400289746622293
+    },
+    "sha256": "257351cfc96728ae373488d62fad9b99f1bc4843b0ccd8a2573383995cebacdc",
+    "simhash": "1:de278c94329c45cf",
+    "word_count": 3092
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "PRATT et al. v. UNITED ALASKA MIN. CO."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nThe first question presented by the motion for a new trial was \u201cerror of the court in refusing the continuance applied for by the defendant.\u201d The court will, therefore, first consider this question. It may be well to recall the circumstances under which the case was originally set for trial. Mr. John R. Maloney, senior counsel for the defendant, was in court when counsel for plaintiffs moved the court to set the case for trial. Mr. Maloney urged the injury to his clients by the trial of the case before the close of the mining season, and asked that the case go over. The plaintiffs insisted upon an early trial, notwithstanding some offers of favor made by Mr. Maloney. The court suggested a later day for the trial of the case, whereupon Mr. Maloney stated very positively that, if the case was to be tried during the term, the sooner it was set for trial the better it would please him; that he would be ready for trial; and he warned the plaintiffs that they must also be ready. Under these circumstances the court set the case for trial two days later than the time suggested by Mr. Maloney. Thereafter Mr. Cobb, junior counsel for the defendant, on the day the case was for trial, appeared before the court, and presented the affidavit of Mr. Maloney setting out the absence of his clients, the inability of Hanson to attend court because of a lame back, and also setting forth the testimony of Hanson and Sutherland, two of his clients. On the presentation of this motion, and on the ioth day of October, the plaintiffs filed several affidavits, showing that Hanson was in good health, the means of travel by which witnesses could have come to court from Porcupine, and that there was nothing in the situation that should necessarily cause the absence of the defendant from court, but, on the contrary, showing very clearly that they could have been present at the trial, unless they had chosen willfully to absent themselves. The strange part of the proposition is that these several defendants came to Haines Mission, as shown by their affidavits in said amended motion, on the ioth of the month, and had the same opportunity to be present at the trial as Sol Rapinsky, who saw one of said defendants at Haines, namely, Hanson, and Rapinsky appeared in court before the close of the testimony for the plaintiffs, and testified as a witness. He came by the steamer Alert, by which the defendants could all have come; and yet they seek to excuse themselves because they say that they heard at Haines that the trial was over, whereupon they immediately returned to Porcupine. By the affidavit of Hanson himself, attached to this amended motion for a rehearing, it clearly appears that he was able to travel, and did travel from Porcupine to Haines, and then returned the next day, giving negation to the .statement in the affidavit for continuance that he was sick, lame, and so disordered as to be unable to travel. It will be further remembered that all that the witnesses Hanson and Sutherland could testify to, as set out by the affidavit of their counsel, was admitted by the plaintiffs as testimony in the case, or that the defendants would swear as stated by their attorney, if present in court. Upon that admission, under the statute, the court permitted the case to go to trial. It was apparent to the court at the time that the effort for a continuance of the case sprang from a desire for a continuance on the part of the defendants, and not from any well-grounde'd reason therefor; that the effort to continue the case by the defendants was a scheme to serve some purpose of their own, rather than to secure a just and impartial trial. The affidavits filed by counsel since the trial confirm the court in its former opinion.\nI cannot permit this matter to pass without referring to a statement made on the third page of defendant\u2019s brief presented in support of its motion for a new- trial: \u201cIn the case at bar the plaintiffs were allowed to force the defendant to a trial with almost indecent haste, and secure a manifestly unfair trial; and we think the interests of justice require that on this ground alone a new trial should be granted.\u201d Without referring to what immediately precedes this statement, which, if quoted, would make the statement appear more offensive and untruthful, the court will simply say that men have been disbarred for less offensive statements than this, when deliberately made, and long after the excitement of the trial had passed .away.\nBut let us consider the real situation. The several defendants were at work 30 or 35 miles from Haines, within 3 miles of the Klahena river, from which point, at the mouth of the Porcupine, boats could have conveyed them in a few hours, and the steamer Alert, which made its trips every second day, would have brought them either on the 9th or nth to Skag-way, the same day on which they left their homes on the Porcupine. They had been notified to be present, had been notified by their counsel of the day set for the trial, and yet, while only a day\u2019s travel distant from the court, they deliberately chose to remain away. And yet their counsel has the supreme hardihood to, come into court and say that the defendants were forced into trial in almost \u201cindecent haste.\u201d The facts and circumstances of the case not only show that the trial was set for a day desirable and satisfactory to senior counsel for defendants \u2014 and for that reason alone the defendants cannot complain \u2014 but it also clearly appears that the application for a continuance on the day set for trial was a mere subterfuge, not made in good faith or in the interests of justice. If the court were to denounce this matter as it deserves, it would be necessary to say more harsh and unkind things than the court desires to utter on this occasion. It is sufficient to remark that the conduct of counsel has not been worthy, and it is hoped that the result thereof will prove a salutary lesson to them. The court can find no error in its action in overruling the motion for continuance. \u25a0\nThe next objection made by counsel is that the third finding of fact returned by the jury is not sustained by the evidence. The jury found from the evidence that Hanson had not, prior to August 3d, corrected the boundary line of his claim by marking the same on the ground so as to make the north boundary line of his claim coincide with the south boundary of the Wooden claim. The jury also found that the initial stake of Hanson\u2019s location of October 6, 1898, was at the dead tree pitched down the embankment with the top in the ground at the creek bed, referred to in the testimony of Cahoon. The defendant does not question the correctness of this finding; indeed, the evidence in the case is overwhelming-in support of this finding by the jury. The notice of location that was placed on the tree indicated by the finding of the jury claimed 1,500 feet running with the creek, and was recorded by Hanson in the mining record at Porcupine and in the public record at Juneau, which said location notice is in the words and figures following:\n\u201cNotice is hereby given that I, the undersigned, have, this 6th day of October, 1898, located a placer mining claim, 1500 feet, running with the creek, and 300 feet on each side of center of creek, known as McKinley creek, in Porcupine mining district, running into Porcupine river. This claim is the west extension of Dan Sutherland\u2019s claim, about 4000 feet above First Palls in district of Alaska.\n\u201cJames Hanson, Locator.\n\u201cWitness: Dan Sutherland.\u201d\nThis notice does not seem to have been amended at any time since the original record thereof. The evidence of the disinterested witness who was present when said location was made clearly shows where the initial stake was placed, and that the claim of Dan Sutherland ran in ope direction therefrom and the claim of Hanson in the other direction toward the end of the Wooden claim, .which was some 1,900 feet away; that the other end of the Hanson claim, at the time of said location on the 6th of October, was not marked, staked, or bounded in any way, although, if Hanson 'had been entitled to the 1,500 feet claimed by him in his notice, and running down the creek from the point of location, there would yet have been left, between the Wooden claim and the end of the claim, about 4,000 feet of unclaimed and unoccupied mineral land. The answer of the defendants alleges that on the 6th day of October, 1898 \u2014 giving the same date shown by the notice of location of Hanson \u2014 Hanson located a placer mining claim, beginning at a tree on the south boundary line of the claim of Wooden, which said tree is the original monument on which said Hanson\u2019s notice was posted; thence up the creek to a center line, 1,500 feet, etc. All of which, by the notice of location, which, ran from another and different point and in the reverse direction, and from the testimony of the several disinterested witnesses present at the time said location was made, shows that the answer of the defendants in this respect is without any foundation in fact, and is wholly unsupported, by the evidence, except the statements of Hanson and Sutherland as the same appear in the affidavit of their attorney, Mr. Ma-loney; and it is to be remembered that these were interested witnesses. The claim of Hanson, which began at the tree, as specified by the jury, and ran thence down the creek 1,500 feet, could not have had its boundaries so marked on the ground that by any possibility the north boundary line of his claim could coincide with the south boundary of the Wooden claim. The answer of the jury and its finding upon that question is not only supported by testimony, but by the weight of the evidence in the case.\nThe next objection taken is to the fifth finding of the jury that the excess of ground in Hanson\u2019s original location had not been cut out of said location by the Dalton location of May 22, 1899. There is no evidence to indicate a Dalton location, except the bare notice recorded, a copy of which is found in the record of evidence. This, in itself, could by no possibility warrant the jury in finding that Dalton had made a lawful location of 400 feet of ground at the upper end of the Hanson claim. It is true that on October 20th, after the Hanson location was made on October 6th, Dalton placed some notice on the south boundary line of the Wooden claim, thereby fixing a second boundary to his claim, the other end boundary having been fixed by the monument and location notice of October 6th. In an effort to determine what ground within his location Hanson was entitled to, and what, if any, was excess, it is necessary to begin the measurement from the initial point of his claim, found by the jury to be (and with which finding the court agrees) the tree that had slid from the mountain, and the top of which rested in the ground at the bottom of the creek, whence measurement was made down the creek 1,500 feet, according to the specifications of this notice. No matter who had claimed ground within that limit, it could not affect the right of Hanson to the 1,500 feet along the creek from that notice, and it could not affect the right of any other persons to whatever excess ground there was between the end of the 1,500 feet of the Hanson claim and the Wooden claim. The finding of the jury, therefore, in this regard, was unquestionably correct, both as a matter of law and of fact.\nAs to the sixth finding of fact, it is only necessary to refer to the evidence in the case, showing that Hanson claimed by his two notices all the ground between his original notice of October 6th and the Wooden claim, to make it appear that the answer of the jury that there was an excess of ground in the Hanson location was undoubtedly correct. As to the number of feet of the excess ground in the Hanson location, designated in the seventh finding by the jury, there may be some uncertainty under the evidence in the case. By the-testimony of. Hill-it would appear that there was less than 400 feet in excess; while by the testimony of Parker, another surveyor, the excess-was fixed at 428 feet and a fracr tion pf a foot. The jury, by its answer, finds the Parker measurement a true one. It therefore cannot be said that said finding is not supported by evidence. -\nThe-next objection-of counsel in his motion for a new trial was- to the eighth finding of the jury, which is -general, and to the effect that the plaintiff had the better right to the land in controversy. Is this finding of the jury supported by.the evidence in the case? Leaving the number of feet in dispute out -of the question, and confining the answer to the -single proposition whether the plaintiff or defendant had the better r-ight to whatever excess there was in the Hanson location,- it must be conceded that the finding is supported by the weight of evidence.\n\u2022The several objections raised by the motion for a new trial.are thus answered; and, if the case were an action at law, the court would go no further in considering the motion of the defendants for a new trial or for a rehearing, but, as it is- a suit in equity, the court is-not bound by the findings of -the jury, and may make its own findings under the evidence, or may adopt the findings of the jury for its own, if it thinks them to be sustained by the evidence. The court will consider the findings as a whole, and more-particularly, the general finding that the plaintiff has the better right to the ground in controversy. It may be well to remember that the defendant Hanson, by the terms of his notice, clairm ed a piece of land-1,500 feet in length by- 600 feet in width, making as a whole 20 acres and a fraction, or more ground than any man is allowed to take as a single claim under the mining laws of the United States. Can a claim to mineral land, then, which by the notice of the claimant embraces more than is allowed by law, be held to be a lawful claim ?\nEmbracing by accident more than the lawful quantity of ground within a location has never been held, unless the excess was very great, to invalidate the location; but the question of. taking more land within a claim as staked by faulty measurement and that of claiming by the terms of a location notice are entirely different. In the one case the error is merely accidental; in the other the excess is taken with deliberate purpose. Question: Does a mining notice, which includes by its terms more land than is permitted by the mineral laws of the United States, invalidate the location? The court is not aware of any decision upon this precise point,' and, while the question is not passed upon at this time,' it would seem that such a notice clearly in violation of the law would invalidate the entire location. This suggestion is made because of other locations of like character, that the parties in interest may take warning in advance, and so correct their locations as to avoid the danger that is presented here. The court is of the opinion that under the evidence in this case and all the facts and circumstances surrounding this trial, and as a matter of justice, the plaintiff has the better right to the excess in the Hanson claim, and that he is entitled to have his right and title quieted by the decree of this court.\nSpecific findings of the court in accordance with this opinion will be filed in this case, and the motion by the defendants for a new trial is overruled. To which ruling of the court defendants, by their counsel, except.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Pratt & Jennings, for plaintiffs.",
+      "Maloney & Cobb, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "PRATT et al. v. UNITED ALASKA MIN. CO.\n(First Division. Juneau.\nOctober Term, 1900.)\nNo. 1,148.\n1. Trial \u2014 Continuance.\nA continuance will not be granted when tbe applicants bad notice of tbe time and place of tbe trial, and tbeir efforts to be present do not appear to bave been made in good faitb.\n2. Equity \u2014 Trial\u2014Verdict.\nIn a suit in equity tbe court is not bound by the findings of a jury, but may malie its own findings under tbe evidence, or may adopt tbe findings of tbe jury for its own, if they are sustained by tbe evidence to tbe satisfaction of tbe judge.\n3. Mines and Minerals \u2014 Excess\u2014Location\u2014Notice.\nA mining location embracing more than 20 acres by mistake does not invalidate tbe claim. Qucere: Does a mining notice, wbicb includes by its terms more land than is permitted by tbe mineral laws of tbe United States, invalidate tbe location? Richmond Min. Co. v. Rose, 5 Sup. Ct. 1055, 114 U. S. 576, 29 L. Ed. 273; Jupiter Min. Co. v. Bodie Min. Co. (C. C.) 11 Fed. 666; Stemwinder Min. Co. v. Emma Min. Co. (Idaho) 21 Pac. 1040; Rose v. Richmond Min. Co. (Nev.) 27 Pac. 1105; Price v.. McIntosh (2d Div., Nome, Nov. 16, 1901) post, 286.\nThis was a suit in equity to quiet title to conflicting locations upon a mining claim on McKinley creek, in the Porcupine mining district, Alaska. Plaintiffs claimed under the Pratt location of August 3, 1899, and the defendant under an alleged location of- the same ground by Hanson on October 6, 1898. Questions of fact were submitted to a jury by the court. Verdict for plaintiffs. The opinion of the court is upon the motion of defendant for a new trial, with the affidavits thereto attached.\nPratt & Jennings, for plaintiffs.\nMaloney & Cobb, for defendant."
+  },
+  "file_name": "0095-01",
+  "first_page_order": 119,
+  "last_page_order": 127
+}

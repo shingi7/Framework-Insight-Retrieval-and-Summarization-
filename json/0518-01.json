@@ -1,0 +1,348 @@
+{
+  "id": 8505760,
+  "name": "BEHRENDS v. GOLDSTEEN",
+  "name_abbreviation": "Behrends v. Goldsteen",
+  "decision_date": "1902-03-29",
+  "docket_number": "No. 931",
+  "first_page": "518",
+  "last_page": "528",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 518"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "97 Fed. 303",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3833948,
+        1250743
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/97/0303-01",
+        "/alaska-fed/1/0566-01"
+      ]
+    },
+    {
+      "cite": "44 L. Ed. 163",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1239493
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0281-01"
+      ]
+    },
+    {
+      "cite": "175 U. S. 281",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1239493,
+        1250823
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0281-01",
+        "/alaska-fed/1/0574-01"
+      ]
+    },
+    {
+      "cite": "39 L. Ed. 1046",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1220442
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/158/0441-01"
+      ]
+    },
+    {
+      "cite": "158 U. S. 441",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1250809,
+        1220442
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0400-01",
+        "/us/158/0441-01"
+      ]
+    },
+    {
+      "cite": "81 Fed. 137",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        1250801,
+        3841637
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0445-01",
+        "/f/81/0137-01"
+      ]
+    },
+    {
+      "cite": "45 Pac. 429",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "33 Pac. 69",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Colo. App. 278",
+      "category": "reporters:state",
+      "reporter": "Colo. App.",
+      "case_ids": [
+        4468242
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/colo-app/3/0278-01"
+      ]
+    },
+    {
+      "cite": "5 Sup. Ct. 110",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 U. S. 45",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3513837
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/115/0045-01"
+      ]
+    },
+    {
+      "cite": "44 Pac. 69",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Morr. Min. R. 390",
+      "category": "reporters:specialty",
+      "reporter": "Morr. Min. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 Colo. 393",
+      "category": "reporters:state",
+      "reporter": "Colo.",
+      "case_ids": [
+        2589140
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/colo/6/0393-01"
+      ]
+    },
+    {
+      "cite": "17 Fed. 57",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3743122
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/17/0057-01"
+      ]
+    },
+    {
+      "cite": "6 Pac. 66",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 U. S. 527",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3511588
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/113/0527-01"
+      ]
+    },
+    {
+      "cite": "8 Fed. 692",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6740874
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/8/0692-01"
+      ]
+    },
+    {
+      "cite": "4 Morr. Min. R. 432",
+      "category": "reporters:specialty",
+      "reporter": "Morr. Min. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "12 Morr. Min. R. 360",
+      "category": "reporters:specialty",
+      "reporter": "Morr. Min. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "153 U. S. 109",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3577210
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/153/0109-01"
+      ]
+    },
+    {
+      "cite": "10 L. Ed. 572",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3335217
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/39/0524-01"
+      ]
+    },
+    {
+      "cite": "2 Wall. 525",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        8300309
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/69/0525-01"
+      ]
+    },
+    {
+      "cite": "101 U. S. 755",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5632137
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/101/0755-01"
+      ]
+    },
+    {
+      "cite": "13 Pet. 498",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3338113
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/38/0498-01"
+      ]
+    },
+    {
+      "cite": "135 U. S. 286",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3543032
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/135/0286-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 919,
+    "char_count": 21867,
+    "ocr_confidence": 0.655,
+    "pagerank": {
+      "raw": 5.918157198653979e-08,
+      "percentile": 0.3697505144122302
+    },
+    "sha256": "9dd35e6d3ea0a50bc5f35203fdb02def0fae055c4027dbfbca3eb923884d41fe",
+    "simhash": "1:2cf79cb37497fe1c",
+    "word_count": 3826
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BEHRENDS v. GOLDSTEEN."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nThis case comes on for hearing on the amended bill of complaint and answer, and the evidence as reported by the referee.\nThe first question presented to the court for consideration arises out of the peculiar circumstances of the case. The defendant proceeded, through the United States land office, to secure a patent to a certain lode mining claim, or alleged lode mining claim. The plaintiff, the owner and occupier of a town lot in Juneau, filed an adverse in the land office, and brought suit, in accordance with the mining laws, in support thereof. At the threshold of this case we are confronted with the question, can the holder, owner, and occupier of the surface ground on mineral land \u201cadverse,\u201d under the mining laws, the application for a patent of a lode mining claimant, where the town lot claimed is within the exterior boundaries of the lode mining claim? Section 2325, Rev. St. U. S., describes the procedure that must be taken to procure a patent to mineral land, and also states the presumption that shall follow if no adverse is filed in the land office within the 60-davs publication required by statute. Section 2326, Id.,-provides what the adverse shall contain, the procedure thereon in a court of competent jurisdiction, and the results that shall follow the judgment of the court at the trial. The party obtaining judgment in the court must file a copy of the judgment roll with the register of the land office, together with a certificate of the surveyor general that the requisite amount of work has been done or improvements made thereon, the description as required in other cases, the payment of $5 per acre for his claim, etc., whereupon patent may issue. This section, by giving the party adversing the right to a patent upon paying $5 per acre required for mineral lands, and otherwise complying with the statute, clearly implies, it would seem, that the adverse claim would be for mineral land. The entry and patent thereof that follows the adjudication of the court is the method provided only for the.entry of mineral lands.\nThe reading of the two sections referred to, viz., sections 2325 and 2326, impresses the mind so forcibly with the idea that they deal wholly with mineral lands, arid no other, that the conclusion seems inevitable that a town-lot occupier, claiming no interest in the lands as mineral lands, cannot adverse under said sections. Indeed, the Supreme Court of the United States, in construing these sections, says:\n\u201cTrie purpose of trie statute seems to rie that where there are two claimants to the same mine, neither of whom has yet acquired title from the government, they shall bring their respective claims to the same property, in the manner prescribed by statute, before some judicial tribunal located in the neighborhood where the property is, * * * and the result of the judicial investigation shall govern * * * the Land Department.\u201d Iron Smelting Co. v. Campbell, 135 U. S. 286, 10 Sup. Ct. 765, 34 L. Ed. 155.\nThe court in the above case did not pass upon the question as to whether or not the town-lot claimant could adverse the mineral claimant. That matter was not in issue, but the court was construing the statute generally, and defining its object 'and purpose. This question is also discussed by Lindley in, his work on Mines, at section 717; and I think the view of the question which he presents is a true one, namely, that, if an \u201cadverse\u201d could be entertained in such cases, it would result in the court being compelled to determine the mineral or nonmineral character of the land, instead of determining the rights of rival mineral claimants.\nThe Department of the Interior of our government, under the acts of Congress, seems to be vested with the sole power of disposing of the public lands, both mineral and nonmin-eral. The character of the land determines the price to be paid. Mineral lands have always been reserved from preemption, homestead, and desert locations, and from public grants of railroads. The necessity that this department of the government shall determine the character of the lands held for disposition under the various acts of Congress is often urgent and pressing. To divest it of that power would be \u25a0equivalent to taking from it all power to act in the disposition of the public domain, until power to determine the character of the public lands should, by act of Congress, be vested in \u25a0some other department or tribunal. It is sufficient to say at the present time that the only tribunal vested by act of Congress with this power is the Department of the Interior. That department having jurisdiction over all public lands, and alone being vested with the authority to determine the character of the lands under its disposal, it is illogical to hold that this power is transferred to the courts in \u201cadverse\u201d proceedings under the mining laws, and that in such proceedings the court can be called upon to pass on the question of the mineral or nonmineral character of lands, in order to determine the rights between town-lot claimants and mineral claimants. To hold that adverse proceedings could be instituted by a town-lot claimant against a mineral claimant would be to hold that the jurisdiction of the Dand Department to pass upon the question of the character of land under its control can be taken from the department and vested in the judicial branch of the government, without any express act of Congress upon the subject, simply by the filing of an adverse on the part of the town-lot claimant. Notwithstanding there may have been some such dicta expressed by the courts, and at one time by the department, I cannot give my assent to the \u2022doctrine. I therefore hold that, so far as the maintenance of this suit depends upon adverse proceedings in the land office, it is without support.\nA protest filed in the land office by the town-lot claimants-would raise the question of the mineral or nonmineral character of the land, and the Interior Department would thereupon determine that question, acting within its undoubted jurisdiction. A paper prepared as an adverse, when not properly in the land office as such, is often received and accepted as a protest, and is permitted to serve that purpose.\nFrom the decision of the Secretary of the Interior offered in evidence in this case, it would seem that the proceedings in the land office involved this question of the mineral or non-mineral character of the land claimed by the defendant in this action as a lode mining claim, and that the department determined the same. Of course, we all understand the offices of an \u201cadverse\u201d and a \u201cprotest\u201d in procedure to obtain patent to mineral land. The former denies the right of the first claimant to the land in question, and sets up his own title thereto. These are therefore adjudicated in the courts. The protest challenges the proceedings of the first locator, and thereby may raise the question of the character of the land for the action of the department. It is in the nature of a demurrer to the plaintiff\u2019s complaint. As before stated, whatever the character of the paper filed in the land office in this case, it is not sufficient, in my opinion, to vest this court with jurisdiction as an \u201cadverse\u201d proceeding.\nBut there are matters presented in the complaint on file that require the court to determine the rights of the parties as to the possession of the lands or lots in controversy in this case, outside of the proceedings in the Land Department. The plaintiff alleges that the so-called lode claim location was made, not for the purpose of extracting the precious metals therefrom, but thereby fraudulently to procure title to the surface land embraced within the exterior boundaries of said location, whereby the defendant might extort from the plaintiff, and any others in like situation, large sums of money for the lots upon which valuable improvements have been erected, and whereon the plaintiff and such others have lived and transacted business for many jmars, going back to the time long before said mineral location; that there are no precious metals in said pretended lode claim; that the pretended discovery was upon a naval reservation where no mineral location could be made, etc. The court is of the opinion that if the land in question was known to be nonmineral when located; if the claimed discovery was a mere pretense, and was upon a known military reservation; if the boundaries of the mineral location were, after the original staking, so extended as to take in a greater area of surface land; if the land so embraced had expensive structures thereon \u2014 these are all facts that may be considered as bearing upon the question of defendant\u2019s fraud in making the location, and the ultimate fact of the right of possession.\nI shall first examine the question of the reservation. Did the action of the naval officers, including that of the Secretary of the Navy approving the action of the naval officers in surveying, taking possession of, and occupying what has been called \u201cBlock C,\u201d constitute the same a reservation? Considering the correspondence between the several naval officers; the original survey of the town site of Juneau, whereby it appears that block C was set apart by the naval officers and occupied as a naval reservation by them (they having erected buildings thereon for such purpose), the report of Lieutenant Commander Henry E. Nichols to Secretary William E. Chandler as to the claimed naval reservation; the disposition thereof, in turning it over to the civil authorities until it might be needed for naval or military purposes; and the letter of\u25a0 Secretary Chandler in answer thereto, which is in the words' and figures following:\n\u201cReferring to your letter of Sept. 29th, concerning three houses .and a small land reservation at Juneau, Alaska, which you have reason to believe belong to the Navy Department, hut which are now occupied by the civil authorities, to whom you have given notice that such occupation is subject to the right of this department to take possession thereof when needed for naval (military) purposes, you are informed that your action is approved.\n\u201cVery respectfully, Wm. E. Chandler,\n\u201cSecretary of the Navy.\u201d\n\u2014Together with the continuous possession and occupation up to the present time \u2014 do all these matters present such acts and evidence as, under the authorities, constitute a reservation? The acts of the heads of the several departments in matters appertaining to their respective duties, it is said, are, in legal effect, the acts of the executive. Wilcox v. Jackson, 13 Pet. 498-513, 10 L. Ed. 264. See, also, Wolsey v. Chapman, 101 U. S. 755, 25 L. Ed. 915; United States v. Stone, 2 Wall. 525, 10 L. Ed. 572; Hegler v. Faulkner, 153 U. S. 109, 14 Sup. Ct. 779, 38 L. Ed. 653. See, also, the opinion of the Secretary of the Interior in this case. This opinion was, no doubt, prepared under the direct supervision of the assistant attorney general for the Department of the Interior, Judge Willis Van Deventher, a lawyer of a high order of ability and unusual legal acumen, and in whose judgment this court places great reliance. From all the facts presented by the record, under the authorities above referred to, the court is of the opinion that block C was at the time said lode claim was located, ever since has been, and is now, a naval reserve, \u2022duly and lawfully established.\nThe evidence contained in the record shows that the discovery of mineral, if any such was ever made within the exterior boundaries of said lode claim location, was at a point within the limits of said naval reserve. It has been so frequently decided that no mineral location can be lawfully made upon lands reserved from sale by the government, that it is deemed inadvisable and unnecessary to discuss that question. It' seems to follow inevitably that, as no mineral location can be lawfully made upon a reservation, the discovery or claimed discovery of mineral on block C in the town of Juneau could not be made the basis of a lawful location. The discovery in this case of mineral of value does not seem to be conclusively' proven. Discovery is a condition precedent to a lawful location. Murley v. Ennis, 12 Morr. Min. R. 360; Erhardt v. Boaro, 4 Morr. Min. R. 432, 8 Fed. 692; Id., 113 U. S. 527, 5 Sup. Ct. 560, 28 L. Ed. 1113. The discovery shaft must be-on the public domain, and on lands subject to location. Upton v. Larkin (Mont.) 6 Pac. 66; Little Pittsburg Min. Co. v. Amie Min. Co. (C. C.) 17 Fed. 57; Armstrong v. Lower, 6 Colo. 393; Golden T. Co. v. Mahler, 4 Morr. Min. R. 390; Moyle v. Bullene (Colo. App.) 44 Pac. 69. It has also been decided that, where a party allows a claim held by other parties to go to patent over his discovery shaft, the loss of the-discovery is the loss of the location. Gwillim v. Donnellan, 115 U. S. 45, 5 Sup. Ct. 110, 29 L. Ed. 348; Miller v. Girard, 3 Colo. App. 278, 33 Pac. 69. It is said that where a senior claimant allows a location to be made over his discovery shaft, and to go to patent, his claim becomes a void location, not only as to such patent, but as to all persons and claims. Morrison\u2019s Mining Rights, p. 34. It seems also to have been held that a location of a claim, based upon a discovery outside the exterior boundaries thereof, though the strike of the lode would extend into the claim staked off, is a claim without a discovery, and is void. Michael v. Mills (Colo. Sup.) 45 Pac. 429.\nThe discovery of the lode claim in controversy, being admittedly within the lines of block C, a naval reservation, and\u2019 therefore not on land open to exploration or location, must, upon authority as well as in reason, be void for all purposes, and held as no lawful location of a mineral claim. But it may be urged that, there has been a discovery of'mineral within the boundaries of said mining claim and outside the naval reserve; A discovery, to be of value, must be of rock in place, carrying mineral. The evidence in this case on the part of the defendant discloses some work don\u00e9 outside the reservation, in a certain cut; but the evidence of several witnesses for plaintiff is to the effect that they went into this cut, to the back end thereof, and no quartz or mineral-bearing rock could be discovered therein. The weight of the evidence clearly' shows that no mineral-bearing rock in place was shown in said cut or tunnel. It cannot be said, then, that any discovery has been made, beyond the limits' of said block C, of a character that would support a lode location. It is hardly worth the while, however, to consider this branch of the case. The discovery shaft, and the place where all the improvements of any value have been made, within the exteri- or boundaries of said lode claim as located, were within the exterior boundaries of said block C. The discovery upon which the location of the lode claim was based, and the only discovery to support such location, was within said block C. That being true, the location was and is void, and gives the defendant no right to the possession of any of the surface ground within the limits of said location \u00e1s made. The plaintiff'has actual possession of his lots,'has erected valuable improvements\u2018thereon, and has a possessory title-of value \u2014 a title that can be sustained in the courts of Alaska. Carroll v. Price (D. C.) 81 Fed. 137; Bennett v. Harkrader, 158 U. S. 441, 15 Sup. Ct. 863, 39 L. Ed. 1046; Malony v. Adsit, 175 U. S. 281, 20 Sup. Ct. 115, 44 L. Ed. 163.\nIf the defendant had' a legal mining location, she had a right to all the land within the surface bound\u00e1ries of her claim. Her claim would be an interest in the land \u2014 one that could be mortgaged, conveyed, and inherited. Her possession need not be continuous. So long as she performed the requisite annual labor to represent said claim, her right of possession would continue, and she would be under no greater obligation to rem\u00e1in upon the ground, or to fence the same or perform other acts of possession, than if she were the owner in fee. But not having a valid location, and being without possession, except as to the work and labor expended on block C, she is without right, title, or interest in the land in controversy. I might rest the decision of this case upon the propositions before considered, but, as much has been said about the value of the mineral found in the discovery shaft and tunnel on block C, I will refer to that matter briefly.\nMen who are reputed to be men of high integrity, and some of them without any interest in the lots or claim in dispute, have examined these workings. They, as well as men more or less interested, show by their testimony that there is no mineral-bearing rock to be found in either shaft or tunnel; that there \u00e1re found small stringers of quartz or quartzite which is not mineral-bearing; and that there is no vein or lode. The general consensus of opinion among the miners seems to be to the effect that there is no more mineral to be found in the rock at the point of discovery than is found at almost any other point extending across the mineral-bearing zone passing across this country, several miles in width. I am not unmindful that there is evidence of an interested party for defendant, who testifies that specimens of rock were taken from the tunnel on block C and handed Davis for assay,' and that Davis testifies to assays showing large values. I also recall that a miner of experience, who is familiar with the various properties of this section, says that he fo\u00fand at the shaft, at point of discovery, quartz which, from its looks \u2022and appearance, he knew came from a lode claim in the \u201cbasin,\u201d and never from the claim in dispute. I do not find this statement denied. If the statement is true \u2014 and there was said to be a large amount of this rock at the shaft\u2014 it must have been carried there for a purpose. If carried there in quantity, the purpose to be subserved must have been deception; and the court is constrained to suggest that, if any one would carry rock to that shaft to deceive, they would also hand it for a like purpose to Davis for assay.\nEvidence is offered to show that rock of value was taken at a point on what was supposed to be the same lode, at a distance from the end of the Bonanza lode claim of some 200 feet or more, to prove that the Bonanza lode claim contains value. This evidence is rejected, as not tending to show values in the Bonanza.. The common experience of, miners is that ore of value at one place on a lode, even where it is demonstrated to be the identical vein, is no evidence that such values will be found even 20 feet distant \u2014 much less, 200 feet arvay; at least, where it is not demonstrated that the ore of value is from the strike of the same vein. I am of the opinion that the so-called Bonanza lode claim is not shown to be a lode, nor to contain any values such as would warrant a practical miner in developing the same, or expending money thereon for that purpose; on the contrary, that this so-called Bonanza lode was never located with the expectation of obtaining valuable minerals therefrom, and such improvements by work and labor as have been expended thereon have not been expended with such expectation or purpose, but to secure title to the surface by the subterfuge of a mining claim, for the purpose of extorting money from lot owners occupying the surface of said land. I am of the opinion that the Bonanza location was made and attempted to be kept up as a fraudulent scheme, and without any merit whatsoever, and that as a mining claim it is without value. It follows from these views that the judgment in the several cases must go to the plaintiffs, and it is so ordered.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Arthur K. Delaney and Oscar Foote, for plaintiff.",
+      "J. H. Cobb, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "BEHRENDS v. GOLDSTEEN.\n(First Division. Juneau.\nMarch 29, 1902.)\nNo. 931.\n1. Public Lards \u2014 Mires and Mining \u2014 Town Site \u2014 Adverse Suit.\nTiie owner of a town lot in Alaska, unpatented, lying within the exterior boundaries of a mining claim, may not adverse an application for a patent for said mining claim, under sections 2325, 2326, Eev. Sit. [U. S Oomp. St. 1901, pp. 1429, 1430], and cannot maintain an action in a court of competent jurisdiction in support of such adverse. Contra, Young v. Goldsteen (D. C.) 97 Fed. 303.\n3. Mines and Mining \u2014 Public Lands \u2014 Department oe Interior\u2014 Jdrisdiction.\nUnder its power to dispose of the public domain, the Department of the Interior has sole jurisdiction and power to determine the mineral or nonmineral character of lands so held for disposition. The court has no such jurisdiction.\n8. Same \u2014 Town Site \u2014 Protest.\nThe owner of a town lot in Alaska, unpatented, lying within the exterior boundaries of a mining claim, may contest the mining location and determine the character of the ground by a protest filed in the land office.\n4. Public Lands \u2014 Executive Order \u2014 Reservation\nThe acts of the Secretary of the Navy in reserving parts of the public domain are, in legal effect, the acts of the President. A portion of the public lands in Alaska set apart by order of the Secretary of the Navy, and used by that department for public purposes connected with the navy, constitutes a valid reservation by the executive.\n6. Mines and Minerals \u2014 Discovery\u2014Reservation.\nA discovery of mineral within a tract of land reserved by proper authority, and used for naval purposes, is without effect and void, and will not sustain a location of a mining claim. The discovery of such mineral within the boundaries of such reservation will not sustain a mineral location which lies partly within and partly without such reservation. The whole mining claim is void.\nSuit in adverse proceeding by a town-lot claimant against the applicant for a mining patent under sections 2325, 2326,' Rev. St. [U. S. Comp. St. 1901, pp. 1429, 1430].\nArthur K. Delaney and Oscar Foote, for plaintiff.\nJ. H. Cobb, for defendant."
+  },
+  "file_name": "0518-01",
+  "first_page_order": 542,
+  "last_page_order": 552
+}

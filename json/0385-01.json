@@ -1,0 +1,99 @@
+{
+  "id": 8505385,
+  "name": "OSGOOD v. DONNELLY et al.",
+  "name_abbreviation": "Osgood v. Donnelly",
+  "decision_date": "1901-12-21",
+  "docket_number": "No. 437",
+  "first_page": "385",
+  "last_page": "391",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 385"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "26 Stat. 1095",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Or. 528",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2263269
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/29/0528-01"
+      ]
+    },
+    {
+      "cite": "26 Or. 428",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2267794
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/26/0428-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 576,
+    "char_count": 11666,
+    "ocr_confidence": 0.675,
+    "pagerank": {
+      "raw": 4.7492960360752035e-08,
+      "percentile": 0.29871625720264
+    },
+    "sha256": "f747716fbf9b4005d949a19dcba9dbdfb4fa241ee7492124f99ec8fd1fc46b9e",
+    "simhash": "1:7ee7e364ac99a6fa",
+    "word_count": 2046
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "OSGOOD v. DONNELLY et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nFrom the evidence it appears that Osborn, in November, 1898, on his way from Golovin Bay to Penny river, camped one night at the mouth of Snake river, and upon the ground in question; that on his return from Penny river he remained two nights encamped at the same place; he removed his tent and all equipage each visit, and left nothing in the nature of improvements on the ground either time. He testifies that upon his visit to the spot on November 30, 1898, he placed stakes at the corners of a tract 100x300 feet square, and a notice upon one stake as follows:\n\u201cNotice of Location Town Site at Steamboat Landing.\n\u201cNotice is hereby given that the undersigned claims the within described property, commencing at this the initial stake, thence running easterly one hundred feet to comer stake No. 1, thence northerly three hundred feet to stake No. 2, thence westerly one hundred feet to corner stake No. 3, thence southerly three hundred feet to the initial stake. Frank Osborn.\n\u201cDated November 30, 1898.\n\u201cWitness: M. Dowd, F. Koltcboff.\u201d\nHe then returned to Golovin Bay, where he remained for the winter, and where, he testifies, he was sick. In the spring of 1898, about May, one Pane delivered upon the tract 16 small logs for Osborn. While at Golovin Bay, Osborn made an arrangement with the defendants in this case to come to Nome and take possession of the ground for him, promising them one-quarter interest for their services. Pratt testifies he came in May, 1899, and established his tent on the tract staked by Osborn, and resided in that tent until August, 1899, when he went outside. Donnelly went outside also about September or October. Osborn first returned to the tract about June 28, 1899, and erected a tent near that of defendants, and resided in the same until some time in the fall, when he also left the property.\nThe evidence discloses that Osborn made no improvements on the large tract at any time, except to put up a tent, and reside there a short time \u2014 he says during July and August, 1899 \u2014 when he left the property. He has made no improvements of any kind upon the large tract, so far as the evidence in this case bears upon that question.\nThe evidence discloses that the plaintiff landed at Nome on the night of June 30, 1899, and at an early hour next morning, in company with other persons seeking to locate lots, he went back of all tents, buildings, stakes, and other signs of occupancy, except some large stakes several hundred feet back on the tundra, and which were by them taken for mining stakes, and there located the lot in question 50 by 100 feet square, erected his tent, staked and took exclusive possession of it. The lot so staked and located by the plaintiff was within the larger area theretofore located by Osborn. Plaintiff successfully kept off others who sought to enter upon his lot. The mining excitement was then at its height. Ships were continually arriving in the roadstead of Nome, and every foot of space on the Osborn tract farther in toward the beach and Front street was crowded with tents, including those of the defendants and Osborn, none of which, however, were on plaintiff's lot.\nOn July 13, 1899, Osborn made a deed of the west 25 feet of his tract to the defendants, being a tract 25 feet wide and 300 feet long. This deed embraced the west 25 feet of plaintiff\u2019s lot, then in his possession. His occupation was then known to the defendants.\nOne Hendrikes claimed to have staked a lot lapping over on the plaintiff\u2019s lot. Plis entry was subsequent to the plaintiff\u2019s. He erected some kind of a structure thereon, and a suit was begun by the defendants herein against both Hend-rikes and this plaintiff before the United States Commissioner Shepherd to recover their rights. This was prior to the date of the arrival of the judge of this court at Nome on July 23, 1900. An agreement was entered into by plaintiff as one of the defendants in that action with Donnelly and Pratt, by which certain matters were recited, whereby plaintiff agreed that \u201che has not and will not interfere with plaintiffs\u2019 [defendants in this case] use and enjoyment of said lands in the complaint described, until by some proper action in a court of competent jurisdiction his right to the possession thereof shall have been determined,\u201d etc. It also contains a provision that the agreement \u201cshall not be used as evidence against or in favor of either party in any future litigation in regard to the title or right to the possession of said lands,\u201d the lot in controversy in this suit. Defendants introduced this agreement in evidence, and urge very earnestly that it constitutes a bar to the plaintiff\u2019s recovery. Plaintiff claims that he complied with it in good faith, and that his right to possession to the lot had been determined by this court in actions coming to final decree between Osborn and other persons claiming adverse interests in the larger tract before he is claimed to have violated any of its provisions. However, defendants\u2019 answer contains only denials and a mere bold assertion of ownership. The matter can avail them nothing. This agreement neither sustains the denials nor proves the ownership in defendants. Its only purpose is to abate the plaintiff\u2019s suit, and it is not pleaded. Matters in abatement must be specially pleaded in the answer. Such pleas are not favored. If not specially pleaded, they are waived. Chamberlain v. Hibbard, 26 Or. 428, 38 Pac. 437; Fiore v. Ladd, 29 Or. 528, 46 Pac. 144.\nDefendants claim title through their deed from Osborn. Osborn, however, had no title to the property in dispute. The act of March 3, 1891 (26 Stat. 1095, c. 561), entitled \u201cAn act to repeal timber culture laws, and for other purposes,\u201d extended the town-site laws to Alaska. It also provided, in sections 12, 13, and 14 [U. S. Comp. St. 1901, pp. 1467, 1468], that any citizen of the United States \u201cnow or hereafter in possession of and occupying public lands in Alaska for the purpose of trade and manufactures, may purchase not to exceed\u201d 160 acres. It was not shown by the evidence, and it is not clear from defendants\u2019 briefs, under which of these, or what other, laws he claims to be entitled to hold the ground so claimed by him.\nHis notice, however, shows that it was for town-site purposes, and, that being admitted, his rights are to be determined under the provisions of section n of the act of March 3, 1891 [U. S. Comp. St. 1901, p. 1467], and section 2387, Rev. St. [U. S. Comp. St. 1901, p. 1457]. This section provides that, \u201cwhenever any portion of the public lands has been or may be settled upon and occupied as a townsite,\u201d the corporate authorities may enter \u201cthe land so settled and occupied in trust for the several use and benefit of the occupants thereof,\u201d etc. The person claiming under this law must both settle upon and occupy the lot, and Osborn did neither. His camping over night on the ground while on a journey was neither an act of settlement nor occupancy. The presence of the defendants upon the ground from May \u25a0to September, dwelling in a tent, together with a failure to show any other act of occupation or possession, is not sufficient to initiate a use, occupation, or possession for Osborn. His own presence on the land from June 28th to September, taken together with the fact that he only occupied a tent, like dozens of other persons, on the same tract, and that he left and abandoned the land in September, and made no permanent improvements thereon, and, so far as the evidence shows, never has either occupied or used it since, is not sufficient to show a settlement or occupation such as will justify the court in sustaining his title over that of plaintiff.\nThere is some evidence on the part of the defendants to ihow that Osborn laid claim to this property under section 12 of the act of March 3, 1891 [U. S. Comp. St. 1901, p. 1467], providing for the sale of such lands for the purpose of trade and manufactures. This section declares that any citizen of the United States \u201cnow or hereafter in possession of and occupying public lands in Alaska for the purpose of trade or manufactures may purchase not exceeding 160 acres.\u201d Osborn cannot acquire title under this provision upon the facts shown in evidence. The evidence does not disclose that he ever was in possession of or occupying the tract in question for the purpose of trade or manufactures. It only shows his mere occupancy for a brief space of time, and then his utter abandonment of the tract, without disclosing that he ever attempted in any way to use the same for any purpose whatever. The proviso in section 12 is clearly in favor of the plaintiff in any question of conflicting interests between Osborn and the plaintiff. Plaintiff has shown good faith in his settlement and occupation of his lot. He has built permanent improvements thereon, and has used and occupied it continuously from July 1, 1899, and is entitled to continue to do so.\nThis court will sign findings of fact, conclusions of law, and a decree for the plaintiff.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Cochran & Grimm, for plaintiff.",
+      "W. T. Love and B. F. Knott, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "OSGOOD v. DONNELLY et al.\n(Second Division. Nome.\nDecember 21, 1901.)\nNo. 437.\n1. Abatement \u2014 Pleading.\nMatters in abatement are not favored, and must be specially pleaded, or they are waived.\n2. Town Site \u2014 Settlement\u2014Occupancy.\nThat a claimant for a tract of land witbin a town site camped on the ground two nights while passing on a journey, and also two nights on his return, at which time he set stakes at its corners, without any other mark of settlement or occupancy; that later next spring he occupied a tent on the tract for a short time with dozens of other persons, but made no other settlement or occupancy, are not such acts of occupancy and use as enabled him to acquire a preference right by possession against one who first huilt a dwelling house on the lot, and continuously and in good faith occupied the ground thereafter.\n3. Public Land \u2014 Trade and Manufactures.\nA mere occupancy for a brief time by camping on tbe ground in a tent is not a sufficient evidence of tbe occupation of public land for tbe purpose of trade and manufacture upon' wbicb to base title under tbe land laws.\nThis is an action to quiet title to a town lot in Nome. Plaintiff shows in his complaint that he first entered upon the lot on the morning of July I, 1899, having come ashore from a vessel the same morning; that he set stakes at its four corners; that the lot was 50x100 feet square; and that he immediately entered into the actual use and occupation of the lot, and has at all times since remained in possession. The complaint further shows that the defendants were, at the time of bringing the action, seeking to acquire possession through a writ of restitution issuing out of this court in the case of Donnelly & Pratt v. Hendrikes, and that plaintiff, Osgood, was not a party to that suit; that defendants Don-nelly and Pratt claim \u25a0 some interest in the property; and plaintiff then prays for an injunction, that defendants state their title, and that plaintiff\u2019s title be quieted.\nDefendants answer, and deny all the allegations of the plaintiff\u2019s complaint in relation to title, and then, by way of an affirmative defense, allege generally that they are the owners in fee and entitled to the possession of' the property cl\u00e1imed by the plaintiff, particularly describing it, but the answer does not contain any allegations of fact, except the description. It further alleges that the plaintiff claims some' interest in the property, and concludes with a prayer to quiet title. The reply denies the defendants\u2019 ownership,\nCochran & Grimm, for plaintiff.\nW. T. Love and B. F. Knott, for defendants."
+  },
+  "file_name": "0385-01",
+  "first_page_order": 409,
+  "last_page_order": 415
+}

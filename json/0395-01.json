@@ -1,0 +1,69 @@
+{
+  "id": 8505431,
+  "name": "TOWN OF NOME v. REED, Com'r",
+  "name_abbreviation": "Town of Nome v. Reed",
+  "decision_date": "1901-12-28",
+  "docket_number": "No. 597",
+  "first_page": "395",
+  "last_page": "397",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 395"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 521",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 240,
+    "char_count": 4170,
+    "ocr_confidence": 0.64,
+    "sha256": "128b92c1fd33109a0a2c45a1efa0d65bbd3a20901d14de2ff415a1941f85ceb4",
+    "simhash": "1:a6dd1200070c8b69",
+    "word_count": 735
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "TOWN OF NOME v. REED, Com\u2019r."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThis is a mandamus proceeding, brought by the town of Nome to compel the defendant, as commissioner and ex officio justice of the peace for Nome precinct, to turn over to the town treasurer the sum of $258.55 collected by him as costs in criminal proceedings instituted under town ordinances, and paid into his hands along with fines and forfeitures imposed under the same ordinances. The defendant admits receiving the money, and it appears from the admitted facts in the case that all the fines and forfeitures received with the costs have been duly paid over by the defendant to the town treasurer. A distinction is made by the defendant between \u201cfines and forfeitures\u201d and \u201ccosts,\u201d and this distinction is based upon section 3 of the ordinance imposing the duty on the justice of the peace of hearing the cases. The section reads as follows:\n\u201cSec. 3. That said commissioner shall keep. a record of all the fines and forfeitures received by him from persons fined for violations of city ordinances, and he shall pay over the same weekly to the treasurer of the city of Nome.\u201d\nThe defense is made that all \u201cfines and forfeitures\u201d have been paid over to the treasurer, but that costs are not in-eluded in this section, and are not required to be paid over in consequence. The defendant also maintains that the costs belong to the United States, and not to the town; that the costs are compensation earned by him in his official capacity as justice of the peace, and should, therefore, be included in his account with the government.\nThe further defense is made to the application by way of a challenge to the jurisdiction of the town to pass and enforce criminal ordinances. The persuasive argument is made that no power is given to the town by subdivision 4 of section 20X (Act June 6, 1900, c. 786, 31 Stat. 521) to pass and enforce such ordinances; that the only power given is that of \u201cpolice protection,\u201d which includes only the right to appoint and raise funds to pay policemen for the purpose of maintaining order and enforcing the criminal laws passed by Congress.\nThe court ought not to hear either of these defenses in this action. It is admitted that the defendant received the costs in question, along with the fines and forfeitures already paid over, under and by virtue of the town ordinances in question. The \u201ccosts\u201d were received by the defendant under his assumed jurisdiction to enforce such ordinances. They were received with the consent of the town, and were paid to him by many persons for the use of the town. There is no law or rule under which he could be permitted to pay them to the United States. Whether or not the town has the right to pass, and in this way to enforce, criminal ordinances, ought not to be heard as a defense against the payment of this money. The defendant certainly has no right to retain it, nor has the United States any right to receive it. It was received by the defendant as the property of the town, and he ought not to be allowed to retain it after having so received it, and deny the right of the town in a collateral way. Let the peremptory writ issue.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "V. T. Pioggatt, for plaintiff.",
+      "John H. McGinn, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "TOWN OF NOME v. REED, Com\u2019r.\n(Second Division. Nome.\nDecember 28, 1901.)\nNo. 597.\n1. United States Commissioners\u2014 Costs \u2014 Courts.\nWhere a commissioner assumes to act as a police magistrate under the authority of town ordinances, and to impose fines, and forfeitures, and costs, in enforcement of such ordinances, for crimes not recognized by the laws of Alaska, he has no right to retain the \u201ccosts\u201d after having paid over the \u201cfines and forfeitures.\u201d There is no law or rule to justify his paying the \u201ccosts\u201d to the United States.\n2'. Estoppel \u2014 Mandamus.\nWhere the commissioner receives costs by virtue of his assumed jurisdiction to enforce town ordinances, he is estopped to deny the authority of the town and retain the \u201ccosts.\u201d He must pay them over to the town, and may be compelled to do so by mandamus.\nApplication for mandamus against the commissioner to pay over to the town of Nome \u201ccosts\u201d collected by him in the enforcement of town ordinances.\n-Granted.\nV. T. Pioggatt, for plaintiff.\nJohn H. McGinn, for defendant."
+  },
+  "file_name": "0395-01",
+  "first_page_order": 419,
+  "last_page_order": 421
+}

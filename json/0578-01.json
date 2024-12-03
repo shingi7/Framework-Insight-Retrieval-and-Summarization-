@@ -1,0 +1,405 @@
+{
+  "id": 8505903,
+  "name": "NOME-SINOOK CO. v. SIMPSON (LINDBLOOM et al., Interveners)",
+  "name_abbreviation": "Nome-Sinook Co. v. Simpson",
+  "decision_date": "1902-05-10",
+  "docket_number": "No. 577",
+  "first_page": "578",
+  "last_page": "591",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 578"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "27 Pac. 240",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 L. Ed. 333",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3465408,
+        3465669
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/67/0544-01",
+        "/us/67/0545-01"
+      ]
+    },
+    {
+      "cite": "2 Black, 545",
+      "category": "reporters:scotus_early",
+      "reporter": "Black",
+      "case_ids": [
+        3465669
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/67/0545-01"
+      ]
+    },
+    {
+      "cite": "35 Pac. 1041",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 Cal. 462",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1922868
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/101/0462-01"
+      ]
+    },
+    {
+      "cite": "45 Pac. 1047",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 Cal. 364",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2268110
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/61/0364-01"
+      ]
+    },
+    {
+      "cite": "12 Nev. 312",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        4651936
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/12/0312-01"
+      ]
+    },
+    {
+      "cite": "9 Nev. 247",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "9 Nev. 248",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "27 Pac. 1105",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Nev. 25",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        4626781
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/17/0025-01"
+      ]
+    },
+    {
+      "cite": "87 Fed. 801",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3839519
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/87/0801-01"
+      ]
+    },
+    {
+      "cite": "31 C. C. A. 223",
+      "category": "reporters:federal",
+      "reporter": "C.C.A.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 Sup. Ct. 715",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        5705608,
+        5705645
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/177/0501-01",
+        "/us/177/0523-01"
+      ]
+    },
+    {
+      "cite": "177 U. S. 523",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5705645
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/177/0523-01"
+      ]
+    },
+    {
+      "cite": "177 U. S. 505",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5705174
+      ],
+      "weight": 9,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/177/0505-01"
+      ]
+    },
+    {
+      "cite": "175 U. S. 571",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1239460
+      ],
+      "weight": 9,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0571-01"
+      ]
+    },
+    {
+      "cite": "39 L. Ed. 1046",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1220442
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/158/0441-01"
+      ]
+    },
+    {
+      "cite": "158 U. S. 441",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1250809,
+        1220442
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0400-01",
+        "/us/158/0441-01"
+      ]
+    },
+    {
+      "cite": "135 U. S. 286",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3543032
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/135/0286-01"
+      ]
+    },
+    {
+      "cite": "121 U. S. 393",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        678701
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/121/0393-01"
+      ]
+    },
+    {
+      "cite": "119 U. S. 485",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8300046
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/119/0485-01"
+      ]
+    },
+    {
+      "cite": "115 U. S. 45",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3513837
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/115/0045-01"
+      ]
+    },
+    {
+      "cite": "114 U. S. 576",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11295295
+      ],
+      "weight": 6,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/114/0576-01"
+      ]
+    },
+    {
+      "cite": "111 U. S. 350",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3506151
+      ],
+      "weight": 5,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/111/0350-01"
+      ]
+    },
+    {
+      "cite": "104 U. S. 636",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3493873
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/104/0636-01"
+      ]
+    },
+    {
+      "cite": "21 Stat. 605",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 U. S. 160",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        468243
+      ],
+      "weight": 9,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/163/0160-01"
+      ]
+    },
+    {
+      "cite": "21 Stat. 505",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 520",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 960,
+    "char_count": 27556,
+    "ocr_confidence": 0.613,
+    "pagerank": {
+      "raw": 8.138363859351185e-08,
+      "percentile": 0.47214837621807293
+    },
+    "sha256": "9019a2e294be097fd02f884a47e474c7d457f74c02bdc330497c563a68d7ed4b",
+    "simhash": "1:4f02c402bbbfde65",
+    "word_count": 4835
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "NOME-SINOOK CO. v. SIMPSON (LINDBLOOM et al., Interveners)."
+    ],
+    "opinions": [
+      {
+        "text": "W ICKERSHAM, District Judge.\nThis is an application by the town of Nome for leave to intervene in this action. Objection by plaintiff and defendant.\nOn August 6, 1901, the defendant applied, under the provisions of sections 2325 and 2326 of the Revised Statutes of the United States [U. S. Comp. St. 1901, pp. 1429, 1430], for a patent to the Simpson placer mine, located over a portion of the main town of Nome, and in the Cape Nome mining district. Within the time limited by law the plaintiff filed an adverse claim in the land office, and began this suit in ejectment to recover a portion of the ground, alleging it to be a part of tbe Utah and Winchester placer mines, theretofore located by its grantors. Thereafter, and on March 7, 1902, Lindbloom filed a complaint in intervention, alleging his ownership of certain town lots within the disputed area; his waiver of his adverse claim in the land office in consideration of an agreement by Simpson to sell them to him when patent should be issued to him; and an allegation of connivance and fraud between plaintiff and defendant, whereby defendant, after the expiration of Ifindbloom\u2019s time for filing an adverse claim had expired, agreed to abandon the land, and permit plaintiff to acquire title. He alleged the bona fides of the Simpson claim, and asked to appear and defend the location, at least so far as to protect his own interests. His intervention was allowed over the objection of both plaintiff and defendant.\nThe complaint in intervention tendered by the town of Nome alleges that the placer mines of both plaintiff and defendant are located within the area covered by the town of Nome, and that said tracts were, long-prior to the location of either of said claims, and now are, in the actual use and occupation of the people of the town for purposes of trade and business, and embraced within the limits of the town, which was incorporated under chapter 21 of the Civil Code of Alaska (Act June 6, 1900, c\u2018. 786, 31 Stat. 520) on April 10, 1901, and that the main street of the town is located on said claims.\nThe published notice of Simpson\u2019s application for mineral land patent given by the land office to all parties claiming an interest in the land is also attacked for fraud and insufficiency, and the facts upon which both plaintiff and defendant rely are denied, and the bona fides of their locations put in issue. It is alleged that by reason of the insufficiency of the notice of application for a patent, neither the town of Nome nor any one else in interest had any notice, and that the notice was purposely made misleading to prevent the filing of adverse claims.\n\u25a0Both plaintiff and defendant object to the proposed'intervention of the town of Nome upon several grounds, but principally because the town filed no adverse claim in the land office in support of its rights within the 60 days prescribed in section 2325 of the Revised Statutes. They urge that,- as neither Tindbloom nor the town filed an adverse claim, it must be conclusively presumed \u201cthat no adverse claim exists\" in their favor.\n-When, as in this case, an application for a mineral patent \u25a0is made to the land office, notice given, and an adverse claim filed, \u201cit shall be the duty of the adverse claimant, within thirty days after filing his claim, to commence proceedings in a court of competent jurisdiction, to determine the question of the right, of possession, and prosecute the same with reasonable diligence to final judgment; and a failure so to do shall be a waiver of his adverse claim.\u201d Section 2326, Rev. St. 1878. The plaintiff filed an adverse claim in the land office and began this suit within 30 days thereafter to determine the qfiestion of the right of possession, and now objects to the intervention because the intervener did not also file an adverse claim within the time limited.\nThe determination of the point in dispute involves an inquiry into the very character of the action now pending, and also the extent of the jurisdiction of this court in relation to it. Upon the one hand it is urged that the proceeding or suit which the adverse claimant must begin in a court of competent jurisdiction in support of his claim is only that ordinary action which he could bring under the local law without regard to the patent proceeding, to determine the question of the right of possession to the claim; that the suit is independent of the land office proceeding both as to parties and. subject-matter, and is to be governed as to parties, pleadings,- and practice only by the local law; that the land office proceedings are immaterial, and need not be referred to in the pleadings; and that, whether it is a suit to quiet title or in ejectment, the pleadings need only contain those allegations required by the local law, and that proper and necessary parties plaintiff and defendant or in intervention, under the local law, are not barred by sections 2325 and 2326 and the amend-atory act of 1881 (Act March 3, 1881, c. 140, 21 Stat. 505 [U. S. Comp. St. 1901, p. 1430], though they have not filed an adverse claim in the land office.\nOn the other hand, it is urged that the suit is a part of the special proceeding provided for by acts of Congress, and is dependent upon those provisions for support. To put it in the exact words of counsel for the defendant, the \u201ccourt becomes, under the special proceeding authorized by sections 2325 and 2326 of the Revised Statutes of the United States, an auxiliary of the executive department to try conflicts in mining claims, and to report the results for the guidance of the executive department in the disposal of its public lands.\u201d Very much of all this may be admitted, but the real point in question is this: Does the power of the \u201ccourt of competent jurisdiction to determine the question of the right -of possession,\u201d mentioned in section 2326, flow in any degree from that act? Does the act either confer any power or jurisdiction upon the court, or in any wise limit its power or jurisdiction, under the law of its creation, either as to parties or the subject-matter of the action? The answer to this inquiry is decisive of the matter before the court for this reason, viz., if this court is authorized to try the case solely under the provisions of the Alaska Code, the interveners may properly come in as parties; but, if the power or jurisdiction of the court is limited by the acts of Congress to a controversy between the applicant and adverse claimant in the land office proceeding, then the intervention cannot be allowed, for the town has not filed an adverse claim in the land office. It will be noticed that the statute only requires the suit to be brought in a court of competent jurisdiction (and the Supreme Court of the United States has declared that this means either a local territorial or state court), or when, under the general rules, a federal question is involved, in a federal court. Neither does the statute contain a direct limitation as to parties, for it carefully states that the adverse claimant shall commence proceedings to determine the question of the right of possession, not his right of possession. The whole question of the right, of possession is thus brought before the trial court, without limitation, and since the amendatory act of 1881 neither the applicant nor the adverse claimant can secure a patent unless one or the other establishes affirmatively his exclusive right to the possession and patent against the government and all persons interested. Perego v. Dodge, 163 U. S. 160, 16 Sup. Ct. 971, 41 L. Ed. 113.\nIn line with this instruction, the amendatory act of March 3, 1881, provides:\n\u201cThat if, in any action brought pursuant to section twenty-three hundred and twenty-six of the Revised Statutes, title to the ground in controversy shall not he established by either party, the jury shall so find, and judgment shall be entered according to the verdict. In such case, costs shall not be allowed to either party, and the claimant shall not proceed in the land office or be entitled to\u201ea patent for the ground in controversy until he shall have perfected his title.\u201d 21 Stat. 605.\nClearly, there is nothing in the original statute or the amendment of 1881 which prevents the court from determining the right of possession, according to the evidence, under the law of the locality, or denying to either party a favorable-judgment, unless one or the other establishes a valid and legal title under the mining laws of the United States and the local rules and customs of miners. These statutory provisions have been before the Supreme Court of the United' States many times, and upon a careful examination of the cases I am persuaded that they do not sustain the objections urged against the intervention of Rindbloom and the town of Nome. Smelting Co. v. Kemp, 104 U. S. 636, 26 L. Ed. 875; Chambers v. Harrington, 111 U. S. 350, 4 Sup. Ct. 428, 28 L. Ed. 452; Richmond v. Rose, 114 U. S. 576, 5 Sup. Ct. 1055, 29 L. Ed. 273; Gwillim v. Donnellan, 115 U. S. 45, 5 Sup. Ct. 1110, 29 L. Ed. 348; Wolverton v. Nichols, 119 U. S. 485, 7 Sup. Ct. 289, 30 L. Ed. 474; Noonan v. Caledonia Min. Co., 121 U. S. 393, 7 Sup. Ct. 911, 30 L. Ed. 1061; Iron Silver Min. Co. v. Campbell, 135 U. S. 286, 10 Sup. Ct. 765, 34 L. Ed. 155; Bennett v. Harkrader, 158 U. S. 441, 15 Sup. Ct. 863, 39 L. Ed. 1046; Perego v. Dodge, 163 U. S. 160, 16 Sup. Ct. 971, 41 L. Ed. 113; Blackburn v. Portland, 175 U. S. 571, 20 Sup. Ct. 222, 44 L. Ed. 276; Shoshone Min. Co. v. Rutter, 177 U. S. 505, 20 Sup. Ct. 726, 44 L. Ed. 864; De Lamar\u2019s Min. Co. v. Nesbitt, 177 U. S. 523, 20 Sup. Ct. 715, 44 L. Ed. 872.\nIn one of these latest decisions the Supreme Court of the United States says upon this point:\n\u201cThe first observation to be made is that Congress did not intend to prescribe jurisdiction in any particular court, state or federal. * * * Without undertaking to say that no cases can arise under this legislation which turn upon a disputed construction, and therefore presenting a question essentially federal in its nature, we hold that clearly, where a patent is authorized to be issued to the party in possession, the statutes refer the contest to the ordinary tribunals, which are to determine the rights of the parties without any controversy as to the construction of those acts, but are to be guided by the laws, regulations, and customs of the mining district in which the lands are situated.\u201d Blackburn v. Portland, 175 U. S. 571, 20 Sup. Ct. 222, 44 L. Ed. 276.\nAnd in Shoshone Min. Co. v. Rutter, 177 U. S. 505, 20 Sup. Ct. 726, 44 L. Ed. 864, the court said:\n\u201cWhile, on the other hand, as we have heretofore shown, in these adverse suits preliminary to a patent of mineral lands not merely questions of law arising under the statutes of the United States, but questions of fact and questions arising under local rules and customs and state statutes are open for consideration. * * * And finally, it is said that congress cannot confer any jurisdiction on the state courts, that they may decline to entertain these adverse suits, and that congress cannot compel them to do so. But here again we are met with the fact that congress has left all controversies in respect to right of possession, not exceeding \u00a72,000 in value, to the state courts.\u201d\nIn the case of Chambers v. Harrington, 111 U. S. 350, 4 Slip. Ct. 428, 28 L. Ed. 452, the court said: \u201cWhat is a competent court is not specifically stated, but it undoubtedly means a court of general jurisdiction, whether it be a state court or a federal court,\u201d and then asserts that \u201cthe very essence of the trial is to determine rights by a regular procedure in such court, after the usual methods\u201d; and to the same effect is the decision in Perego v. Dodge, 163 U. S. 160, 16 Sup. Ct. 971, 41 L. Ed. 113.\nUpon a careful consideration of these decisions of the Supreme Court of the United States, I am satisfied that the following conclusions are well founded: (1) That Congress did not intend by sections 2325 and 2326 and the amendatory act of 1881 to prescribe jurisdiction in any particular court, state or federal. (2I The local trial court may determine the action, without any controversy as to the acts of Congress in relation to patent proceedings, and therefore no federal question is necessarily involved. (3) The state or local court shall be guided and controlled as to jurisdiction, practice, and procedure only by the laws, regulations, and customs of the mining district and the state or territorial statutes \u2014 the law of the forum. (4) No power or jurisdiction is conferred upon the local courts by the provisions in relation to patent proceedings, nor are their general powers or jurisdiction limited in any respect thereby.\nAnd these conclusions are further strengthened by the decisions of other federal and state courts. In Shoshone Min. Co. v. Rutter, 31 C. C. A. 223, 87 Fed. 801, the Circuit Court of Appeals, Ninth Circuit, sustained each of the above conclusions, except the second, in this language:\n\u201cThe proceedings required to be commenced, under the provisions \u2022of section 2326, in a court of competent jurisdiction, may be brought either in the state or national courts, at law or in equity, as the facts may warrant; but section 2326 does not confer any special jurisdiction on the state courts. When the suits are brought and tried in the state courts, they are subject to the provisions of the state statutes in relation to such eases, and the courts proceed in the manner prescribed by such statutes.\u201d\nThis case was reversed upon appeal to the Supreme Court of the United States upon the point that no federal question was involved, though sustained in respect to the quotation above made. Shoshone Min. Co. v. Rutter, 177 U. S. 505, 20 Sup. Ct. 726, 44 L. Ed. 864.\nIn the case of Rose v. Richmond Min. Co., 17 Nev. 25, 27 Pac. 1105 (cited with approval on this point by the Circuit Court of Appeals, Ninth Circuit, in Shoshone Min. Co. v. Rutter, 31 C. C. A. 223, 87 Fed. 801), the Supreme Court of Nevada reaffirmed its decision in the case of 420 Min. Co. v. Bullion Min. Co., 9 Nev. 248. Its language is:\n\u201cIn 420 Min. Co. v. Bullion Min. Co., 9 Nev. 247, we said: \u2018Congress did not, by the passage of this act, * * * confer any additional jurisdiction upon the state courts. The object of the law, as we understand it, was to require parties protesting against the issuance of a patent to go into the state courts of competent jurisdiction, and institute such proceedings as they might, under the different forms of action therein allowed, elect, and there try \u201cthe right of possession\u201d to such claim, and have the question determined. The \u25a0acts of Congress do not attempt to confer any jurisdiction not already possessed by the state courts, nor to prescribe a different form of \u2022action. * * * We are of the opinion that when the action is brought, whatever may be its character, it must be tried by the same rules, governed by the same principles, and controlled by the same statutes that apply to such actions in our state courts, irrespective of the acts of Congress.\u2019 Section 1674 |Comp. Laws Nev.] was evidently passed to supplement the act of Congress as stated in the-Golden Fleece Case [12 Nev. 312], and it designates the jurisdictional facts that are necessary to he alleged in the complaint. The complaint in this action substantially conforms to the language of the' Statute, and we are of the opinion that, tested by the statute and the previous decisions of this court, it states facts sufficient to constitute a cause of action to determine the right to possession to the mining ground in controversy.\u201d\nThis case was affirmed, including the language from 9 Nev. 248, upon an appeal to the Supreme Court of the United States, in Richmond Min. Co. v. Rose, 114 U. S. 576, 5 Sup. Ct. 1055, 29 L. Ed. 273.\nCounsel for applicant and adverse complainant in the land office proceedings rely with confidence upon the case of Mont Blanc Min. Co. v. Debour, 61 Cal. 364, where the identical point in question was decided in their favor. The case was an appeal by interveners from an order denying their right of intervention, and the syllabus states the gist of the opinion clearly:\n\u201cIn an action brought under section 2326, Rev. St. U. S., to determine the right of possession to a mining claim, those only who have-filed claims to the land in the United States Land Office can properly be made parties to the action, and such parties only are entitled to-intervene.\u201d\nThis case, however, has been recently overruled in principle by the Supreme Court of California in two cases. The case of Altoona Q. M. Co. v. Integral Q. M. Co. (Cal.) 45 Pac. 1047, sustains the doctrine announced by the Nevada courts,, which it quotes as authority, and says:\n\u201cThe rights of the parties will be entirely determined by the laws-of the United States granting the right to enter upon the mineral lands, to extract metal therefrom, and to acquire title thereto, and the suit must be tried in every respect as though no contest was pending in the land office of the United States in regard to the,right to purchase the same.\u201d\nIn the case of Quigley v. Gillett, 101 Cal. 462, 35 Pac. 1041, the same court said of this action:\n\u201cThe action was brought to \u2018determine the question of the right of possession\u2019 to certain mining land, and that was the only question involved. The court had nothing to do with the proceedings in the-land office, and had no power to determine their regularity or irregularity, sufficiency or insufficiency.\u201d\nThe California courts cite with approval 420 Min. Co. v. Bullion Min. Co., 9 Nev. 248, which, by implication at least, has also been approved by the Supreme Court of the United States in Richmond Min. Co. v. Rose, supra.\nUpon a careful examination of all the decisions which are-binding authority upon this court, as well as those which are very presuasive, I am satisfied that section 2326 neither prescribes the jurisdiction nor limits it in any court having jurisdiction to try this action. It is true that this is a continuation of the land office proceedings, in that it is one of the steps required by the United States statutes to be taken by the parties who desire to contest the issuance of a mining patent. When the step is taken, however, in compliance with the statute, it must be according to the law of the forum, both as to-parties and subject-matter.\nIn Lindley on Mines, the author seems unable to reach a conclusion satisfactory to himself from an examination of the authorities then available. The federal Circuit Courts as well as some of the state courts in the western mining states had then adopted the rule that a suit under section 2326 was one-arising under the laws of the United States, and necessarily involved a federal question, and that the jurisdiction of the trial court was necessarily limited to the parties litigant in the land office proceedings. This doctrine was not indisputably overthrown until the case of Blackburn v. Portland was decided by the Supreme Court of the United States at the October term, 1899 (175 U. S. 571, 20 Sup. Ct. 222, 44 L. Ed. 276). Following that, the cases of Shoshone v. Rutter, supra, and De Lamar v. Nesbitt, supra, were clearly explained, and defined the jurisdiction of the trial court, and its methods and rule of procedure. Even amid the uncertainties and doubts then prevailing, Lindley states that:\n\u201cIt may be accepted as tbe established doctrine that tbe act of Congress under consideration does not confer any additional jurisdiction upon tbe state courts. Tbe action to determine an adverse claim to unpatented mining claims is an action concerning real property. \u2022Sucb a mining claim is real estate, and tbe jurisdiction to try controversies arising out of conflicting claims to real estate is vested in the state courts by virtue of tbe state constitutions.\u201d Lindley on Mines, \u00a7 753.\nThere can be no question, it seems, about the general jurisdiction of the court, and yet it may be objected that the authorities cited have not sufficiently overruled the case of Mont Blanc v. Debour, 61 Cal. 364, denying the intervention \u25a0of one who has not filed an adverse claim. The case of Noonan v. Caledonia M. Co., 121 U. S. 393, 7 Sup. Ct. 911, 30 L. Ed. 1061, is sufficiently in point. That was a suit to determine the rights of the applicant and adverse claimant to a mining claim in the territory of Dakota and which was carried to the Supreme Court of the United States. During the trial below it appeared that one Mahan, not a party of record, asserted an interest in the claim, and was a necessary party lo a complete determination of the matter in controversy. He had not filed an adverse claim in the land office. He was made a party defendant notwithstanding that fact, and the judgment was affirmed. The court determined that the Dakota provision in relation to the amendment of pleadings by adding to or striking out the name of any party, or by correcting a mistake in the name of any party, applied to the \u25a0case, and sustained the decision of the court in permitting Mahan to be a party to the case. It follows that, if he could be made a partjr by a motion without his consent, he might hav<* become a party by intervention. It seems to me that this case settles the very point at issue, and permits an intervention by one who has not filed an adverse claim. I conclude, from an examination of the authorities, that this suit, while it is a step required by the act of Congress in aid of the land office proceeding, is supported by the jurisdiction which this court possesses by virtue of the Code of Alaska, both as to p\u00e1rties and subject-matter. It is a suit in ejectment, and the pleadings should contain only those jurisdictional allegations' required by chapter 32 of the Code of Civil Procedure in relation to actions to recover the possession of real property. Section 303 of that chapter authoritatively states what such a complaint shall contain. It should contain nothing more, and need contain no reference to the land office proceedings. It may be true that neither of the interveners' in this case can'procure a patent by virtue of their appearance in this case, because they have not filed an adverse claim in the land office. But they clearly have the right to contest the claims of the applicant and adverse claimant to siich patent, and, if the interveners are the real owners of this property, and the'court shall so determine by its judgment, the result wall be that neither the applicant nor adverse claimant will' receive a patent, whereby the rights of the interveners will be fully protected.\nIf, however, I were to reach the opposite conclusion in this case, and deny the right of the interveners to appear and defend, because they had filed no adverse claim, yet I would, of my own motion (Parker v. Winnipiseogee, 2 Black, 545, 17 L. Ed. 333), be compelled to dismiss the action for want of jurisdiction on account of the fatal jurisdictional defect in the motion published by the land office. If this is a continuation of the land office proceeding, and dependent upon it for jurisdiction, such a result must necessarily follow. In Colorado, where that theory is followed by the state courts, the Supreme Court in the case of Seymour v. Fisher, 27 Pac. 240, says:\n\u201cBut if, by reason of the fraudulent conduct of the patentee, the \u2022would-be eontestor is kept in ignorance of the pendency of patent proceedings, and is thus prevented from availing himself of the statutory remedy, a court of equity may, in our judgment, interfere. * * * And when the foundation is laid by proof showing clearly the fraud of the applicant, whereby the complaining party has been kept in ignorance of the existence of the patent proceedings, the court may consider the right of such party to the ground in controversy.\u201d\nIn my judgment, the notice of the application for patent in the land office proceeding in this case is fatally defective, and cannot be made to support a patent in opposition to the rights of other claimants, who had no other notice. However, I accept the view expressed by the Supreme Court of California in the case of Quigley v. Gillett, 101 Cal. 462, 35 Pac. 1041, that this court \u201chas nothing to do with the proceedings in the land office, and no power to determine as to their regularity or irregularity, sufficiency or insufficiency.\u201d This court stands upon its own jurisdiction, and not that acquired by the notice in the initiation of the land office proceedings ; otherwise the interventions would be denied, and the case dismissed, for want of jurisdiction.\nThe right of an intervener claiming ownership and possession against both the applicant and adverse claimant under the patent proceedings to appear in this action and contest their claims is further strengthened by the last clause of section 2325: \u201cAnd thereafter no objection from third parties to the issuance of a patent shall be heard, except it be shown that the applicant has failed to comply with the terms of this chapter.\u201d Third parties, then, may appear as protestants to show that the applicant has failed to comply with the terms of the law, and is not entitled to a patent. The statute, however, does not limit the appearance of these third parties to the Land Department. They may appear at any stage of the proceedings to show the failure of the applicant to comply with the law. A protestant in the land office proceeding is an intervener who appears by virtue of the statute to show that the applicant has failed to comply with the law; and intervener in this action is a protestant, who appears by virtue of the same statute to show that the applicant has failed to comply with the law. Neither can acquire the status or right of an adverse claimant by such appearance, but either may defend his rights by showing the failure of the applicant or claimant to comply with the law. It is my opinion that the intervention of such third parties for such purposes is allowed and justified by the provisions of the language quoted from the statute.\nUpon an examination of the complaints in intervention, I am satisfied that both Lindbloom and the town of Nome have an interest in the matter of litigation against both the applicant and adverse claimant in the land office, and are proper parties to intervene. The objections to the intervention of the town of Nome are overruled, and leave is given to file its complaint.",
+        "type": "majority",
+        "author": "W ICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "F. E. Fuller, for plaintiff.",
+      "T. M. Reed, Jr., and P. C. Sullivan, for defendant.",
+      "Ira D. Orton, for intervener Ifindbloom.",
+      "V. T. Hoggatt, for intervener town of Nome."
+    ],
+    "corrections": "",
+    "head_matter": "NOME-SINOOK CO. v. SIMPSON (LINDBLOOM et al., Interveners).\n(Second Division. Nome.\nMay 10, 1902.)\nNo. 577.\n1. Mires and Minerals \u2014 Adverse Suit \u2014 Jurisdiction\u2014Patent.\nAn adverse suit brought by an applicant for a mining patent may be maintained in the District Court of Alaska, the practice and parties being regulated solely by the Codes.\n2. Same \u2014 Interveners\u2014Municipal Corporations \u2014 Parties.\nA municipal corporation, though not an adverse claimant in the land office proceeding, may intervene in a suit against an-adverse claimant by the applicant for a mining patent, and protect its public property lying within the limits of the mining location, by showing that neither has complied with the law.\nApplication of the town of Nome to intervene in a suit brought by the applicant for a mining patent under section 2325, Rev. St. [U. S. Comp. St. 1901, p. 1429], against an adverse claimant.\nF. E. Fuller, for plaintiff.\nT. M. Reed, Jr., and P. C. Sullivan, for defendant.\nIra D. Orton, for intervener Ifindbloom.\nV. T. Hoggatt, for intervener town of Nome."
+  },
+  "file_name": "0578-01",
+  "first_page_order": 602,
+  "last_page_order": 615
+}

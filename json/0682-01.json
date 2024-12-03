@@ -1,0 +1,91 @@
+{
+  "id": 8506137,
+  "name": "UNITED STATES v. SHEEP CREEK JOHN",
+  "name_abbreviation": "United States v. John",
+  "decision_date": "1902-12-08",
+  "docket_number": "No. 333b",
+  "first_page": "682",
+  "last_page": "683",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 682"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "33 Ga. 133",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "24 W. Va. 625",
+      "category": "reporters:state",
+      "reporter": "W. Va.",
+      "case_ids": [
+        8640782
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/w-va/24/0625-01"
+      ]
+    },
+    {
+      "cite": "30 Stat. 1334",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 184,
+    "char_count": 2082,
+    "ocr_confidence": 0.646,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2052544376139304
+    },
+    "sha256": "6ef77eefa41f9a9672a7a5a4ea79c46ff552518fb203fc239d7ec0a0cfcd48de",
+    "simhash": "1:e2933ba0f9388db1",
+    "word_count": 363
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES v. SHEEP CREEK JOHN."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nIn the case of the United States v. Sheep Creek John, in which a motion is made to dismiss-the appeal, an examination of the undertaking on appeal discloses that the parties undertake \u201cthat the appellant will pay-all costs which may be awarded against said defendant on-appeal.\u201d\nSection 443 of the Criminal Code (Act March 3; 1899, c. 4.29, 30 Stat. 1334) requires, as one of the conditions of the bond, that \u201cthe appellant will pay all costs and disbursements-that may be awarded against him on appeal.\u201d Under the authorities referred to in the Case of Florence alias Maud Rice-(just decided) ante, 676, I am quite clear that the undertaking in this case is void. The authorities hold that, if \u201ca condition-prescribed by statute is omitted in the recognizance, it is-void.\u201d State v. McGown, 24 W. Va. 625; Alexander v. Bates, 33 Ga. 133.\nAccepting this authority as a fair statement of the law, I am compelled to hold that the paper offered as an undertaking in this case is totally void, and therefore one that cannot be treated as merely defective, and capable of being aided by the filing of a new bond. A new undertaking has been filed, which is sufficient in form and substance; but it comes too late, the law requiring these appeals to be perfected within 30 days, and the bond on appeal to be filed within that time. Should a substitute bond be permitted to be filed now, it would be in direct violation of the terms of the statute. The motion to dismiss is therefore sustained, as in the case of U. S. v. Florence alias Maud Rice.\nJudgment accordingly.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Robert A. Friedrich, U. S. Dist. Atty., for plaintiff.",
+      "John G. Heid, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES v. SHEEP CREEK JOHN.\n(First Division. Juneau.\nDecember 8, 1902.)\nNo. 333b.\n1. Appeal and Error \u2014 Bond\u2014Undertaking.\nThe undertaking on appeal in tbis ease held so deficient as to be void and incapable of forming the basis of an appeal, U. S. v. Florence alias Maud Rice, ante, 676, followed.\nMotion to dismiss appeal from justice\u2019s court because the undertaking on appeal was void.\nAppeal dismissed.\nRobert A. Friedrich, U. S. Dist. Atty., for plaintiff.\nJohn G. Heid, for defendant."
+  },
+  "file_name": "0682-01",
+  "first_page_order": 706,
+  "last_page_order": 707
+}

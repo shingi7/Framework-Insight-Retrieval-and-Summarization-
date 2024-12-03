@@ -1,0 +1,145 @@
+{
+  "id": 8504653,
+  "name": "MOORE v. RENNICK",
+  "name_abbreviation": "Moore v. Rennick",
+  "decision_date": "1901-06",
+  "docket_number": "",
+  "first_page": "173",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 173"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "23 Stat. 24",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "4 Or. 375",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2294052
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/4/0375-01"
+      ]
+    },
+    {
+      "cite": "5 Or. 438",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2295335
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/5/0438-01"
+      ]
+    },
+    {
+      "cite": "29 Cal. 460",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2302928
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/29/0460-01"
+      ]
+    },
+    {
+      "cite": "47 Cal. 528",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        1952162
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/47/0528-01"
+      ]
+    },
+    {
+      "cite": "5 Pac. 675",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "66 Cal. 387",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2249634
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/66/0387-01"
+      ]
+    },
+    {
+      "cite": "23 Stat. 24",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 560,
+    "char_count": 12927,
+    "ocr_confidence": 0.635,
+    "pagerank": {
+      "raw": 7.036534591092136e-08,
+      "percentile": 0.42443632814113874
+    },
+    "sha256": "5895f38bb88c88ee432d22d6384a1b553d8d6f68fa01260025e813e989902818",
+    "simhash": "1:f5a5cacf18a63d84",
+    "word_count": 2288
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MOORE v. RENNICK."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nThis action comes before this, court on a writ of review duly issued by order of the court while Judge Johnson, my predecessor, was presiding.\nThe return of this writ presents to the court the entire record of the proceedings in the court below, viz., the court of United States Commissioner Charles A. Sehlbrede.\nBy the contention of defendant\u2019s attorney, the jurisdiction of this court to pass upon the legality of the proceedings of the court below is challenged. As the determination of the jurisdictional question, if decided in accord with the defendant\u2019s contention, will render any further consideration of the case unnecessary, it would seem to be proper first to determine that question.\nIt is claimed that the errors alleged to appear upon the face of the return of the writ are such as cannot be determined by the court in this proceeding; that the writ of review only lies to jurisdictional questions; and that the writ. can in no sense become a writ of error to review in the court below, when the court was acting within its jurisdiction. In support of counsel\u2019s contention, attention is called to the list of authorities found in the note to Hill\u2019s Ann. Laws Or. pp. 502, 503-\nMany California cases seem to support the contention of counsel; the question, and sole question, being whether or not the inferior tribunal exceeded its jurisdiction.\n\u201cError in the exercise of the court\u2019s jurisdiction is not a proper case for the writ,\u201d was held in Alexander v. Municipal Court, 66 Cal. 387, 5 Pac. 675.\nIt was held in Cal. Pacific R. R. Co. v. Central Pacific R. R. Co., 47 Cal. 528, that where in a proceeding for a condemnation of land the district court makes an order which it has no jurisdiction to make in relation to the use of the property sought to be condemned, and there is no appeal from the order, certiorari is the proper remedy. The fact that the transaction may be enjoined in equity does not prevent the order from being reviewed on certiorari.\nA number of California cases are cited by the author of Hill\u2019s Code in support of the following proposition: \u201cMere irregularity intervening in the exercise of an attempted jurisdiction, mere mistakes of law committed in conducting the proceedings in an inquiry which the tribunal had authority to entertain, are not to be considered in certiorari; otherwise that writ would be turned into a writ of review.\u201d Many California cases are also cited in support of the following proposition: Errors of law cannot be corrected on certio-rari, even if there be no appeal. The court below must have exceeded its jurisdiction. If it had jurisdiction, but decided wrongly, certiorari will not lie. People v. Burney, 29 Cal. 460, and other cases. But in Long v. Sharpe, 5 Or. 438, it seems to be held that the writ of review lies to an order setting aside an answer.\nSection 582, Hill\u2019s Ann. Code, in force in 1884, is as follows : \u201cThe writ heretofore known as the writ of certiorari is known in this Code as the writ of review.\u201d It would seem, therefore, that the office of the writ of certiorari would be the same as that of the writ of review under the Code, except as limited or broadened by the terms of the Code.\nSection 583: \u201cAny party to any process or proceeding before or by an inferior court, officer, or tribunal, may have the decision or determination thereof reviewed for errors therein, as in this title prescribed, and not otherwise.\u201d \u201cUpon a review, the court may review any intermediate order involving the merits, and necessarily affecting the decision or determination sought to be reviewed.\u201d This section seems to make the writ of certiorari or review, under the Oregon Code, broad enough to review any errors made by the court below in the trial of the case that appear on the face of the return.\nThe case in 5 Or., before referred to, where the court reviews the action of the court below by striking out an answer, surely refers to an error of the court in the exercise of its proper jurisdiction.\nBut this whole matter seems to be clearly settled by the plain letter of the statute of Oregon in force in 1884. Section 585, then in force, reads as follows:\n\u201cThe writ shall he allowed in all cases where there is no appeal, or other plain, speedy, and adequate remedy, and where the inferior court, officer, or tribunal in the exercise of judicial functions, appears to have exercised such functions erroneously or to have exceeded its or his jurisdiction, to the injury of some substantial right of the plaintiff, and not otherwise.\u201d\nThe Supreme Court of Oregon has construed this statute in the case of Evans v. Christian, 4 Or. 375: \u201cThe writ of review will not lie where the right of appeal exists.\u201d This determination was reached by the court, although a former opinion of the court held that \u201cremedies by appeal and writ of review were concurrent.\u201d\nThe Congress of the United States, having by the act of 1884 practically adopted the statutes of Oregon where not inapplicable, has adopted the construction placed upon those statutes by the highest tribunal of that state. If, then, there was right of appeal at the time the writ of review issued in this case, the writ of review was wrongfully and imprudently issued, and, being so issued, gave this court no jurisdiction of the case at bar. Clearly, the right of appeal from the decisions of the justice\u2019s court was abundantly provided for by the statutes of Oregon in force in 1884. If those statutes were in force in Alaska, and can be so held, this court is without jurisdiction to hear and determine cases where the amount involved exceeds $200.\nIn the case just referred to the court also decides:\n\u201cWhen a question of jurisdiction presents itself in any stage, of a proceeding, and it is discovered that the court has no jurisdiction, either over the parties or the subject-matter of the cause, it is the duty of the court on its own motion to refuse to proceed further. Any attempt to exercise judicial functions otherwise than is authorized by law would be a nullity, and an idle waste of time.\u201d\nI might repeat the language of the Supreme Court of Oregon, and conclude this decision by saying that to pursue the matter further would be \u201can idle waste of time,\u201d if the amount exceeded $200.\nIf it has been the practice to allow a writ of review in such cases, it would seem to indicate that in the opinion of the court the laws of Oregon controlling appeals from justices\u2019 courts are inapplicable to our conditions in Alaska, and therefore not in force. Only upon this theory can the action of the court in allowing the writ\u2019 in such cases be deemed to have the semblance of law.\nSection 7 of the act of Congress of 1884 (Act May 17, 1884, c. 53, 23 Stat. 24), providing a civil government for Alaska, reads in part as follows:\n\u201cThat the general laws of the state of Oregon now in force are hereby declared to be the law in said district, so far as the same may be applicable and not in conflict with the provisions of this act or the laws of the United States.\u201d\n\u201cSo far as * * * applicable.\u201d What is meant by this language? Wherever counties; or other like legal subdivisions, are mentioned in the general laws of Oregon in force in 1884, it is clear that such acts or parts of acts would have no application to counties in Alaska, because no such subdivisions as counties have been established here. They do not exist. There are many other like provisions in the general laws of Oregon that, in the nature of things, are inapplicable to conditions in Alaska, because of the failure of law to create conditions whereby they might be made applicable. Does the word \u201capplicable\u201d apply to natural conditions of the country, or to its topographical conditions ? Shall we say that laws are not applicable to the conditions of this country because it is mountainous, or because of the inclemency of the weather, or because of the great distance between different points and different settlements of people? Daws are enacted for the control of the affairs of men, to protect the rights of property, to protect life and liberty, and to punish those who thrive by preying upon society. If settlements are at great distances from seats of justice, where alone relief for wrongs may be obtained, and the time is fixed by the statutes of Oregon for the performance of certain conditions, by which alone the right of the people may be enforced, it might be said that so much of the general laws of Oregon as requires the performance of conditions within an impossible period would not be held to be in force; but that, in lieu of the impossible period fixed by statute, the courts would properly- and fairly hold that a reasonable time should be given for the performance of such conditions. If, therefore, under the statutes of Oregon, appeals from justice courts are required by law to be taken in such short space of time that the right of appeal would in some instances be cut off, the law controlling appeals would not, for that reason, fail; and we cannot say that, because of that, there is no appeal, but rather when, in the matter of time, an impossibility is required, may we not more properly say that the performance of the required condition, whatever it may be, within a reasonable time, is all that the court can demand? The lawmakers of Oregon, in fixing the short period of time, giving 30 days for appeal from justice court, and requiring the transcript to be filed in the higher court before the beginning of the next term of the circuit court, doubtless intended to give a reasonable time within which such acts might be performed. Following the same theory of \u201creasonable time,\u201d the law of appeal might be enforced in Alaska, giving such reasonable time for filing the transcript in the District Court as the situation of the parties might make necessary.\nIt seems that such a construction of the law of Oregon is absolutely necessary to our conditions. To hold the law not in force because of inapplicable parts of the statute would be to discard in the main the great body of the laws of that state, and to leave us practically without laws for our guidance.\nBut have we a remedy in certiorari ? Under the decisions of the Supreme Court of Oregon it was at one time held that the writ of certiorari might issue when the term fixed by statute within which appeals should be taken had passed. The later decision of that court holds that the same term \u2022controls both remedies, except that a later statute, not in force in this territory, provides that the writ shall issue within a fixed period.\nIf the law fixing a time within which appeals shall be taken and the transcript filed in the higher court is not in force, is that law in force which gives the right to the writ of certiorari or review, where practically the same period of time is fixed for the issuance of the writ? The statute controlling both remedies as to time should have a reasonable construction, and a reasonable time should be allowed to be given under the law, both for taking an appeal and for the issue of the writ. It is difficult to see where the sparsely settled condition of the territory, and the great distances that separate some communities from the place of holding the District Court, will work greater hardship in one remedy {that of appeals) than in the other (by certiorari). If, then, we hold the remedy by appeals as well as by certiorari to be in force, and the remedies not concurrent \u2014 and they are not, unless made so by statute \u2014 we find ourselves in the situation of allowing a proceeding of certiorari when there is another adequate legal remedy \u2014 a conclusion contrary to the universal holdings of all courts, so far as we know, not committed by statute to a contrary view. But in the case at bar now particularly under consideration, the amount involved being less than $200, the right of appeal does not exist. We are, then, presented with this proposition: Is there no relief from decisions of the lower courts where the amount in controversy is less than $200 ?\nIt is the opinion of the court that, where an attempt has been made to obtain relief by writ of review within a reasonable time, the case is properly before this court, and relief may be granted where the amount involved is less than $200.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "R. W. Jennings, for plaintiff.",
+      "I. N. Wilcoxen, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "MOORE v. RENNICK.\n(First Division. Juneau.\nJune Term, 1901.)\n1. Appeal and Error\u2014 Certiorari \u2014 Justice op the Peace \u2014 Review-\nUnder the laws of Oregon, made applicable to Alaska by the organic act of 1884 (Act May 17, 1884, c: 53, 23 Stat. 24), an appeal from a justice of the peace did not lie where the amount involved was less than $200. Reid, that in such cases a writ of certiorari or review would issue from the District Court of Alaska to correct the action of the lower court.\nWrit of Review to Correct Judgment of Justice\u2019s Court when Amount Involved was Less than $200.\nR. W. Jennings, for plaintiff.\nI. N. Wilcoxen, for defendant."
+  },
+  "file_name": "0173-01",
+  "first_page_order": 197,
+  "last_page_order": 203
+}

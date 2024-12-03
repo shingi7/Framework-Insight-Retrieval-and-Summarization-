@@ -1,0 +1,103 @@
+{
+  "id": 8504080,
+  "name": "GARSIDE v. NORVAL",
+  "name_abbreviation": "Garside v. Norval",
+  "decision_date": "1888-10-22",
+  "docket_number": "No. 136",
+  "first_page": "19",
+  "last_page": "25",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 19"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "26 L. Ed. 975",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3496074
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/105/0189-01"
+      ]
+    },
+    {
+      "cite": "105 U. S. 207",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "1 Sup. Ct. 556",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3499644
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/107/0586-01"
+      ]
+    },
+    {
+      "cite": "107 U. S. 590",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 553,
+    "char_count": 10685,
+    "ocr_confidence": 0.656,
+    "pagerank": {
+      "raw": 5.676830387708631e-08,
+      "percentile": 0.3566690567674023
+    },
+    "sha256": "32116a450eb377e767d257a2c0f0d9fec5e2e354acb55d039a6c0e0e6a55e45f",
+    "simhash": "1:07b3438e25a7b87a",
+    "word_count": 1864
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "GARSIDE v. NORVAL."
+    ],
+    "opinions": [
+      {
+        "text": "KFATUFY, District Judge.\nOn the 3d of October, 1888, the plaintiff filed a complaint in the office of the clerk of this court, with the averments that on the 26th day of August, 1885, he and the defendant, by their joint efforts, located a quartz mining claim, called the \u201cO. R. O. Quartz Mining Claim,\u201d in the Harris mining district, and he describes his interest therein as \u201can undivided one-half\u201d; that on the 19th day of February, 1886, he constituted the defendant his agent and attorney'in fact to sell and dispose of his interest in such mining claim, it being also understood between them that the defendant should sell the interests of both for their common benefit; that the defendant made a sale of the premises, but, instead of selling the entirety of both owners, secretly and fraudulently reserved to himself, as a part of the terms- and conditions of sale, some interest not disclosed to the plaintiff; that the defendant also fraudulently concealed from plaintiff the real amount of the purchase money received by him, and only paid over a part of the same to the plaintiff, thus withholding from plaintiff his just share of the proceeds of the sale. Upon this state of facts he prays that an accounting may be had, and a decree entered for any balance that may be found due him. On the 19th of October, 1888, the plaintiff also filed a supplemental petition, asking an order to restrain the defendant from disposing of his property until any such decree as might be obtained should be satisfied, and especially restraining him from conveying his reserved interest in the quartz claim.\nThe original complaint and the supplemental bill assume that the plaintiff and the defendant, in locating the claim in question, became copartners in a legal sense, and in that respect were doing business as such partners. If that be true, then the plaintiff is entitled to equitable relief in the form in which he has asked it. If they were not copartners, but simply tenants in common of a tract of land, then such form of relief must be denied.\nBefore considering or taking equity jurisdiction, the court must determine, upon this statement of facts, whether or not the plaintiff has a complete and adequate remedy at law for the injuries he alleges. There is no allegation that the parties were engaged in actual mining operations, such as mining quartz, and either selling the ore or reducing it. Of course, to establish and locate a valid quartz claim, it was necessary to do the statutory amount of work thereon, and to secure the patent from the United States. In addition to this, a further consideration in money was required to be paid to the federal government; but that of itself will not create the relation of copartners between them. The work and labor to be performed, to assert and establish the mining claim, as the basis of the patent for the fee simple of the land, are only a part consideration which the government requires precedent to the issuance of such patent. A partnership is a contract of two or more competent persons, effects, labor, and skill, or some or all of them, engaged in lawful commerce or business, to divide the profit and bear the loss in certain proportions. 3 Kent\u2019s Commentaries (6th Ed.) p. 23. This definition implies a course of dealings with others than the members of the partnership themselves, and in the. ordinary course of its proposed business. The law has impressed certain different classes of property, so that men cannot alter them at will in their contracts with each other. It has impressed certain classes of property with the character of real estate, so that it is made to descend, and the proceeds of its sale to be distributed, in a totally different way from that of personalty. These distinctions in the law are fundamental, and follow properly into almost all the contract relations of society. In partnership transactions real property belonging to the firm is treated as partnership assets only so long as debts of the firm remain unsatisfied. As between the partners themselves, land remains subject to the rules governing the distribution of real property.\nThe interest which persons acquire in the mineral lands of the United States by locating claims thereon and doing the specific things required by the mining laws is not a chattel interest, nor any kind of personal property: it is an interest in real estate. It ripens, by successive steps, into a patent, which conveys the fee simpleand each of these steps, including the issuance of the patent, relates back and includes the original and primary location. I assume, from the pleadings now on file, that the parties acquired a valid claim under the laws of the United States. The contrary may appear when that case is once at issue, but for the purpose of the present proceeding this must be taken as true. It is not alleged that a patent has never issued, nor is that material, so far as concerns these parties at this stage. The moment they jointly took the first steps to acquire title by locating the claim in question, and by compljdng with the law in all its essential particulars, they acquired an interest in real estate as tenants in common. The plaintiff concedes that much i\u00f1 his pleading by describing his interest as \u201can undivided one-half.\u201d If the plaintiff and the defendant were tenants in common in this real estate, and not copartners, a court of equity cannot interpose, for that reason, to compel an accounting between them for any proceeds of sale, but the remedy is by action at law for money had and received to the use of the plaintiff, if it be true that the defendant made any sale of the moiety of the plaintiff, and, as such agent, has not paid over the whole of such proceeds to the party entitled to them..\nThere is no allegation that there are any accounts of claims outstanding and unsettled between the plaintiff and defendant, originating and being in existence prior to the time the plaintiff constituted the defendant his agent and attorney so as to sell and dispose of the entire quartz claim. The charge is wholly of fraud, committed by the defendant as agent of the plaintiff, and not as a mere partner, and after such agency was created. If this agent withholds any or all of the purchase price or consideration received in the sale, the plaintiff\u2019s remedy is an adequate one at law in an action in damages for the breach of the contract of agency.\nThe complaint and the supplemental bill do not show that the defendant reserved from sale any part of the moiety owned by the plaintiff. So far as the bill states any facts, it can only be presumed that any secret interest reserved to himself by the defendant in the sale was from his own moiety. That will be presumed, in the absence of any allegation or proof to the contrary. No trust, then, with regard to that moiety, can exist in favor of the plaintiff, which will, under present circumstances, give this court equity jurisdiction, as prayed by him.\nIf the facts exist as stated in the complaint, the plaintiff has not only a specific claim for damages in a law action, but the elements from which a jury can ascertain the extent of his damages, as measured in money, and on which a court can render a complete judgment. The question is not whether the defendant may defeat an execution eventually. He may be able to do this in the end; yet, as these words are understood in the practice of the courts, the plaintiff has a complete and adequate remedy in a law action. The cases of Ambler v. Choteau, 107 U. S. 590, 1 Sup. Ct. 556, 27 L. Ed. 322, and Root v. Railway Co., 105 U. S. 207, 26 L. Ed. 975, draw very clear distinctions between what actions may be maintained at law and what in equity. In Ambler\u2019s Case the contention was a patent for an invention. There was a defect of parties, which narrowed the contest to the question of damages to which the plaintiff might be entitled for the defendant\u2019s participation in a fraudulent conspiracy to defeat the entire property rights of the plaintiff, while acting under authority to sell interests in the patent. The Supreme Court says in that case:\n\u201cIf, as is more than once distinctly alleged, the object of the suit is to recover damages for an unlawful and fraudulent conspiracy to cheat Amhler out of his interest in the original invention which is the subject-matter of the controversy, the remedy is clearly at law, and not in equity.\u201d\nIn that action the prayer was for an accounting of profits growing out of the use of, the invention, but the pleadings showed that the real contention was a matter of damages, and the bill in equity was dismissed for that reason.\nRoot v. Railway Co. was where the assignee, after the expiration of the patent for an invention, sought by bill in equity an accounting for profits which had accrued before the expiration of the patent. The {Supreme Court, in reviewing the action of the circuit court in dismissing the bill and thus approving it, says:\n\u201cIt is a fundamental characteristic and limit of the jurisdiction in equity that it cannot give relief when there is a plain and adequate and complete remedy at law; and hence it had no original, independent, and inherent power to afford redress for breaches of contract or torts by awarding damages.\u201d\nIn ascertaining whether the plaintiff has a complete and adequate remedy at law, the court will take notice of the plaintiff\u2019s statutory remedy in a law action b)r attachment, under such conditions as are prescribed therein. That rem\u25a0edy may be invoked as an independent proceeding or as auxiliary to another law action. I have intimated no opinion of the value of the original complaint standing alone, and have only considered it in connection with the plaintiff\u2019s application for a restraining order.\nIn this view of the case, I am clearly of the opinion that the court is without jurisdiction to grant such order in the present state of the pleadings, and therefore the petition for such order is dismissed, allowing the original complaint to stand as filed.",
+        "type": "majority",
+        "author": "KFATUFY, District Judge."
+      }
+    ],
+    "attorneys": [
+      "A. H. Gamel, for plaintiff."
+    ],
+    "corrections": "",
+    "head_matter": "GARSIDE v. NORVAL.\n(Sitka.\nOctober 22, 1888.)\nNo. 136.\n1. TENANCY in Common \u2014 PaRtnership\u2014Mines and Minerals.\nWhen two persons locate a mining claim together, as to such claim only, their relationship is that of co-tenants o\u00ed real estate and not copartners in business.\nZ. Sale \u2014 Tenancy in Common \u2014 Trust.\nWhen one co-tenant of a mining claim, acting as the agent of the other, sells his interest to a third party, he assumes no trust relationship, and a suit in equity will not lie for an accounting, the proper remedy being, a suit at law to recover the amount alleged to be due.\nApplication for Restraining Order.\nA. H. Gamel, for plaintiff."
+  },
+  "file_name": "0019-01",
+  "first_page_order": 43,
+  "last_page_order": 49
+}

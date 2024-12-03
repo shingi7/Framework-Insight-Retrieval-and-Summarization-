@@ -1,0 +1,166 @@
+{
+  "id": 8505959,
+  "name": "ANVIL GOLD MIN. CO. v. HOXIE and LYNG",
+  "name_abbreviation": "Anvil Gold Min. Co. v. Hoxie",
+  "decision_date": "1902-05-31",
+  "docket_number": "No. 520",
+  "first_page": "604",
+  "last_page": "607",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 604"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 355",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Stat. 356",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "46 Fed. 437",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        6730087
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/46/0437-01"
+      ]
+    },
+    {
+      "cite": "47 N. W. 816",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 N. W. 386",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 N. W. 776",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 S. W. 711",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Ark. 195",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1887715
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ark/48/0195-01"
+      ]
+    },
+    {
+      "cite": "33 Pac. 563",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "case_ids": [
+        2271074
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/24/0198-01"
+      ]
+    },
+    {
+      "cite": "24 Or. 201",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 Or. 268",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2263237
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/29/0268-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 354",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 334,
+    "char_count": 5666,
+    "ocr_confidence": 0.637,
+    "pagerank": {
+      "raw": 6.380125665320789e-08,
+      "percentile": 0.3936493980923212
+    },
+    "sha256": "a215d548b0a5fc1918c45066c16261c874184ee331128885787b160b4d452492",
+    "simhash": "1:b273858107c970dc",
+    "word_count": 1011
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "ANVIL GOLD MIN. CO. v. HOXIE and LYNG."
+    ],
+    "opinions": [
+      {
+        "text": "WICKER-SHAM, District Judge.\nThis is an action to recover upon an attachment bond given by the defendants, as sureties for one Carrie B. Lee, in a suit against the plaintiff in this action under the provisions of section 137 of the Code of Civil Procedure (Act June-6, 1900, c. 786, 31 Stat. 354). Three several defenses are pleaded in the answer. The last of these defenses alleges that after the issuance of the writ of attachment on September 19th and on October nth the plaintiff in this action (the defendant in that action) filed an undertaking for the release of the attached property in pursuance to the provisions of sections 149 and 150 of the Code of Civil Procedure. The defendants plead this action of the plaintiff as a bar to his right- to recover on the attachment bond given by these defendants in the former action. A demurrer is interposed to each of the several defenses alleged in the answer, and the inquiry now is whether they severally state a defense.\nThere are three methods of securing the release of attached property pointed out by our Code: First. Section 151 provides that the defendant may, at any time before judgment, except where the cause of attachment and the cause of action are the same, apply to the court, or the judge thereof, where the action is pending, to discharge the attachment in the manner and with the effect as provided in sections 121 and 122 for the discharge of a writ of arrest. Sections 121 and 122 provide that a writ of arrest may be vacated upon motion, affidavits, or other proof, and a hearing thereon; and if, upon such hearing, it appears that there was not sufficient cause to allow the writ, or that there is other good cause which would entitle it to be discharged, it should be vacated. This method, however, seems to be without effect, and the provisions of section 151 to be impotent, for the reason that the cause of attachment and the cause of action are always the same under the Code of Alaska. These provisions in our Code were adopted frpm Oregon, and have been so construed by the Supreme Court of that state in the case of Bank of Winnemucca v. Mullaney, 29 Or. 268, 45 Pac. 796. That construction is also adopted by this court.\nThe next method is provided by section 145, and is accomplished by giving to the marshal a redelivery bond. The effect of this section is to secure the release of the property to the defendant upon his engaging to redeliver it, or pay the value thereof to the marshal; but such bond does not have the effect of dissolving the attachment. Drake v. Sworts, 24 Or. 201, 33 Pac. 563.\nThe third method is that which was adopted by the defendant in the former case (the plaintiff in this action), and is pointed out in sections 149 and 150. These sections provide for the giving of a bail bond by the defendant at any time after his appearance in the action. The bail bond is not given to the marshal, but to the plaintiff in the action. Its effect is to release the attached property, and to dissolve the attachment, and the suit thereafter proceeds in personam. The inquiry in this case now is whether, by the giving of the bail bond mentioned in sections 149 and 150, the defendant in the former suit did not thereby admit the validity and necessity of the attachment, and waive any and all claims to damages for any alleged wrongful issuance thereof.\nIf the defendant in the former case had given only a redelivery bond, and permitted the attachment proceeding to stand, it would have secured the possession of its property thereby, and at the same time could have met the issue, in so far as it is a matter of contest, upon the attachment proceeding in the original suit. By giving the bail bond, however, it withdrew that proceeding from the regular action, and, the authorities seem to hold, thereby admitted the validity and necessity of the attachment proceeding. The Supreme Court of Oregon, in the case of Drake v. Sworts, 24 Or. 201, 33 Pac. 563, practically decides the question at issue adversely to the plaintiff. The authorities seem to sustain that decision. 3 Am. & Eng. Enc. of Law (2d Ed.) 231; Ferguson v. Glidewell, 48 Ark. 195, 2 S. W. 711; Rachelman v. Skinner (Minn.) 48 N. W. 776; Fox v. Mackenzie (N. D.) 47 N. W. 386; McLaughlin v. Wheeler (S. D.) 47 N. W. 816; Wade on Attachments, \u00a7 183.\nThis effect has been given to the statute of Idaho b)r the United States Circuit Court for that district. Glidden v. Whittier (C. C.) 46 Fed. 437. I am of the opinion that the weight of authorities is in favor of the rule that the defendant waives all irregularities and defects in the original attachment proceedings, and admits an estoppel in the suit against the attachment sureties by giving the bail bond required by our statute. The demurrer to this cause of action may be overruled. The demurrer to the other causes of action will also be overruled,' and an exception allowed to the plaintiff upon each.",
+        "type": "majority",
+        "author": "WICKER-SHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Keller & Fuller, for plaintiff.",
+      "John D. McGinn, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "ANVIL GOLD MIN. CO. v. HOXIE and LYNG.\n(Second Division. Nome.\nMay 31, 1902.)\nNo. 520.\n1. Attachment \u2014 BAin\u2014Estoppel.\nWhen the defendant in an attachment proceeding gives the bail bond provided tor in sections 149 and 150 of the Code of Civil Procedure (Act June 6, 1900, e. 786, 31 Stat. 356), instead of the redelivery bond provided for by section 145 (31 Stat. 355), he thereby admits the validity and necessity of the attachment, and waives any and all claims for damages for an alleged wrongful issuance thereof.\nSuit to recover on attachment bail bond. The answer contains a plea in.bar in effect that the giving of the bail bond is an estoppel.\nDemurrer overruled.\nKeller & Fuller, for plaintiff.\nJohn D. McGinn, for defendants."
+  },
+  "file_name": "0604-01",
+  "first_page_order": 628,
+  "last_page_order": 631
+}

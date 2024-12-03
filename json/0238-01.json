@@ -1,0 +1,62 @@
+{
+  "id": 8504870,
+  "name": "McBRIDE v. COY et al.",
+  "name_abbreviation": "McBride v. Coy",
+  "decision_date": "1901-10-04",
+  "docket_number": "No. 400",
+  "first_page": "238",
+  "last_page": "240",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 238"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 267,
+    "char_count": 4435,
+    "ocr_confidence": 0.689,
+    "sha256": "0d0e64016073959e72d285b2db9e440c0b47e5123ed666ab10ef4727a0e74222",
+    "simhash": "1:92f0e0290087d728",
+    "word_count": 763
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "McBRIDE v. COY et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe demurrer will be sustained as to Doring. The complaint is insufficient, in that it does not show that Doring ever parted with any of his title to the Daisy claim under the original option to do so. The option is not set out, nor is the substance thereof stated so that the court can ascertain its terms. There is nothing in the complaint to show that McQuade, McBride, and their original associates ever obtained a title from Doring. So far as the complaint shows, Doring has never parted with his original interest.\nThe demurrer will be sustained as to Nugent, Freeze, and Calkins, and any other defendants situated as they are, for the reason that the complaint does not show under whom these defendants claim, or that they have any connection with the McQuade option. The complaint is indefinite, and gives no clear idea of the.facts concerning the connection of Doring with these people at a date subsequent to the option. It would seem that Doring and the McQuade associates became interested together in the claim, but the complaint does not state how, nor does it show in any particular what the interest of the plaintiff and his original associates is in this property. It does not state facts sufficient to constitute a cause of action against either Doring, Calkins, Freeze, or Nugent. It fails to show in any particular that the title ever passed from Doring to McQuade or any of his original associates, and it does not show the interest of Calkins, Freeze, and Nugent,\nThe demurrer will be sustained as stated, with leave to amend the complaint, if desired.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Gilmore & McConnell and Fenton & Reed, for plaintiff.",
+      "P. C. Sullivan and Ira D. Orton, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "McBRIDE v. COY et al.\n(Second Division. Nome.\nOctober 4, 1901.)\nNo. 400.\n1. Pleading \u2014 Option.\nA complaint in equity praying for a receiver and an injunction, wMcli shows that plaintiff; has only an option to purchase, and fails to disclose the character of defendant\u2019s titles, on demurrer, held, that it does not state facts sufficient to constitute a cause of action.\nIt appears from the amended complaint in this case: That prior to the loth day of July, 1900, Doring, one of the defendants, owned the Daisy claim, and that about the xoth day of July the plaintiff and one McQuade secured an option from him for its purchase. Thereafter this option was disposed.of by McQuade, in whose name it stood in such a way that Coy, James, Benbrook, Mellon, Gassman, Hager, Ben Matsoq, the plaintiff, and McQuade each became interested therein as owners. That on July 27th McQuade made a deed to carry out this agreement, in which deed the various shares of the parties are set out. (The deed is Exhibit A, attached to the \u2022original complaint.) That on the same day the plaintiff and McQuade, and the other parties mentioned, signed the agreement showing that they had each become interested in the \u2022claim, and whereby all the parties except McBride and Dor-ing undertook to meet the payments on the purchase price \u2022of the mining claim as contained in the contract made between McQuade and Doring, \u2022 which contract bears date of July 10, 1900. The other parties than McBride and Mc-Quade also agreed that they would bear the expense of any .and all litigation in obtaining possession and title to the property, and that neither McBride nor McQuade should be required to bear any expense connected therewith. It appears that about that time one Durand began a suit against Doring, the owner, and that McQuade, McBride, and the \u2022other parties connected with them, intervened in that suit, \u2022claiming some interest in the property; that thereafter that suit was settled by the stipulation for the payment of certain sums of money to Durand, and a decree was entered on the 13th day of October, 1900, dismissing the suit. The plaintiff, McBride, now brings this suit against the defendants in this action, and prays for the appointment of a receiver for the mine, and an injunction to prevent them from disposing of it, and that they be required to account to him and be decreed to be trustee, and for general relief.\nTo this complaint a demurrer is interposed on the part of Doring, by his attorney, and on the part of Freeze and Nugent by their attorneys, and on the part of J. A. Calkins. Freeze, Nugent, and Calkins are alleged to have some interest in the claim subsequent to the contract under which the plaintiff claims his interest.\nGilmore & McConnell and Fenton & Reed, for plaintiff.\nP. C. Sullivan and Ira D. Orton, for defendant."
+  },
+  "file_name": "0238-01",
+  "first_page_order": 262,
+  "last_page_order": 264
+}

@@ -1,0 +1,80 @@
+{
+  "id": 8505189,
+  "name": "FOX, Administrator, et al. v. MACKAY et al.",
+  "name_abbreviation": "Fox v. Mackay",
+  "decision_date": "1901-12",
+  "docket_number": "No. 483",
+  "first_page": "329",
+  "last_page": "335",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 329"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "157 U. S. 683",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3583993
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/157/0683-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 531,
+    "char_count": 11276,
+    "ocr_confidence": 0.651,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20522798819545077
+    },
+    "sha256": "17c56c399be26bc98740bc7b9f641d035c35bb2f949739d2e82a2b05bebcdc3f",
+    "simhash": "1:2325923383b8f6db",
+    "word_count": 1973
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "FOX, Administrator, et al. v. MACKAY et al."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nIn the trial of this case the court has indulged in a theory, based on section 956 of the Revised Statutes of the United States [U. S. Comp. St. 1901,. p. 697], that this action could be continued, tried, and determined without a revivor thereof, both as against the surviving defendant for himself and others interested with him,, and that' the action is not one of those that could be properly revived in the name of the administrator, bec\u00e1use the administrator could neither bring nor properly defend, as> I view the law, an action of this character. The defendants assert, by their answer, a legal interest in that certain mining claim called the \u201cDrum Lummond,\u201d and their defense is predicated on the theory that they have the better right to the ground in controversy in this case, basing it upon their location and improvements of the Drum Lummond claim. Having tried this\u2019 case thus far under this theory of the law, it would be futile at this time to indulge in any other theory of the case under the contention of counsel for the defendants. Disposing of so much of the defendants\"' contention, the defendants\u2019 attorneys then urge, with a great deal of force and determination, that the fact that a conveyance was made by the plaintiff Sanders to one Minnie Ross Holman of a certain interest in the Ready Bullion-No. 2 lode claim in 1898, after these proceedings were begun,, makes her a necessary party to the suit, and that the defendants\u2019 interests cannot be properly protected without her joinder in this action.\nThe court admitted the deed from Sanders to Minnie Ross Holman for the time being, stating that a ruling would be made later as to its admissibility. It is now believed that the deed so offered in evidence is wholly irrelevant and immaterial as to any of the issues presented in this case, and is therefore withdrawn from consideration as evidence in the trial of this case; to which ruling of the court in so-withdrawing said deed from consideration the defendants are given an exception in accordance with their request. It is-believed that the person to whom said deed was made by Sanders stands in privity with Sanders; that she has no right or interest, save and except such as she may obtain through him; and that the giving of such deed and an interest in the Ready Bullion No. 2 lode claim in 1898, years after the bringing of this action, in no wise changes the nature of the action or the result thereof.\nThe introduction in evidence of the patent to the Ready Bullion No. 2 raises some peculiar questions. After the defendants in this action had proceeded regularly in the Land Office to procure a patent to their claim called the \u201cDrum-Lummond,\u201d and after the plaintiffs had filed their adverse in the Land Department and brought this action in support \u2022of the same, it seems that the plaintiffs took the necessary-steps to have their land surveyed, and procured a patent for all that portion thereof outside of the ground in dispute, viz., a portion of the Drum Lummond claim. This proceeding was taken while the adverse and the suit in support thereof were pending in this court. It is believed that, under the law controlling proceedings of this nature, when an adverse is filed in the Dand Office, and a suit brought within the 30 days in support thereof, and the Land Office is notified of the pendency of that suit, all proceedings in the Land Department should thereupon cease and determine until after the action has been settled in court, and that then the Land Office should proceed according to the determination of the suit in court. Indeed, this rule has frequently been declared by state and federal courts. It is believed by the judge of this court that such a proceeding as was taken in this case was wrong \u2014 that it should not be tolerated under any \u2022circumstances. When permitted, although the Land Office proceeds only in reference to land not in dispute, the patent that issues for such land necessarily determines priority of right, a discovery of mineral in place, and that thereafter the claim had been properly located and marked, so that its boundaries might be readily traced. A patent is ordinarily conclusive upon these questions, and, being so, it places the parties in the trial of a case in court at a disadvantage. The case at bar is an illustration. The patent shows that the lode claimed to have been discovered in the Ready Bullion No. 2 was within the limits of the patented ground. The parties bringing this suit have secured the principal thing for which their location was made, viz., the Ready Bullion No. 2 lode, by the issuance of the patent. Nothing is now in controversy between the parties plaintiff and defendant save the remainder of the surface ground that was formerly included within the limits of Ready Bullion No. 2 lode claim as originally located and as surveyed for patent. The patent being conclusive on all the preliminary steps leading up to-the same, it will be seen that the question of location and discovery of the Ready Bullion No. 2 lode is thereby settled and determined, at least to all lands covered by the patent. The only question then remaining to be determined, as to-the remainder of the land formerly embraced in the Ready Bullion No. 2, is the question of priority of location, and,, under the testimony, there is no room for doubt on that proposition. The undisputed and uncontradicted testimony shows that the Ready Bullion No. 2 lode claim was located' some nine years prior to the location of the Drum Dummond.\nUnder these conditions, and accepting- the finality of the patent, no question is presented for the determination of the jury, and the court can only give to the jury the instruction requested on the part of the plaintiffs, to return a verdict for the plaintiffs, unless there has been a waiver by plaintiffs by obtaining patent. In doing this I wish to say that my own personal conviction is that the patent of the Ready Bullion No. 2 by the Land Department was, in view of the pending suit, an error; that it was a procedure not contemplated by sections 2325 and 2326 of the Revised Statutes [U. S. Comp. St. 1901, pp. 1429, 1430], and as a method of procedure should not be tolerated. I am further of the opinion in this case that when the plaintiffs filed their adverse- and brought their suit in support thereof, and then patented\u2019 the portion of the Ready Bullion No. 2 claim outside of the disputed gro\u00fand, and thereby obtained a patent to the principal thing, viz., the Ready Bullion No. 2 lode and the larger portion of the surface ground, they waived any right to the remainder of the ground, and that, upon proof thereof, this action should have been dismissed. But while this is my opinion, I am constrained to take a different course because-of the decision of the Supreme Court of the United States ini the case of Last Chance Mining Co. v. Tyler Mining Co., 157 U. S. 683, 15 Sup. Ct. 733, 39 L. Ed. 859. While the view expressed by the distinguished Justice Brewer, speaking for the court, does not directly oppose the theory that I believe to be the true one (although the Tyler Company in that case, who were the parties proceeding, and who were adversed by the Last Chance Company, obtained a patent for that portion of their ground not in dispute), yet the court holds that such action on the part of those originally undertaking to obtain patent was not a waiver of their right to contest for the remainder of the ground that was in dispute. But it will be observed that the parties to this proceeding for patent were reversed. In that case, the adversees \u2014 if I may be allowed the expression \u2014 established a new end line to the Tyler claim, and then even withdrew their answer in pending suit. In this case the adversor obtains patent. It would seem that those undertaking the suit obtained patent only to the ground not in dispute, and it is very plain that the party adversed obtaining patent for the undisputed territory within the lines of their claim, could waive nothing by so \u25a0doing, and could not in that way escape from a court of \u25a0competent jurisdiction. In the case at bar, the parties who filed the adverse and brought suit in support thereof, based upon their ownership and right of possession of the Ready Bullion No. 2 lode claim, go into the Land Office, and procure a patent for so much of said Ready Bullion No. 2 as is not covered by the location of the Drum Lummond. The patent extends the entire length of the Ready Bullion No. 2, 1,500 feet, and in width 300 feet or thereabouts, the ground remaining in dispute being a part of the surface claimed in the original Ready Bullion No. 2 location. I say that this procedure, as it seems to me, ought to be regarded as a waiver of the right of the Ready Bullion No. 2 people to contest for the further surface ground involved in this case; the Ready Bullion No. 2 claimant having obtained the principal thing involved, viz., the Ready Bullion No. 2 lode.\nBut, as I say, because of the inferences naturally to be drawn from the decision of the Supreme Court referred to, as I understand the same, I feel compelled to yield my opinion in the premises, and follow what seems to be the intimation of the learned justice in that case. I might add with propriety that I do this the more readily because of the many legal questions raised on the trial, believing that by taking this course the defendants will have a clearer and plainer road to pursue in having their case reviewed by the higher court. There are questions-presented in this record that ought to be so reviewed, and I sincerely hope that counsel may take such action in the premises as will secure this result.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Arthur K. Delaney and John G. Heid, for plaintiffs.",
+      "Maloney & Cobb, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "FOX, Administrator, et al. v. MACKAY et al.\n(First Division. Juneau.\nDecember Term, 1901.)\nNo. 483.\n1. Pabties \u2014 Abatement\u2014Administrator\u2014Survivorship.\nWhile, under section 956, Eev. St. [U. S. Comp. St. 1901, p. 697], an action may be continued by one surviving plaintiff against a surviving defendant without abatement, an administrator can neither continue nor defend an action of this character.\n2. Mines and Minerals \u2014 Adverse Suit \u2014 Public Lands.\nWhen an application is made to the United States Land Department for a patent to a mining claim, and an adverse claim thereto is regularly made, and a suit brought in a court of competent jurisdiction to determine the right of possession, all proceedings in the Land Office shall he stayed until the determination of such suit, and the judgment therein shall determine the rights of possession.\n3. Same \u2014 Conclusiveness of Patent.\nThe issuance of a patent to a mining claim necessarily determines the priority of right thereto, the discovery of mineral in place, and that the claim was properly located and marked, s\u00bb that its boundaries could readily he traced.\n4. Same \u2014 Patent\u2014Waiver.\nWhen the applicant for a mining patent, pending an adverse suit over a conflicting overlap with another location, obtains a patent for the part not in dispute, he does not thereby waive his right to contest for the part in litigation.\nAdverse suit over conflicting mining locations in aid of an application for the patent in the Land Office.\nArthur K. Delaney and John G. Heid, for plaintiffs.\nMaloney & Cobb, for defendants."
+  },
+  "file_name": "0329-01",
+  "first_page_order": 353,
+  "last_page_order": 359
+}

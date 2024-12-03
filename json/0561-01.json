@@ -1,0 +1,191 @@
+{
+  "id": 8505848,
+  "name": "BLACK v. TEETER et al.",
+  "name_abbreviation": "Black v. Teeter",
+  "decision_date": "1902-04-15",
+  "docket_number": "No. 418",
+  "first_page": "561",
+  "last_page": "566",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 561"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "6 Wall. 578",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3453943
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/73/0578-01"
+      ]
+    },
+    {
+      "cite": "25 Cal. 460",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2219276
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/25/0460-01"
+      ]
+    },
+    {
+      "cite": "50 Pac. 935",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 Mont. 442",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        11254254
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/3/0442-01"
+      ]
+    },
+    {
+      "cite": "2 Mont. 415",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        8588303
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/2/0415-01"
+      ]
+    },
+    {
+      "cite": "4 Wall. 650",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        6142613
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/71/0650-01"
+      ]
+    },
+    {
+      "cite": "116 U. S. 113",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3516392
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/116/0113-01"
+      ]
+    },
+    {
+      "cite": "148 U. S. 293",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3567469
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "300"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/148/0293-01"
+      ]
+    },
+    {
+      "cite": "29 Or. 76",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2263263
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/29/0076-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 383",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 532,
+    "char_count": 11536,
+    "ocr_confidence": 0.636,
+    "pagerank": {
+      "raw": 3.807349618848409e-07,
+      "percentile": 0.8977089011753195
+    },
+    "sha256": "89461ce821466cff01114869fa170fe10574c13054ab06bc248c5c94985bf298",
+    "simhash": "1:3a8115013a15beab",
+    "word_count": 2012
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "BLACK v. TEETER et al."
+    ],
+    "opinions": [
+      {
+        "text": "W1CKERSHAM, District Judge.\nA verdict for the plaintiff was rendered by the jury in this case, and the matter now comes up on defendants\u2019 motion for a new trial. The motion contains seven distinct grounds, only one of which, however, is presented to the court by the briefs, and is for \u201cerror of the court in instructing the jury as set forth in that part of the charge and numbered nineteen, twenty, twenty-one, and twenty-two.\u201d This alleged error is based upon the action of the court in submitting to the jury the second location made by Black on January i, 1900, with the instruction that, if he then made a valid location prior to that under which the defendants claim, it would be a sufficient title to sustain his suit in ejectment.\nThe sole question to be determined is whether the court erred in submitting the title under the plaintiff\u2019s location of January i, 1900, to the jury as one of the issues in the case. This location was not specially pleaded in the complaint, the plaintiff having alleged only his prior attempt of July 22, 1899, to locate the mine. Upon the trial, however, the defendants offered the second location of the plaintiff, with the purpose, it is said in their brief, \u201cto show that he (Black) did not have any faith in his location made in 1899.\u201d Plaintiff followed the defendants\u2019 evidence upon this second location by full evidence, showing 'that he was on the claim when defendants\u2019 grantor made his attempted staking, and that prior to the completion of Sweet\u2019s location on January 24th, Black, the plaintiff, had made a good and valid location of the same ground. No objection was made to the introduction of this second location by Black, and the whole evidence went to the jury without objection from defendants, or request for any instruction limiting, explaining, or otherwise mentioning it. In this condition of the testimony, the court instructed the jury that the location made by Black in July, 1899, was void for conflict with a prior valid location made by one Lynch in 1898, but submitted to the jury the question of the priority of the title acquired by Black through his second location, made in January, 1900, over Sweet\u2019s, under which defendants claim; upon which instructions the jury found for Black. Defendants excepted to the instruction submitting the second location of Black to the jury, because the same had not been pleaded in the complaint.\nIt is true that the complaint does not contain a particular statement of the January, 1900, location as it does of the July, 1899, location. It does show the citizenship of the plaintiff, his location of July, 1899, the discovery of gold on the claim, its marking, and the recording of the July location. It contains a description of the property, and the third paragraph contains this allegation:\n\u201cThat on the 1st day of October, 1900, this plaintiff was the owner \u25a0of, in, and entitled to the possession of the hereinbefore described tract of land and placer mining claim. That thereafter, on the 2d day of October, 1900, while this plaintiff was so seised, the defendants, without right or title, entered into possession of the said land and premises, and ousted and ejected this plaintiff therefrom, and did wrongfully withhold the possession thereof from this plaintiff, to his damage in the sum of five thousand dollars ($5,000).\u201d\nNow, the evidence offered without objection, and primarily By the defendants themselves, established that prior to October, 1900,, to wit, in January, 1900, the second location was made by Black. The allegation upon which the case was tried was that thereafter, in October, 1900, he was the owner, in and entitled to the possession, and was ousted by the defendants.\nSection 303 of our Code of Civil Procedure (Act June 6, \u2022 1900, c. 786, 31 Stat. 383) provides that the plaintiff in an \u2022action of ejectment, as this was, in his complaint shall set forth the nature of his estate in the property, and that he is \u2022entitled to the possession thereof, and that the defendants wrongfully withhold the same from him, to his damage in \u2022such sum as may be therein claimed. The third paragraph of \u25a0the complaint, as far as above quoted, contains a sufficient \u25a0statement to comply with this section.\nIf paragraph 1 of the complaint, alleging the details of the location of July, 1899, were not in the complaint, and the evidence of the second Black location of January, 1900, had \"been offered and received without objection, there could be no serious question that it would be sufficient, under the allegations of the paragraph above quoted, to sustain the verdict. No rule has been suggested by which it should be given less \u2022effect because of the presence of paragraph 1. Plaintiff did not abandon his location of July, 1899, but offered full proofs to establish it as alleged in his complaint. Both defendants and plaintiff offered proof to establish the second location, and both counsel argued the whole of the evidence to the jury. I am inclined to the view that under the allegations contained in paragraph 3 of the complaint, and the liberal in-tendments in support of verdicts, no error was committed by the court in thus submitting the evidence of the second Black location to the jury. Nicolai v. Krimbel, 29 Or. 76, 43 Pac. 865; Wasatch Min. Co. v. Crescent Min. Co., 148 U. S. 293, 300, 13 Sup. Ct. 600, 37 L. Ed. 454; London Ins. Co. v, Gunther, 116 U. S. 113, 127, 6 Sup. Ct. 306, 29 L. Ed. 575; Railroad Co. v. Lindsay, 4 Wall. 650, 18 L. Ed. 328; Hartley v. Preston, 2 Mont. 415; Hershfield v. Aiken, 3 Mont. 442; Bruce v. Foley (Wash.) 50 Pac. 935.\nSection 87 of the Code of Civil Procedure provides that:\n\u201cNo variance between the allegation in a pleading and the proof shall be deemed material, unless it shall have actually misled the adverse party to his prejudice in maintaining his action or defense-upon the merits. Whenever it shall be alleged that a party has been so misled, that fact shall be proved to the satisfaction of the court, and in what respect he has been misled; and thereupon the court may order the pleading to be amended upon such terms as shall be-just.\u201d\nThere can be no pretense that the defendants were in any respect misled by the variance between the allegations and proofs in this case, for they first introduced the evidence of the title which is now complained of. If they had not done-so, but had objected to its introduction, and the court had admitted it over their objection, they might have been heard to say they were misled to their prejudice. Section 88 also-provides that:\n\u201cWhen the variance is not material, as provided in the last section, the court may direct the fact to be found according to the evidence, or may order an immediate amendment, without costs.\u201d\nNo objection having been made to the testimony, but both parties joining in offering it, the court was fairly justified in concluding that neither was misled to his prejudice, and only followed the statute in directing \u201cthe fact to be found according to the evidence\u201d by the jury. Section 97 of the same chapter also provides that:\n\u201cThe court shall, in every stage of an action, disregard any error \u25a0or defect in the pleadings or proceedings which shall not affect the substantial rights of the adverse party.\u2019\u2019\nAll the substantial rights of the parties were submitted to the jury without objection. The error complained of is only technical. I am satisfied that the verdict rendered is in accord with both the law and the facts, is just and right, and would be the result of another trial. No substantial right of the defendants is taken away or affected unjustly by the verdict, and the error or defect ought, therefore, to be disregarded by the court.\nThe only error complained of is in giving a series of instructions upon a matter not within the issues made by the pleadings. I am not willing to concede that the issue tendered by paragraph 3 is not sufficiently broad to embrace the second Black location of January, 1900, which is complained of. \u25a0 The rule, however, is broader than conceded by counsel for defendants. In section 2309 (2d Ed.) Thompson on Trials, the author cites the strict rule held by some courts that the instructions must be confined to the issues made by the pleadings. In the next section he cites the true and broader rule, saying:\n\u201cThis view ignores a principle which obtains in almost every situation in a civil trial \u2014 that the court is to disregard, at every stage of the trial those errors or irregularities which it is competent for the party to waive, and which the party against whom they are committed does not object to at the time. The object of pleadings being merely to notify the opposite party of the ground of action or defense if the party comes into court, it is not perceived why he may not waive the notice, as in every other case, although the pleading' may not advise him of the case or defense which is actually tendered iii the evidence. Several of the best courts in the country proceed upon this enlightened view. * * * Suppose, then, that facts come out in the evidence broader than those alleged in the pleadings, or otherwise varying from them, is the judge to instruct, the jury upon the whole evidence, or is he to limit his instructions-to so much of the evidence as is within the scope of the pleadings? The proper answer is believed to be this: If neither of the parties has objected to the evidence on the ground of variance, the judge is. to instruct the jury upon the whole evidence; the rule being that a variance between the pleadings \u2022 and the evidence is no ground of error, unless the evidence was objected to on this ground at the time it was offered.\u201d\nIf this be the true rule, it was the duty of this court to submit the. evidence in relation to the Black location of January, 1900, to the jury, for it was offered by both parties with-.' out objection. True, defendants\u2019 counsel now say that it was only offered to show that Black had\u2019 no confidence in his-prior location pleaded in paragraph 1 of his complaint; but no such limitation was 'mentioned when the evidence was\u2019 offered, nor was objection offered to its wider significance. The court submitted it to the jury as offered, and, after a careful consideration of the authorities, is satisfied that no error was committed in so doing. Boyce v. California Stage Co., 25 Cal. 460; Roberts v. Graham, 6 Wall. 578, 18 L. Ed. 791; Bruce v. Foley (Wash.) 50 Pac. 935.\nThe motion for a new trial is denied.",
+        "type": "majority",
+        "author": "W1CKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "P. C. Sullivan and R. N. Stevens, for plaintiff.",
+      "A. J. Bruner, P. J. Kelley, and Thompson, Murane & Thompson, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "BLACK v. TEETER et al.\n(Second Division. Nome.\nApril 15, 1902.)\nNo. 418.\n1. Trial \u2014 Ejectment\u2014Evidence\u2014Pleadings\u2014New Trial.\nIn a suit in ejectment evidence was offered by both plaintiff and defendant, and was received without objection, of a second and later location of a mining claim by the plaintiff, which was not specially pleaded in the complaint, and the court submitted all the evidence to the jury, who found for the plaintiff upon the location not specially pleaded. Defendant excepted to the in-struetion submitting the last location as not within the issue, and made that alleged error a ground for a motion for a new trial. Held, that where the evidence offered is broader than the issues tendered by the pleadings, or otherwise varying therefrom, and is received without objection, it was the duty of the judge, and not error, to instruct the jury upon the whole thereof.\nMotion for a new trial.\nDenied.\nP. C. Sullivan and R. N. Stevens, for plaintiff.\nA. J. Bruner, P. J. Kelley, and Thompson, Murane & Thompson, for defendants."
+  },
+  "file_name": "0561-01",
+  "first_page_order": 585,
+  "last_page_order": 590
+}

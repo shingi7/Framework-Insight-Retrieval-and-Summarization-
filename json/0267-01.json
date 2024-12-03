@@ -1,0 +1,62 @@
+{
+  "id": 8504998,
+  "name": "MALONE et al. v. HOXSIE",
+  "name_abbreviation": "Malone v. Hoxsie",
+  "decision_date": "1901-10-31",
+  "docket_number": "No. 271",
+  "first_page": "267",
+  "last_page": "271",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 267"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 384,
+    "char_count": 7747,
+    "ocr_confidence": 0.672,
+    "sha256": "90da96d088fd65b73ec2a1406639c11171d36935e3c301c3ba0d288de79223ee",
+    "simhash": "1:a6ed424bfb4ce7fb",
+    "word_count": 1368
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MALONE et al. v. HOXSIE."
+    ],
+    "opinions": [
+      {
+        "text": "WTCKERSHAM, District Judge\n(after stating the facts as above). The fact is undisputed that Hoxsie entered into the possession of this lot in 1899, and continued in the sole use .and occupation thereof up to the time of the sale of that portion now in dispute to Pope. It is beyond question that at the time of the purchase from Pope the plaintiffs knew of Hoxsie\u2019s interest in the property, and knew that he had sold it to Pope, and held a mortgage to secure the payment of the sum of $5,000 upon the purchase price thereof. It is admitted that Hoxsie offered to accept his money from them, and continue them in the use and occupation of the property upon the \u2022payment of the money due from Pope, which they refused. They then first set up a claim as original occupiers under the United States land laws. Their action is void of equity or law to support it. By virtue of his use and occupancy Hox-sie came into possession of the lot, and the plaintiffs entered upon it, not $b original settlers, but by virtue of a lease or option to purchase from Pope, and they ought not to be heard to deny the title through which they gained possession of it. A court of equity will not assist them in maintaining a possession so gained, by enjoining the marshal from making the deed in the foreclosure proceeding against Pope. The plaintiffs assume the position that, under the facts in this case, the defendant could not have foreclosed his mortgage against the plaintiffs. It would be immaterial, under their theory, whether he could or not. They have now assumed the position of original occupants, and repudiated everything in connection with the title except their own possession under the paramount proprietor, the United States. They must either stand upon that foundation or fail, and the other question is immaterial. They argue, too, that the defendant Hoxsie cannot enforce his foreclosure proceedings. The answer to that argument is that they are claiming under their rights as original occupants under the United States, and they must stand upon that foundation or fail. If they are original occupants, and have the exclusive right of possession, subject only to the paramount ownership of the government, it follows that no foreclosure or other proceedings will have any validity against them. Such is not their position, however. They are not, and never were, original occupants of this property. They entered as tenants under Pope with an option to purchase, which, they repudiated. They ought not to be heard, and this court will not assist them, to deny the \u2022title of the party who let them into possession of the property. They must either pay the purchase price of the property or surrender it to the owner.\nFindings of fact, conclusions of law, and a decree in conformity with this view may be entered for the defendant.",
+        "type": "majority",
+        "author": "WTCKERSHAM, District Judge"
+      }
+    ],
+    "attorneys": [
+      "P. C. Sullivan, for plaintiffs.",
+      "Bard & Schofield, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "MALONE et al. v. HOXSIE.\n(Second Division. Nome.\nOctober 31, 1901.)\nNo. 271.\n1. Public Lands \u2014 Estoppel\u2014Landlord and Tenant.\nOne who purchased a town lot and obtained possession thereby from the owner without paying the whole of the purchase price will not be permitted and is estopped to deny the title of the owner, and to repudiate the balance of the purchase price, and assert hostile possessory title, as an original occupant and settler under the land laws of the United States.\nIn the spring of 1899, C. E. Hoxsie, the defendant, entered into the occupancy of a lot in the town of Nome 100 feet by 150 feet square. Thereafter he laid out one portion of it as Front street and another portion as Hunter way, and built a large saloon building upon the lot at the junction \u2022of Front street and Hunter way, which is known as the \u201cDexter Saloon.\u201d In 1899 he lived upon the property in a tent, and continued in the sole use and occupancy of the whole of it at all times from the time of his first settlement until the sale to Pope, hereinafter mentioned. In May, 1900, he was in possession thereof, occupying a large building known as the \u201cDexter\u201d for business purposes. Immediately adjoining the Dexter on the west was a space 25 feet in width by about 100 feet in depth. Upon this vacant space, which was a portion of his original lot, he had a tent building erected, in which resided a native and his family. Across the \u2022front of the vacant space he placed a large boat to prevent access. Upon this vacant ground he also maintained a coal \"bin, and the stairway from Front street to the second story \u25a0of the Dexter building stood upon it.\nAbout the 23d day of May, 1900, he sold the vacant space mentioned to Arthitr M. Pope for the sum of $10,000, and received $5,000 in cash and a mortgage to secure the payment of the balance. Pope immediately entered into possession of the ground, and erected a fence across the front, and fully inclosed the property and entered into complete possession of it. A month later Pope sold the lot to the plaintiffs in this action for the sum of $15,000. They agreed to pay him $400 per month for three months, and then to pay the balance of the $15,000, the $1,200 paid as rent to apply \u25a0on the purchase price. The plaintiffs were informed at that time by Pope of the condition of the title, and were informed by him that Hoxsie held a mortgage against the property for the balance due on the note given by Pope to Hoxsie for $5,000. The plaintiffs entered into possession and paid the first two months\u2019 rent to Pope. In the meantime they \u25a0ejected a two-story building upon the property, which is known as the \u201cWarwick Saloon,\u201d at a cost of about $7,000. About this time Pope seems to have failed in business, and then informed the plaintiffs that the Alaska Commercial Company was the real party in interest in the purchase of the property. They made no further payments thereafter. In the meantime the plaintiffs found that they had made a losing' venture, and after some persuasion the Alaska Commercial. Company returned to the plaintiffs the money which had been left with it by Pope for the two months\u2019 rent. The condition then was that the plaintiffs were in possession of the property, with their building completed and occupied as a saloon; Hoxsie held a mortgage against the property for $5,000 to secure the payment of the balance due upon the sale to Pope. An opportunity was given to the plaintiffs to take up the Pope obligation and pay the mortgage and take the property, but Malone, who seems to have acted for the plaintiffs, refused to do this, and announced that the plaintiffs were unable to pay their debts and continue in business.\nThe defendant, Hoxsie, began a suit on August 28, 1900,. to foreclose his mortgage upon the property, and such proceedings were had in that suit thereafter that Hoxsie obtained judgment on the 5th day of November, 1900, a decree of sale was entered, the property was sold, and bid in by Hoxsie for the full amount of the mortgage and the costs of the suit. The sale was confirmed by an order of the court, whereupon the plaintiffs brought this action to restrain the marshal from' executing a deed to Hoxsie upon the foreclosure proceedings, and set up as a ground for relief that they now claimed the property as occupiers of the public land under the town-site law.\nHoxsie answered, and set up the facts hereinabove alleged, claiming title to the property under his settlement on the lot, and his use and occupation thereof as a portion of the public domain of the United States. Upon the pleadings as they now stand, the plaintiffs claim by virtue of their possession of public land, while Hoxsie claims by reason of bis prior possession of the whole lot. The evidence has been taken, and the whole matter is now submitted to' the court for determination.\nP. C. Sullivan, for plaintiffs.\nBard & Schofield, for defendant."
+  },
+  "file_name": "0267-01",
+  "first_page_order": 291,
+  "last_page_order": 295
+}

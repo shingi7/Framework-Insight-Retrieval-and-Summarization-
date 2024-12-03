@@ -1,0 +1,97 @@
+{
+  "id": 8504594,
+  "name": "In re ESTATE OF WILLIAM M. BENNETT",
+  "name_abbreviation": "In re Estate of Bennett",
+  "decision_date": "1901-05",
+  "docket_number": "No. 798",
+  "first_page": "159",
+  "last_page": "164",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 159"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "2 Or. 203",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2291390
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/2/0203-01"
+      ]
+    },
+    {
+      "cite": "20 Pac. 685",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Or. 330",
+      "category": "reporters:state",
+      "reporter": "Or.",
+      "case_ids": [
+        2279634
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/or/17/0330-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 413,
+    "char_count": 10099,
+    "ocr_confidence": 0.643,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.20521794900011545
+    },
+    "sha256": "1f554cea0009174a59baabd1c002dc37e8ac7122c220cdb3e43130a748e028e4",
+    "simhash": "1:9d3f7daca1bd5def",
+    "word_count": 1810
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re ESTATE OF WILLIAM M. BENNETT."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nAn examination of the files in this case discloses the following facts :\nThe transcript on appeal was filed in this court on December 2, 1898, and on January 3, 1899, J. H. Cobb, appearing for J. M. Davis, administrator, filed his motion in this court to strike the cause from the docket, and to dismiss the attempted appeal, on the ground that the order and judgment appealed from were entered on the 14th day of January, 1898, and no record was filed in this court until said 2d day of December, 1898, and no order was had and obtained allowing an extension of time in which to file said record; and on the ground that said appeal had thereby been abandoned, and the court acquired no jurisdiction of the cause by reason of the filing of said record at said date. The judgment of the commissioner acting as probate judge, allowing the several accounts of the administrator, was entered on the 14th day of January, 1898. The courthouse in which the commissioner\u2019s records and papers were filed was-burned on January 31, 1898, and the files and records in this case destroyed. It further appears that notice of appeal was filed on the 14th day of January, 1898, and that thereafter,\u00ae and on the same day, an appeal bond was filed and approved. On the 30th day of June proceedings were begun in the said commissioner\u2019s court to have the files and papers theretofore destroyed restored. An order restoring the said files was made by the said court on the 26th day of September. The records of this court, to which attention is called in the argument, and upon which, in part, the motion to dismiss is based, show that two regular terms of the District Court were held during the year 1898 prior to the filing of said record \u2014 one beginning on the first Monday in May, at Sitka, and the other on the first Monday of November, at Wrangel.\nThe question presented to the court by the motion herein is this: Was the transcript on appeal filed in this court within the time allowed by the statute of Oregon at that time in force in Alaska ?\nThe county court, as it was called in the state of Oregon, had jurisdiction in all probate matters. See section 895, p. 637, vol. 1, Hill\u2019s Ann. Laws Or. Section 902 of the said Laws of Oregon provides how appeals shall be taken from decisions of that court, and said section reads as follows:\n\u201cTlie provisions of title 4 of chap. 6, relating to appeals, are intended to apply to judgments and decrees of the county courts in all cases, hut not to its decisions given or made in the transaction of county business. In the latter case, the decision,of the court shall only he reviewed upon writ of review provided hy the Code.\u201d\nChapter 6, tit. 4, referred to in the foregoing section, seems to be covered by subdivision 5 of section 537:\n\u201cAn appeal to the Supreme Court shall he taken by serving and filing the notice of appeal within six months from the entry of the judgment or decree appealed from, or to the circuit court within thirty days after such entry, and not otherwise.\u201d\nFollowing the statute and its application to appeals, we must treat this court as a circuit court, and the probate court exercising jurisdiction over estates as a county court of Oregon. By the terms of this statute it will be seen that the appeal must be perfected, so far as the notice of appeal may effect the same, within 30 days from the time the judgment or decree was entered. The substituted record in this case shows that the notice of appeal and the appeal bond were filed in the court below within the time required by the statute. This perfected the appeal in the lower court. Section 541 of chapter 6, tit. 4, Hill\u2019s Ann. Laws Or., further provides :\n\u201cUpon the appeal being perfected, the appellant must, by the second day of the next regular term of the appellate court thereafter, file with the clerk of such court the transcript of the cause, as provided in this section, and thereafter the appellate court has jurisdiction of the cause, and not otherwise.\u201d\nIn Kelley v. Pike, 17 Or. 330, 20 Pac. 685, it was held that, where the appeal was perfected by filing and serving the proper notice of appeal and the appeal bond, but the party appealing failed to file his transcript as provided by the Code on or before the second day of the next term, the court acquired no jurisdiction of the cause by the filing of the record after that period, and had no jurisdiction to grant an order allowing the transcript to be filed nunc pro tunc, whatever the reasons occasioning the neglect may have been. In Lindley v. Wallis, 2 Or. 203, it was held: \u201cTranscript must be filed before the close of the second day of the next term, or be deemed abandoned.\u201d It would seem from the holdings of the Supreme Court of Oregon on this question that the rule is clear, viz., t-hat the transcript of the record and proceedings in the court below must be filed in this court before the close of the second day of the next term in course.\nBut it is claimed that the courthouse was burned, and the records destroyed, and it was no fault of the plaintiff that the record was not filed within that time.. The probate court had power and authority to restore its destroyed files and records, if that could be done with reasonable certainty. The parties in this case knew when the regular terms of this court were held, and must have known that the regular term thereof would be begun at Sitka on the first Monday in May following the destruction of the records on the 31st of January of the same year. Promptitude and timely action on the part of the parties in interest would have restored the records as they were finally restored,, so that the transcript thereof could have been filed in this court within the time provided by statute. The first step taken'to restore the records in the probate court was the. petition of the creditors, filed on the 30th day of April, 1898 \u2014 only a few days before the time would expire to file the record with the clerk of the court at Sitka, Considering the time that would elapse in necessary notice to the administrator and other parties \u25a0 in interest, it was not. possible that an order could have been made in the probate court, and the files arid records that had been destroyed supplied, so that a transcript could have been made and filed in this court within the time provided by the statute.\nIt would seem, therefore, that by the failure of the parties interested in the appeal to move promptly in the matter of restoring the records the transcript thereof could not ;be made in proper season. This was a matter of their own negligence. They had had from the 1st of January within which to make said application and to have the records restored. If, however, the time had been too short for the restoration of these records, and the appeal could not have been taken for that reason, then subdivision 3 of section 541, Hill\u2019s Ann. Laws Or., before referred to, provided a remedy in the following language:\n\u201cIf tire transcript is not filed with the clerk of the appellate court within the time provided, the appeal is to be deemed abandoned and the effect thereof terminated; but the court or judge thereof may, upon notice to the respondent, on such terms as may be just, by order enlarge the time for filing the same; but such order shall be made within the time allowed to file the transcript, and shall not extend it beyond the term of the appellate court next following the appeal.\u2019\u2019\nThe parties in interest here had three months in which to make this application to the court for further time in which to file their transcript, but the files and records of this court fail to disclose that any such application was ever made. The appeal is to be deemed abandoned, and the effect thereof terminated, when the party fails to file his transcript within the period prescribed.\nBut for the purpose of the argument, and to show more clearly the negligence of the party seeking to appeal, it may be' proper to call attention to another fact. The order restoring this record in the probate court was made September 26, 1898, and the transcript and appeal, as before stated, was not filed until the 2d of December of the same year, and more than 30 days after the record was restored by order of the probate court, viz., on the first Monday of November, 1898, another regular term of this court was begun and held. Surely there was ample time to have procured a transcript of the record, and had the same filed in this court, before the second day of the November term had expired.\nAn examination of all the facts in the case, so far as the same have come to the knowledge of the court, conclusively shows that the failure to file the transcript of the record before the expiration of the second day of the November, 1898, term, was the negligence of the party in interest, and under the laws of Oregon in force in Alaska at that time was an abandonment of the appeal.\nIt is, therefore, the order of the court that the motion requesting that the above suit be stricken from the docket, and all further proceedings in the attempted appeal be dismissed, be, and it is hereby, sustained. And it is ordered, adjudged, and decreed by the court that the said suit be stricken from the docket, and all proceedings in the attempted appeal be, and the .same are hereby, dismissed, and that the administrator, J. M. Davis, have judgment for his costs in this behalf expended.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "John G. Heid, for appellant.",
+      "Crews & Hellenthal, contra."
+    ],
+    "corrections": "",
+    "head_matter": "In re ESTATE OF WILLIAM M. BENNETT.\n(First Division. Juneau.\nMay Term, 1901.)\nNo. 798.\n1. APPEAR AND ERROR \u2014 ABANDONMENT\u2014TRANSCRIPT.\nA notice and bond on appeal were filed in the probate department of the Commissioner\u2019s Court on January 14, 1898. The office and records were destroyed by fire on January 31, 1898. No application was made to extend the'time for filing the transcript. Held, that the appeal was abandoned, and the court acquired no jurisdiction upon a transcript and record first filed iu the District Court on December 2, 1898. Appeal dismissed.\nMotion to Dismiss Appeal from Probate Court.\nJohn G. Heid, for appellant.\nCrews & Hellenthal, contra."
+  },
+  "file_name": "0159-01",
+  "first_page_order": 183,
+  "last_page_order": 188
+}

@@ -1,0 +1,93 @@
+{
+  "id": 8505366,
+  "name": "UNITED STATES v. HOMER BIRD",
+  "name_abbreviation": "United States v. Bird",
+  "decision_date": "1901-12-17",
+  "docket_number": "No. 1,327",
+  "first_page": "379",
+  "last_page": "385",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 379"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "45 L. Ed. 570",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3617833
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/180/0356-01"
+      ]
+    },
+    {
+      "cite": "21 Sup. Ct. 403",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        3617833,
+        1250777
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/180/0356-01",
+        "/alaska-fed/1/0671-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 531,
+    "char_count": 11841,
+    "ocr_confidence": 0.655,
+    "pagerank": {
+      "raw": 2.0446031217563963e-07,
+      "percentile": 0.7493878986767182
+    },
+    "sha256": "6ccf101013990429d0c610423f277cb1825e5501ee3f398a0fad3aeb5475e88c",
+    "simhash": "1:ba63ccb660298786",
+    "word_count": 2062
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "UNITED STATES v. HOMER BIRD."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nIt appears by the record in-this case that the homicide alleged to have been committed by the defendant occurred on the Yukon river, in Alaska, on September 27, 1898; that thereafter a trial was had before the United States District Court for the District of Alaska, the defendant convicted, an appeal taken to the Supreme Court of the United States (21 Sup. Ct. 403, 45 L. Ed. 570), the judgment of the lower court reversed, and a mandate of the Supreme Court of the United States directing this court to proceed to the tribal of the case returned and filed in this court.\nAt the Skagway April, 1901, term thereafter, on the application of the United States attorney, the case was continued to the Juneau May, 1901, term, because of the absence of the witnesses for the prosecution. At the time of such \u25a0continuance the defendant was brought into court, and appeared in person and by his attorneys, and counsel for the defendant then declared himself ready for trial, though none \u2022of the witnesses now asked for were in court, or within reach of the process of the court, so that their attendance could have been procured for that term. It is inferred \u25a0that counsel for the defendant declared themselves ready for the trial without witness other than the defendant, because of their knowledge that none of the witnesses for the prosecution were then within reach, and that their evidence could not be procured for that term.\nThe case -was again called at the Juneau May, 1901, term, and it appearing to the court that the witnesses for the prosecution, who were being brought by steamer from Seattle, were prevented from landing at Juneau, for the reason that smallpox had been discovered among some one or more \u2022of the passengers voyaging on the same ship, the case was again continued. During the said May, 1901, term, an application was made by the defendant for service of subpoena at the expense of the government on certain witnesses named therein \u2014 the same witnesses now described in the affidavit for continuance \u2014 and who were said to be residing: at certain points along the Yukon river in Alaska; the defendant alleging in such application that he was not possessed of means to obtain the service of said subpoenas and the attendance of such witnesses. Notwithstanding the knowledge of the court that this case had been once tried, was. vigorously defended by competent counsel, thereafter an appeal taken to the Supreme Court, and the case heard thereat great expense to the defendant, and that competent counsel were again appearing in the case, from which facts the court might reasonably infer at least that the defendant was not in such sore need of means for the procurement of witnesses as he claimed, still the court, giving the utmost credence to the defendant\u2019s claim, ordered the subpoenas issued and served at the expense of the United States. This order was made during the Juneau May, 1901, term. It appears that the defendant\u2019s attorney never called upon the clerk of the court for the issuance and delivery of these subpoenas until about the 20th or 21st of August thereafter; that in the meantime, and on or about the 18th day of August, the clerk had issued the subpoenas, and the same had been delivered to the United States marshal of this division, and forwarded to the United States marshal at St. Michael; that service was there had upon Jensen; that the other witnesses were not served, because, as the marshal' asserts in his letter accompanying the return, they were-not only not found, but, upon reliable information and belief, they were not within the district. Among the other facts of which the court must take knowledge is the fact that the defendant has been confined in jail during the interim of court and ever since his first trial; that defendant\u2019s knowledge or information as to the whereabouts of the desired witnesses must necessarily be indefinite and uncertain,, and not of the most trustworthy character. The affidavit -of ex-United States Marshal Vawter, who was deputy marshal of the district at the time of the alleged homicide, has also been presented, tending to show that said witnesses are not at this time, and have not been for a considerable period, within the District of Alaska.\nUnder these conditions, then, the court is required to pass upon the application of the defendant for a continuance at this time. An examination of the affidavit discloses that the facts which the defendant undertakes to establish by the absent witnesses are as follows:\n\u201cThat he was sitting on the hed of the said Patterson, on the port or left-hand side thereof, facing the defendant, who was sitting \u25a0on the right-hand side of said scow, on his hed; that they were casting up their accounts, to see how much each had paid out for the outfit then in their possession, preparatory to a division thereof; that a quarrel sprang up over some differences, and Patterson struck the defendant, who struck him hack; that at that instant the woman called out to the defendant to look out, they were getting their guns; that defendant thereupon sprang to the stern of the scow and seized his shotgun; as he did so, he saw Hurlin in the act of raising up with his Winchester rifle in his hands, which he had taken from his blankets at a point near the bow of the scow on the right-hand side thereof; that said scow was covered with a tarpaulin; that defendant thereupon shot deceased with the shotgun, which was charged with goose shot, the charge taking effect in the side of his head, killing him instantly; that some of said shot took effect in the tarpaulin immediately beside the said Hurlin\u2019s head; that said Patterson, at the instant defendant fired at said Hurlin, was making for and attempting to get a Winchester rifle in the extreme bow of said scow, and was in a half-stooping position near the front end of said tarpaulin covering; that defendant thereupon fired at and wounded the said Patterson in the left shoulder, some of said shot taking effect in the tarpaulin immediately over him.\u201d\nThe homicide is said to have been committed on September 27, 1898. The witnesses who are said to be absent, and for whose absence a continuance is claimed, are M. C. Jensen, John Doe Wallace, and John Doe Thompson. The affidavit set forth that, if said witnesses were present, they would testifyi- that they were at the scene of the homicide on the 28th or 29th day of September, 1898, and were in said scow, helping to take therefrom certain provisions stored therein; that they saw and recognized shot marks on the tarpaulin at the extreme front end thereof and at or near the middle or center of said front end; that they also saw blood \u2022on the scow, immediately under the place where the first shot was said to have taken effect; that there was no indication of any shot marks whatever on or about or anywhere near the stern of said scow; that one John Doe Hendricks was at said scow several times during the winter of 1898 and 1899, and saw shot marks on the tarpaulin at the same places as stated above. It is further claimed that Jensen, in addition to the foregoing, would testify that \u201cthe witnesses for the government stated to him at that time, and at other subsequent times, had the homicide occurred in the manner above set forth\u201d; that witness John Doe Chapman would testify \u201cthat in the month of March, 1899, he saw and talked with the witnesses for the government herein, and that they then and there detailed to him the circumstances of the homicide as substantially set forth herein.\nIt appears that none of these witnesses were present at the time of the shooting; that their testimony is quite indefinite and uncertain in character, it being said by them that a day or two after the shooting described by the defendant in his affidavit they were on the scow in question, engaged in discharging some freight therefrom; that they observed certain shot marks in a piece of canvass at or near the bow of the scow, and certain shot marks near the center of the bow of the scow in the end thereof, and shot marks at the side, and also certain blood stains on the boat. Nothing is said by the witnesses as to what examination was made by them as to the appearance of the shot marks, whether the indications were that they had been made recently or were of great age, or as to any time they could or might have been made. The statement is a bald one, unsupported by details or facts showing careful observation, or whether any observation or examination was made. It is believed that this sort of testimony is too indefinite in character, and altogether too uncertain, to warrant the court in granting a continuance at this late day, after so much time has expired since the homicide occurred. It further appears to the court by the record of the case made at the former trial that no application was at that time made for the attendance of the witnesses now desired, nor was it in any manner indicated that they knew facts such as are set forth in the affidavit at this time.\nI am of t'he opinion that, while it was the duty of the clerk of this court to have immediately issued the subpoenas for witnesses under the order of the court, it was equally the duty of counsel for the defendant to have followed up the order that had been made at their instance, and to have promptly called the attention of the clerk to the fact of the order and their desire for the immediate issue of the subpoenas.\nA part of the testimony desired, as appears by the affidavit for continuance, is for the impeachment of certain government witnesses not named in the affidavit as to conversations claimed to have been had with \u201csuch government witnesses\u201d by some of the witnesses whose presence is alleged to be desired for the purposes of this trial. It is believed that the law governing continuances does not require the court to consider the merits of an application based on this sort of testimony. Even in states where the statutes give defendants the right to continuance when an affidavit is made setting forth the facts to which certain absent witnesses will testify if present in court, and wherein no other affidavit or other evidence of any character may be considered by the court in passing upon such application save the affidavit so made, it has been frequently held that testimony of the character here sought to be secured will not be considered as basis for the granting of a continuance. It would seem that, to entitle it to consideration, the affidavit should state facts relative to the homicide, or to some phase of the matter in issue, and not impeaching testimony.\nApplications of this character are addressed to the sound discretion of the court, and not under any statute making it the imperative duty of the court to grant a continuance upon a showing made. Considering all the facts and circumstances surrounding this case, and exercising the fairest discretion of which this court is possessed, the court is constrained-to deny the application.\nContinuance of the case is therefore refused.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "R. A. Friedrich, U. S. Dist. Atty.",
+      "Maloney & Cobb, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES v. HOMER BIRD.\n(Third Division. Juneau.\nDecember 17, 1901.)\nNo. 1,327.\n1. Cbiminal Law \u2014 Continuance.\nWhere it appears, from the affidavit for a continuance, that the defendant procured, at the May term, 1901, an order of court that certain witnesses he subpoenaed at the expense of the government, but took no further step until August 26th thereafter,, after which one was served, and the others shown to be out of the district; that neither of the witnesses was present at the time of the homicide, and they are shown by the application to* have knowledge only of the existence of shot marks at the place of the homicide \u2014 the motion is denied.\nMotion for a Continuance.\nDenied.\nR. A. Friedrich, U. S. Dist. Atty.\nMaloney & Cobb, for defendant."
+  },
+  "file_name": "0379-01",
+  "first_page_order": 403,
+  "last_page_order": 409
+}

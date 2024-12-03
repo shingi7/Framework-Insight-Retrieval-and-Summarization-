@@ -1,0 +1,97 @@
+{
+  "id": 8505652,
+  "name": "RUSSELL et al. v. DUFRESNE",
+  "name_abbreviation": "Russell v. Dufresne",
+  "decision_date": "1902-03-01",
+  "docket_number": "No. 280",
+  "first_page": "486",
+  "last_page": "491",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 486"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "14 Pac. 646",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "7 Sawy. 96",
+      "category": "reporters:federal",
+      "reporter": "Sawy.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "4 Morr. Min. R. 423",
+      "category": "reporters:specialty",
+      "reporter": "Morr. Min. Rep.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Fed. 666",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3779361
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f/11/0666-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 506,
+    "char_count": 10914,
+    "ocr_confidence": 0.659,
+    "pagerank": {
+      "raw": 4.446063651887353e-08,
+      "percentile": 0.27885699127632535
+    },
+    "sha256": "de459ff0a33ca2be1b2b080af6cbb028018623963e36e17be32eb335dbb9ac52",
+    "simhash": "1:aa72f7131b146a5b",
+    "word_count": 1912
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "RUSSELL et al. v. DUFRESNE."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge\n(after stating the facts as above). Two errors are especially urged on the motion for a. new trial. The first is that the court erred in holding that Russell\u2019s location made on January 1, 1901, was void for want of \u2022any discovery to support it. The finding upon this point made by the court, and upon which the decree was based, is that Russell and Niebling were partners in the venture; that Nieb-ling, acting for himself and Russell, sent two men in September, 1900, to explore the ground; that these men made a discovery of placer gold thereon, and immediately thereafter reported the same to the plaintiff Niebling; and that both of these men were trespassers in making entry upon the ground to make such discovery. In this finding the court committed error both as to fact and law. While it is practically admitted that a prior location of this claim had been made by Hilligos, which did not expire until December 31, 1900, yet there is no evidence which shows any trespass by the two men sent by 'plaintiffs to prospect the same. Nothing whatever appears in the evidence about that matter. They may have been invited by Hilligos to inspect the claim; they may have entered without such consent. The evidence does not show either fact, and the court ought not to presume that a citizen acts in violation of the law. Certainly, no such presumption ought to be indulged in when the result is to forfeit a mining location valid in all other respects. The evidence on this point is that Koncal and Alexander were sent by Nieb-ling and Russell in September to prospect the claim, and did so; also, that it was prospected during that summer by Wilson for himself, but who informed Russell at the time of his location that it contained gold.\nIt clearly appears from Wilson\u2019s testimony that he had made discoveries on the claim in 1900, independent. of those made by Koncal and Alexander for Niebling; that he was with Russell on January 1, 1901, when Russell located, and informed Russell as early as November, 1900, of his discoveries. He also states conclusively that no one was in the actual occupation of the ground when he and the explorers sent by Niebling were there. Nor is there any evidence to show that his presence there was unauthorized; it may have been with the consent of Hilligos. Certainly, it is not now shown by any testimony whatever that Wilson was sent by the plaintiffs to trespass upon this claim prior to January 1, 1901, whatever may be asserted of Koncal and Alexander\u2019s visit. I reach this conclusion from the evidence: That Koncal and Alexander examined this claim in September, 1900, in a peaceable and quiet manner, as the agents of plaintiffs, when it was not in the actual occupancy of any other person, and informed plaintiffs of the discovery of gold for them thereon. They also received the same information from Wilson, who was not there at their procurement, but whose discovery they adopted and utilized in their location of January 1, 1901. The claim ought not to be declared void because of the alleged trespass. The government invites exploration upon its mineral lands, when made peaceably and in good faith.\nThe court, in its finding of fact, found that on January 1, 1901, the plaintiff Russell made a valid location of this claim by posting his location notice and marking the boundaries according to law and the rules and customs of the district; that on the 8th day of January, 1901, he filed in the recorder\u2019s office a certificate of location for record, and on the 15th day of January an amended notice, but that he made no other discovery than that made by Koncal and Alexander. The court entirely ignored the discovery of Wilson, and gave it no weight. The court also found that Dufresne\u2019s location \u25a0was not made until the 8th, and his certificate was filed within go days thereafter, not giving the exact date, though the notice itself bears the file mark of January 17th, two days after Russell\u2019s amended notice was -filed.\nFrom all these conceded facts it appears to me that this court erred in holding the claim to be void on the ground of want of discovery. A discovery is certainly necessary to enable the claimant to make a valid location of a mining claim, but it has never been held necessary for the locator to-do the actual manual labor of exposing the gold. He may, and usually does, employ others to do the work for him. It may be done in his absence \u2014 even without his knowledge,\" and so far does common sense carry this rule that Judge-Sawyer correctly said, in charging the jury in Jupiter Min. Co. v. Bodie (C. C.) 11 Fed. 666, 4 Morr. Min. R. 423, 7 Sawy. 96:\n\u201cIt is not necessary that the locator should he the first discoverer of the vein, hut it must he known to him, and claimed hy him, in order to give validity to the location.\u201d\nWermer v. McNulty (Mont.) 14 Pac. 646; 1 Lindley on Mines, \u00a7\u00a7 403-408. When Russell made his location of this claim on the morning of January 1, 1901, the presence of gold on the claim was known to him; and acting upon that information, obtained not only from his employes Koncal' and Alexander, but. from Wilson, a present employe on the ground with him at the time of the location, he may fairly be-said to have known of the discovery, and to have claimed it as his act, and these acts and information give life and validity to his location. It follows that, in my opinion, the location of Russell was valid, and that at the time of Dufresne\u2019s location Russell had \u201cthe exclusive right to the possession and enjoyment of the property in dispute.\u201d There can be no such thing as Russell\u2019s location being good as to his quarter and Dufresne\u2019s as to three-quarters; the latter was void and of no-effect. Whatever force an estoppel may have in another case, it cannot make a second location of the same mining claim valid. Dufresne\u2019s title in this proceeding depends upon his location, which must fail, and his title must fail with it. However reprehensible the conduct of Niebling may be, it cannot give life to a mining location in violation of the laws of Congress. It cannot be claimed either that Russell said' or did anything which created an estoppel as to his rights, nor which could in any wise render his location void.\nThis being true, no estoppel can give validity to Dufresne\u2019s. location, which is the only basis of his claim to right or possession or ownership. Whatever title he acquires must come through the Russell location. I am of the opinion that Russell\u2019s location made on January 1st was good, and that his. pleading alleging a discovery on that day is sufficient, and that proof of discovery by AVilson and the two employ\u00e9s of Niebling and Russell is sufficient to sustain his cause of action. The court therefore erred in its findings of fact, conclusions of law, and decree, and they must be modified, and a new trial awarded.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge"
+      }
+    ],
+    "attorneys": [
+      "Thompson, Murane & Thompson, for plaintiffs.",
+      "W. T. Love and B. F. Knott, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "RUSSELL et al. v. DUFRESNE.\n(Second Division. Nome.\nMarch 1, 1902.)\nNo. 280.\n1. Mires and Minerals \u2014 Discovert.\nWhen the employ\u00e9s and agents of a future locator entered upon a placer claim which had previously been located, but was then not in the actual possession of the locator or any one else, and peaceably and without objection explored the same for gold, and discovered a valuable pay streak thereon, and thereafter and on January 1st, after the prior location had lapsed on December 31st for failure to work the claim, the said employ\u00e9s and their employer went upon the ground, and the employer, having knowledge of all the facts, then located the claim, set the stakes and otherwise complied with the law in time, held, that the prior discoveries of gold by his employ\u00e9s were a sufficient discovery on which to base his location.\n2. Same \u2014 Estoppel.\nOne Russell made a valid location of a placer mine for himself and Niebling. Dufresne made a subsequent location of the same claim upon the suggestion of Niebling. Reid that, whatever force estoppel may have in another ease, it cannot make a second location of a placer claim good as to Niebling\u2019s part and bad as to Russell\u2019s. The first valid location excludes any subsequent location during its continued validity.\nThis action was originally brought by plaintiff, Russell, to quiet his title to a mining claim described in the complaint as No. i above discovery on Kasson creek in the Cape Nome mining district. After the cause had been sent to the referee to take testimony, it appeared that Niebling was an interested party, and he was joined, with his consent, as a plaintiff, and the cause proceeded. The plaintiffs claim title through a location made by Russell on January i, 1901, and defendant upon a subsequent location made on January 7, 1901.\nThe referee has reported all the testimony in writing, and has made and filed his findings of fact and conclusions of law. He finds as a fact that Russell made a good and valid location on January I, 1901, for himself and Niebling, but based upon a discovery of gold made in- the previous September, 1900, at which time the ground was embraced in a valid claim located by one Hilligos, which became vacant and abandoned on December 31, 1900. The referee also finds that about the 5th day of January, 1901, Niebling represented to Dufresne that he had sent Russell to locate the claim in controversy for him, but that, in violation of his instructions, Russell had located it in his own name; that Russell had not made any discovery of gold before the location; and he advised and urged Dufresne to go upon the claim, and make a discovery and a new location over Russell\u2019s, and that he (Niebling) would assist Dufresne in contesting Russell\u2019s title. He further finds that subsequent to his location Russell conveyed a quarter interest in the mine to Niebling, and a half interest to one Wilson, who thereupon conveyed it to Niebling, who is now the owner of such deeds of a three-fourths interest in the premises. He finds that, in pursuance to the suggestions of Niebling, the defendant did go upon and did make a discovery and a junior location over Russell, and finds as a conclusion of law that Niebling is estopped by such fact to deny Dufresne\u2019s title, and that Dufresne is thereby the owner of a three-fourths interest in the claim, while Russell is the owner of the remaining fourth by virtue of his senior location, which is sustained.\nThe referee\u2019s report being filed, and the objections of both plaintiffs and defendant thereto being considered by the court on August 12, 1901, the court made new findings of fact favorable to the defendant, and entered a decree, in which the referee\u2019s finding and conclusion in favor of Russell was reversed, and the entire property awarded to Dufresne. Thereupon, and on August 15, 1901, the plaintiffs filed a motion for a new trial, which is now before this court for determination.\nThompson, Murane & Thompson, for plaintiffs.\nW. T. Love and B. F. Knott, for defendant."
+  },
+  "file_name": "0486-01",
+  "first_page_order": 510,
+  "last_page_order": 515
+}

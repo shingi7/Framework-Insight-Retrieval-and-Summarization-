@@ -1,0 +1,154 @@
+{
+  "id": 8504534,
+  "name": "WALSH v. FORD",
+  "name_abbreviation": "Walsh v. Ford",
+  "decision_date": "1901-04-15",
+  "docket_number": "No. 40",
+  "first_page": "146",
+  "last_page": "153",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 146"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "49 Fed. 47",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        3818549,
+        1250783
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f/49/0047-01",
+        "/alaska-fed/1/0240-01"
+      ]
+    },
+    {
+      "cite": "23 Stat. 103",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "96 U. S. 513",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3380999
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/96/0513-01"
+      ]
+    },
+    {
+      "cite": "25 L. Ed. 435",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        3374587
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/99/0261-01"
+      ]
+    },
+    {
+      "cite": "98 U. S. 261",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "76 Am. Dec. 567",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal. 37",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "case_ids": [
+        2299340
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal/17/0037-01"
+      ]
+    },
+    {
+      "cite": "76 Am. Dec. 574",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 Cal. 108",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "23 Stat. 103",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 651,
+    "char_count": 14607,
+    "ocr_confidence": 0.589,
+    "pagerank": {
+      "raw": 1.0573849357748847e-07,
+      "percentile": 0.5557190786026521
+    },
+    "sha256": "a1a6a322dfed04a56c9c0137e263b583214b14060419fcaad723d6d19da2dda2",
+    "simhash": "1:41e25e334748a681",
+    "word_count": 2527
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "WALSH v. FORD."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThis is a suit to determine priority of occupancy and the right to the possession of a lot in the town of Eagle, Alaska. The plaintiff alleges that on April i, 1901, he entered into the occupancy and took possession of lot 5 in block 1 in West Eagle; that the lot was then unoccupied, and that on that day he began to deliver material upon the lot for the erection of a dwelling house, and placed a notice of his claim on a stake thereon; that the building of the dwelling was begun and carried on from day to day until, on the night of April 4th, the defendant wrongfully removed the half-finished structure from the lot, and tore down and destroyed the notice of location posted thereon.\nDefendant alleges, and the proof shows, that on May 25, 1900, the property in controversy was situated within the Ft. Egbert military reservation; that on that day the commanding officer of the District of Alaska, at Ft. Egbert, issued to the defendant, upon his application, the following permit:\n\u201cHeadquarters Dist. of N. A.\n\u201cFt. Egbert, Alaska, May 25, 1900.\n\u201cMr. H. N. Ford, Eagle, Alaska \u2014 Sir: Subject to the approval of tlie Hon. the Secretary of War, you are authorized' to occupy for livery stable and residence purposes, the following described grounds in the city of Eagle, on the military reservation of Et. Egbert, Alaska: Lots No. Eive (5) and Six (6) in block No. One (1) in West Eagle.\n\u201cVery respectfully, P. H. Ray,\n\u201cMajor 8th Infantry, Commanding District and Post.\n\u201cRecorded in Volume 1, p. 38.\u201d\nThereafter the defendant procured the survey of the lots-described, and on or about September i, 1900, posted a written notice thereon, claiming the same .for residence purposes, erected a residence and a stable on lot 5, cleared both, lots, built roads thereto, and graded a way from the front of lot 6 down to the roadway along the Yukon river. He occupied the dwelling house and stable continuously; was in possession thereof on April i.st, when plaintiff entered upon lot 6; and used lot 6 continuously in connection with his-residence and stable for storing wood, sleds, other material,, and tools.\nThe plaintiff knew of defendant\u2019s possession of lot 5, and' his use of lot 6, and had knowledge of and saw defendant\u2019s, notice of September 1st posted on the corner of lot\u20196, claiming both lots. Plaintiff alleged in his reply that on April 1st the defendant voluntarily abandoned his possession, and consented to plaintiff\u2019s occupancy of lot 6. This was denied by defendant, and the plaintiff failed to sustain the allegation by a preponderance of evidence or any satisfactory proof. It was shown, however, that on April 2d the defendant caused plaintiff to be served with written notice to remove his building material from the premises in controversy, and forbidding him from placing more thereon.\nPrior to June 13, 1899, Eagle, Alaska, had been established upon the unsurveyed public domain upon the banks of the Yukon river at the mouth of Mission creek, and had been platted into lots, blocks, streets, and alleys, and residences and buildings for business purposes erected thereon. By executive order dated June 13, 1899, the whole of the lands included in the town site were included in the Ft. Eg-bert military reservation. On June 30, 1899, the following order was issued by the Secretary of War:\n\u201cWar Department, Washington, D. O., June 26, 1899.\n\u201cThe President o\u00a3 the United States, by order dated June 13, 1899. having reserved from sale and set apart for military purposes the following described .public lands located at the mouth of Mission Creek, District of Alaska, at a point known as Eagle City, the same are declared a military reservation for the post of Port Egbert:\n\u201cCommencing at a post at the mouth of Mission Creek, marked \u2018U. S. M. R.\u2019; thence due west two miles; thence south five miles; thence east eight miles; thence north to the hank of the Yukon river; thence westerly along the shore of the left bank of the Yukon river to the place of beginning. The reservation herein declared is subject to all valid rights existing at the date of the President\u2019s order. R. A. Alger, Secretary of War.\u201d\nBy an executive order of March 31, 1900, that of June 13, 1899, was amended by attaching an additional tract to the reservation. The land in controversy, however, was embraced within the reservation declared by the President\u2019s first order of June 13, 1899. Eagle, and the lot in controversy, continued in the military reservation of Ft. Egbert until July 23, 1900, when, by executive order, they were released. The following order was issued by the Secretary of War to carry into effect the executive order:\n\u201cWar Department, Washington, August 13, 1900.\n\u201cThe President of the United States, by order dated July 23, 1900, placed under the control of the Secretary of the Interior for disposition under the act of Congress of July 5, 1884 (23 Stat. D. 103), the following described tract of land, the same being a part of the lands formerly embraced within the limits of the military reservation of Port Egbert, Alaska, which lands were reserved by executive order of June 13,1899, as amended by executive order of March 31st, 1900:\n\u201cBeginning at a point where the center line of C street and the Yukon river intersect; thence running in a \u2018southwesterly direction along the center line of said G street for a distance of two hundred (200) rods; thence southeasterly three hundred and twenty (320) rods on a line at right angles to said O street; thence in a northeasterly direction parallel to and with said O street to the left hank of the Yukon river; thence along the left meander line of said river in a northwesterly direction to place of beginning, containing approximately four hundred (400) acres.\n\u201cJBlihu Root, Secretary of War.\u201d\nThis order was received and promulgated at Eagle on September 20, 1900. The lands so released from the military reservation embraced the tract or lots in controversy.\nBy the executive order of July 23, 1900, the lands now embraced within the limits of the town of Eagle are to be disposed of under the provisions of the act of Congress of July 5, 1884 (23 Stat. 103, c. 214 [U. S. Comp. St. 1901, p, 1607]), entitled \u201cAn act to provide for the disposal of abandoned and useless military reservations.\u201d Section 1 of this act provides for placing useless or abandoned military reservations, or any portion thereof, under the control of the Secretary of the Interior for disposal under the act by an executive order. Section 2 provides that the Secretary of the Interior may, if, in his opinion, the public interests so require, cause the said lands, or any part thereof, to be regularly surveyed, or to be subdivided into tracts of less than 40 acres each, and into town lots, or both. He shall cause them to be appraised, and, upon the approval of the appraisal he shall cause said lands, subdivisions, and lots to be sold at public sale to the highest bidder for cash, at not less than the appraised value thereof:\n\u201cProvided, that any settler who was in actual occupation of anjr portion of such reservation prior to the location of such reservation,, or settled thereon prior to January first, eighteen hundred and eighty-four, in good faith for the purpose of securing a home and of entering the same under the general laws, and has continued in such occupation to the present time, and is by law entitled to make a homestead entry shall he entitled to enter the land so occupied, not exceeding one hundred and sixty acres in a hody, according to the government surveys and subdivisions: provided, further, that said lands were subject to entry under the public land laws at the time of their withdrawal.\u201d\nSection 3 provides for the appraisal and sale of abandoned military buildings, and section 5 provides that mineral lands so released from reservation shall be disposed of under the mineral land laws.\nThe Ft. Egbert reservation was declared July 13, 1899. The possession and occupancy of Ford began May 25, 1900; that of Walsh April 1, 1901; and it follows that, if the act of July 5, 1884, is applicable to Alaska, and the action of the Secretary of War valid, neither of them is entitled to a preference right in this action under the first proviso of section 2 of the act of July 5, 1884, as neither of them \u201cwas in actual occupation of any portion of such reservation prior to the location of such reservation\u201d on June 13, 1899. The lands embraced in the 400-acre tract released from reservation and placed under the control of the Secretary of the Interior for sale under the act above quoted are held by that department for disposal to those who settled thereon prior to June 13, 1900, and to the highest bidder for cash upon survey, appraisal, and sale. There is nothing in the act of July 5, 1884, offering settlers or occupants entering into possession of any subdivision or lot subsequent to the executive order of withdrawal any preference right of entry or purchase. Any subsequent occupant \u2014 to which class both parties in this action belong \u2014 has only the usual right of any other citizen to purchase at the public sale. He acquires no preference right under this act by settlement, occupation, or possession of the land or lot after June 13, 1899. Notwithstanding that' possession, the tract or lot must be appraised at its full value, and, before he can acquire the title, he must bid against all other citizens at the public sale, and pay at least the appraised value.\nNeither of the parties to this action has any legal right of occupancy of the premises in controversy as against the true owner, the United States. Their adverse claims must, therefore, be determined by the law of possession only. No citizen may question the occupation or possession of one residing on the lands or lots belonging to the United States, except he shows a better right or title in himself. Walsh cannot defeat Ford\u2019s prior possession, if any such there be, or forcibly intrude thereon, without showing a right or title in himself superior thereto. In English v. Johnson, 17 Cal. 108, 76 Am. Dec. 574, the decision of the court, concurred in by Field, C. J., laid down the rule in mining cases:\n\u201cThe taking up of mineral land in pursuance of the mining regulation of the vicinage gives possessory title to the claims, just as an entry in the land office, or the following of the prescribed rules given by statute, gives a possessory title to public or agricultural land. But it does not follow, because this is the regular and usual way of obtaining possession, that a possession not so obtained would necessarily be without the protection of the law. Possession not taken in pursuance of these rules would-still be good as against one not taking possession in accordance with the rules of the vicinage, but merely coming upon the premises in the same manner as the prior possessor. The actual prior possession of the first occupant would be better than the subsequent possession of the last.\u201d Attwood v. Fricot, 17 Cal. 37, 76 Am. Dec. 567; Campbell v. Rankin, 98 U. S. 261, 25 L. Ed. 435.\nThis rule will apply to the possession of the lots in question. Neither having entered in strict compliance with the act of July 5, 1884, \u201cthe actual prior possession of the first occupant would be better than the subsequent possession of the last.\u201d\nIt becomes necessary, then, to determine from the evidence which of the contestants first entered into actual and \u25a0continued possession of the lot in controversy. While the permit given by the commanding officer of the District of Alaska to Ford on May 25, 1900, conferred no right as against the United States, nor any title to the land, yet it affords some evidence of his peaceable entry and possession \u25a0of both lots mentioned therein. His entry upon the lots, the erection of the dwelling and stable, clearing, building roads and graded ways, and the use of both lots for the very purposes mentioned in the permit, leave no doubt that he was in possession of the lot in question at all times from May 25, 1900, to and at the time when the plaintiff entered thereon. It is not necessary, to maintain his possession of both lots, that he should erect a house or dwelling on each, any more than it is necessary for a claimant under the homestead law to build a dwelling on each legal subdivision of his claim. It appears that both lots were reasonably necessary and actually used for the purposes for which he took possession of them. They were contiguous, and the lot in controversy was necessary to the full enjoyment of the adjoining lot upon which the dwelling and stable stood, and was in constant, open, and notorious use in connection therewith ; and that is sufficient. The plaintiff acquired no right \u25a0of possession by intruding upon that of the defendant. His act was a mere naked trespass. It was an unwarranted intrusion upon the peaceable possession of another citizen, and affords plaintiff no ground for relief. Atherton v. Fowler, 96 U. S. 513, 24 L. Ed. 732.\nIt will make no difference in the rule applicable to this \u25a0case if the lots should be finally disposed of by the United States under the town site act. \u25a0 The evidence clearly establishes the prior occupancy and possession of the defendant, and that effectually defeats any claim that plaintiff might make to the lot in controversy under the town site law. Defendant will have the relief demanded and his costs.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "George K. French, for plaintiff.",
+      "Carl M. Johanson, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "WALSH v. FORD.\n(Third Division. Eagle.\nApril 15, 1901.)\nNo. 40.\n1. Public Lands \u2014 Reservation.\nThere is nothing in the act of July 5, 1884 (23 Stat. 103, c. 214 [U. S. Comp. St. 1901, p. 1007]), for the disposal of abandoned or useless military reservations, offering or granting to settlers or occupants entering into possession subsequent to the date of the act and the executive order of withdrawal, any preference right of entry or purchase. Subsequent adverse claims to lots or lands in such tract must be determined by the law of possession.\n2. Same \u2014 Town Site \u2014 Possession.\nNo citizen may question the occupation or possession of one residing on the lands or lots belonging to the United States, except lie shows a better right or title in himself.- The,actual prior possession of the first occupant would be better than- the subsequent possession of the last. Campbell v. Mining Co., 1 C. C. A. .155, 49 Fed. 47.\n8. Same \u2014 Forcible Entry \u2014 Trespass.\nA right to the possession of government lands cannot be initiated by a forcible entry and trespass upon the peaceable possession of another person.\nGeorge K. French, for plaintiff.\nCarl M. Johanson, for defendant."
+  },
+  "file_name": "0146-01",
+  "first_page_order": 170,
+  "last_page_order": 177
+}

@@ -1,0 +1,69 @@
+{
+  "id": 8505937,
+  "name": "AMES v. KRUZNER et al.",
+  "name_abbreviation": "Ames v. Kruzner",
+  "decision_date": "1902-05-24",
+  "docket_number": "No. 489",
+  "first_page": "596",
+  "last_page": "598",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 596"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 528",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 257,
+    "char_count": 3820,
+    "ocr_confidence": 0.666,
+    "sha256": "ab9195f45f367d4b6fbbfbb0f8bfef55683a9c8c382807eb91ed0404187dbce1",
+    "simhash": "1:a8b2fc4205a341bc",
+    "word_count": 660
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "AMES v. KRUZNER et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nTwo questions are raised: (x) Whether or not an injunction should be granted against a co-tenant in possession working the claim pending the foreclosure proceedings; and (2) whether or not an injunction ought to be granted against the defendants Kruzner and Woodruff, who made the note and mortgage, in the face of the showing that at the time the note was made the plaintiff, as a foreign corporation, had not complied with chapter 23 of the Civil Code of Alaska, Act June 6, 1900, c. 786 (31 Stat. 528), requiring the articles, consent, and statement to be filed. Section 228 of chapter 23 provides that:\n\u201cEvery contract made by such corporation, or any agent or agents thereof, during the time it shall so neglect to file such statements, certificates, or consents, shall he voidable at the election of the other party thereto.\u201d\nThese parties elect to declare it void, and object to the jurisdiction of the court to enforce it. Section 231 also provides that:\n\u201cIf any such corporation or company shall fail to comply with any of the provisions of this chapter, all its contracts with citizens of the district shall he void as to the corporation or company, and no court of the district, or of the United States, shall enforce the same in favor of the corporation or company so failing.\u201d\nThese sections seem to differ from the law contained in any of the citations made to the court by the plaintiff. They amount to a prohibition upon the jurisdiction of \u2019the court, and, if the facts in this case bring it within the prohibition, the court would not have jurisdiction to enforce the claim.\nWithout passing upon the question as to whether or not this claim can be enforced, under the circumstances, in this-court, the matter is in such a condition that the court will not at this time grant an injunction against the working of the claim.\nThe application for an injunction is denied, but without prejudice to its being renewed.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Ira D. Orton, for plaintiff.",
+      "Love & Knott, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "AMES v. KRUZNER et al.\n(Second Division. Nome.\nMay 24, 1902.)\nNo. 489.\n1. Injunction \u2014 Jurisdiction.\nA temporary injunction or restraining order will not be -granted until it affirmatively appears that the court has jurisdiction.\nOn October 16, 1900, T. Z. Kruzner and G. H. Woodruff, being indebted to the Ames Mercantile Company, made their note to that company for the sum of $1,514.90, due 120 days from date. To secure the payment of the note, on the same date they made a mortgage in the name of F. H. Ames, as manager of the company, upon certain mining property,, among others No. 2 above discovery on Bonanza creek. The mortgage is upon an undivided one-half interest in the property, that being all the interest owned by the makers of the note, the other half interest belonging to Julius Nelson. The note not being paid, a suit was brought by the plaintiff to foreclose the mortgage. The makers of the note, as well as Nelson and other parties laboring-upon the claim, are made defendants, and the plaintiff asks for an injunction to restrain all of the defendants from working upon the claim-pending the litigation. Kruzner and Woodruff appear by their attorney, and by affidavits make known to the court that at the time the note in question was made the Ames Mercantile Company was a foreign corporation doing business in Alaska, and that it had not complied with the statute requiring the filing of a copy of its articles of incorporation, a statement of its assets, and the consent to be sued within the district as provided by law. It elects to make void .its-obligation under the statute, and objects to the enforcement of the rights of the plaintiff against it. At the same time Julius Nelson, the other hall owner, appears, and objects to the granting of the injunction against him.\nIra D. Orton, for plaintiff.\nLove & Knott, for defendants."
+  },
+  "file_name": "0596-01",
+  "first_page_order": 620,
+  "last_page_order": 622
+}

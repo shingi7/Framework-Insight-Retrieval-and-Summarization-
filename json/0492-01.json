@@ -1,0 +1,104 @@
+{
+  "id": 8505668,
+  "name": "MACINTOSH v. TOWN OF NOME",
+  "name_abbreviation": "Macintosh v. Town of Nome",
+  "decision_date": "1902-03-15",
+  "docket_number": "No. 587",
+  "first_page": "492",
+  "last_page": "496",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 492"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "81 Stat. 321",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "31 Stat. 321",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 U. S. 526",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8300116
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/119/0526-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 520",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "26 Stat. 1099",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 514,
+    "char_count": 9486,
+    "ocr_confidence": 0.6,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.2052397649438249
+    },
+    "sha256": "77efcf0152791aef09ee06260d5f163812b174b74a6010c5503658ae9cc82aca",
+    "simhash": "1:5760a3cf6c8c7f57",
+    "word_count": 1672
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "MACINTOSH v. TOWN OF NOME."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThis is an action of ejectment to recover from the town of Nome the possession of a tract of land 25 feet wide by 176 feet long, extending from Front to Second street, and described as beginning at the southwest corner of a certain well-known building. The complaint alleges that the plaintiff, his grantors and predecessors, entered upon the tract on the 5th day of September, 1899, while it was a part of the public lands of the United States, and located and thereafter possessed it and occupied it as a place of residence, and then alleges an ouster by the chief of police on behalf of the defendant on the 18th day of September, 1901. He prays for restitution and damages.\nThe defendant, answering, denies the facts alleged by the plaintiff, and for an affirmative defense alleges that in June, 1899, this tract was settled upon and occupied by Malone and Gascoigne, who thereafter, in the fore part of 1900, dedicated the strip in dispute to the public as a street or alley, and that upon the incorporation of the town of Nome on or about the 8th day of April, 1901, the same was so accepted and dedicated by said town as a public street, and named \u201cMetier Way.\u2019r It is alleged that at all times since the time when plaintiff first claimed the strip it was dedicated to the use of the public as-a public way in the town of Nome.\nThe plaintiff replied, denying the allegations of the answer,, and then specially pleading that, if the town of Nome did acquire any interest in the tract as a public street, it abandoned' the same prior to the bringing of this action; and, secondly, pleads a special abandonment by virtue of the following resolution passed by the common council of Nome on September 9, 1901: \u201cOn motion of Councilman Geiger, seconded by Councilman McPhee, the city withdrew all claim to Metier Way, and allowed Mr. Schwarz $75 for the destruction of his cabinand then alleges that on the next day the town delivered possession of the tract to Schwarz, paid him for his cabin, and that thereafter Schwarz conveyed to plaintiff, who now urges that the town is estopped by such action from denying his title. The demurrer is made to this defense by estoppel. The question to be determined is whether the town council had power to abandon a public way by such or any proceeding, and whether the action of the council, if it had\u2019 the power, had that effect.\nBy the eleventh section of \u201cAn act to repeal timber culture-laws, and for other purposes\u201d (26 Stat. 1099), Congress extended the town-site laws to Alaska. The citizens of Nome, however, have not yet sought to obtain the benefit of that act and secure permanency and peace to their titles. Their rights yet depend upon mere occupancy and possession, although the town of Nome has been incorporated under the provisions of chapter 21 of the Civil Code in the act of June 6, 1900, c. 786 (31 Stat. 520). It is, therefore, a community having 300 or more permanent inhabitants. The court will take notice that it is more than that \u2014 that it is an incorporated town having 2,000 or 3,000 permanent inhabitants, and the usual adjuncts of an American community of that size. It has never been doubted, in the settlement of the great public domain belonging to the United States, that a settler who once gains the prior peaceable occupancy and possession of a limited part of that land may lay it off into lots, blocks, streets, and alleys, and by inducing others to settle thereon assist in founding a town or city. Acts of this character almost invariably precede the application of the town-site laws, and it has never been doubted that the policy of our land system was to encourage and protect settlers in such preliminary appropriations of the government land. If the prior possession of the settler was one recognized by the laws of the United States, his dedication of a reasonable and necessary part of the tract for streets and alleys would certainly be sustained by the courts and protected from trespass by subsequent claimants..\nThe case of Ashby v. Hall, 119 U. S. 526, 7 Sup. Ct. 308, 30 L. Ed. 469, determines the demurrer in this case. It was a suit to abate an obstruction of an alley in the city of Helena, Mont. The plaintiffs were the owners of lots lying alongside of the alley, which was recognized as existing at the time property was purchased by them. Subsequently an application was made to enter the town under the town-site act, and a new map or plat was made by the probate judge and approved by the county commissioner, which did not recognize the existence of the alley. The probate judge thereupon sold the property to the defendant, and issued him a deed under the town-site law. Plaintiff brought suit to open the alley as a public way, and Judge Field, in delivering the opinion of the court, said:\n\u201cAs thus seen, the act required the entry of land settled upon and occupied to he in trust \u2018for the several use and benefit of the occupants thereof according to their respective interests.\u2019 The very notion of land settled upon and occupied as a town site implies the existence of streets, alleys, lots, and blocks; and for the possession of the lots, and their convenient use and enjoyment, there must of necessity be appurtenant to them a .right of way over adjacent streets and alleys. The entry of the land carried with it such a right of way. The streets and alleys were not afterwards at the disposal of the government, except as subject to such easement. * * * The power vested .in the Legislature of the territory in the execution of the trust, upon which the entry was made, was confined to regulations for the disposal of the lots and the proceeds of the sales. These regulations might extend to provisions for the ascertainment of the nature and extent of the occupancy of different claimants of lots, and the execution and delivery, to those found to be occupants in good faith, of some official recognition of title, in the nature of a conveyance. But they could not authorize any diminution of the rights of the occupants, when the extent of their occupancy was established. The entry was in trust for them, and nothing more was necessary than an official recognition of the extent of their occupancy. Under the authority conferred by the town-site act, the Legislature could not change or close the streets, alleys, and blocks of the town by a new survey. Whatever power it may have had over them did not come from that act, but, if it existed at all, from the general grant of legislative power under the organic act of the territory. The plaintiffs taking the lots they occupied, with the right of way appurtenant thereto \u2014 that is, over the alley on which the lots were situated, which they had previously enjoyed \u2014the action of the probate judge in conveying the alley to the defendant was illegal and void. The intrusion of the defendant thereon was, therefore, a trespass, and the fence erected by him to bar the passage through it was a nuisance to be abated.\u201d\nIt seems to follow conclusively from this opinion: (i) That streets and alleys set apart and recognized by town-site settlers as necessary for the public use will be protected from trespassing settlers by the courts, though dedicated prior to the former application for entry under the town-site act. (2) Such public ways cannot be disposed of so as to cut off the public easement, even by the town council, and such an attempt would be illegal and void. It does not affirmatively appear that the common council of Nome is given any power by the act of June 6, 1900, c. 786 (31 Stat. 321), or any other law, to vacate or abandon the public easement upon a street or alley, and such an attempt must be held less effective than a solemn act of a territorial legislature, and therefore ultra vires, illegal, and void. The motion or resolution passed by the town council on September 9, 1901, was ineffectual to abandon or vacate the property if it was then a public way, and such act created no estoppel against the town. The suit having been brought against the town, it may make the same defense in protecting the public easement as a property owner could if a party. The case therefore falls within the rule in Ashby v. Hall, supra. For these reasons the demurrer to the special affirmative matter in the reply is sustained.\nU. S. Comp. St. 1901, p. 1467.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Cochran & Grimm, for plaintiff.",
+      "V. T. Hoggatt, for defendant."
+    ],
+    "corrections": "",
+    "head_matter": "MACINTOSH v. TOWN OF NOME.\n(Second Division. Nome.\nMarch 15, 1902.)\nNo. 587.\n1. Town Site \u2014 Streets\u2014Trespassers.\nStreets and public ways set apart for the public use by town-site settlers will be protected by the courts from trespassing claimants, though dedicated prior to a formal application for entry under the town-site act.\n<3. Streets \u2014 Vacation\u2014Abandonment.\nSuch public ways cannot be abandoned or otherwise disposed of so as to cut off the public easement, even by the town council, and such an attempt would be ultra vires and void. It does not affirmatively appear that the town council of Nome is given any power by the act of June 6, 1900, c. 786 (81 Stat. 321), or any other law, to vacate or abandon the public easement upon a entry under the town site act.\n8. Vacation \u2014 Estoppel.\nA resolution of the town council of Nome to vacate a public way dedicated by the town-site settlers held ultra vires, and does not serve as an estoppel to the plea.\nEjectment by town to recover possession of alley from trespassing claimant.\nDemurrer overruled.\nCochran & Grimm, for plaintiff.\nV. T. Hoggatt, for defendant."
+  },
+  "file_name": "0492-01",
+  "first_page_order": 516,
+  "last_page_order": 520
+}

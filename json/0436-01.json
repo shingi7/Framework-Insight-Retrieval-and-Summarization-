@@ -1,0 +1,87 @@
+{
+  "id": 8505572,
+  "name": "In re HILL'S BOTTLING LICENSE. In re STADIE BROS.' LICENSE",
+  "name_abbreviation": "In re Hill's Bottling License",
+  "decision_date": "1902-02-17",
+  "docket_number": "",
+  "first_page": "436",
+  "last_page": "439",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 436"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 330",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "79 Am. Dec. 176",
+      "category": "reporters:federal",
+      "reporter": "Am. Dec.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Cal. 271",
+      "category": "reporters:state",
+      "reporter": "Cal.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 321",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 352,
+    "char_count": 5984,
+    "ocr_confidence": 0.651,
+    "sha256": "b96ae3e8cb93c2a655549598b6aa6072c4d787a4547fc060bf0689a535c81a09",
+    "simhash": "1:35ba21935d21f7f1",
+    "word_count": 1093
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "In re HILL\u2019S BOTTLING LICENSE. In re STADIE BROS.\u2019 LICENSE."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe petition shows that on the 26th day of January, 1901, the petitioner paid to the clerk of this court the sum of $200 for a license for carrying on the business of bottling temperance and other drinks at Nome from November, 1900, to October 31, 1901. It is further alleged that at that time the petitioner was engaged in the manufacture of temperance drinks, and was visited by a collector of licenses, who threatened to arrest him unless he paid the sum of $200 for such annual license, whereupon he did so. He then prays for the return of $190, and offers to pay only the sum of $10, as a manufacturer doing a business of less than $4,000 per annum. The district attorney objects that the petition does not state facts to entitle the petitioner to the return of his money; that the court has no jurisdiction to make the order refunding it; and that petitioner\u2019s only remedy, if he is entitled to any relief, is by application to Congress for an appropriation.\nConceding that an error in construing the law was made by the payment by the petitioner of $200 for a bottling works license, instead of the sum due for a license as a manufacturer, had this court authority to refund the difference at this time out of the moneys in the hands of the clerk? The power of the court over the fund in the clerk\u2019s hands is derived from the act of Congress of June 6, 1900 (31 Stat. 321, c. 786). Section 4 of that act confers certain authority and duties upon the judge of this court, in this language:\n\u201cAnd each shall have authority to employ interpreters and to make allowances for the necessary expenses of his court, and to employ an official stenographer under the same terms and conditions as are, or may he, provided for district courts of the United States.\u201d\nThe fourth paragraph of section 10 provides for the collection of the fund in question by the clerk, and then provides that:\n\u201cAll public moneys received by him and his deputies for fees or any other account shall be paid out by the clerk on the order of the court, duly made and signed by the judge, and any balance remaining in his hands after all payments ordered by the court shall have been made shall be by Mm covered into tbe treasury of tbe United States, at sucb time, and under sucb rules and regulations as tbe secretary of the treasury may prescribe.\u201d\nThese are all the statutory provisions authorizing the judge to order or approve the expenditure of any part of this fund. It is clearly apparent that no other authority is conferred upon the court to expend any part of the money except \u201cfor the necessary expenses of his court.\u201d The clause in section io, instead of being an open door through which the court may dispose of the fund at its pleasure, is a statutory direction fixing the method of its expenditure. I am not inclined to lay down any hard and fast rule as to what is or is not a part of \u201cthe necessary expenses\u201d of the court, but rather to let each case stand alone.\nThe application here is to order the refunding of the sum of $200 out of the clerk\u2019s fund, more than a year after its receipt. It has long since been carried into his accounts, and either expended under the orders of the judge or transmitted to the Secretary of the Treasury. It is not the case of a mere mistake, where his money, being present, may be handed back to him by the clerk. He now has a claim against the United States, and, if no fund has been provided by Congress in some general appropriation act to pay it, he must seek its recovery by a special act. I am also of the opinion that the rule that a recovery cannot be had on a voluntary payment, so clearly stated by Judge Field in Brumagim v. Tillinghast, 18 Cal. 271, 79 Am. Dec. 176, bars a recovery in this case. The petitioner was not under any duress, either of person or property, at the time he paid the license sought to be recovered. It may be true that the collector employed by the clerk threatened to have him arrested for a violation of the law if the license was not paid, but that is not sufficient. The record shows that subsequent to the threat of the person who represented the clerk as collector to cause the arrest of the petitioner he voluntarily, on the 21st day of January, 1901, presented a petition to this court asking for the issuance of the license upon the payment of the sum of $200. He could have presented the matter now in litigation to the court in that proceeding. He did not do so, and the prior threat was thereby waived. His application and payment to the court were voluntary, and he cannot recover. This court has no jurisdiction to repay the money merely because the petitioner made a mistake of law or fact in his petition. He represented to the court in his petition that he desired a license for a bottling works, paid the necessary fe\u00e9 for that branch of business, and it was issued to him.\nFor all the reasons mentioned, the prayer of petitioner is denied. The same order will be entered in the petition of Stadie Bros.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Du Bose & Stevens, for petitioner.",
+      "John E. McGinn, Asst. Dist. Atty., contra."
+    ],
+    "corrections": "",
+    "head_matter": "In re HILL\u2019S BOTTLING LICENSE. In re STADIE BROS.\u2019 LICENSE.\n(Second Division. Nome.\nFebruary 17, 1902.)\n1. Licenses \u2014 Payment.\nThe court will not order a refund of license money paid under section 460 as amended in section 29 of the Political Code of Alaska of June 6, 1900 (31 Stat. 330, c. 780), a year or more after its payment, and after it has been carried into the public accounts and expended for the necessary expenses of the court, or covered into the treasury. Petitioner\u2019s remedy, if he has any, is by an application to Congress for relief.\n2. Payment \u2014 Licenses.\nWhere a person engaged in business in Alaska voluntarily and without duress pays his license fees for the business in which he .is actually engaged, he cannot recover the same, or any part thereof, because of an alleged mistake on his part, either of law or fact.\nPetition for Refund of Excessive License Fee.\nDenied.\nDu Bose & Stevens, for petitioner.\nJohn E. McGinn, Asst. Dist. Atty., contra."
+  },
+  "file_name": "0436-01",
+  "first_page_order": 460,
+  "last_page_order": 463
+}

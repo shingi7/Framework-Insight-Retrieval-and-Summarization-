@@ -1,0 +1,61 @@
+{
+  "id": 8505415,
+  "name": "THE SKOOKUM",
+  "name_abbreviation": "The Skookum",
+  "decision_date": "1901-12-26",
+  "docket_number": "No. 25a",
+  "first_page": "394",
+  "last_page": "395",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 394"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 196,
+    "char_count": 2747,
+    "ocr_confidence": 0.666,
+    "sha256": "85e0aae87c7d03a309042caf516a46fb30fe729e36fa3a24c62395041a9d97fd",
+    "simhash": "1:e3ba75d84cd87627",
+    "word_count": 483
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THE SKOOKUM."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nOn the 28th day of April, 1900, the owners of the barge Skookum entered into a written agreement with the libelant to ship certain oxen, feed, and merchandise upon the barge to Nome, for prices therein fixed. Some disagreement arose about the overloading of the barge, the insurance, and other matters, whereupon the libelant unloaded the live stock and most of the hay and grain. It is agreed *in a stipulation that the libelant testifies that there was one ton of hay and one and a half tons of rolled oats and feed left on board the barge, it being covered with other feed. At the time the contract was made, the libelant paid 25 per cent, upon the freight, being the sum of $172.50. There is a disagreement and dispute as to the repayment of this money, it being alleged on the part of the barge owners that the money was to be retained by them by reason of their consent to the rescission of the contract. The burden of proof seems to the court to be otherwise. It is disclosed by the written agreement that the libelant was to pay $50 per ton for hay and $35 per ton for oats and other feed for the use of the stock. Upon an examination of the entire case the court resorts to those facts which are beyond dispute for a determination of the controversy between the parties, to wit: The barge owners received $172.50, which they have retained, and which belongs to the libelant. The libelant shipped one ton of hay and one and one-half tons of rolled oats, at the agreed price of $102.50, which the barge owners also retained. It is admitted that this was worth at Nome $187.50. The account then would stand: Due the libelant, advance on freight, $172.50; value of hay and feed $187.50; total due libelant, $360. Due the barge owners, freight on one ton hay at $50, $50; freight on one and one-half tons feed at $35, $52.50; total due barge owners, $102.50. $360, the amount due libelant, less $102.50, leaves $257.50, the amount which the court finds for libelant.\nI am satisfied that the contract in this case is a maritime one, arising out of the original contract for freightage, which has not yet been settled between the parties according to the evidence. The findings of fact heretofore filed by the referee will be approved, with the modification here-inabove mentioned, and the libelant will have a decree against the barge for that amount.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "P. C. Sullivan, for claimant."
+    ],
+    "corrections": "",
+    "head_matter": "THE SKOOKUM.\n(Second Division. Nome.\nDecember 26, 1901.)\nNo. 25a.\n1. Admiralty \u2014 Freight\u2014Maritime Contract.\nA suit to recover unearned freight charges advanced, as well as for freight used by the vessel, is founded upon a maritime contract.\nLibel to recover advanced freight charges not earned and for freight retained by the vessel.\nP. C. Sullivan, for claimant."
+  },
+  "file_name": "0394-01",
+  "first_page_order": 418,
+  "last_page_order": 419
+}

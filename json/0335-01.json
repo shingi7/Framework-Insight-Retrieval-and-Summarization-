@@ -1,0 +1,62 @@
+{
+  "id": 8505203,
+  "name": "JORGENSEN v. YOUNG AND BURNS",
+  "name_abbreviation": "Jorgensen v. Young",
+  "decision_date": "1901-12",
+  "docket_number": "No. 47a",
+  "first_page": "335",
+  "last_page": "339",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 335"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 341,
+    "char_count": 7135,
+    "ocr_confidence": 0.71,
+    "sha256": "884616529105e79be949c493e09f085ad4f5ad5dd3ce966cf5f41a4791bc7e29",
+    "simhash": "1:2eb9e3263f342292",
+    "word_count": 1245
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "JORGENSEN v. YOUNG AND BURNS."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nThe plaintiff brings this suit against the defendants to secure the cancellation of a certain mortgage of record against the property described in the complaint, alleging payment of the note secured by the mortgage, and that the mortgage should be canceled. The defendants deny payment; allege, in substance, that the note and mortgage were given to secure future advances, and not a present debt, and such advances as might be made by the defendants Young and Archie Burns in their general business transactions; it further appearing that at the time the note and mortgage were given the actual debt existing between the parties was between four and five hundred dollars, and not the amount specified in the note.\nThe plaintiff contends that at a period subsequent to the giving of the note and mortgage the same was paid; and the defendant Young admits that on a certain date a sum of money was paid to him, and a credit entered in his books sufficient to discharge the entire debt then existing between the parties; but that the same was not paid for the purpose of canceling the mortgage. The defendant further testifies in this connection that the gold dust turned over to him at that time, though sufficient in amount, with the drafts, to have paid the indebtedness then existing, was sent to an, assay office or to the mint to be assayed, and the value determined, and that when this was accomplished a credit was given to Burns on the defendant Young\u2019s books for the amount. He further testifies that on the very day that these sums were turned over to the defendant Young, or on the next day, and before the ascertainment of the value of the gold dust, Burns had become indebted to Young for other advances in a larger sum than the value of the gold dust and drafts turned over to him by Burns at the time before referred to.\nFrom these statements, which are uncontradicted, it appears that the indebtedness was never at any time fully extinguished, and that the credits were made upon a general account between the parties, as had been their habit of business prior thereto.\nIt is contended by the plaintiff, as a legal proposition, that, if the mortgage was given to secure a specific debt,. and defendant had been paid, the mortgage could not afterwards be revived by parol agreement to secure another and different debt. As a legal proposition, this is unquestionably true. A mortgage is a conveyance of real estate, or an interest therein, and can only be made in writing, to avoid the statute of frauds. To attempt to revive a mortgage to secure another debt is practically to give a new mortgage, and this by parol agreement. Such a transaction would be a violation of the statute of frauds, and a conveyance of real property attempted, at least, by parol. But where a mortgage is given to secure future advances up to a certain limit, the limit being shown by the note and mortgage executed at the time, evidence. that the purpose of the giving of the mortgage was to secure such future advances may be shown by parol. And such a mortgage is valid and binding, as between the parties and as against future incumbrancers or purchasers in good faith, up to the amount of the actual indebtedness between the parties to the mortgage at the time of the making of the future incumbrances, or the acquirement of title by a third party in good faith and for a valuable consideration. If the mortgage in question was ever extinguished by payment, and so understood by the parties to the mortgage, even where the mortgage is for future advances, it could not be revived by subsequent parol agreement.\nBut from the testimony in this case it does not appear that the debt intended to be secured by the mortgage was ever paid in full, or that upon the turning over of the checks and gold dust by Burns to Young there was any understanding between them that the note and mortgage were thereby canceled, or to be canceled. The contrary appears by the testimony of Young \u2014 which is practically undisputed \u2014 and the subsequent talk of the parties when'they had a final settlement, wherein it was agreed that the debt of Burns to Young should be limited to $5,000, although the real indebtedness was claimed to have been much greater, and the giving of the additional security by Burns, such as the lot or lots in Dawson and certain other property, and a reference in the conversation then had to the security now in question being then in force. This, as I recall the evidence, was not a misunderstanding b e-tween them, nor was it an understanding that the mortgage should be revived to secure a part of this indebtedness, but was referred to by them as an existing security for the amount named in the mortgage. If this was the state of facts existing between the parties as to this mortgage, and the understanding and agreement between them at the time it was given being for future advances, and these \"advances having been made long before Jorgensen acquired an interest in the property, and he being advised that the mortgage had not been canceled, and that the holder thereof refused to cancel the same, then Jorgensen took the property subject to the equities existing in favor of Young and against Burns, and, with such knowledge with reference thereto, he cannot now claim to have been deceived by Young as to his claim, at least, that the mortgage was yet in force.\nWhatever the testimony of Jorgensen is upon this question, and whatever testimony may have been offered in support of Jorgensen\u2019s claim, it is not sufficient to constitute the weight or preponderance of the evidence in favor of the plaintiff\u2019s contention, and it devolves on him to show, under his pleadings, by the weight of evidence, that the mortgage debt had been paid and the mortgage subject to cancellation. My opinion is that he has not so sustained his contention, and \u2022the relief prayed for in his bill is denied.\nThe defendant, in his cross-bill, prays for a foreclosure of the mortgage for the sum secured thereby. It is the opinion of the court that he is entitled to such foreclosure for the sum named in the note and mortgage. Judgment will be entered accordingly. Counsel for defendant Young will present a proper decree in the premises, and the court will sign the same.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "John G. Heid, for plaintiff.",
+      "R. W. Jennings, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "JORGENSEN v. YOUNG AND BURNS.\n(First Division. Juneau.\nDecember Term, 1901.)\nNo. 47a.\n1. Mortgage \u2014 Future Advances \u2014 Open Account.\nBurns made a note and mortgage upon the property in controversy to secure both present and future credit from Young. He made a payment consisting of drafts and gold dust sufficient at that time to pay the amount then due, but before the value of the deposit of gold dust was known from the assay office, he procured further advances, and afterwards sold the mortgaged property to the plaintiff, who brought this suit to cancel the mortgage, upon the allegation that it had been paid and discharged by the gold dust and drafts. IHeld, that the payment was on an open account secured by note and mortgage.\nSuit to cancel mortgage alleging payment.\nDenied.\nJohn G. Heid, for plaintiff.\nR. W. Jennings, for defendants."
+  },
+  "file_name": "0335-01",
+  "first_page_order": 359,
+  "last_page_order": 363
+}

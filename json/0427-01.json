@@ -1,0 +1,63 @@
+{
+  "id": 8505526,
+  "name": "EUBANKS v. PETREE et al.",
+  "name_abbreviation": "Eubanks v. Petree",
+  "decision_date": "1902-01-04",
+  "docket_number": "No. 42",
+  "first_page": "427",
+  "last_page": "428",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 427"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 228,
+    "char_count": 3243,
+    "ocr_confidence": 0.658,
+    "sha256": "b4d92f736aef544dc7647f0f830548f1c079a5bd890eeaf93eb3c390cd8c0d8f",
+    "simhash": "1:ffe4a9ec18e6cc7c",
+    "word_count": 544
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "EUBANKS v. PETREE et al."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe evidence in this-case has been heard in part only by the court. It was agreed that the court should hear the evidence relative to the title first, and that upon the decision by the court upon that question further evidence would be taken upon the accounting between the parties thereto. As to the interveners-Adams and Pierce, the court is able, however, to determine their title from the evidence before it. The evidence shows that at Santa Barbara, Cal., on the 9th day of April, 1898, one Hollister entered into a grub-stake contract with Hayne and Pierce, by which, as their agent, he came to Kotzebue Sound in the summer of 1898, to prospect along with a large number of other persons known as the \u201cHayne Party.\u201d' There seem to have been two contracts signed by Hollister, one of which was for the government of the prospectors in the Kotzebue Sound country, while the other was a private agreement between Hollister, Hayne, and Pierce. Some time after having reached the Kotzebue Sound country, Hollister became dissatisfied with the prospects, and desired to be released from his agreement with Hayne and Pierce. While the evidence of some of the witnesses shows that their knowledge of this release applied only to the governing contract signed by all of the Kotzebue party, yet it convinces the court beyond a doubt that, before leaving the Kotzebue Sound country, Hollister was released by Hayne, acting for himself and Pierce, from his contract made with Playne and Pierce at Santa Barbara on the gth day of April, 1898. Without going into any examination of the facts or the law, I am satisfied that that release was effectual, and that thereafter, when Hollister located the mining ground in question \u2022on Dexter creek, neither Pierce, nor Adams as the assignee of Playne\u2019s interest, had any right or interest in the property.\nEubanks, the plaintiff, has sold all of his interest to the defendants, so that the only question undetermined by the court is as to the respective rights of the defendants as the \u25a0owners of the claim and Geraghty and Dyon as the lessees under Eubanks. The evidence has not been transcribed, and the court cannot at this time, in fairness to either party, determine that matter. Nor have the attorneys for the lessees filed any brief or argument in their behalf. If the parties desire the court to examine the testimony, it must be transcribed. They may continue to take the testimony upon the \u2022question of accounting, and submit the whole matter to the \u25a0court after it has been finished.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "J. Frawley and P. C. Sullivan, for plaintiff.",
+      "Ira D. Orton, for Adams and Pierce.",
+      "Hastie & Thuland, for Geraghty and Lyon, interveners."
+    ],
+    "corrections": "",
+    "head_matter": "EUBANKS v. PETREE et al.\n(Second Division. Nome.\nJanuary 4, 1902.)\nNo. 42.\n1. Mines and Minerals \u2014 Contract\u2014Grub-Stake Contract.\nA grub-stake contract was made between Hollister and two' other parties at Santa Barbara, Cal., but, after arriving in Alaska, one of these parties for himself and as the agent of the other verbally released Hollister from the grub stake. Hollister afterward located the mine in question. Held, that neither the-grub-stake parties nor an assignee had any interest in the location.\nSuit to enforce grub-stake contract.\nJ. Frawley and P. C. Sullivan, for plaintiff.\nIra D. Orton, for Adams and Pierce.\nHastie & Thuland, for Geraghty and Lyon, interveners."
+  },
+  "file_name": "0427-01",
+  "first_page_order": 451,
+  "last_page_order": 452
+}

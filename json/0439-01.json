@@ -1,0 +1,377 @@
+{
+  "id": 8505610,
+  "name": "THE TYEE CONSOL. MIN. CO. v. LANGSTEDT et al.",
+  "name_abbreviation": "Tyee Consol. Min. Co. v. Langstedt",
+  "decision_date": "1902-02-17",
+  "docket_number": "Nos. 29a-39a",
+  "first_page": "439",
+  "last_page": "468",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 439"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [
+    {
+      "cite": "31 Stat. 334",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": -1
+    },
+    {
+      "cite": "104 U. S. 279",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3493164
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/104/0279-01"
+      ]
+    },
+    {
+      "cite": "98 U. S. 486",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11283
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/98/0486-01"
+      ]
+    },
+    {
+      "cite": "6 Wall. 142",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        3455671
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/73/0142-01"
+      ]
+    },
+    {
+      "cite": "13 Wall. 99",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 Pet. 436",
+      "category": "reporters:scotus_early",
+      "reporter": "Pet.",
+      "case_ids": [
+        3337983
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/38/0436-01"
+      ]
+    },
+    {
+      "cite": "13 Wall. 92",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "case_ids": [
+        1134209
+      ],
+      "weight": 4,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/80/0092-01"
+      ]
+    },
+    {
+      "cite": "132 U. S. 239",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5699273
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/132/0239-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 334",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 U. S. 433",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11273
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/98/0433-01"
+      ]
+    },
+    {
+      "cite": "13 Wall. 101",
+      "category": "reporters:scotus_early",
+      "reporter": "Wall.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "113 U. S. 527",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3511588
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/113/0527-01"
+      ]
+    },
+    {
+      "cite": "31 Stat. 493",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "39 L. Ed. 1046",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1220442
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/158/0441-01"
+      ]
+    },
+    {
+      "cite": "158 U. S. 441",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1250809,
+        1220442
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0400-01",
+        "/us/158/0441-01"
+      ]
+    },
+    {
+      "cite": "26 Stat. 1100",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 L. Ed. 163",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        1239493
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0281-01"
+      ]
+    },
+    {
+      "cite": "175 U. S. 281",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1239493,
+        1250823
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0281-01",
+        "/alaska-fed/1/0574-01"
+      ]
+    },
+    {
+      "cite": "81 Fed. 137",
+      "category": "reporters:federal",
+      "reporter": "F.",
+      "case_ids": [
+        1250801,
+        3841637
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0445-01",
+        "/f/81/0137-01"
+      ]
+    },
+    {
+      "cite": "23 Stat. 24",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "31 Stat. 383",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "46 L. Ed. 331",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        8297675
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/183/0563-01"
+      ]
+    },
+    {
+      "cite": "22 Sup. Ct. 84",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1250723,
+        8297675
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/alaska-fed/1/0713-02",
+        "/us/183/0563-01"
+      ]
+    },
+    {
+      "cite": "183 U. S. 563",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8297675,
+        1250723
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/183/0563-01",
+        "/alaska-fed/1/0713-02"
+      ]
+    },
+    {
+      "cite": "9 Pac. 434",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "year": 1886,
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Pac. 570",
+      "category": "reporters:state_regional",
+      "reporter": "P.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 Mont. 378",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        4378469
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/5/0378-01"
+      ]
+    },
+    {
+      "cite": "24 L. Ed. 313",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        5645861
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/94/0762-01"
+      ]
+    },
+    {
+      "cite": "94 U. S. 767",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        5645001
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/94/0767-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1487,
+    "char_count": 59409,
+    "ocr_confidence": 0.62,
+    "pagerank": {
+      "raw": 5.4033266686372354e-08,
+      "percentile": 0.3406194724093953
+    },
+    "sha256": "53ff69ee1165d39c31f898969936d2c4058039ee9aa28d3b4adaaff86d60d2fc",
+    "simhash": "1:60a76e829d08eed8",
+    "word_count": 10500
+  },
+  "last_updated": "2024-02-27T16:57:40.052731+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THE TYEE CONSOL. MIN. CO. v. LANGSTEDT et al."
+    ],
+    "opinions": [
+      {
+        "text": "BROWN, District Judge.\nIn this case, and other cases involving practically the same question, there are about no defendants. The plaintiff is a foreign corporation that has complied with all the laws of Alaska necessary to entitle it to do business in this jurisdiction.\nThe complaint alleges that the plaintiff and its grantors have been the owners of certain mining claims situate on Douglas Island, Alaska, known as the \u201cBonanza King Rode Mining Claim\u201d \u2014 which claim is described by metes and bounds in the complaint \u2014 at all times since December 26, 1890, on which date plaintiff\u2019s grantor, one M. W. Murray, became possessed of a fee-simple title to said lode claim by virtue of a United States mineral patent numbered 16,989, issued on the last above mentioned date by the President of the United States to the said Murray; that plaintiff, by divers mesne conveyances, has succeeded to and now holds each and every right which the said Murray had by virtue of the above-mentioned patent. The plaintiff further alleges that it and its grantors have been at all times since said December 26, 1890, and are now, entitled to the possession of the above-mentioned premises; that the defendants, on or about the 7th day of June, 1900, entered upon the said claims, or some part thereof, and ousted plaintiff from the premises, and that the defendants wrongfully withhold, and ever since said 7th day of June, 1900, have continued to withhold, said premises from the plaintiff, to plaintiff\u2019s damage.\nThe defendants plead that the plaintiff, by its grantors, located the said mining claims on the 29th day of January, 1884, and at that time entered into the possession of the same, and thereafter remained in said possession up to the time patent was issued therefor, and thence hitherto, except in this: that the defendants have occupied as a residence a certain portion of the -lands covered by said mining claim since the-day of-, 188 \u2014 , and are now occupying the said premises; that a right of action accrued to the plaintiff upon the location of said claims; and that more than io years have expired since said right' of action accrued and prior to the bringing of this action by the plaintiff, which said action was brought on the 24th day of December, 1900.\nThe lights of the parties as to a judgment in this case are submitted to the court on a stipulation, which is in the words and figures following:\n\u201cIn the United States District Court for Alaska, Division No. 1, at Juneau.\n\u201cTyee Consolidated Mining Co., Plaintiff, v. E. Langstedt, Defendant. No. 29a. Stipulation.\n\u201cIt is hereby stipulated, by and between the parties to this action and by and between their respective attorneys, that the issue involved in this case is the question of the \u2018statute of limitations\u2019; \u2022that is to say, if the court finds that plaintiff has commenced its action against the defendant within the time limited by law, then the plaintiff shall have judgment against the defendant; if the court shall find that the plaintiff did not commence its action against the \u25a0defendant within the time limited by law, then the defendant shall have judgment.\n\u201cIt is further stipulated and agreed that the Bonanza King lode \u25a0claim, described in the complaint herein, was located on January 29, 1884, by one Walter Pierce; that said Pierce conveyed by deed said Bonanza King lode claim to M. W. Murray on May 13, 1884; that receiver\u2019s receipt issued to said Murray on May 20, 1890, and that XT. S. patent for said Bonanza King lode claim issued to said Murray from the government of the United States on December 26, 1890; that thereafter said Murray conveyed by deed said Bonanza King lode claim to one Frank W. Griffin, and that said Griffin, on May 28, 1895, conveyed by deed said Bonanza lode claim to the Tyee Consolidated Mining Company, the plaintiff therein.\n\u201cIt is further agreed that this stipulation shall affect and extend to eight cases numbered 29a, 30a, 32a, 33a, 35a, 37a, 38a, 39a, inclusive, as the same now appear upon the calendar of this court at this term.\n\u201cJohn G. Heid, Attorney for Plaintiff.\n\u201cCrews & Hellentbal, Attorneys for Defendants.\u201d\nThe question before the court, therefore, is this: If a right of action accrued to the plaintiff, as a legal proposition, at any time after the original location of said mining claim and before the. issue of patent, it is conceded that the statute of limitations has fully run and may be invoked as a bar to the plaintiff\u2019s right to recover; and, further, if it is held that a right of action did not accrue to the plaintiff until after patent was-issued, then the statute has not run, and the plea of the defendants must be held for naught, and judgment be awarded in favor of the plaintiff. It will be observed, therefore, that the question presented is purely of a legal character, and is most novel and interesting. The court is not aware that the precise question presented here has ever been passed upon by a court of last resort. If there are any such cases, they have escaped my observation.\nThe defendants in this action contend that a right of action for the possession of the mining claim and all the surface-ground thereof accrued to the plaintiff (i) as soon as the location of the claim was properly made, and the boundaries thereof duly designated; or (2) that, from and after the time-final proof and payment were made in proceedings for patent, the equitable title thereupon vested in the plaintiff; the- government thereafter held the bare legal title for the benefit of the equitable owner; and that, if they may not plead the statute of limitations from the inception of the claim, then their right extends back at least to the date of final proof and the issuance of the final certificate from the land office. The plaintiff contends that no right of action accrued to the plaintiff against the defendants until patent to the claim in question was issued, and that 10 years had not expired between said date (December 26, 1890) and the date of bringing this action (December 24, 1900). The plaintiff further contends that, under the statute passed on June 6, 1900, it would have one year in which to bring its action after June 6, 1900.\nIt is clear, from the statement of facts contained in the stipulation, that io years have not elapsed since the patent was issued to Murray by the government of the United States, as this suit was brought on December 24, 1900. The question, then, is this: Did a right of action for the possession of the property in question by ejectment or other possessory action under the Code accrue to the plaintiff before patent issued ?\nIn support of his contention, counsel for plaintiff cites Redfield v. Parks, 132 U. S. 239, 10 Sup. Ct. 83, 33 L. Ed. 327, and Gibson v. Chouteau, 13 Wall. 92, 20 L. Ed. 534. The opinion in the case of Redfield v. Parks was delivered by Mr. Justice Miller. He says:\n\u201cThe principal issue in the case before [the lower] court was on the defense under the statute of limitations. The plaintiff relied upon, and introduced in evidence, a patent from the United States dated April 15, 1875, conveying the property to the Mississippi, Ouachita & Bed Kiver R. B. Co., reciting the purchase by that company of the land in controversy and the payment of \u00a7594.48 for it. The plaintiff, Redfield, purchased this land at a judicial sale, on a judgment against that company, for the sum of \u00a7500, and received a deed under that purchase. It further appears from the findings of the court that the railroad company made payment in full for the land September 10, 1856, and received at that time the certificate -of the register of the land office. The approval of this entry for the issue of a patent was made at the General Land Office in Washington, June 1, 1874. The circumstances under which the delay in the issue of a patent was had are not stated. The defendants relied upon a deed made by the county clerk of Lafayette county, Ark., to W. F. Parks and James M. Montgomery, on the 11th day \u2022 of August, 1871, upon a sale for taxes for the year 1868, and upon adverse possession under the statute of Arkansas of two years in regard to claims under tax sales, and the general statute of limitation of seven years.\n\u201cThis action was commenced by the plaintiff on the 11th day of April, 1882. The court entered the following conclusions of law: (1) That said tax deed to Parks and Montgomery for said land is void, because the land was sold for the taxes of 1868 on a day not authorized by law. (2) That under the laws of this state, notwithstanding said tax deed is void upon its face for the reason stated, it constitutes a claim and color of title sufficient to put in motion the statute of limitations in favor of any person in possession under it. (3) That the possession taken by Parks and Montgomery of said land under said tax deed in the manner set out in the finding of facts \u2022constitutes in law actual, peaceable, open, notorious, and adverse possession of the whole of said land; and, said possession of said land having been taken by Parks and Montgomery as early as the month of February, 1ST4, and maintained continuously by them and their grantees down to the trial of this cause, the plaintiff\u2019s right of action to recover said land is barred by the two-years statute of limitation contained in section 4475 of Mansfield\u2019s Digest, and also by the seven-years statute of limitation contained in section 4471 of the same digest.\u201d\nThe court in that case concludes the decision upon this question in the following language:\n\u201cThe plaintiff could not sue or recover in the courts of the United States upon the equitable title evinced by his certificate of purchase made by the Register of the Land Office. His title, therefore, being \u25a0derived from the United States, the right of action at law to oust the defendants did not commence until the making of that patent.\u201d\nIn the case of Bagnell v. Broderick, 13 Pet. 436, 10 L. Ed. 235, an action similar to the one above referred to was brought and decided in the same way on appeal. The court in that case held that the patent, that was issued long after the right accrued to the other party, was the strictly legal title on which the plaintiff was bound to recover. In deciding the case, among other things, the court says;\n\u201cWe are bound to presume, for the purpose of this action, that all previous steps had been taken by John Robertson, Jr., to entitle himself to the patent, and that he had the superior right to obtain it, notwithstanding the claim set up by Byrne; and, having obtained the patent, Robertson had the best title (to wit, the fee) known to a court of law. Congress has the sole power to declare the dignity and effect of titles emanating from the United States, and the whole legislation of the federal government in reference to the public lands declares the patent the superior and conclusive evidence of legal title. Until its issuance, the fee is in the government, which, by the patent, passes to the grantee, and he is entitled to recover the possession in ejectment.\u201d\nIn Gibson v. Chouteau, 13 Wall. 99, 20 L. Ed. 534, the opinion was delivered by Mr. Justice Field. On the trial of the case in the lower court the defendants endeavored to show that they acquired through certain legal proceedings the equitable title to the land, upon which they could defend against the patent under the practice which prevailed in Missouri. The case was tried several times in the courts of Missouri,, and at the last trial the Supreme Court of Missouri recognized the fact that the legal title remained in the United States until the patent issued, and that the location title gave an equitable right that had been conveyed, upon which an action was sustainable in the state courts by virtue of the state-statutes. That court said:\n\u201cBut there is another principle upon which we think the statute-may he made to operate here as a bar to plaintiff\u2019s action, and that is the fiction of relation whereby the legal title is to be considered as passing out of the United States through the patent at its date, but as instantly dropping back in time to the date of the location as the first act or inception of the conveyance to vest the title in the owner of the equity as to that date, and make it pass from him to the patentee named through all the intermediate conveyances, so that the two rights of entry and the two causes of action are thus-merged in one, and the statute may be held to have operated upon both at once. The legal title, in making this circuit, necessarily runs-round the period of the statute bar, and the action founded on this-new right is met by the statute on its way, and cut off with that which existed before.\u201d\nSpeaking of the doctrine of relation referred to by the Supreme Court of Missouri, Mr. Justice Field says:\n\u201cTlie error of the learned court consisted in overlooking the fact that the doctrine of relation is a fiction of law adopted hy the courts solely for the purposes of justice, and is only applied for the security and protection of persons who stand in some privity with the party that initiated proceedings for the land, and acquired the equitable claim or right to the title. The defendants in this ease were strangers to that party and to his equitable claim, or equitable title, as it is termed, not connecting themselves with it by any valid transfer from the original or any subsequent holder. The statute of limitations of Missouri did not operate to convey that claim or equitable title to them. It only extinguished the right to maintain the action of ejectment founded thereon under the practice of the state. It left the right of entry upon the legal title subsequently acquired by the patent wholly unaffected.\u201d\nThe foregoing clear and concise statement by Mr. Justice Field seems to settle the doctrine of relation contended for in the case at bar. The learned judge, further commenting on the case, uses the following language:\n\u201cIn the federal courts, where the distinction between legal and equitable proceedings is strictly maintained, and remedies afforded by law and equity are separately pursued, the action of ejectment can only be sustained upon the possession by the plaintiff of the legal title. For the enforcement of equitable rights, however clear, distinct equitable proceedings must be instituted. The patent is the instrument which, under the laws of Congress, passes the title of the United States. It is the government conveyance. If other parties possess equities superior to those of the patentee, upon which the patent issued, a court of equity will, upon proper proceedings, enforce such equities by compelling a transfer of the legal title, or enjoining its enforcement, or canceling the patent. But in the action of ejectment in the federal courts the legal title must prevail, and the patent, when regular on its face, is conclusive evidence of that title. * * In several of the states \u2014 and such is the case in Missouri\u2014 equities of the character mentioned, instead of being presented in a separate suit, may be set up as a defense to the action of ejectment. The answer or plea in such case is in the nature of a bill in equity, and should contain all its essential averments.\u201d\nNotwithstanding the practice act of Missouri abolishing all distinction between legal and equitable actions, a party could not, by his pleadings, set forth a merely legal title, and be led into proof of facts which show that, having an equity, he is entitled to a conveyance of the legal title. The Supreme Court, however, through Mr. Justice Field, declares that,\n\u201cNeither in a separate suit in a federal court nor in an answer to an action of ejectment in a state court can the mere occupation of the demanded premises by plaintiffs or defendants for the period prescribed by the statute of limitations of the state he held to constitute a sufficient equity in their favor to control the legal title subsequently conveyed to others by the patent of the United States, without trenching upon the power of Congress in the disposition of the public lands.\u201d\nThe case of Rector v. Ashley, 6 Wall. 142, 18 L. Ed. 733, and U. S. v. Thompson, 98 U. S. 486, 25 L. Ed. 194, announce .the new principle as stated in the cases of Redfield v. Parks and Gibson v. Chouteau. These cases would seem to settle the contention upon the question of the statute of limitations raised in this case, if the same rule should be followed in the disposition of mineral lands. If these cases are to be followed, then the 10-years period prescribed by the statutes of Alaska had not expired after the issue of the patent and before this action was brought.\nIt is contended on the part of the defendants, however, and an examination of these cases shows the contention to be well founded, that the cases examined discuss questions affecting the disposition of agricultural lands by the government of the United States. It is contended also that the laws of the United States in reference to mineral lands, and the rules and regulations of the government as to the disposition of the same, are essentially different from the laws, rules, and regulations governing the disposition of public agricultural lands, and that the cases heretofore considered, holding that the statute of limitations can only be successfully invoked from the time the government parts with its title by the issue of the patent, cannot be regarded as a controlling authority in this case. It therefore becomes necessary to examine the statutes of the United States as to the disposition of the public mineral lands, and to determine how far, if at all, the mere location of a mining claim upon the public domain differs from a pre-emption or homestead.\nIn exercising the right of pre-emption, the settler, in filing upon the land in the local land office, acquires no exclusive right of possession of the land upon which the filing is made. The pre-emptor simply makes his settlement, and bases his filing upon that, and holds so much of his claim as is under his actual control; and if he cultivates the land, and makes improvements sufficient in law, he can acquire title upon making final proof of these facts, pay for the land, receive what is called his \u201cfinal receipt\u201d from the local land office, and in due time his patent from the government of the United States. The pre-emptor acquires no legal title until the patent issues; and his equity, even after payment, has been held not to be of so important a character as to prevent the Department of the Interior from setting it aside on its own motion, and thereby absolutely destroying all of such claimed equities as were supposed to have vested in the pre-emptor. The citizen taking a homestead on the public domain acquires no legal title to his land until he has made final proof of five' years\u2019 residence, improvements, etc. No part of the land covered by the homestead claim could be entered by another, either by pre-emption or homestead, or otherwise, until the first entry or homestead claim had been contested and set aside by action of the department; but the entryman acquires no legal right until the issuance of the patent upon final proof.\nThe Congress of the United States has enacted such laws for the disposition of the public mineral lands that, when a person makes a discovery of mineral, and thereupon so designates the boundaries of the tract or parcel claimed by him that the same may be readily traced upon the ground, he acquires a legal title to the land that is good against all persons except the United States. His is not a mere inchoate right that may ripen into a title, but it is a present title, a present legal interest in the land, that he cannot be deprived of even by the United States without compensation. The miner\u2019s claim, when properly located under the acts of Congress, becomes a grant of a present legal interest, and as a title differs in every essential element from the equities that may be acquired by persons locating upon the public agricultural lands either under pre-emption or homestead laws, and afterwards obtaining patent for the same. The farmer acquires in the public agricultural lands, even when he has paid his money for them, at most an equity; while the miner, under the acts of Congress for the disposition of the mineral lands as before stated, acquires a present legal interest and legal title from the inception of his claim. When he makes his discovery and location, so much of the public mineral lands as is properly covered by his claim is thereby severed from the great body of mineral lands of the United States, and is then no longer subject to location by any other person.\nIn Belk v. Meagher, 104 U. S. 279, 26 L. Ed. 735, in delivering the decision of the court, Mr. Chief Justice Waite uses the following language:\n\u201cA mining claim perfected under the law is property in the highest sense of that term, which may be bought, sold, and conveyed, and will pass by descent. Forbes v. Gracey, 94 U. S. 767 [24 L. Ed. 313]. There is nothing in the act of Congress which makes actual possession any more necessary for the protection of the title acquired to such a claim by a valid location than it is for any other grant from the United States. The language of the act is that the locators \u2018shall have the exclusive right of possession and enjoyment of all the surface included within the lines of their locations,\u2019 which is to continue until there shall he a failure to do the requisite amount of work within the prescribed time. Congress has seen fit tq make the possession of that part of the public lands which is valuable for minerals separable from the fee, and to provide for the existence of an exclusive right to the possession, while the paramount title to the land remains in the United States.\u201d\nNot only has it been frequently decided by the courts of our country that actions in ejectment will lie as between rival claimants of mineral lands, but the Congress of the United States has expressly enacted \u201cthat no possessory action between individuals in courts of the United States for the recovery of mining titles shall be affected by the fact that the paramount title to the land is in the United States; but such case shall be adjudged by the law of possession.\u201d\nIn the case of Silver Bow Mining & Milling Co. v. Clark, 5 Mont. 378, 5 Pac. 570, it is held that the location of a mining claim had the effect of a grant from the government to the locator of a right to the exclusive possession and enjoyment of all the surface ground included within the lines of his location, and that a patent is the perfection and consummation of the title conveyed by the location. In Talbott et al. v. King et al., 9 Pac. 434 (a decision by the Montana court on January 7, 1886), the court said:\n\u201cTbe only reason wby a patent may be issued for a quartz lode mining claim is that tbe ground bas been previously located according to law. Sucb location gives tbe person making tbe same the right to tbe exclusive possession and enjoyment of all the surface ground included within tbe lines of bis location. This is a provision of tbe statute, and the rights thereby conferred cannot be encroached upon while the statute remains in force.\u201d\nIn the same case the court says further:\n\u201cA valid location is equivalent to a contract of purchase. The right to occupy and possess means the right to acquire a full title. The mineral lands are declared open to occupation and purchase. The location, together with the necessary work, is the purchase, and the patent is the evidence of the title so acquired. The location, therefore, has the effect of a grant from the government to the locator, and this grant cannot he defeated or abridged by an unauthorized exception contained in the patent, for the patent must always be in accordance with the consummation of the grant evidenced by valid location.\u201d\nThat the action of ejectment will lie between rival claimants of mineral lands is no longer a question. And such action may be brought to determine the right of possession of the rival claimants, even before any attempt is made by either party to procure a patent for the mining claim. Such an action may be maintained even by an alien against a citizen of the United States, or one who has declared his intention to become such. McKinley Creek Mining Co. et al. v. The Alaska United Mining Co. et al. (decided in January of this year) 183 U. S. 563, 22 Sup. Ct. 84, 46 L. Ed. 331. While it is true that the action of ejectment may be maintained between rival claimants, does it necessarily follow that the locator of a mining claim can maintain such action, or other possessory action, under the Code, against persons who simply intrude upon the ground covered by his location?\nThe Revised Statutes of the United States, \u00a7 2322 [U. S. Comp. St. 1901, p. 1425], provide as follows:\n\u201cTbe locators of all mining locations heretofore made or which shall hereafter be made, on any mineral vein, lode, or ledge, situated on the public domain, their heirs and assigns, where no adverse claim exists on the tenth day of May, eighteen hundred and seventy-two, so long as they comply with the laws of the United States, and with state, territorial, and local regulations not in conflict with the laws of the United States governing their possessory title, shall have the exclusive right of possession and enjoyment of all the surface included within the'lines of their locations.\u201d\nSurely, if his interest in the mining ground is in the nature of a grant, and is such a legal title as will support a suit in ejectment, and he is entitled under the law to the exclusive right of possession and enjoyment of all the surface within the exterior boundaries of his claim, the locator must be legally authorized to maintain that possession by proper action. The maxim of the common law that there is no wrong without a remedy is sufficient authority for the conclusion that, where the right given by statute is the exclusive possession and enjoyment of the surface ground of the miner\u2019s claim, an entry thereon by any other person, whereby such right of possession is infringed by the intruder, is such a wrong as will invoke an adequate legal remedy.\nSection 301 of the Code of Civil Procedure for Alaska (Act Cong. June 6, 1900, c. 786, 31 Stat. 383), among other forms of action for the recovery of the possession of real property, makes the following provision:\n\u201cAny person who has a legal estate In real property, and a present right to the possession thereof, may recover such possession, with damages for withholding the same, by an action. Such action shall be commenced against the person in the actual possession of the property at the time, or, if the property be not in the actual possession of any one, then against the person acting as the owner thereof.\u201d\nSection 303 of the same Code provides what shall be alleged in the plaintiff\u2019s complaint, and reads as follows:\n\u201cThe plaintiff in his complaint shall set forth the nature of his estate in the property, whether it be in fee, for life, or for a term of years, and for whose life, or the duration of such term, and that he is entitled to the possession thereof, and that the defendant wrongfully withholds the same from him to his damage in such sum as may be therein claimed.\u201d\nSection 304 of the same Code designates what may be given in evidence by the defendant, as follows:\n\u201cThe defendant shall not be allowed to give in evidence any estate in himself, or another in the property, or any license or right to the possession thereof, unless the same be pleaded in his answer. If so pleaded, the nature and duration of such estate, or license, or right to the possession, shall be set forth with the certainty and particularity required in a complaint.\u201d\nIn addition to the right of action provided by the foregoing sections, Congress also provided for the action of forcible entry and detainer, which is the usual form of action provided by codes in such cases. These-sections of the act of Congress of June 6, 1900, and the rights of action therein described, have been in force in Alaska since May 17, 1884, when the first act of Congress establishing a Civil Code for Alaska was passed (23 Stat. 24, c. 53). In addition to these particular forms of action, there was, under the Oregon Code, an action for the recovery of real property, or for quieting the title thereto, that was of an equitable nature.\nIt would certainly seem that the locator of a mining claim, who was entitled under the laws\" of the United States to the exclusive right of possession and enjoyment of all the land within the limits of his claim, could have, at any time since the passage of the act of May 17, 1884, brought and maintained either the real action of the Code as provided for, or the action of forcible entry and detainer, where parties were simply intruding upon his property, and by force settling thereon and holding portions thereof adversely to'him, or who peaceably entered, but insisted upon holding possession from him by force. These forms of action were open to the plaintiff in this case, and he could have pursued any of them or either of them that he chose at any time since the location of the Bonanza lode claim and the passage of the act of May 17, 1884. It would seem to follow that,' if the plaintiff could have brought these actions, or either of them, at any time since the location of his claim and the passage of the act of May 17, 1884, the defendants herein may properly plead the statute of limitations, and that the statute has run since the location of said claim on January 29, 1884, and the passage of the act of May, 1884.\nBut it is contended on the part of the plaintiff that the title of the defendants, which is mere posession, is not sufficient to entitle them to plead the statute of limitations; that there must have been at least an open, notorious, adverse, and uninterrupted possession under color and claim of title, before they can invoke the aid of the statute of limitations. Whether this is true depends entirely on the statutes themselves.\nSection 4 of the Alaska Code of Civil Procedure (Act June 6, 1900, c. 786, 31 Stat. 334) provides as follows:\n\u201cWithin ten years, actions for the recovery of real property, or for the recovery of the possession thereof; and no action shall he maintained for such recovery unless it shall appear that the plaintiff, his-ancestor, predecessor, or grantor was seised or possessed of the premises in question within ten years before the commencement of the action: provided, in all cases where a cause of action has already accrued, and the period prescribed in this section within which an action may be brought has expired, or will expire within one year from the approval of this act, an action may be brought on such cause of action within one year from the date of the approval of this act.\u201d\nIt may be well, perhaps, first to consider what character of title a plaintiff must have to bring an action at any time within 10 years under this statute.\nThe language of the statute, \u201cseised or possessed,\u201d perhaps needs some interpretation. Seisin is feudal possession; in other words, it is the relation in which a person stands to land or other hereditaments when he has in them an estate of freehold or possession. Such a person is said to be seised in the land. Seisin is opposed to possession, which, in its technical sense, is only applied to leaseholds- and other personal property, and to occupation, which signifies actual possession. \u201cPossession\u201d is sometimes used in the old books in the technical sense of seisin or feudal possession of land. It is to be known that there is a jus proprietatis, a right of ownership; jus possessionis, a right of seisin or possession; and jus pro-prietatis et jus possessionis, a right both of property and possession. Possession is also sometimes opposed to seisin. \u201cThe difference between possession and seisin is, lessee for years is possessed, and yet the lessor is still seised; and therefore the terms of law are that of chattels a man is possessed, whereas in feoffments, gifts in tail, and leases for life, he is described as seised.\u201d Rapalje\u2019s Taw Diet.\nOwing to the peculiar conditions existing in Alaska, the possessory title to land has been given a stronger meaning than is ascribed to it in other sections of our country. In the case of Carroll v. Price (D. C.) 81 Fed. 137, it was early decided in this jurisdiction that possessory rights in and to government lands may be conveyed from one person to another, and that instruments in writing making such conveyances are admissible in evidence, and may be considered as tending to establish possession. It was also said by the court in that case:\n\u201cAVhile the paramount title to all lands in Alaska is in the United States, Congress and the general government have recognized for a great many years the right of the American citizen to go onto public lands, occupy, possess, use, and improve the same, with, the view of ultimately obtaining title thereto from the general government whenever the same shall be opened to purchase; and in this district this right is specially recognized by Congress in the first proviso of section 8 of the act of May 17, 1884, providing a civil government for Alaska.\u201d\nThe case then before the court was in the form of an action in ejectment, and the sole title of the plaintiff rested upon the fact of his having taken possession of certain public lands of the United States and held the undisturbed possession thereof for a period of years. The contention was that the action of ejectment would not lie, inasmuch as the plaintiff in such an action must have a legal title or interest in the land to entitle him to recover. An instruction was requested and given in the case as follows:\n\u201cThis is an action in what is known as ejectment. The plaintiff, to recover in this action, must do so upon the strength of his own title, and not upon the weakness of the defendant\u2019s title.\u201d\nIn the case of Malony v. Adsit, 175 U. S. 281, 20 Sup. Ct. 115, 44 L. Ed. 163 (on appeal to the Supreme Court of the United States), Mr. Justice Shiras, speaking for the court, in discussing the question involved in the last case referred to, says:\n\u201cIn the condition of things in Alaska under the act of 1884, providing for a civil government for Alaska, and under the twelfth section of the act of March 3, 1891, 26 Stat. 1100 [U. S. Comp. St. 1901, p. 1467], the only titles that could he held were those arising hy reason of possession which might ultimately ripen into a fee-simple title under letters patent issued to such prior claimant, when Congress might so provide hy extending the general land laws or otherwise.\u201d\nAgain, it is said in Bennett v. Harkrader, 158 U. S. 441, 15 Sup. Ct. 863, 39 L. Ed. 1046:\n\u201cWhere the complaint alleges that the plaintiff is entitled to the possession of certain described property, which is unlawfully detained hy the defendant, and the possession of which the plaintiff prays to recover, a general verdict for the plaintiff is a finding that he is entitled to the possession of all the property described in the complaint. Again, in this action, brought under a special statute of the United States in support of an adverse claim, hut one estate is involved in the controversy. No title in fee is or can he established. That remains in the United States, and the only question presented is priority of right to purchase the fee.\u201d\nIn passing upon this question, Justice Shiras says:\n\u201cThis principle applies more strongly to the present case, in which the real nature of the plaintiff\u2019s estate in the property is only alleged as ownership by right of prior occupancy and prior possession, and was so found to he by the trial court.\u201d\nThe same view of the nature of the title to a lot in a town site in Alaska is expressed by the District Court of the United States for the District of Alaska in 81 Fed. 137, in the case of Carroll v. Price. As the only kind of estate that could be held was that of possession, it is sufficient for the plaintiff to allege that his was of that nature.\nIt would seem, then, that in Alaska, at least, possession of the public lands, though the land laws were not in force in the district, was sufficient interest therein to enable the party in possession, or whose possession had been interfered with, to bring an action in ejectment under the Code, the provisions of which have been before quoted. If possession were sufficient title to enable the party to maintain the action of ejectment where it is said one must have a legal interest or title, surely' the words \u201cseised or possessed\u201d must be construed to have at least as broad a meaning when used in this statute of limitations, and a party in possession of real property, whose possession had been intruded upon by others, could, at any time within 10 years, bring his action to dispossess them. Can we say that parties who have gone into possession of land and have maintained the possession thereof for a number of years must have a higher or better title, in order to plead the statute of limitations, than a plaintiff who seeks to recover on the strength of his own title, possession having been declared sufficient for that purpose not only by our own court, but approved by the Supreme Court of the United States? If there could be any further question as to the quality of title that.would enable these defendants to plead the statute of limitations, it would seem to be put entirely at rest by section 1042 of our Code (Act June 6, 1900, c. 786, 31 Stat. 493), which provides for a shorter period of time where the quality of title is higher than mere possession. The section reads as 'follows:\n\u201cThe uninterrupted, adverse, notorious possession of real property under color and claim of title for seven years or more shall be conclusively presumed to give title thereto, except as against the United States.\u201d\nUnder this statute possession alone would not be sufficient to enable a party to maintain an action, but, in order to do so, he must not only be in possession, or have a right of possession, but the same must be accompanied by claim and color of title. As the Congress of the United States has included these two sections in the same act of June 6, 1900, we cannot but conclude that it has understandingly fixed a longer period within which an action ma}' be brought, where the title is based upon possession only, than where such possession is accomplished by color or claim of title.\nConsidering, then, that the plaintiff\u2019s right in this case had its origin in the location of the Bonanza King lode claim on January 29, 1884, which thereafter ripened into a title by patent from the United States, it seems to me that, considering all the circumstances and conditions as they have existed in Alaska, a right of action has existed in the plaintiff in this case since the passage of the act of Congress establishing a civil government for Alaska on May 17, 1884; and, if a right of action has existed in favor of the plaintiff during that period, then these defendants would seem to have a right to plead the statute of limitations running over the same period of time, unless the interests of the United States in the public mineral lands are such as to preclude this right.\nOne other question, perhaps, arises under this statute, and is urged by counsel for the plaintiff, and that is that he has 11 years in which to bring his action, even if the statute of limitations applies before the issue of patent. The proviso to the 10-years statute I have before quoted at length. Of course, this claim is made under the proviso to section 4 as quoted. It is a little difficult to determine what meaning, if any, this proviso has; and, in order to ascertain it, it becomes necessary to inquire into the history of the legislation in Oregon that has been followed by the Congress of the United States in legislating for Alaska. The statute of Oregon at one time provided a limitation for bringing actions for the recovery of real estate at 20 years. In 1876 a statute was passed by the same Legislature, of which the present statute of limitations for Alaska is an exact copy, and contains the same proviso found in section 4 of our Civil Code. The object and purpose of the Oregon Legislature is clear so far as the proviso was concerned at the time of its adoption. Some rights might be cut off by the new statute of 10 years, and therefore the-provision that \u201cin all cases where a cause of action has already accrued and the period prescribed in this section within which an action may be brought has expired, or will expire within one year from the approval of this act, an action may be brought on such cause of action within one year of the date of the approval of this act.\u201d But this identical statute has been in force and effect in Alaska since the 17th day of May, 1884, and is the only limitation ever fixed by law within this jurisdiction for the recovery of real property. It would seem, therefore, that the proviso attached to section 4 of the act of June 6, 1900, was a mere reiteration and adoption of the old Oregon statute, and it can have no possible meaning or effect as applied to conditions in Alaska at the time of the passage of the act of June 6, 1900. Therefore the 10 years fixed by the statute can only be invoked by the plaintiff as the term within which his action may be brought, in order to divest the defendants of their possession or right of possession.\nWe are now brought back to this proposition: Can the statute of limitation avail the defendants in this action so as to reach back of the date on which patent was issued to the plaintiff or'the plaintiff\u2019s grantors ? If it cannot reach back to the date of the location of the claim, it surely cannot reach back to the date of payment and issue of the final certificate.\nThe title to a mining claim, no matter what its quality or force, is wholly legal. It is acquired by the miner under a statute of the United States and by his own acts in locating and appropriating a portion of the mineral lands of the United States. Every act is in accordance with the statute giving the right, and, as before stated, whatever the right and whatever the quality of his right, though payment for the land creates an equity in his favor. But, whatever these equities may be, they grow out of the original location of the mining claim. Section 2322 of the Revised Statutes of the United States provides, among other things,\n\u201cTlie locators of all mining claims heretofore, or which shall hereafter be made on any mineral vein, lode, or ledge, situated on the public domain, their heirs and assigns, * * * shall have the exclusive right of possession and enjoyment of all the surface included within the lines of their locations, and of all veins, lodes, and ledges throughout tlieir entire depth,\u201d etc.\nIn Belk v. Meagher, in speaking of the nature of the title, the Supreme Court of the United States said:\n\u201cWhen perfected, it has the effect of a grant by the United States of the right of present and exclusive possession.\u201d\nIn the case of Erhardt v. Boaro, 113 U. S. 527, 5 Sup. Ct. 560, 28 L. Ed. 1113, it is stated:\n\u201cThe government of the United States, * * * as a reward to the successful explorer, grants him the right to extract and possess the minerals within certain prescribed limits.\u201d\nNotwithstanding the courts have frequently said, speaking \u25a0of a mining claim, \u201cit is property in the miner of great value,\u201d these claims \u201care subject to bargain and sale, and constitute very largely the wealth of the Pacific states\u201d; and again, that \"a claim may be sold, transferred, mortgaged, and inherited\u201d \u2014one can get no very clear idea as to the nature of the estate in a mining location. We may conclude, therefore, that a mining claim is a possessory title, and probably something more; that it is legal in its character; that it is property in the highest sense; that it may be sold and inherited; that the miner may enjoy his possession; that he may claim all lodes whose apices lie within the surface lines of his location; that he may mine and extract, and appropriate to his own use, all minerals therein to whatever depth.; and that his estate, whatever it may be, comes as a grant from the United States, the owner of the soil, under the acts of Congress. The right to dig and appropriate the ores in a mining claim is an exclusive right which passes to one\u2019s heirs and assigns. It has been said that when a man receives a grant of all the beneficial interest in an estate he receives the estate. However this may be as applied to mining claims, it is difficult to perceive the difference between a grant which carries with it all that is of value, or all the \u201cbeneficial interests\u201d in an estate, from that estate which the miner obtains in his claim when he makes a valid location.\nAs we have found, actions for the recovery of the possession of real estate apply to this estate; also actions to quiet title, and for trespass upon the same. It has always been treated as real property in the distribution of estates of deceased persons throughout the mining states of the West. Is it possible that a man, by himself or through his grantors, may hold a legal estate of this character in a mining claim for a term of perhaps 50 years without ever applying for a patent, and that people, who may have dealt with him as to portions of the surface ground and the right to occupy the same for building purposes and whose deeds have been lost, no records having been made (and it is well understood that records in mining districts are sometimes almost impossible), and who are, therefore, unable to show even color of title, or any title save and except their possession, may bring their action to dispossess the person so in the open and notorious possession of the property for perhaps the most of 50 years, and that the court may say to the person so in possession, when he invokes the statute of limitations, \u201cYou cannot do so, because the ultimate title to the mining property is vested in the United States\u201d?\nI am not unmindful of the frequent declarations of the courts that, when a man makes application for patent, and patent is issued to him in the regular course as provided by the laws of Congress, all questions as to discovery, location, and the regularity of the proceedings leading up to patent are presumed to be settled by the fact of the patent alone, and that no question can thereafter be raised as to any of these matters; and, further, that, if there were any adverse rights existing at the time the application for patent was made, the parties in whose favor such rights exist had their opportunity to have them adjudicated in the proceedings for patent; and, inasmuch as they failed to do that, all such rights were waived. While these declarations are undoubtedly accurate in many respects, are they in all? A man who had been permitted by the locator, prior to patent, to occupy some portion of the surface land, even for a consideration, could not appear before the register and receiver and file an adverse to the claim made by the party proceeding to obtain patent. The right to adverse is saved to those having an adverse title or claim to the mineral lands or the mining claim as a mining claim, and not to mere occupiers of the surface soil, or some small portion of it. If the court is right upon this proposition, then the person occupying such surface ground could have no opportunity of meeting the claims of the owners of the mine, either at the time of the proceedings for patent, or any time prior thereto or thereafter, until the owner of the mining claim sought to dispossess him by proper proceedings.\nIf the case at bar were not clearly distinguishable from Redfield v. Parks and Gibson v. Chouteau and other cases of that character decided by the Supreme Court of the United States, I should follow those decisions with the utmost pleasure and willingness. But the locator of a pre-emption upon the agricultural lands of the United States acquires no legal interest or title therein until patent issues. It is true that when payment is made for the land he has an equitable interest therein, and it is said that the United States holds the naked legal title solely for the benefit of the pre-emptor. The same is true with homesteads. The patent furnishes the first evidence of a legal title. The legal title of the miner is created when his location is perfected. In the discussion of Redfield v. Parks, it is said:\n\u201cIn the federal courts, where the distinction between legal and equitable proceedings is strictly maintained, and remedies afforded by law and equity are separately pursued, the action of ejectment can only be sustained upon the possession by the plaintiff of the legal title. For the enforcement of equitable rights, however clear, distinct equitable proceedings must be instituted.\u201d\nIt would seem from this language that the ruling of the court in that case was based upon' the form of the action, which was one at law, rather than upon the question of right absolutely involved in the case. But for the .following language, this conclusion would seem to be inevitable:\n\u201cBut neither in a separate suit in a federal court, nor in an answer to an action of ejectment in a state court, can the mere occupation of the demanded premises by plaintiffs or defendants, for the period prescribed by the statute of limitations of the state be held to constitute a sufficient equity in their favor to control the legal title subsequently conveyed to others by the patent of the United States, without trenching upon the power of Congress in the disposition of the public lands. That power cannot be defeated or obstructed by any occupation of the premises before the issue of patent, under state legislation, in whatever form or tribunal such oceu-pation be asserted\u201d\u2014citing Gibson v. Chouteau, 13 Wall. 101-104, 20 L. Ed. 534.\nBut must we not understand this declaration of the court to apply to the disposition of the public agricultural lands which' were then in controversy, and not to the disposition of the mineral lands of the United States? If the Congress of the United States has created by legislation an estate in a mining claim when the same is once located, which is sufficient to invoke the statute of limitations under proper conditions, ,can the language of the Supreme Court be so construed as to destroy such estate and the right to plead the statute of limitations? I am constrained to believe that none of these matters as to the rights of persons locating mineral lands in the United States were in the mind of the court at the time the decision referred to was made.\nTo put another supposititious case: A miner enters upon the public mineral lands of the United States, and by his explorations discovers a lode thereon, stakes and properly marks his mining location upon the ground, occupies the same for 20 or 30 years without moving for patent. Shortly after his location, for some consideration furnished by another, he permits that other person to occupy a portion of his surface ground, put' valuable buildings and improvements thereon, and thereafter convey to others, but has no conveyance himself. After a lapse of. 10 years, the original locator conveys his mining claim to others, without reservation, and the new owner proceeds against such surface occupant to dispossess him. Surface occupant pleads the statute of limitations, and retains his possession. Thereafter the miner abandons his claim, and it is taken by a second and different locator, who, later, makes application for patent, and proceeds to obtain it in the regular way. Can it be said, from any view taken of the law, that the person who occupied a portion of the surface ground for residence purposes for a term of years could, in any manner, resist the application lor patent, or, to prevent patent issuing from the United States, could exhibit his former judgment against the miner, who at another time held a legal estate in practically the same premises? It seems to me almost self-evident that no such proceedings could be entertained either in the United States land office or in a court of justice.\nLet us consider briefly the effect of the plea of the statute of limitations, and a judgment thereon in favor of the party pleading it in cases of mining claims before patent. Admit,, if you please, that the successful party pleading- the statute obtains, by his judgment, title to the ground or premises in dispute: who is affected by it? Judgments bind the parties and their privies. The United States is not a party. \u2022 Is it in privity, as a holder of the ultimate legal title, with the owner of the mining claim? It can hardly be said that under the act of Congress (whereby a citizen is permitted to go upon the public mineral lands, take possession of a portion thereof as a mining claim, and extract therefrom all that has value,, thereby being permitted to acquire a certain legal interest or estate in such claim) the locator is in such privity with the United States that a judgment against him on the plea of the statute of limitations would either preclude Congress from exercising, or in any manner affect, its power in the disposition of the public mineral lands. It seems to me unnecessary, in this connection, to .discuss the relation of privies bound by judgments. Even if it - were possible that the United States could be held to sustain such relation of privity, the government could not be so bound. It has been decided by the Supreme Court of the United States that a suit or action can be brought against the United States only by authority of an act of Congress, and that no one can appear in a suit on behalf of the United States concerning title to land not thereto expressly authorized by act of Congress, so as to-bind the United States when it is not a party. See Carr v. U. S., 98 U. S. 433, 25 L. Ed. 209, and authorities there cited.\nIf no one can appear so as to bind the government in a proceeding against persons representing it not thereto authorized by Congress, how can it be said that the mine owner, in a proceeding- against him, can be in such privity that the United States will be bound by a judgment against the mine owner?\nAgain, the highest title that could vest in the party pleading limitations by a judgment against the mine owner would be such title and estate as was vested in him. The judgment could carry no higher title by estoppel than the mine owner possessed, and no higher title than he could himself convey by deed. Should he abandon or forfeit his mining claim, his estate, claim, title, or interest, whatever it may be called, would terminate, and any title he had made to others depending upon continuing his own title would fall with his title.\nCan it be said, then, that in pleading the statute of limitations as it is attempted to be pleaded in this case, would be \u201ctrenching upon the powers of Congress in- the disposition of the public lands\u201d? And if it should be so said, and it should be held to be true, should we not answer that Congress has created the estate and condition whereby trenching upon the powers of Congress in the disposition of public land is made possible ?\nThere was a time when the plea of the statute of limitations was regarded by the courts with disfavor. It is believed, however, that, at the present time that sentiment has passed away, and the statute is now looked upon with more favor as a statute of repose. I am of the opinion, that the statute of limitations, when properly presented, and in a proper case, is one of great value and benefit. I believe that the owner of a mining claim holds a legal estate therein.; that it is property in the highest sense; that it is a present grant of a legal interest and estate in the land by the government of the United States to the locator; that it permits the owner of such estate to take therefrom and apply to his own use all the ore therein throughout its entire depth; that it gives the locator the exclusive right of possession; that by location and occupation of a mining claim as provided by the acts of Congress the miner receives a grant of all the beneficial interest in such claim or estate, as well as possession; that all such actions as may be brought for the possession of real estate or trespass thereon, may be brought against the holder of such mining claim at any time from and after its location; that a person who retains the possession of any portion of the surface ground of such mining claim, and occupies the same continuously for a period of xo years or more after the location of such mining claim, and before patent issued therefor, may successfully plead the statute of limitations in resisting the mining claimant\u2019s action in ejectment or for possession, and may plead limitation in an action even after patent issued, though the xo years required to be pleaded by the statute of limitations have not expired since patent issued, but had in part run before patent and after location. In other words, I hold that in pleading the statute of limitations it may reach back to the date of location, or as soon thereafter as the defendant acquires an interest, and begins to run from that date.\nIt is believed that the pleadings and agreed facts in this case are sufficient to sustain the conclusion arrived at on the ground of estoppel, and I think it needs no discussion to show that the principle of estoppel may be invoked in support of the decision here made.\nI reach this conclusion with a great deal of deference, after such hurried examination as I have been able to make of the question while being pressed by the continuous duties of a trial court. I know that the mining company against which this decision goes is amply able to take an appeal, and present this question to a higher court. This fact makes me less guarded, and I reach the conclusion, as above stated, with less hesitation because of such right of appeal, and because I know the question will be examined by men of greater learning and broader experience than mine, and no doubt with a clearer insight than I possess. Should the appellate-court take a different view of the law upon this question, no-one will hail its decision with greater delight than myself, and no one be more ready to enforce the conclusion it reaches.\n\u25a0 Judgment for the defendants under the pleadings and the-stipulation on file.",
+        "type": "majority",
+        "author": "BROWN, District Judge."
+      }
+    ],
+    "attorneys": [
+      "R. F. Eewis and John G. Heid, for plaintiff.",
+      "Crews & Hellenthal, for defendants."
+    ],
+    "corrections": "",
+    "head_matter": "THE TYEE CONSOL. MIN. CO. v. LANGSTEDT et al.\n(First Division. Juneau.\nFebruary 17, 1902.)\nNos. 29a-39a.\n1. Limitation of Actions \u2014 Mines and Minerals.\nThe 10-year statute of limitations begins to run in favor of one in adverse possession of a part of a mining claim from the time of the location, and not from the date of the patent. The proviso at the end of section 4 of the Code of Civil Procedure (Act June 0, 1900, c. 786, 31 Stat. 334) held to have no meaning or effect in Alaska.\n2. Mines and Minerals \u2014 Ejectment\u2014Quieting Title.\nA mining locator acquires a present vested estate in his claim, good against the world, which he may defend by ejectment or a suit in equity to quiet title.\nSuit in Ejectment for Portion of a Mining Claim.\nR. F. Eewis and John G. Heid, for plaintiff.\nCrews & Hellenthal, for defendants."
+  },
+  "file_name": "0439-01",
+  "first_page_order": 463,
+  "last_page_order": 492
+}

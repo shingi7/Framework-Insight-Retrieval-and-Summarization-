@@ -1,0 +1,62 @@
+{
+  "id": 8505916,
+  "name": "THE INDEPENDENCE",
+  "name_abbreviation": "The Independence",
+  "decision_date": "1902-05-17",
+  "docket_number": "No. 58a",
+  "first_page": "591",
+  "last_page": "593",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 Alaska 591"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Alaska Dist. Ct.",
+    "id": 23837,
+    "name": "Alaska District Court"
+  },
+  "jurisdiction": {
+    "id": 53,
+    "name_long": "Alaska",
+    "name": "Alaska"
+  },
+  "cites_to": [],
+  "analysis": {
+    "cardinality": 264,
+    "char_count": 3518,
+    "ocr_confidence": 0.676,
+    "sha256": "b9c43d21fb25f2a772b10fe0dbf3e605908d1e2031cb9e00abfc26f40d5e2b45",
+    "simhash": "1:785801398881a609",
+    "word_count": 633
+  },
+  "last_updated": "2023-07-14T18:29:24.862971+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "THE INDEPENDENCE."
+    ],
+    "opinions": [
+      {
+        "text": "WICKERSHAM, District Judge.\nThe libelant sues to recover the sum of $1,175, alleged to be due him for services as engineer on the small stern-wheel steamer Independence, for 85 days\u2019 work as engineer from April 28, 1901, to July 18, 1901, at $15 per diem. He admits the payment of $100 on account.\nUpon stipulation the testimony taken before the justice of the peace upon the inquiry as to probable cause was taken as testimony upon the merits. Upon that and the testimony offered in court the cause is now determined. The evidence discloses that the libelant left Nome on April 28, 1901, with the charterer, one A. Ii. Rogan, and one Ealkenburg, who went as captain, to go to the winter quarters of the boat on the Neukluk river, near Council City. The boat remained fast in the ice until about July 1, when she was loosened, and run down to Chinik, occupying some five or six hours in the trip; thence to Teller, about fourteen hours; and one round trip from Teller to Mary\u2019s Igloo, about two days. This comprised all the services rendered by the libelant in running the boat, and less than five days\u2019 time.\nLogan, the charterer, testified that the contract with libel-ant was made by him, and that libelant agreed to work for a percentage of the receipts of the business, except that he was to be paid $100 for bringing the boat from the Neukluk river to Nome. In support of Logan\u2019s version of the contract the evidence shows that no articles or contract in writing was made or signed by libelant; that no pay roll was ever made or kept with his name on it, though it did contain the name of his immediate successor; and that on July 18, 1901, when Dumar quit, the purser made and Dumar signed the following receipt:\n\u201cReceived of A. H. Logan $100.00, payment in full for bringing str. Independence from Neukluk Riv. to Nome City.\n\u201cH. T. Dumar,\n\u201cDated July 18, 1001.\u201d\nDumar\u2019s claim is not sustained by any preponderance of proof. It is shown that for 60 days or more, for which he seeks to fasten a lien upon this boat at $15 per day, the boat was fixed in her winter quarters, frozen in the ice. .The proof is insufficient to convince the court that he performed any meritorious or other services during that time. For the time actually employed in running the boat he was fully paid, even more than his alleged contract price. His claim of $1,-175, in view of the facts, seems unconscionable; nor is it established to the satisfaction of the court. Dumar testifies in its support. Logan testifies with equal earnestness against it, and is supported by equity, the receipt, and other facts and circumstances. The preponderance of proof is against the libelant, and so, it seems to the court, is the good faith of the transaction. His claim ought to be supported by a fair consideration before he is given so great a judgment for so small an amount of actual services.\nI find that the libelant entered into an agreement with Logan to run the boat for a share of the receipts, and for the s\u00fcm of $100 for bringing her to Nome. He has been paid for his services as agreed, and his claim for further services will be denied. A decree may be prepared accordingly.",
+        "type": "majority",
+        "author": "WICKERSHAM, District Judge."
+      }
+    ],
+    "attorneys": [
+      "A. J. Bruner and C. H. McBride, for libelant.",
+      "C. S. Johnson and A. J. Daly, for claimant."
+    ],
+    "corrections": "",
+    "head_matter": "THE INDEPENDENCE.\n(Second Division. Nome.\nMay 17, 1902.)\nNo. 58a.\n1. Admiralty \u2014 Evidence\u2014Seamen.\nA seaman\u2019s claim for a contract salary must be supported by a fair preponderance of proof, where it is attempted to secure an unconscionable sum for a minimum service.\nA. J. Bruner and C. H. McBride, for libelant.\nC. S. Johnson and A. J. Daly, for claimant."
+  },
+  "file_name": "0591-01",
+  "first_page_order": 615,
+  "last_page_order": 617
+}
